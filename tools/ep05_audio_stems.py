@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-"""Generate EP05 project-owned music/SFX stems from the finished VO timing.
+"""Generate EP05 project-owned music/SFX stems from finished VO timing.
 
-No third-party music is used. The script reads the voice stem report produced by
-`tools/ep05_voice.py`, derives act boundaries from the eight voice stems, and
-writes deterministic 48 kHz WAV stems for the production mix.
+The generator is deterministic and streams audio in one-second chunks, so it
+stays memory-safe even if the final narration is longer than expected.
 
-Usage from repository root:
+Run from repository root after `python tools/ep05_voice.py all`:
     python tools/ep05_audio_stems.py
+
+The outputs are working stems. Final loudness, ducking and mix targets are
+specified in PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/AUDIO_STEMS_PLAN.md.
 """
 
 from __future__ import annotations
@@ -23,231 +25,193 @@ PROD = ROOT / "PRODUCTION_SUMMARY" / "EP05_JUNG_PAULI_V4"
 REPORT = PROD / "voice" / "master" / "stem_report.json"
 OUT = PROD / "audio" / "stems"
 SR = 48000
+CHUNK = SR
 SEED = 5051952
+PRE, GAP, TAIL, ENDCARD = 0.35, 0.65, 2.2, 20.0
+ACT_GAIN = [0.85, 0.58, 0.70, 0.88, 0.74, 0.92, 1.00, 0.66]
 
-ACT_GAIN = np.array([0.85, 0.58, 0.70, 0.88, 0.74, 0.92, 1.00, 0.66], dtype=float)
-GAP = 0.65
-PRE = 0.35
-TAIL = 2.2
-
-
-def write_wav(path: Path, x: np.ndarray, stereo: bool = True):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    x = np.asarray(x, dtype=np.float64)
-    if x.ndim == 1 and stereo:
-        x = np.column_stack([x, x])
-    peak = float(np.max(np.abs(x))) if x.size else 1.0
-    if peak > 0.98:
-        x = x * (0.98 / peak)
-    pcm = np.int16(np.clip(x, -1, 1) * 32767)
-    with wave.open(str(path), "wb") as wf:
-        wf.setnchannels(2 if x.ndim == 2 else 1)
-        wf.setsampwidth(2)
-        wf.setframerate(SR)
-        wf.writeframes(pcm.tobytes())
-
-
-def fade(x: np.ndarray, sec: float = 0.08):
-    n = min(len(x)//2, int(sec*SR))
-    if n <= 0:
-        return x
-    ramp = np.linspace(0, 1, n)
-    x[:n] *= ramp
-    x[-n:] *= ramp[::-1]
-    return x
+FILES = [
+    "EP05_MX_LOW.wav",
+    "EP05_MX_HARMONIC.wav",
+    "EP05_MX_NOISE.wav",
+    "EP05_MX_MASTER.wav",
+    "EP05_SFX_WORLD_CLOCK.wav",
+    "EP05_SFX_PAPER_LETTERS.wav",
+    "EP05_SFX_BEETLE_WINDOW.wav",
+    "EP05_SFX_PHONE_NOTIFICATION.wav",
+    "EP05_SFX_ROOMTONES.wav",
+    "EP05_SFX_SLEEP_HANDOFF.wav",
+]
 
 
 def load_timing():
     if not REPORT.is_file():
         raise SystemExit(
-            f"Missing {REPORT}\nRun voice first: generate raw ElevenLabs stems, then `python tools/ep05_voice.py all`."
+            f"Missing {REPORT}\nGenerate raw voice, then run `python tools/ep05_voice.py all`."
         )
     data = json.loads(REPORT.read_text(encoding="utf-8"))
-    ds = [float(s["duration"]) for s in data["stems"]]
-    if len(ds) != 8:
-        raise SystemExit("EP05 expects exactly 8 voice stems.")
+    durations = [float(s["duration"]) for s in data["stems"]]
+    if len(durations) != 8:
+        raise SystemExit("EP05 expects exactly eight voice stems.")
     starts, ends = [], []
     cur = PRE
-    for i, d in enumerate(ds):
+    for i, dur in enumerate(durations):
         starts.append(cur)
-        cur += d
+        cur += dur
         ends.append(cur)
         if i < 7:
             cur += GAP
-    total = cur + TAIL + 20.0  # include endcard bed
-    return ds, np.array(starts), np.array(ends), total
+    total = cur + TAIL + ENDCARD
+    return np.array(starts), np.array(ends), total
 
 
-def act_envelope(n: int, starts: np.ndarray, ends: np.ndarray):
-    env = np.full(n, 0.25, dtype=np.float64)
-    for i, (a, b) in enumerate(zip(starts, ends)):
-        ia, ib = int(a*SR), min(n, int(b*SR))
-        env[ia:ib] = ACT_GAIN[i]
-    # Smooth envelope on ~0.8 s scale without scipy.
-    win = max(3, int(0.8*SR))
-    kernel = np.ones(win, dtype=np.float64) / win
-    return np.convolve(env, kernel, mode="same")
+def open_wav(path: Path):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    wf = wave.open(str(path), "wb")
+    wf.setnchannels(2)
+    wf.setsampwidth(2)
+    wf.setframerate(SR)
+    return wf
 
 
-def pinkish_noise(rng, n: int):
-    white = rng.normal(0, 1, n)
-    # Lightweight multi-timescale smoothing gives a pink-ish texture.
-    out = np.zeros(n)
-    for width, gain in [(7, .35), (31, .25), (127, .20), (511, .12)]:
-        kernel = np.ones(width)/width
-        out += gain*np.convolve(white, kernel, mode="same")
-    out += .08*white
-    return out / max(1e-9, np.max(np.abs(out)))
+def write_stereo(wf, mono):
+    mono = np.asarray(mono, dtype=np.float64)
+    pcm = np.int16(np.clip(mono, -0.98, 0.98) * 32767)
+    stereo = np.column_stack((pcm, pcm))
+    wf.writeframes(stereo.tobytes())
 
 
-def music_low(t, env):
-    # Dark ordered foundation: two slow sines below phone-hostile sub-bass range.
-    phase = 2*np.pi*(92.0*t + 0.10*np.sin(2*np.pi*0.055*t))
-    x = np.sin(phase) + 0.42*np.sin(2*np.pi*138.0*t + 0.6)
-    pulse = 0.70 + 0.30*(0.5+0.5*np.sin(2*np.pi*0.19*t))
-    return 0.038*x*pulse*env
+def smooth_act_gain(t, starts, ends):
+    """Return an act envelope with gentle 0.65 s transitions."""
+    out = np.full_like(t, 0.22, dtype=np.float64)
+    ramp = 0.65
+    for idx, (a, b) in enumerate(zip(starts, ends)):
+        g = ACT_GAIN[idx]
+        inside = (t >= a) & (t <= b)
+        out[inside] = g
+        pre = (t >= a-ramp) & (t < a)
+        if np.any(pre):
+            p = (t[pre] - (a-ramp)) / ramp
+            out[pre] = out[pre]*(1-p) + g*p
+        post = (t > b) & (t <= b+ramp)
+        if np.any(post):
+            p = (t[post] - b) / ramp
+            out[post] = g*(1-p) + out[post]*p
+    return out
 
 
-def music_harmonic(t, env):
-    # Audible on phones: sparse partials in 700–2600 Hz, no meditation-pad wash.
-    freqs = [742.0, 1113.0, 1484.0, 1855.0]
+def event_burst(t, center, length, freq, amp, decay=20.0, second=None):
+    rel = t-center
+    mask = (rel >= 0) & (rel <= length)
     x = np.zeros_like(t)
-    for i, f in enumerate(freqs):
-        slow = 0.5 + 0.5*np.sin(2*np.pi*(0.025+0.007*i)*t + i)
-        x += (0.30/(i+1))*slow*np.sin(2*np.pi*f*t + 0.4*i)
-    return 0.020*x*env
-
-
-def music_noise(rng, n, env):
-    return 0.010*pinkish_noise(rng, n)*env
-
-
-def sfx_world_clock(total, starts, ends):
-    n = int(total*SR)
-    x = np.zeros(n)
-    rng = np.random.default_rng(SEED+1)
-    regions = [(starts[0], ends[0]), (starts[7], min(total, ends[7]))]
-    for a, b in regions:
-        pos = a + 0.8
-        k = 0
-        while pos < b-0.3:
-            pos += 0.68 + 0.13*math.sin(k*1.7) + rng.uniform(-0.035, 0.035)
-            i = int(pos*SR)
-            m = min(int(.065*SR), n-i)
-            if m <= 0:
-                break
-            tt = np.arange(m)/SR
-            hit = np.exp(-tt*55)*(np.sin(2*np.pi*1250*tt)+.45*np.sin(2*np.pi*620*tt))
-            x[i:i+m] += .09*hit
-            k += 1
-    return x
-
-
-def sfx_paper(total, starts, ends):
-    n = int(total*SR)
-    x = np.zeros(n)
-    rng = np.random.default_rng(SEED+2)
-    for sec in [starts[1]+5, starts[2]+4, starts[4]+7, starts[4]+21]:
-        i = int(sec*SR)
-        m = min(int(.55*SR), n-i)
-        if m <= 0:
-            continue
-        tt = np.arange(m)/SR
-        noise = rng.normal(0, 1, m)
-        env = np.sin(np.pi*np.clip(tt/.55, 0, 1))**2
-        x[i:i+m] += .028*noise*env
-    return x
-
-
-def sfx_beetle(total, starts):
-    n = int(total*SR)
-    x = np.zeros(n)
-    sec = starts[3] + 18.0
-    i = int(sec*SR)
-    m = min(int(.18*SR), n-i)
-    if m > 0:
-        tt = np.arange(m)/SR
-        tap = np.exp(-tt*48)*(np.sin(2*np.pi*1800*tt)+.45*np.sin(2*np.pi*2900*tt))
-        x[i:i+m] += .10*tap
-    return x
-
-
-def sfx_phone(total, starts):
-    n = int(total*SR)
-    x = np.zeros(n)
-    sec = starts[5] + 12.0
-    i = int(sec*SR)
-    m = min(int(.38*SR), n-i)
-    if m > 0:
-        tt = np.arange(m)/SR
-        env = np.exp(-tt*6.5)
-        tone = np.sin(2*np.pi*880*tt)+.42*np.sin(2*np.pi*1320*tt)
-        x[i:i+m] += .045*env*tone
-    return x
-
-
-def sfx_roomtones(rng, total):
-    n = int(total*SR)
-    base = pinkish_noise(rng, n)
-    return 0.0045*base
-
-
-def sfx_sleep_handoff(total, starts, ends):
-    n = int(total*SR)
-    x = np.zeros(n)
-    rng = np.random.default_rng(SEED+4)
-    a = max(starts[7], ends[7]-28.0)
-    ia = int(a*SR)
-    m = n-ia
-    if m <= 0:
+    if not np.any(mask):
         return x
-    noise = pinkish_noise(rng, m)
-    env = np.linspace(0, 1, m)**1.8
-    x[ia:] += .006*noise*env
-    # Two tiny, ambiguous low floor/door transients near final handoff.
-    for sec in [ends[7]-7.0, ends[7]-4.3]:
-        i = int(sec*SR)
-        mm = min(int(.22*SR), n-i)
-        if mm > 0:
-            tt = np.arange(mm)/SR
-            x[i:i+mm] += .018*np.exp(-tt*18)*np.sin(2*np.pi*82*tt)
+    r = rel[mask]
+    tone = np.sin(2*np.pi*freq*r)
+    if second:
+        tone += second[1]*np.sin(2*np.pi*second[0]*r)
+    x[mask] = amp*np.exp(-r*decay)*tone
     return x
 
 
 def main():
-    _, starts, ends, total = load_timing()
-    n = int(math.ceil(total*SR))
-    t = np.arange(n)/SR
-    env = act_envelope(n, starts, ends)
+    starts, ends, total = load_timing()
+    n_total = int(math.ceil(total*SR))
     rng = np.random.default_rng(SEED)
 
-    low = music_low(t, env)
-    harmonic = music_harmonic(t, env)
-    noise = music_noise(rng, n, env)
+    world_ticks = []
+    for act in (0, 7):
+        pos = starts[act] + 0.9
+        k = 0
+        while pos < ends[act]-0.25:
+            pos += 0.68 + 0.13*math.sin(k*1.7)
+            world_ticks.append(pos)
+            k += 1
 
-    write_wav(OUT / "EP05_MX_LOW.wav", low)
-    write_wav(OUT / "EP05_MX_HARMONIC.wav", harmonic)
-    write_wav(OUT / "EP05_MX_NOISE.wav", noise)
-    write_wav(OUT / "EP05_MX_MASTER.wav", low + harmonic + noise)
+    paper_events = [starts[1]+5.0, starts[2]+4.0, starts[4]+7.0, starts[4]+21.0]
+    beetle_event = starts[3] + 18.0
+    phone_event = starts[5] + 12.0
+    sleep_start = max(starts[7], ends[7]-28.0)
+    footsteps = [max(sleep_start, ends[7]-7.0), max(sleep_start, ends[7]-4.3)]
 
-    write_wav(OUT / "EP05_SFX_WORLD_CLOCK.wav", sfx_world_clock(total, starts, ends))
-    write_wav(OUT / "EP05_SFX_PAPER_LETTERS.wav", sfx_paper(total, starts, ends))
-    write_wav(OUT / "EP05_SFX_BEETLE_WINDOW.wav", sfx_beetle(total, starts))
-    write_wav(OUT / "EP05_SFX_PHONE_NOTIFICATION.wav", sfx_phone(total, starts))
-    write_wav(OUT / "EP05_SFX_ROOMTONES.wav", sfx_roomtones(np.random.default_rng(SEED+3), total))
-    write_wav(OUT / "EP05_SFX_SLEEP_HANDOFF.wav", sfx_sleep_handoff(total, starts, ends))
+    writers = {name: open_wav(OUT/name) for name in FILES}
+
+    try:
+        for offset in range(0, n_total, CHUNK):
+            count = min(CHUNK, n_total-offset)
+            t = (offset + np.arange(count, dtype=np.float64))/SR
+            gain = smooth_act_gain(t, starts, ends)
+
+            # Project-owned music bed. Harmonic energy stays phone-audible.
+            low = 0.038*gain*(
+                np.sin(2*np.pi*92.0*t + 0.10*np.sin(2*np.pi*0.055*t))
+                + 0.42*np.sin(2*np.pi*138.0*t + 0.6)
+            )*(0.70 + 0.30*(0.5+0.5*np.sin(2*np.pi*0.19*t)))
+
+            harmonic = np.zeros(count)
+            for i, freq in enumerate((742.0, 1113.0, 1484.0, 1855.0)):
+                slow = 0.5+0.5*np.sin(2*np.pi*(0.025+0.007*i)*t+i)
+                harmonic += (0.30/(i+1))*slow*np.sin(2*np.pi*freq*t+0.4*i)
+            harmonic *= 0.020*gain
+
+            white = rng.normal(0, 1, count)
+            brown = np.cumsum(white)
+            brown -= brown.mean()
+            bpeak = np.max(np.abs(brown)) or 1.0
+            noise = 0.010*gain*(0.25*white + 0.75*brown/bpeak)
+            room = 0.0035*(0.55*white + 0.45*brown/bpeak)
+
+            world = np.zeros(count)
+            for sec in world_ticks:
+                if t[0]-0.08 <= sec <= t[-1]+0.08:
+                    world += event_burst(t, sec, .065, 1250, .075, 55, (620, .45))
+
+            paper = np.zeros(count)
+            for sec in paper_events:
+                rel = t-sec
+                mask = (rel >= 0) & (rel <= .55)
+                if np.any(mask):
+                    rr = rel[mask]
+                    env = np.sin(np.pi*rr/.55)**2
+                    paper[mask] += .018*rng.normal(0, 1, np.count_nonzero(mask))*env
+
+            beetle = event_burst(t, beetle_event, .18, 1800, .085, 48, (2900, .45))
+            phone = event_burst(t, phone_event, .38, 880, .038, 6.5, (1320, .42))
+
+            sleep = np.zeros(count)
+            mask = t >= sleep_start
+            if np.any(mask):
+                p = np.clip((t[mask]-sleep_start)/max(1.0, total-sleep_start), 0, 1)
+                sleep[mask] += .0045*room[mask]*(p**1.6)/0.0035
+            for sec in footsteps:
+                sleep += event_burst(t, sec, .22, 82, .016, 18)
+
+            write_stereo(writers["EP05_MX_LOW.wav"], low)
+            write_stereo(writers["EP05_MX_HARMONIC.wav"], harmonic)
+            write_stereo(writers["EP05_MX_NOISE.wav"], noise)
+            write_stereo(writers["EP05_MX_MASTER.wav"], low+harmonic+noise)
+            write_stereo(writers["EP05_SFX_WORLD_CLOCK.wav"], world)
+            write_stereo(writers["EP05_SFX_PAPER_LETTERS.wav"], paper)
+            write_stereo(writers["EP05_SFX_BEETLE_WINDOW.wav"], beetle)
+            write_stereo(writers["EP05_SFX_PHONE_NOTIFICATION.wav"], phone)
+            write_stereo(writers["EP05_SFX_ROOMTONES.wav"], room)
+            write_stereo(writers["EP05_SFX_SLEEP_HANDOFF.wav"], sleep)
+    finally:
+        for wf in writers.values():
+            wf.close()
 
     manifest = {
         "sample_rate": SR,
         "duration_seconds": round(total, 3),
         "source_timing": str(REPORT.relative_to(ROOT)),
-        "note": "Project-owned deterministic synthesis. Mix/duck and loudness-normalize in final audio stage.",
-        "files": sorted(p.name for p in OUT.glob("*.wav")),
+        "generator_seed": SEED,
+        "note": "Project-owned deterministic synthesis; mix/duck/loudness normalize in final audio stage.",
+        "files": FILES,
     }
-    (OUT / "audio_stem_manifest.json").write_text(
+    (OUT/"audio_stem_manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2)+"\n", encoding="utf-8"
     )
-    print(f"Generated {len(manifest['files'])} stems in {OUT}")
+    print(f"Generated {len(FILES)} stems in {OUT}")
 
 
 if __name__ == "__main__":
