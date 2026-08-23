@@ -1,42 +1,36 @@
-# EP05 V4 — NanoBanana Prompt Pack
+# EP05 V4 — NanoBanana Prompt Pack FINAL
 
-**Status:** Produktionspack passend zu `DREHBUCH.md` V4 und `ASSET_PLAN_V4.md`  
-**Prinzip:** Nur generieren, was kein besseres Original/Dokument leisten kann. Keine Massenbebilderung jedes Satzes.
+**Status:** Produktionspack — finale Shortlist  
+**Prinzip:** Nur generieren, was kein besseres Original, Dokument oder Motion-Design leisten kann. Ziel sind **7 Generationsfamilien**, nicht eine Bebilderung jedes Satzes.
 
 ## Global Rules
 
 - Format: cinematic 16:9, premium documentary frame.
 - Use exactly one existing style reference per generation:
   - `STYLE_CINEMATIC.png` for historical reconstructions.
-  - `STYLE_CONCEPTUAL.png` for dream/synchronicity imagery.
-  - `STYLE_INFOGRAPHIC.png` only for graphic frames.
+  - `STYLE_CONCEPTUAL.png` for dream/conceptual imagery.
 - Named historical people require the appropriate factual portrait reference when their face is visible.
 - No fabricated quotation text, letters, book pages, certificates or archival documents.
 - No mystical particle effects implying quantum causation.
 - No chakras, zodiac wheels, generic sacred geometry or New Age iconography unless explicitly requested.
 - Any reconstruction that could be mistaken for archival evidence must be labeled in edit as `RECONSTRUCTION` / `ILLUSTRATION`.
-- Visible text should be avoided inside generated frames unless the individual prompt explicitly asks for it; typography is preferably added in edit.
+- Visible text should be avoided inside generated frames; typography is added in edit.
 
 ---
 
-## IMG01 — Weltuhr / Hook Wide
+## IMG01 — Weltuhr MASTER
 
-**Scene:** S1  
+**Scenes:** S1 + S8  
 **Style:** `STYLE_CONCEPTUAL.png`  
-**Purpose:** first mystery image; must be instantly strange but coherent.
+**Purpose:** single visual master for hook, mechanism detail and closing return.
 
 **Prompt:**
-Create a premium cinematic 16:9 surreal documentary image of Wolfgang Pauli's dreamlike “world clock” as a symbolic inner vision, not as a real scientific machine. In a dark, spatially coherent dream environment, a black bird is associated with an impossible clock structure: two large intersecting circular systems sharing one center, one vertical and cool blue, one horizontal divided into four restrained color fields, four small human figures positioned around the horizontal structure with simple pendulum-like elements, and a subtle golden outer ring. Multiple mechanical rhythms seem to coexist without visual chaos. The mood is uncanny, precise and numinous rather than fantasy-magical. Deep blue-black and graphite shadows, warm gold accents, realistic optics, tactile surfaces, subtle film grain, strong negative space. No zodiac, no chakra symbols, no glowing quantum particles, no equations, no text, no watermark.
+Create a premium cinematic 16:9 surreal documentary image of Wolfgang Pauli's dreamlike “world clock” as a symbolic inner vision, not as a real scientific machine. In a dark, spatially coherent dream environment, a black bird is associated with an impossible clock structure: two large intersecting circular systems sharing one center, one vertical and cool blue, one horizontal divided into four restrained color fields, four small human figures positioned around the horizontal structure with simple pendulum-like elements, and a subtle golden outer ring. Multiple mechanical rhythms seem to coexist without visual chaos. The composition must contain enough clean spatial depth and detail that the editor can derive a wide hook, close mechanism crops and a quieter closing crop from the same master image. The mood is uncanny, precise and numinous rather than fantasy-magical. Deep blue-black and graphite shadows, restrained warm gold accents, realistic optics, tactile surfaces, subtle film grain, strong negative space. No zodiac, no chakra symbols, no glowing quantum particles, no equations, no text, no watermark.
 
----
-
-## IMG02 — Weltuhr / Mechanism Detail
-
-**Scene:** S1 / S8  
-**Style:** `STYLE_CONCEPTUAL.png`
-
-**Prompt:**
-Create a 16:9 close cinematic detail of the same dream “world clock” from IMG01, preserving its geometry and visual identity. Focus on intersecting circular axes, four pendulum-like rhythms and the restrained golden outer ring. Suggest several cycles moving at different rates through position and layered motion cues, but do not make the object look like a functioning historical instrument or a physics apparatus. Elegant, eerie, precise, deep graphite and blue-black, warm gold highlights, subtle film grain, no text, no occult symbols, no quantum visual clichés.
+**Edit variants — do not regenerate:**
+- S1 wide hook: full composition.
+- S1 mechanism detail: crop into axes/pendulums/golden ring.
+- S8 closing: slower crop, reduced contrast/saturation, more negative space.
 
 ---
 
@@ -51,56 +45,25 @@ Create a historically restrained 16:9 reconstruction of a young Wolfgang Pauli i
 
 ---
 
-## IMG04 — Dream Fragments
+## IMG05 — Jung / Pauli Correspondence MASTER
 
-**Scene:** S2  
-**Style:** `STYLE_CONCEPTUAL.png`
-
-**Prompt:**
-Create an elegant 16:9 conceptual montage representing recurring dream material without claiming to reproduce specific undocumented dreams: fragmented circles, fourfold arrangements, clock-like forms, an animal silhouette, old symbolic diagrams and ambiguous alchemical shapes emerging from darkness around scattered notebook pages. The composition should feel like memory being organized rather than psychedelic collage. One clear focal structure, sophisticated spatial layering, blue-black graphite palette with restrained warm paper tones. No readable fake quotations, no zodiac, no chakra imagery, no occult kitsch, no watermark.
-
----
-
-## IMG05 — Patient Becomes Correspondent
-
-**Scene:** S3  
+**Scenes:** S3 + S5  
 **Style:** `STYLE_CINEMATIC.png`  
 **Facts references:** Pauli portrait + Jung portrait.
 
 **Prompt:**
-Create a premium 16:9 historical reconstruction showing Jung and Pauli as intellectual correspondents without pretending they are physically in the same room. Use a split spatial composition: two separate period desks in different rooms, Jung on one side and Pauli on the other, each reading or annotating papers. Their faces should match uploaded factual references. Letters and diagrams visually bridge the composition through editing space, but do not create supernatural connecting light. The mood is concentrated, respectful and slightly tense — two thinkers testing each other's ideas. No readable invented letter text, no handshake, no staged confrontation, no watermark.
+Create a premium 16:9 historical reconstruction showing Carl Gustav Jung and Wolfgang Pauli as intellectual correspondents without pretending they are physically in the same room. Use a balanced split spatial composition: two separate period desks in distinct rooms, Jung on one side and Pauli on the other, each reading, writing or annotating papers. Their faces should match uploaded factual references. Paper, envelopes, margin marks and restrained diagrams may visually bridge the composition through editorial space, but there must be no supernatural connecting light. Pauli's side can feel more analytical and sparse; Jung's side slightly more symbolically dense, without caricature. The composition must support alternate crops on Jung, Pauli, paper details and the central negative space so one generation can cover both S3 and S5. No readable invented letter text, no handshake, no face-to-face confrontation, no fake archival scan texture, no watermark.
 
 ---
 
-## IMG06 — The Beetle at the Window
+## IMG06 — The Beetle at the Window MASTER
 
 **Scene:** S4  
 **Style:** `STYLE_CINEMATIC.png`  
 **Facts reference:** Jung portrait for identity.
 
 **Prompt:**
-Create a cinematic 16:9 reconstruction of Jung's reported scarab/rose-chafer anecdote. A historically plausible consulting room, Jung seated near a patient whose identity remains non-specific and partially out of focus. At the exact visual focus, a small beetle has just struck or landed against the window glass behind Jung. Jung turns toward the sound. The image should feel like an ordinary room interrupted by an oddly timed event, not like a supernatural visitation. Restrained period detail, realistic daylight and interior shadows, subtle film grain. Do not show an Egyptian scarab artifact, no glowing insect, no text, no fabricated historical document.
-
----
-
-## IMG07 — Inner Image / Outer Event
-
-**Scene:** S4  
-**Style:** `STYLE_CONCEPTUAL.png`
-
-**Prompt:**
-Create a clean, cinematic conceptual 16:9 image about meaningful coincidence. On one side, an abstract dream image of a golden beetle-like form; on the other, a real-world window with a small green-gold beetle. The two are not connected by beams, energy or causal arrows. Their visual relationship is created only through framing around a human observer positioned between inner and outer experience. Sophisticated, minimal, psychologically intriguing. Deep graphite and blue-black, warm gold and natural green accents, realistic optics, no text, no quantum particles, no supernatural glow.
-
----
-
-## IMG08 — The Correspondence Disagrees
-
-**Scene:** S5  
-**Style:** `STYLE_CINEMATIC.png`  
-**Facts references:** Pauli + Jung portraits.
-
-**Prompt:**
-Create a restrained 16:9 editorial reconstruction of Jung and Pauli disagreeing through correspondence. Separate desks, handwritten pages, margin notes, simple mathematical/statistical sketches and symbolic diagrams. Pauli's side should feel more analytical and sparse; Jung's side slightly more symbolically dense, but avoid caricature. Both should appear serious and intellectually engaged. No face-to-face argument, no invented quotations, no fake archival scan texture, no mystical energy. Premium documentary lighting, realistic period materials, subtle film grain.
+Create a cinematic 16:9 reconstruction of Jung's reported scarab/rose-chafer anecdote. A historically plausible consulting room, Jung seated near a patient whose identity remains non-specific and partially out of focus. At the visual focus, a small beetle has just struck or landed against the window glass behind Jung, and Jung is beginning to turn toward the sound. Compose the frame so the editor can first crop on the patient/Jung conversation and only then reveal the window and insect from the same image. The scene should feel like an ordinary room interrupted by an oddly timed event, not like a supernatural visitation. Restrained period detail, realistic daylight and interior shadows, subtle film grain. Do not show an Egyptian scarab artifact, no glowing insect, no text, no fabricated historical document.
 
 ---
 
@@ -110,7 +73,7 @@ Create a restrained 16:9 editorial reconstruction of Jung and Pauli disagreeing 
 **Style:** `STYLE_CINEMATIC.png`
 
 **Prompt:**
-Create a contemporary cinematic 16:9 everyday scene for a thought experiment about coincidence. A person sits alone in an ordinary quiet room, briefly thinking, while a smartphone on the table lights up with an incoming message from an old contact. The visual should feel plausible and mundane, with the strange quality coming only from timing. Do not make the phone glow unnaturally, do not show cosmic threads, auras, particles or fate imagery. Human, intimate, realistic optics, natural skin, restrained lighting, subtle depth of field. Any phone text should be minimal or unreadable so final typography can be added in edit.
+Create a contemporary cinematic 16:9 everyday scene for a thought experiment about coincidence. A person sits alone in an ordinary quiet room, briefly lost in thought, while a smartphone on the table lights up with an incoming message from an old contact. The visual should feel plausible and mundane, with the strange quality coming only from timing. Do not make the phone glow unnaturally, do not show cosmic threads, auras, particles or fate imagery. Human, intimate, realistic optics, restrained lighting, subtle depth of field. Any phone text should be minimal or unreadable so final typography can be added in edit.
 
 ---
 
@@ -118,20 +81,10 @@ Create a contemporary cinematic 16:9 everyday scene for a thought experiment abo
 
 **Scene:** S7  
 **Style:** `STYLE_CONCEPTUAL.png`  
-**Use with:** original Kepler portrait should appear separately in edit before/after this frame.
+**Use with:** original Kepler portrait separately in edit.
 
 **Prompt:**
 Create a sophisticated 16:9 conceptual image inspired by Johannes Kepler's search for cosmic harmony: early-modern astronomical geometry, orbital diagrams, geometric solids, ratios and subtle musical-harmony structure sharing one coherent intellectual space. This is a visualization of how symbolic ideas can guide scientific questions, not evidence that symbolism makes a theory true. Antique paper textures integrated into a deep blue-black documentary palette, precise geometry, warm highlights, elegant depth. No astrology wheel, no modern quantum equations, no magical light, no readable fake quotations.
-
----
-
-## IMG11 — World Clock / Closing Version
-
-**Scene:** S8  
-**Style:** `STYLE_CONCEPTUAL.png`
-
-**Prompt:**
-Create a quieter, more reflective 16:9 return to the world-clock motif from IMG01. Preserve the two intersecting circular systems, restrained fourfold structure and golden outer ring, but reduce spectacle. The object sits partly in darkness while two visual domains subtly emerge around it: an outer physical world of measurable structure and an inner field of perception and meaning. They should remain distinct but share the same frame. No claim of a cosmic mechanism, no mystical beams, no equations, no text. Calm, unresolved, intelligent, subtle film grain.
 
 ---
 
@@ -145,19 +98,19 @@ Create a restrained 16:9 psychological-mystery transition into a sleep-paralysis
 
 ---
 
-# Motion / Graphic Frames — Build in Edit, Do Not Generate as Fake Documents
+# Motion / Editorial Frames — Do Not Generate
 
 ## G01 — PAULI REVEAL
 Original `SRC01` + typography: `WOLFGANG PAULI` / `ETH ZÜRICH` / `NOBEL 1945`.
 
 ## G02 — 400
-Many small abstract dream cards reduce into one central `400`; source caption added in edit.
+Editorial field of abstract paper/dream cards condenses to `400`. Build from neutral paper textures and simple geometry; no new invented dream imagery required.
 
 ## G03 — PATIENT → CORRESPONDENT
 Minimal single-line transformation.
 
-## G04 — CAUSALITY / MEANING
-Panel A: `A → B`. Panel B: two independent events with no arrow, both linked only through meaning for an observer.
+## G04 — INNER EVENT / OUTER EVENT
+Replace former IMG07. Two independent event lines with no causal arrow; they meet only through the observer/meaning layer.
 
 ## G05 — NARROW / WIDE
 A frame around `SYNCHRONICITY` expands and contracts while example dots enter/leave the category.
@@ -165,25 +118,29 @@ A frame around `SYNCHRONICITY` expands and contracts while example dots enter/le
 ## G06 — HITS / MISSES
 Many thought-events and message-events; one coincidence is highlighted. No invented probabilities.
 
-## G07 — QUANTUM TRAP
-Typography only: `PAULI + JUNG ≠ QUANTUM PROOF` then quickly resolve to `THE QUESTION WAS ORDER`.
+## G07 — ZUFALL / ZEICHEN
+Simple audience split and CTA. No verdict.
 
-## G08 — 1952 DOUBLE REVEAL
-Use real scan if cleared. If unavailable, build a clean bibliographic graphic clearly labeled `GRAPHIC RECONSTRUCTION`, with Jung and Pauli contributions shown separately. Do not imitate aged paper or fake a scan.
+## G08 — QUANTUM TRAP
+Typography only: `PAULI + JUNG ≠ QUANTUM PROOF` then resolve to `THE QUESTION WAS ORDER`.
 
-## G09 — CAUSE / MEANING
-Final two-line payoff: `CAUSE: What produced the event?` / `MEANING: What did the event become for you?`
+## G09 — 1952 DOUBLE REVEAL
+Use a real scan only if explicit reproduction permission/rights are cleared. Otherwise build a bibliographically exact modern graphic clearly labeled `GRAPHIC RECONSTRUCTION`: `NATURERKLÄRUNG UND PSYCHE — RASCHER, ZÜRICH, 1952`, then reveal the two contributions separately. Never imitate an aged scan.
+
+## G10 — CAUSE / MEANING
+Final payoff: `CAUSE: What produced the event?` / `MEANING: What did the event become for you?`
 
 ---
 
 # Batch Order
 
-1. Generate IMG01 + IMG02 first and lock world-clock continuity.
-2. Generate IMG03/05/08 using factual Pauli/Jung references.
-3. Generate IMG06 only after selecting the exact Jung visual reference.
-4. Generate IMG07/09/10/11.
-5. Generate IMG12 last so its darkness and framing can visually hand off into EP06.
-6. Do not generate G01–G09 as images unless the edit pipeline cannot build them cleanly.
+1. Generate IMG01 and lock world-clock continuity from that single master.
+2. Generate IMG03, IMG05 and IMG06 using factual portrait references.
+3. Build G01–G08 before requesting any additional historical AI imagery.
+4. Generate IMG09 and IMG10.
+5. Build G09 from cleared document material or the bibliographic fallback.
+6. Generate IMG12 last so its darkness/framing can hand off visually into EP06.
+7. Do not create former IMG02, IMG04, IMG07, IMG08 or IMG11 as separate generations.
 
 # Quality Gate
 

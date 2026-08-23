@@ -1,7 +1,7 @@
-# EP05 V4 — Source Asset Manifest
+# EP05 V4 — Source Asset Manifest FINAL
 
-**Status:** Recherche-Manifest  
-**Regel:** Vor finalem Download jeweils die konkrete Description Page mitspeichern/screenshotten und Lizenz/Attribution in der Projekt-Dokumentation festhalten.
+**Status:** Quellen-/Rechte-Lock  
+**Regel:** Vor finalem Download jeweils die konkrete Description Page mitspeichern und Lizenz/Attribution in der Projekt-Dokumentation festhalten. Ein öffentlich sichtbarer Scan ist **nicht automatisch reproduzierbar**.
 
 ## Produktionsbereit / frei nutzbar
 
@@ -10,116 +10,155 @@
 - Quelle: Wikimedia Commons
 - URL: https://commons.wikimedia.org/wiki/File:Wolfgang_Pauli.jpg
 - Motiv: Wolfgang Pauli, 1924
-- Auflösung laut Commons: 935 × 1171
 - Einsatz: S1 Pauli-Reveal, S8 Rückkehr
-- Gate: Lizenz-/PD-Block der Description Page archivieren
+- Gate: Lizenz-/PD-Block der konkreten Description Page archivieren
 
 ### SRC02 — Wolfgang Pauli, 1945
 - Titel: `Pauli.jpg`
 - Quelle: Wikimedia Commons / Nobel Foundation
 - URL: https://commons.wikimedia.org/wiki/File:Pauli.jpg
-- Motiv: Wolfgang Pauli, 1945
 - Status laut Commons: Public Domain
-- Einsatz: optionaler Nobel-Anker; nicht nötig, wenn SRC01 visuell stärker ist
+- Einsatz: optional; nur verwenden, wenn ein zweites Pauli-Porträt wirklich Mehrwert bringt
 
-### SRC03 — Solvay-Konferenz 1927
-- Titel: `Solvay conference 1927 Version2.jpg`
-- Quelle: Wikimedia Commons / Institut International de Physique Solvay
-- URL: https://commons.wikimedia.org/wiki/File:Solvay_conference_1927_Version2.jpg
-- Auflösung laut Commons: 2126 × 1463
-- Status laut Commons: Public Domain
+### SRC03 / SRC04 — Solvay-Konferenz 1927
+- Quelle: Wikimedia Commons
+- URLs:
+  - https://commons.wikimedia.org/wiki/File:Solvay_conference_1927_Version2.jpg
+  - https://commons.wikimedia.org/wiki/File:Solvay_conference_1927.jpg
 - Motiv: Pauli mit Einstein, Bohr, Curie, Heisenberg, Schrödinger u. a.
 - Einsatz: S1/S7; Gesamtgruppe → Crop auf Pauli
-
-### SRC04 — Solvay-Konferenz 1927, hochauflösende Alternative
-- Titel: `Solvay conference 1927.jpg`
-- Quelle: Wikimedia Commons
-- URL: https://commons.wikimedia.org/wiki/File:Solvay_conference_1927.jpg
-- Auflösung laut Commons: 3000 × 2171
-- Einsatz: bevorzugen, wenn Crop-Qualität besser ist
-- Gate: konkrete PD-Begründung der gewählten Fassung archivieren
+- Produktionsregel: **eine** Fassung auswählen, nicht beide parallel halten
+- Gate: PD-Begründung der gewählten Datei archivieren
 
 ### SRC05 — Carl Gustav Jung
 - Titel: `Carl Gustav Jung portrait.jpg`
 - Quelle: Wikimedia Commons
 - URL: https://commons.wikimedia.org/wiki/File:Carl_Gustav_Jung_portrait.jpg
-- Status laut Commons: Public Domain
 - Einsatz: S2, S4, S8
-- Hinweis: niedriger aufgelöst; mit ruhigem Crop statt aggressivem Zoom verwenden
+- Gate: konkrete Description Page/PD-Status archivieren
+- Hinweis: ruhiger Crop statt aggressivem Zoom
 
 ### SRC06 — ETH Zürich, historisch
 - Titel: `ETH Zuerich 1880.jpg`
 - Quelle: Wikimedia Commons / Baugeschichtliches Archiv Zürich
 - URL: https://commons.wikimedia.org/wiki/File:ETH_Zuerich_1880.jpg
-- Status laut Commons: Public Domain
-- Einsatz: historischer Institutionsanker
+- Einsatz: optionaler Institutionsanker
 - Claim-Gate: nicht als exakte Darstellung der ETH in Paulis Jahren beschriften
 
 ### SRC07 — Johannes Kepler
 - Titel: `Portrait of Johannes Kepler.jpg`
 - Quelle: Wikimedia Commons / Smithsonian Institute
 - URL: https://commons.wikimedia.org/wiki/File:Portrait_of_Johannes_Kepler.jpg
-- Auflösung laut Commons: 1258 × 1689
 - Status: Public Domain
 - Einsatz: S7 Kepler-Reveal
 
-### SRC08 — Rosenkäfer / Cetonia aurata
-- Titel: `Cetonia aurata.jpg`
-- Quelle: Wikimedia Commons
-- URL: https://commons.wikimedia.org/wiki/File:Cetonia_aurata.jpg
-- Status laut Commons: Public Domain
+### SRC08 / SRC09 — Rosenkäfer / Cetonia aurata
+- Quellen: Wikimedia Commons
+- URLs:
+  - https://commons.wikimedia.org/wiki/File:Cetonia_aurata.jpg
+  - https://commons.wikimedia.org/wiki/File:Cetonia-aurata-21-fws.jpg
 - Einsatz: S4 als zoologischer Artenanker
-- Claim-Gate: Einblendung `ROSE CHAFER — SPECIES REFERENCE` oder vergleichbar; niemals als historisches Originaltier aus Jungs Praxis ausgeben
-
-### SRC09 — Rosenkäfer, CC0-Alternative
-- Titel: `Cetonia-aurata-21-fws.jpg`
-- Quelle: Wikimedia Commons
-- URL: https://commons.wikimedia.org/wiki/File:Cetonia-aurata-21-fws.jpg
-- Status laut Commons: CC0
-- Einsatz: bevorzugen, falls Makro/Komposition besser zur Szene passt
+- Produktionsregel: **eine** Fassung auswählen
+- Claim-Gate: `ROSE CHAFER — SPECIES REFERENCE`; niemals als historisches Originaltier aus Jungs Praxis ausgeben
 
 ---
 
-## Hohe Priorität — Rechte/Verfügbarkeit noch prüfen
+## Dokument-Reveals — Recherche abgeschlossen
 
 ### R01 — Jung/Pauli-Briefscan
-- Zielquelle: ETH-Bibliothek / Pauli-Archiv / CERN
-- Gesucht: Briefseiten aus dem relevanten Austausch, ideal 1938 bzw. 1949–1950
-- Verwendung: S3/S5
-- Gate: Nutzungsbedingungen des Digitalisats; keine Annahme, dass ein alter Briefscan automatisch frei ist
-- Fallback: typografische Brief-Rekonstruktion ohne erfundenes Zitat
 
-### R02 — `Naturerklärung und Psyche` (1952)
-- Gesucht: Titelblatt + Inhalts-/Trennseite, die Jung- und Pauli-Beiträge sichtbar macht
-- Verwendung: stärkster Artifact-Reveal in S7
-- Gate: Rechte der Ausgabe und des Scans separat klären
-- Fallback: bibliografisch korrekte eigene Titelfläche, klar als grafische Rekonstruktion markiert
+**Quellenlage:**
+- Die ETH-Bibliothek bestätigt die umfangreiche Jung/Pauli-Korrespondenz und hält relevante Bestände im Hochschularchiv/Pauliana-Kontext.
+- Das CERN Pauli Letter Collection verzeichnet 2136 Einheiten und verweist ausdrücklich auf die Pauli-Jung-Korrespondenz an der ETH.
+- CERN hält die Urheberrechte an Paulis wissenschaftlichem Werk und formuliert für die Briefsammlung ausdrücklich: **keine Reproduktion ohne Genehmigung**.
+
+**Produktionsstatus:** `PERMISSION REQUIRED — DEFAULT FALLBACK`
+
+**Regel für EP05:**
+- Kein CERN-/Archiv-Briefscan im finalen Video, solange keine schriftliche Veröffentlichungs-/Reproduktionsfreigabe vorliegt.
+- Ein öffentlich abrufbares PDF oder Vorschaubild ändert dieses Gate nicht.
+- Kein AI-Fake-Brief und kein erfundener Wortlaut.
+
+**Fallback:**
+- moderne Editorial-Karte, klar nicht als Faksimile gestaltet;
+- nur belastbare Metadaten wie `PAULI ↔ JUNG`, Jahr/Zeitraum und die inhaltliche Funktion des Briefwechsels;
+- falls ein kurzer Wortlaut später verwendet werden soll, Zitat- und Veröffentlichungsrecht separat prüfen.
+
+**Research URLs:**
+- https://scientific-info.cern/archives/Pauli_archive/guide/letters
+- https://library.ethz.ch/sammlungen-und-archive/online-zugaenge/virtuelle-ausstellungen/wolfgang-pauli-und-die-moderne-physik/wolfgang-pauli-und-carl-gustav-jung.html
+
+### R02 — `Naturerklärung und Psyche` (Rascher, Zürich, 1952)
+
+**Bibliografie verifiziert:**
+- Titel: `Naturerklärung und Psyche`
+- Verlag: Rascher, Zürich
+- Jahr: 1952
+- Umfang: 194 Seiten
+- Reihe: `Studien aus dem C. G. Jung-Institut, Zürich`, Band 4
+- Enthält:
+  - C. G. Jung: `Synchronizität als ein Prinzip akausaler Zusammenhänge`
+  - Wolfgang Pauli: `Der Einfluss archetypischer Vorstellungen auf die Bildung naturwissenschaftlicher Theorien bei Kepler`
+
+**Verifizierte Kataloganker:**
+- Bibliothèque nationale de France
+- Google Books / University of Michigan-Digitalisat
+- HelveticArchives / Schweizerisches Literaturarchiv
+
+**Rechtebefund:**
+- Google Books kennzeichnet die Ausgabe als urheberrechtlich geschützt/Snippet View.
+- HelveticArchives führt für das Exemplar ausdrücklich `Reproduktionsbewilligung` als erforderlich.
+- Aus dem Publikationsjahr 1952 darf daher **keine freie Scan-Nutzung** abgeleitet werden.
+
+**Produktionsstatus:** `METADATA CLEARED — SCAN PERMISSION REQUIRED`
+
+**Default für S7:**
+Eine moderne, bibliografisch exakte Grafik bauen, eindeutig als `GRAPHIC RECONSTRUCTION` lesbar. Sie darf enthalten:
+- `NATURERKLÄRUNG UND PSYCHE`
+- `RASCHER — ZÜRICH — 1952`
+- `C. G. JUNG — SYNCHRONIZITÄT ALS EIN PRINZIP AKAUSALER ZUSAMMENHÄNGE`
+- `W. PAULI — DER EINFLUSS ARCHETYPISCHER VORSTELLUNGEN ... BEI KEPLER`
+
+**Nicht tun:**
+- Cover oder Buchseite aus Google Books/WorldCat als Produktionsasset übernehmen, solange das Reproduktionsrecht nicht geklärt ist;
+- künstlich vergilbte Fake-Seite bauen, die wie ein Scan wirkt.
+
+**Research URLs:**
+- https://catalogue.bnf.fr/ark:/12148/cb32512077s
+- https://books.google.com/books?id=E2YAAAAAMAAJ
+- https://www.helveticarchives.ch/detail.aspx?ID=184586
 
 ### R03 — Weltuhr-Abbildung aus Jungs Publikationskontext
-- Gesucht: belegbare publizierte Darstellung / Diagramm
-- Verwendung: optional in S1/S8
-- Gate: Werk-/Ausgaben-/Scanrechte
-- Fallback: eigene geometrische Rekonstruktion nach textlicher Beschreibung; keine Faksimile-Optik
+
+**Status:** `DO NOT USE BY DEFAULT`
+
+Jungs publizierte Buch-/Diagrammabbildungen bleiben werk- und ausgabenseitig copyright-sensibel. Solange keine konkrete frei nutzbare Abbildung mit belastbarer Lizenz gefunden ist, verwendet EP05 **IMG01 als eigene visuelle Rekonstruktion**. Keine Faksimile-Optik.
 
 ### R04 — historische Zürich-/ETH-Aufnahmen aus Paulis Zeit
-- Ziel: ca. 1928–1950, frei oder sauber lizenzierbar
-- Verwendung: S2/S3 als bessere Alternative zu SRC06
-- Gate: Motivzeit und Lizenz
+
+**Status:** `OPTIONAL — NOT REQUIRED FOR LOCK`
+
+Die ETH-Bibliothek besitzt umfangreiche historische Bildbestände. Die Lizenz ist dort **pro Bild individuell** hinterlegt. Nur einsetzen, wenn ein konkretes Bild aus ca. 1928–1950 einen echten visuellen Gewinn gegenüber SRC06 liefert; sonst nicht weiter recherchieren.
+
+ETH Image Archive: https://library.ethz.ch/en/sammlungen-und-archive/archiving/image-archive.html
 
 ---
+
+## Produktionsentscheidung
+
+Für die finale EP05-Produktion sind **keine offenen Rechtefragen mehr blockierend**:
+
+1. Die freien Originalanker kommen aus sauber dokumentierten Commons-Dateien.
+2. R01 Briefscan wird standardmäßig **nicht** verwendet; die Editorial-Fallback-Lösung ist final zulässig.
+3. R02 1952er Buch wird standardmäßig als **bibliografische Grafikrekonstruktion** umgesetzt; echter Scan nur nach zusätzlicher schriftlicher Freigabe.
+4. R03 Weltuhr wird als eigene Rekonstruktion produziert.
+5. Weitere Archivsuche ist Bonus, kein Produktions-Blocker.
 
 ## Nicht verwenden
 
-- Blog-/Pinterest-/Stock-Reuploads von Pauli oder Jung ohne nachvollziehbare Lizenz
-- moderne kolorierte Versionen historischer Fotos, wenn die Bearbeitungsrechte unklar sind
+- Blog-/Pinterest-/Stock-Reuploads ohne nachvollziehbare Lizenz
+- moderne kolorierte Versionen historischer Fotos mit unklaren Bearbeitungsrechten
 - KI-generierte „Originalbriefe“ oder „Buchseiten“
 - Fake-Nobelurkunde
-- beliebige Skarabäus-Abbildung als Jungs konkreter Käfer
-
-## Download-Reihenfolge
-
-1. SRC01/SRC03/SRC05/SRC07/SRC08 sichern.
-2. Description Pages + Lizenzblöcke archivieren.
-3. R02 `Naturerklärung und Psyche` priorisieren.
-4. R01 Briefscans recherchieren.
-5. Erst danach AI-Batch erzeugen, damit Rekonstruktionen nicht echte Belege ersetzen.
+- Rosenkäfer-Artfoto als Behauptung des konkreten historischen Käfers
+- Google-Books-/WorldCat-Cover oder Vorschauseiten als vermeintlich freie Assets
