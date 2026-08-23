@@ -1,91 +1,90 @@
 # Schlafparalyse EP06–EP08 — Full Production Handoff V5
 
-**Status:** READY FOR PRODUCTION  
-**Kanonischer Visual-Lock:** `SCHLAFPARALYSE_PRODUCTION_READY_LOCK_V5.md`
+**Status:** READY FOR V5 PRODUCTION INPUTS  
+**Scope:** EP06 / EP07 / EP08  
+**Visual Canon:** `SCHLAFPARALYSE_VISUAL_COVERAGE_V5.md`
 
-## Wichtig
+## Vorbereitung
 
-Die Sprechertexte, Claims Locks, Voice-/Audio-Logik und der V4-Prompt-Pool bleiben gültig. V5 ersetzt ausschließlich die bisher zu schematische Annahme, jede Folge müsse denselben 56+8-AI-Workflow verwenden.
-
-## Visual Targets
-
-- EP06: 149 Shots — science/recon hybrid
-- EP07: 146 Shots — archive/document heavy
-- EP08: 150 Shots — media/recon/motion hybrid
-
-Details:
-- `SCHLAFPARALYSE_VISUAL_COVERAGE_V5.md`
-- je Episode `VISUAL_COVERAGE_V5.md`
-
-## Workflow
+Vom Repository-Root:
 
 ```bash
-# Repo aktualisieren
 git pull origin master
-
-# Originalassets laden
-python3 03_EPISODEN/TYPE_B/SCHLAFPARALYSE_ASSETS_PHASE2/download_schlafparalyse_assets.py
-
-# V4-Basis + individuelle V5 Visual Cues bauen
-python3 tools/prepare_schlafparalyse_visuals_v5.py
+python3 tools/prepare_schlafparalyse_v5.py
 ```
 
-Danach existiert pro Folge zusätzlich:
-- `PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/VISUAL_CUE_SHEET_V5.csv`
-- `PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/VISUAL_CUE_SHEET_V5.csv`
-- `PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/VISUAL_CUE_SHEET_V5.csv`
+Der V5-Prep nutzt den bewährten V4-Builder für Voice/Audio/Prompt-Unpack und legt danach die individuellen V5-Visualziele darüber.
+
+## Source Assets
+
+```bash
+python3 03_EPISODEN/TYPE_B/SCHLAFPARALYSE_ASSETS_PHASE2/download_schlafparalyse_assets_v5.py
+```
+
+Der Wrapper lädt das bestehende Phase-2-Manifest plus die verifizierten V5-Additions mit dem robusten Downloader. Bereits vorhandene Dateien werden übersprungen.
+
+## Visuelle Zielwerte
+
+| Episode | Shots | Original | Recon/AI | Motion | erwartete AI-Stills im Edit |
+|---|---:|---:|---:|---:|---:|
+| EP06 | 149 | 58 | 63 | 28 | 48–54 |
+| EP07 | 146 | 88 | 27 | 31 | 26–32 |
+| EP08 | 150 | 58 | 57 | 35 | 50–58 |
+
+Ein Basisbild darf nur dann mehrere Shots liefern, wenn die Crops unterschiedliche Informationen zeigen. Identische Frames oder reine Ken-Burns-Varianten gelten nicht als neue Motive.
+
+## Bildworkflow
+
+1. episodisches `VISUAL_COVERAGE_V5.md` lesen.
+2. echte Originalassets zuerst konkreten Sprecherbeats zuweisen.
+3. Dokumente/Kunst in semantisch unterschiedliche Crops zerlegen, wenn verschiedene Aussagen dieselbe Quelle betreffen.
+4. Motion-/Diagramm-Slots planen.
+5. AI selektiv aus dem V4-Prompt-Pool erzeugen; `SCHLAFPARALYSE_PROMPT_STRATEGY_V5.md` steuert die Auswahl.
+6. `06_PRODUCTION/<episode>/render_manifest.json` pro Cue mit einem oder mehreren konkreten Medienpfaden füllen.
+7. Renderer expandiert Listen innerhalb des Cue-Zeitraums in einzelne Shots.
+8. vor Final Render Wiederholung und Coverage prüfen.
 
 ## Voice
 
-Voice bleibt wie V4 gelockt:
-- George / `JBFqnCBsd6RMkjVDRZzb`
-- `eleven_multilingual_v2`
-- stability 0.58
-- similarity 0.80
-- style 0.08
-- speed 1.06
-- seed 2402
+Voice bleibt auf dem gelockten George-Setup: `JBFqnCBsd6RMkjVDRZzb`, `eleven_multilingual_v2`, stability 0.58, similarity 0.80, style 0.08, speed 1.06, speaker boost true, seed 2402.
 
-Voice bauen/alignen wie im bestehenden V4-Handoff.
+Beispiel EP06:
 
-## Bilder
-
-1. Originale zuerst auf konkrete Sprecherbeats mappen.
-2. Motion-Slots aus V5-Coverage setzen.
-3. Nur die tatsächlich benötigten Recons aus dem V4-Prompt-Pool erzeugen.
-4. Reservebilder erzeugen, wenn ein Motiv im Schnitt zu ähnlich/repetitiv wirkt.
-5. Render-Manifest darf mehrere Assets pro Cue enthalten; diese werden als eigene Shots ausgespielt.
+```bash
+elevenlabs_cli.py batch --batch-file PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/voice_batch_v4.json --execute
+python3 tools/schlafparalyse_voice.py EP06 all
+```
 
 ## Render
 
-Für EP06–EP08 den V5-Wrapper verwenden:
-
 ```bash
-python3 tools/noesis_render_schlafparalyse_v5.py EP06 doctor
-python3 tools/noesis_render_schlafparalyse_v5.py EP06 manifest
-python3 tools/noesis_render_schlafparalyse_v5.py EP06 plan
-python3 tools/noesis_render_schlafparalyse_v5.py EP06 all
+python3 tools/noesis_render.py EP06 manifest
+python3 tools/noesis_render.py EP06 timeline
+python3 tools/noesis_render.py EP06 render
 ```
 
-Analog EP07/EP08.
+Analog EP07 / EP08.
 
-## QA
+Der Renderer darf fehlende Coverage nicht durch lange Holds kaschieren. Hohe Bilddichte wird im Manifest geplant, nicht durch Zoom simuliert.
 
-Vor finalem Render:
-- Shot-Target ungefähr treffen; Sprechertext entscheidet, nicht starre Sekundenmathematik
-- kein Still >9 s
-- kein identischer Frame doppelt
-- keine sichtbare wiederkehrende Bildsequenz
-- keine zwei aufeinanderfolgenden Shots aus demselben Basisasset
-- Non-16:9 contained mit weich/dunkel gleichem Bild im Hintergrund
-- Quellen-/Rights-Kontext aus Manifest beachten
-- EP07 muss sichtbar archivlastiger sein als EP06/EP08
-- EP08 Hat Man erst spät vollständig zeigen
+## Episodenstrategie
 
-## Original-Asset-Gaps
+- **EP06:** echte Science-/PSG-/Lab-Originale erden subjektive Bedroom-/Presence-Recons.
+- **EP07:** Originalakten, Kunst, Karten und historische Dokumente dominieren; KI dient nur räumlicher/subjektiver Rekonstruktion.
+- **EP08:** Radio-/Fax-/CRT-/Modem-/Research-Originale wechseln mit Shadow-/Hat-Man-Recons und Feedback-Motion.
 
-`SCHLAFPARALYSE_ORIGINAL_ASSET_GAPS_V5.md` listet zusätzliche Rechercheziele. Sie sind Qualitätsverbesserungen, keine Erlaubnis für ungeprüftes Material und kein Grund, Produktion zu blockieren.
+## Runtime Outputs — nicht in Git
 
-## Kanonische Entscheidung
+Voice-/Audio-Dateien, Forced Alignment, heruntergeladene Source-Medien, generierte AI-Bilder, Audio-Stems, Rendersegmente und finale Exporte bleiben lokal. Textbasierte Produktionspläne, Manifeste, QA, Cue-Sheets und Scripts dürfen im Repo bleiben.
 
-**Visuelle Dichte bleibt hoch. Materialmix wird individuell.** Das ist der V5-Lock.
+## Final Gate
+
+Final-ready bedeutet:
+- Shot-Target ungefähr erreicht;
+- kein Still >9 s;
+- kein identischer Frame wiederholt;
+- keine sichtbare Motivschleife;
+- Mix entspricht ungefähr dem Episodenlock;
+- zentrale Sprecherbeats sind konkret bebildert;
+- historische/technische Kontexte korrekt beschriftet;
+- YELLOW-Assets reviewt und Credits geklärt.
