@@ -1,10 +1,18 @@
 # EP04B — Produktionspaket: Chakra-Genealogie
 
+## Identity Lock
+
+**Kanonische Episoden-ID: EP04B**  
+**Block:** Jung/Chakra V5 Split — B  
+**Repo-Pfad:** `EP04B_CHAKRA_GENEALOGIE/`
+
+EP04B entstand zusammen mit EP04A aus dem finalen EP04-V5-Split. Sie ist trotzdem bewusst so gebaut, dass sie **allein funktioniert** und öffentlich nicht zwingend als „Teil 2“ betitelt oder vertaggt werden muss.
+
+**EP05 Jung & Pauli ist nicht Teil dieses Splits.**
+
 ## Status
 
 **Script + Claims + Visual-/Asset-Plan vorhanden.**
-
-Diese Folge ist bewusst **keine Fortsetzung „Teil 2“** von EP04. Sie funktioniert allein und soll auch allein betitelt/vertaggt werden.
 
 ## Arbeitstitel
 
@@ -42,8 +50,11 @@ Dann dreht die Folge die Richtung wieder um und fragt, warum genau die moderne, 
 4. NanoBanana/Generations-Prompts für abstrakte Übergänge,
 5. Voice-Timing und finale 145–155-Shot-Timeline.
 
-## Serienposition
+## Publikations- und Serienposition
 
-EP04B darf direkt nach EP04 erscheinen, muss aber nicht. EP05 Jung & Pauli bleibt unverändert der natürliche narrative Anschluss von EP04.
+- EP04B darf direkt nach EP04A erscheinen, muss aber nicht.
+- EP04A + EP04B bilden redaktionell den **Jung/Chakra-V5-Split**.
+- EP04B bleibt als einzelne Veröffentlichung eigenständig verständlich.
+- **EP05 ist eine eigenständige Jung/Pauli-Folge und keine Fortsetzung des EP04-Splits.**
 
-EP04B kann strategisch später veröffentlicht werden, wenn EP04 Kommentare/CTR zeigen, dass das Chakra-Thema besonders zieht.
+EP04B kann strategisch später veröffentlicht werden, wenn EP04A-Kommentare oder CTR zeigen, dass das Chakra-Thema besonders zieht.
