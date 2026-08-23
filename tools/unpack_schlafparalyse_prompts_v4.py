@@ -17,7 +17,7 @@ import zipfile
 from pathlib import Path
 
 ZIP_REL = Path("03_EPISODEN/TYPE_B/SCHLAFPARALYSE_PROMPTS_V4_REPO_READY.zip")
-EXPECTED_SHA256 = "5f414def0f6e9eda90dc35dc111fd152d414e1708c77f486df60d80976fe37d5"
+EXPECTED_SHA256 = "b490ec50fea91644191fff71ee10f6ffbcff23160f2dc95d1dd7a52681da674e"
 
 
 def sha256_file(path: Path) -> str:
