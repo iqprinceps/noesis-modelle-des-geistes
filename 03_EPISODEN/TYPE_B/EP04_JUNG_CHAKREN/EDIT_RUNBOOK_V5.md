@@ -1,4 +1,4 @@
-# EP04 V5 — Edit Runbook
+# EP04 V5 FINAL — Edit Runbook
 
 ## 1. Zielgefühl
 
@@ -6,45 +6,67 @@ Kein klassischer Erklärfilm. Der Zuschauer soll das Gefühl haben, zwischen zwe
 
 **historische Realität ↔ psychische Innenwelt.**
 
-Das Video darf stellenweise schöner, rätselhafter und abstrakter sein als seine Beweisführung. Der Voice-Text hält die semantische Spur.
+Das Video darf schöner, rätselhafter und abstrakter sein als seine Beweisführung. Der Voice-Text hält die semantische Spur.
 
-## 2. Cue-Sheet lesen
+## 2. Kernregel
 
-`VISUAL_CUE_SHEET_V5.csv` enthält **Kandidaten**. `subshots` bedeutet mögliche Mikroshots, nicht Pflichtmaterial.
+**Retention > Vollständigkeit.**
 
-Finales Ziel:
-- 145–160 tatsächlich verwendete Shots,
-- 8–12 längere Mystery-Holds,
-- keine visuelle Wiederholung nur um Shotzahl zu erfüllen.
+Jeder Akt muss mindestens eine dieser Funktionen erfüllen:
+- neue Gefahr,
+- neues Symbol,
+- neue Frage,
+- neuer Widerspruch,
+- konkreter persönlicher Moment,
+- echter Reveal.
 
-Priorität bei Auswahl:
-1. stärkster emotionaler Shot,
-2. stärkster dokumentarischer Anker,
-3. beste rhythmische Abwechslung,
-4. erst dann Vollständigkeit.
+Wenn 35–45 Sekunden lang nur erklärt wird, ist der Abschnitt zu lang.
 
 ## 3. Rhythmus
 
-### 0:00–0:30
-Sehr dicht. 2–3,5 s. Zuschauer muss sofort verstehen: Jung + Kundalini + persönliche Vorgeschichte + Schlange.
+### 0:00–0:25
+Sehr dicht. Zuschauer muss bereits haben:
+- Jung,
+- Warnung,
+- Kundalini,
+- schwarze Schlange,
+- Versprechen von 1913.
+
+2–3,5 s pro Shot. Keine Einleitung über Zürich, Alter, Beruf, bevor die Warnung sitzt.
 
 ### S2
-Schnell beginnen, bei Flut/roter See kurz verlangsamen, dann mit 1914 hart in Archivrealität zurück.
+Flut schnell aufbauen. Bei roter See 1 längerer Hold. Kriegsausbruch als harter Archiv-Reset.
 
 ### S3
-Nicht hektisch. Hier entsteht Atmosphäre. Symbolbilder dürfen 5–7 s tragen, wenn Sounddesign und Bewegung stimmen.
+Atmosphäre. Die schwarze Schlange ist hier der frühe Story-Payoff. Nicht länger als nötig bei Philemon verweilen. Keine Essay-Ebene.
 
-### S4/S5
-Wieder schneller. Originaldiagramme + klare psychologische Map.
+### S4
+Brutaler Rücksprung in 1932. Historische Kundalini-Tafel jetzt erstmals klar zeigen. Der Match Cut zur Schlange ist Parallelisierung, kein Beweis.
+
+### S5
+Erklärt die psychologische Karte knapp und visuell klar.
 
 ### S6
-Tempo bewusst brechen. Der Smartphone-Moment braucht echte 1–2 Sekunden Stille, damit der Zuschauer den Unterschied zwischen Impuls und Beobachtung körperlich versteht.
+Lässt den Zuschauer die Karte erleben. Smartphone-Moment braucht 1–2 Sekunden echte Stille. Keine zweite Theorie-Erklärung.
+
+CTA: **KARTE oder SPIEGEL**. Nie `PROJEKTION`.
 
 ### S7
-Detektivtempo. Dokument → Name → Person → Text → Zahl SECHS. Jede Information ist ein Reveal.
+Maximal ca. 70 Sekunden. Nur:
+- *The Serpent Power*,
+- Ṣaṭ-cakra-nirūpaṇa,
+- `SECHS`,
+- moderne Karte ist historisch beweglich.
+
+Keine Woodroffe/Ghose-Minidoku. Diese Details gehören EP04B.
 
 ### S8
-Ruhiger. Motive aus S2/S3 wiederholen, aber verändert. Keine neuen visuellen Welten mehr außer Pauli-Teaser.
+Ruhig, aber nicht auslaufend. Rückkehr zu Wasser/Feuer/Schlange. Dann Pauli kurz und hart.
+
+Letzte Voice-Zeile:
+**„Und der Zufall wird zum nächsten Problem.“**
+
+Danach Schwarz / Endcard. Kein „Das ist die nächste Folge“.
 
 ## 4. Sounddesign
 
@@ -55,74 +77,76 @@ Ruhiger. Motive aus S2/S3 wiederholen, aber verändert. Keine neuen visuellen We
 - sehr sparsame Stimmen/Flüstern; keine verständlichen erfundenen Wörter.
 
 ### Archiv
-- trockener, weniger Hall,
+- trockener,
+- weniger Hall,
 - Papier, Projektor, Raumton,
 - Musikbett dünner.
 
 ### Übergänge
-Der Wechsel Archiv → Innenwelt darf hörbar sein: Frequenzraum öffnet/schließt sich.
+Archiv → Innenwelt darf hörbar kippen: Frequenzraum öffnet sich, Realraum verschwindet.
 
 ## 5. Musik
 
-Keine permanente Mystery-Musik. Sie stumpft ab.
+Keine permanente Mystery-Musik.
 
 Drei Zonen:
-1. S1–S3: dunkle Spannung, aber mit Luft.
-2. S4–S6: rhythmischer, intellektueller Puls.
-3. S7–S8: Detektivpuls → fast stille Auflösung.
+1. S1–S3: dunkle Spannung mit Luft.
+2. S4–S6: klarerer Puls, dann bewusster Stillstand im Smartphone-Moment.
+3. S7–S8: Detektivpuls → langsame Auflösung → Pauli-Impuls.
 
 ## 6. Evidenzlabels
 
-Nur bei tatsächlichem Ebenenwechsel klein einblenden:
+Nur bei Ebenenwechsel klein einblenden:
 - `DOKUMENTIERT`
-- `JUNGS EIGENE DEUTUNG`
+- `JUNGS DEUTUNG`
 - `REKONSTRUKTION`
 - `OFFENE PARALLELE`
 
-Keine Labels auf jedem Satz.
-
-Bei der schwarzen Schlange 1913 einmal früh `REKONSTRUKTION`.
-Beim Match Cut zur Kundalini-Tafel kein „Beweis“-Label; wenn nötig `OFFENE PARALLELE`.
+Bei der schwarzen Schlange 1913 einmal `REKONSTRUKTION`.
+Beim Match Cut zur Kundalini-Tafel bei Bedarf `OFFENE PARALLELE`.
 
 ## 7. Zitatkarten
 
-Maximal zwei große Karten:
-1. Jungs Warnung 1932.
-2. optional Philemon/psychische Objektivität, nur bei exakt gelocktem Wortlaut.
+Maximal zwei:
+1. Jungs Warnung 1932 — Pflicht, exakte Fundstelle vorher locken.
+2. Philemon nur, wenn Wortlaut exakt belegt und der Film dadurch stärker wird.
 
-Alles andere im Voice erzählen.
+## 8. Pflicht-Transitions
 
-## 8. Übergänge, die sitzen müssen
+### A — Hook
+historische Kundalini-Tafel → schwarze Schlange → rote Sonne → Jung → zurück zur Tafel.
 
-### Transition A — S1
-historische Kundalini-Schlange → Flash Innenwelt → zurück zum Diagramm.
+### B — S2/S3
+realer Schreibtisch → Fallbewegung → Höhle.
 
-### Transition B — S2/S3
-Schreibtisch dunkel → Fall in Höhle.
+### C — S3/S4
+schwarze Rekonstruktionsschlange → originale Kundalini-Schlange.
 
-### Transition C — S3/S4
-schwarze Rekonstruktionsschlange → originale Kundalini-Tafel.
+### D — S5/S6
+„eine Wahl“ → Smartphone-Display.
 
-### Transition D — S5/S6
-„eine Wahl“ → Smartphone-Moment.
+### E — S6/S7
+`KARTE / SPIEGEL` → Papierkante / historischer Druck → *The Serpent Power*.
 
-### Transition E — S6/S7
-KARTE/PROJEKTION → Papierkante → *The Serpent Power* Titelblatt.
+### F — S7/S8
+historische Karte morph → leere Innenwelt → Jung.
 
-### Transition F — S7/S8
-historische Karten morph → Jung-Porträt.
+### G — Schluss
+Jung → Pauli → mathematische/physikalische Struktur → Schwarz.
 
-## 9. Retention-QC
+## 9. Retention-QC vor Export
 
-Vor Export prüfen:
-
-- Hat 0:00–0:25 bereits die Schlange, die Warnung und die 1913-Promise?
-- Kommt spätestens alle 35–50 s eine neue Frage, Ebene oder visuelle Welt?
-- Gibt es zwischen 55–70 % einen fühlbaren persönlichen Moment statt nur Erklärung?
-- Fühlt sich `SECHS` wie ein echter zweiter Twist an?
-- Wird S7 nicht zur Mini-Dokumentation über Chakra-Historie? Wenn ja: kürzen, EP04B gehört die Details.
-- Endet EP04 emotional bei Jung und Pauli, nicht bei Quellenkunde?
+- Hat 0:00–0:25 Warnung + Schlange + 1913-Promise?
+- Ist die schwarze Schlange spätestens um ca. 2:30 real im Storyverlauf bezahlt?
+- Gibt es keine 45-Sekunden-Strecke ohne neue Frage, Ebene oder konkrete Handlung?
+- Erklärt S5 nur einmal und lässt S6 erleben?
+- Ist `KARTE oder SPIEGEL` visuell minimalistisch?
+- Fühlt sich `SECHS` wie Twist an, ohne EP04B zu spoilern?
+- Ist S7 unter ca. 70 Sekunden?
+- Hat S8 nur einen Gedanken pro Absatz statt mehrere Schlussfolgerungen?
+- Ist Pauli maximal 20–25 Sekunden?
+- Endet die letzte gesprochene Zeile auf „Problem“ und nicht auf Produktionssprache?
 
 ## 10. Finaler Grundsatz
 
-Wenn ein dokumentarisch korrektes Bild langweilig ist und ein abstraktes Bild die Bedeutung besser trägt, nimm das abstrakte Bild — **solange der Voice-Text und die Kennzeichnung nicht vortäuschen, es sei historisches Archiv.**
+Wenn ein korrektes Archivbild langweilig ist und ein abstraktes Bild die Bedeutung besser trägt, nimm das abstrakte Bild — **solange Voice und Kennzeichnung nicht vortäuschen, es sei historisches Archiv.**
