@@ -8,7 +8,7 @@
 
 Der Renderer ist gemeinsam, die Folge bleibt individuell.
 
-Er erzwingt **keine** globale Laufzeit, Shotzahl, Standzeit, Stemzahl oder identische Kamerafahrt. Die tatsächlichen Shotgrenzen kommen aus dem Forced Alignment der fertigen Voice. Die kreative Dramaturgie kommt aus dem jeweiligen `VISUAL_CUE_SHEET` und den lokalen Assets.
+Er erzwingt **keine** globale Laufzeit, Shotzahl, Standzeit, Stemzahl oder identische Kamerafahrt. Die tatsächlichen Beat-Grenzen kommen aus dem Forced Alignment der fertigen Voice. Die kreative Dramaturgie kommt aus dem jeweiligen `VISUAL_CUE_SHEET`, dem finalen lokalen Asset-Manifest und dem Episodenprofil.
 
 Damit bleibt `01_GLOBAL/00A_PRODUKTIONS_INDIVIDUALITAET.md` maßgeblich: Zahlen aus Gateway/PEAR/SPG sind Referenzen und QA-Signale, keine Quoten.
 
@@ -46,10 +46,14 @@ Durchsucht lokale `04_ASSETS/`, `05_GENERATED/` sowie episodenspezifische `06_PR
 06_PRODUCTION/<EPISODE>/render_manifest.json
 ```
 
-Nicht eindeutig auflösbare Cues bleiben leer und werden **nicht erfunden**. Dort wird einmalig der korrekte lokale Pfad eingetragen.
+Ein Cue kann entweder auf **eine Datei** oder auf **eine Liste von Dateien** zeigen. Eine Liste wird innerhalb des echten Voice-Fensters dieses Cues/Akts in einzelne Shots expandiert. Dadurch wird die Shotmenge vom tatsächlich ausgewählten Material bestimmt und bleibt vollständig episode- und beat-spezifisch.
+
+Nicht eindeutig auflösbare Cues bleiben leer und werden **nicht erfunden**. Dort wird einmalig der korrekte lokale Pfad bzw. die gewünschte Pfadliste eingetragen.
+
+Für EP06–EP08 ist diese Listenfunktion zentral, weil deren Cue-Sheets bewusst aktbasiert sind. Details: `03_EPISODEN/TYPE_B/SCHLAFPARALYSE_RENDER_HANDOFF_V4.md`.
 
 ### `plan`
-Liest das Forced Alignment und baut eine wortverankerte Timeline. Die Dauer jedes Cues endet am nächsten Voice-Anker; der letzte Cue endet am echten Voice-Master. Kein Zielruntime-Backfill.
+Liest das Forced Alignment und baut eine wortverankerte Timeline. Die Dauer jedes Cue-/Aktfensters endet am nächsten Voice-Anker; der letzte endet am echten Voice-Master. Enthält ein Manifest-Eintrag mehrere Assets, werden sie nur innerhalb dieses Fensters verteilt. Kein Zielruntime-Backfill und keine globale Shotzahl.
 
 ### `render`
 Rendert die Bildsegmente lokal mit dem jeweiligen Episodenprofil. Hoch-/Querformat wird wie in der bewährten Gateway/PEAR/SPG-Linie behandelt; nicht-16:9-Material wird vollständig eingepasst statt inhaltlich abgeschnitten.
@@ -58,7 +62,7 @@ Rendert die Bildsegmente lokal mit dem jeweiligen Episodenprofil. Hoch-/Querform
 Verkettet die Segmente und muxxt den besten vorhandenen lokalen Master/Mix; falls noch kein Mix vorhanden ist, wird der Voice-Master verwendet. Die eigentliche Musik-/SFX-Erzeugung bleibt im jeweiligen Episoden-Audio-Workflow.
 
 ### `qa`
-Prüft Segmentexistenz und Dauer; anschließend wird — sofern verfügbar — die bestehende Zappelprüfung gegen die gerenderten Kamerafahrten ausgeführt.
+Prüft Segmentexistenz und Dauer; anschließend wird — sofern verfügbar — die bestehende Zappelprüfung gegen die gerenderten Kamerafahrten ausgeführt. Lange Holds werden als Hinweis gemeldet, aber nicht automatisch verboten: ob ein starkes Bild länger stehen darf, bleibt eine Entscheidung der Folge.
 
 ### `all`
 `manifest -> timeline -> render -> final -> qa`
