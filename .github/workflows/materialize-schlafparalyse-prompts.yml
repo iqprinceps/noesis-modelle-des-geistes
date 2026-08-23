@@ -18,8 +18,21 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: production/canonical-image-prompts
-      - name: Verify and extract canonical prompt package
-        run: python3 tools/unpack_schlafparalyse_prompts_v4.py
+      - name: Repair legacy prompt archive
+        shell: bash
+        run: |
+          set -euxo pipefail
+          src='03_EPISODEN/TYPE_B/SCHLAFPARALYSE_PROMPTS_V4_REPO_READY.zip'
+          file "$src"
+          sha256sum "$src"
+          zip -FF "$src" --out /tmp/schlafparalyse_prompts_fixed.zip </dev/null
+          unzip -t /tmp/schlafparalyse_prompts_fixed.zip
+          rm -rf /tmp/prompt_extract
+          mkdir -p /tmp/prompt_extract
+          unzip -q /tmp/schlafparalyse_prompts_fixed.zip -d /tmp/prompt_extract
+          cp -a /tmp/prompt_extract/03_EPISODEN/TYPE_B/EP06_SCHLAFPARALYSE_01/NANOBANANA_*.md 03_EPISODEN/TYPE_B/EP06_SCHLAFPARALYSE_01/
+          cp -a /tmp/prompt_extract/03_EPISODEN/TYPE_B/EP07_SCHLAFPARALYSE_02/NANOBANANA_*.md 03_EPISODEN/TYPE_B/EP07_SCHLAFPARALYSE_02/
+          cp -a /tmp/prompt_extract/03_EPISODEN/TYPE_B/EP08_SCHLAFPARALYSE_03/NANOBANANA_*.md 03_EPISODEN/TYPE_B/EP08_SCHLAFPARALYSE_03/
       - name: Verify direct episode layout
         run: python3 tools/check_image_prompt_layout.py
       - name: Commit visible prompt markdown
@@ -29,7 +42,6 @@ jobs:
           git add 03_EPISODEN/TYPE_B/EP06_SCHLAFPARALYSE_01/NANOBANANA_*.md
           git add 03_EPISODEN/TYPE_B/EP07_SCHLAFPARALYSE_02/NANOBANANA_*.md
           git add 03_EPISODEN/TYPE_B/EP08_SCHLAFPARALYSE_03/NANOBANANA_*.md
-          git add 03_EPISODEN/TYPE_B/SCHLAFPARALYSE_PRODUCTION_READY_LOCK_V4.md
           if git diff --cached --quiet; then
             echo 'Prompt markdown already materialized.'
           else
