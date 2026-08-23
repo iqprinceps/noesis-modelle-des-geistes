@@ -13,21 +13,66 @@
 /EP05_JUNG_PAULI_MEDIA/
 *.part
 
-# Produktions-Medien (Bilder, Videos, Audio)
+# -----------------------------------------------------------------------------
+# 06_PRODUCTION: ALLES tracken, AUSSER echten Assets / Medien
+# -----------------------------------------------------------------------------
+# Gewollt im Repo bleiben z. B.:
+# .md .txt .json .csv .srt .ass .vtt .py .html .js .css .yaml .yml .toml
+# sowie Produktionspläne, Metadaten, Timelines, QA, Prompts und Skripte.
+
+# Video
 06_PRODUCTION/**/*.mp4
+06_PRODUCTION/**/*.mov
+06_PRODUCTION/**/*.m4v
+06_PRODUCTION/**/*.mkv
+06_PRODUCTION/**/*.avi
+06_PRODUCTION/**/*.webm
+06_PRODUCTION/**/*.mxf
+06_PRODUCTION/**/*.ts
+
+# Audio
 06_PRODUCTION/**/*.wav
 06_PRODUCTION/**/*.aac
 06_PRODUCTION/**/*.mp3
+06_PRODUCTION/**/*.m4a
+06_PRODUCTION/**/*.flac
+06_PRODUCTION/**/*.ogg
+06_PRODUCTION/**/*.aiff
+06_PRODUCTION/**/*.aif
+
+# Raster-/Vektor-Bilder und hochauflösende Bildassets
 06_PRODUCTION/**/*.png
 06_PRODUCTION/**/*.jpg
 06_PRODUCTION/**/*.jpeg
 06_PRODUCTION/**/*.webp
 06_PRODUCTION/**/*.gif
 06_PRODUCTION/**/*.svg
+06_PRODUCTION/**/*.tif
+06_PRODUCTION/**/*.tiff
+06_PRODUCTION/**/*.bmp
+06_PRODUCTION/**/*.avif
+06_PRODUCTION/**/*.heic
+06_PRODUCTION/**/*.exr
+06_PRODUCTION/**/*.dpx
+
+# Fonts
 06_PRODUCTION/**/*.ttf
 06_PRODUCTION/**/*.otf
 06_PRODUCTION/**/*.woff
 06_PRODUCTION/**/*.woff2
+
+# Große Quell-/Archivdateien und gepackte Asset-Sammlungen
+06_PRODUCTION/**/*.pdf
+06_PRODUCTION/**/*.zip
+06_PRODUCTION/**/*.7z
+06_PRODUCTION/**/*.rar
+
+# Binäre Design-/Projektassets
+06_PRODUCTION/**/*.psd
+06_PRODUCTION/**/*.psb
+06_PRODUCTION/**/*.ai
+
+# Fertige Renderordner
 06_PRODUCTION/**/RENDERED/
 
 # Research (PDFs, HTML)
