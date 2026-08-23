@@ -1,0 +1,42 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\render\\final\\EP02_GATEWAY_FINAL_1080p.mp4",
+  "sha256": "69aba76454a7fcf5e4524e74ab4f73e329c72f50605baf2cd30fff7d87241850",
+  "bytes": 61906507,
+  "duration": 720.0,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "bit_rate": "419782"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "bit_rate": "259230"
+  },
+  "loudness": {
+    "input_i": "-14.01",
+    "input_tp": "-0.92",
+    "input_lra": "2.50",
+    "input_thresh": "-24.52",
+    "output_i": "-14.00",
+    "output_tp": "-1.00",
+    "output_lra": "2.40",
+    "output_thresh": "-24.49",
+    "normalization_type": "dynamic",
+    "target_offset": "0.00"
+  },
+  "checks": {
+    "resolution_1080p": true,
+    "h264_yuv420p": true,
+    "aac_stereo_48k": true,
+    "duration_12min": true,
+    "timeline_77_shots": true,
+    "loudness_near_minus14": true,
+    "true_peak_safe": true,
+    "captions_present": true
+  }
+}

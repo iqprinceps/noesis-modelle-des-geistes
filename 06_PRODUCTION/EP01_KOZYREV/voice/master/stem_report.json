@@ -1,0 +1,63 @@
+{
+  "master": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\EP01_KOZYREV_VO_MASTER_48k24_mono.wav",
+  "duration": 552.62,
+  "gaps": [
+    0.45,
+    0.55,
+    0.45,
+    0.45,
+    0.55,
+    0.6,
+    0.65
+  ],
+  "stems": [
+    {
+      "id": "EP01_VO_01_DER_HAMMER",
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\stems\\EP01_VO_01_DER_HAMMER.wav",
+      "duration": 51.92,
+      "sha256": "d34b5b54e78895d8d824d00cb84defa7d2b0c587a7666def0201d324da021c0f"
+    },
+    {
+      "id": "EP01_VO_02_DER_MANN_DER_SIE_NICHT_GEBAUT_HAT",
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\stems\\EP01_VO_02_DER_MANN_DER_SIE_NICHT_GEBAUT_HAT.wav",
+      "duration": 65.945,
+      "sha256": "2934cf89d005f2c510c292887f6c5add4b70d4f456397d65693c8e0257ea9630"
+    },
+    {
+      "id": "EP01_VO_03_DIE_MASCHINE_AUF_PAPIER",
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\stems\\EP01_VO_03_DIE_MASCHINE_AUF_PAPIER.wav",
+      "duration": 64.691,
+      "sha256": "f83d2b58f61720ffc0c7382f185591806f6cd9890600149b857a5bf10d793ca6"
+    },
+    {
+      "id": "EP01_VO_04_AUS_THERAPIE_WIRD_INFORMATIONSRAUM",
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\stems\\EP01_VO_04_AUS_THERAPIE_WIRD_INFORMATIONSRAUM.wav",
+      "duration": 64.784,
+      "sha256": "cffd0d786279f8a9f39c47b4aa734daa9623a7a9955f4c5e19fee583ebf8f7a1"
+    },
+    {
+      "id": "EP01_VO_05_WAS_MUESSTE_HIER_EIGENTLICH_PASSIEREN",
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\stems\\EP01_VO_05_WAS_MUESSTE_HIER_EIGENTLICH_PASSIEREN.wav",
+      "duration": 59.49,
+      "sha256": "6e346629b3bbeb512e179b2254c290e3f18878007e1ce06d060e804f9bdc623b"
+    },
+    {
+      "id": "EP01_VO_06_DAS_EXPERIMENT_DAS_WIR_GERN_HAETTEN",
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\stems\\EP01_VO_06_DAS_EXPERIMENT_DAS_WIR_GERN_HAETTEN.wav",
+      "duration": 127.199,
+      "sha256": "6c73137471941f304233ced49d837059951d05d3c607b71e6efa6236df832d47"
+    },
+    {
+      "id": "EP01_VO_07_DAS_PATENT_IST_NICHT_DER_BEWEIS_DEN_ES_ZU_SEIN_SCHEINT",
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\stems\\EP01_VO_07_DAS_PATENT_IST_NICHT_DER_BEWEIS_DEN_ES_ZU_SEIN_SCHEINT.wav",
+      "duration": 50.48,
+      "sha256": "52f9f404740092e27b02930eddf282a9d168d680d15136d483a9955f996f73cd"
+    },
+    {
+      "id": "EP01_VO_08_WAS_BLEIBT",
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\master\\stems\\EP01_VO_08_WAS_BLEIBT.wav",
+      "duration": 64.412,
+      "sha256": "745ef6dc3540f07901b0d141d82cd5aa232dfdb578dcb3b806adb5ad0ce53521"
+    }
+  ]
+}

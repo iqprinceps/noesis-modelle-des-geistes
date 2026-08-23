@@ -1,0 +1,90 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gloss,Arial,44,&H00D2E8F0,&H0,&HC828140A,&HC828140A,-1,0,0,0,100,100,0,0,3,14,0,1,86,420,132,1
+Style: Src,Arial,25,&H00A0D93F,&H0,&HC828140A,&HC828140A,0,0,0,0,100,100,1,0,3,10,0,1,86,420,92,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.14,0:00:07.98,Gloss,,0,0,0,,{\fad(220,220)}Spirale aus poliertem Aluminium, offen bis auf einen Spalt
+Dialogue: 0,0:00:58.24,0:01:00.56,Gloss,,0,0,0,,{\fad(220,220)}Anlage in Nowosibirsk, Aufnahme 2014
+Dialogue: 0,0:01:03.78,0:01:06.50,Gloss,,0,0,0,,{\fad(220,220)}Anlage BIG-S1, Nowosibirsk 2015
+Dialogue: 0,0:01:21.46,0:01:26.20,Gloss,,0,0,0,,{\fad(220,220)}Dikson am Nordpolarmeer
+Dialogue: 0,0:01:36.07,0:01:38.72,Gloss,,0,0,0,,{\fad(220,220)}Akademgorodok bei Nowosibirsk
+Dialogue: 0,0:01:50.48,0:01:55.28,Gloss,,0,0,0,,{\fad(220,220)}Vlail Kaznacheev, Institut der Akademie der Wissenschaften
+Dialogue: 0,0:02:16.60,0:02:20.64,Gloss,,0,0,0,,{\fad(220,220)}Zwei Kulturen, getrennt durch Quarzglas
+Dialogue: 0,0:02:37.08,0:02:40.08,Gloss,,0,0,0,,{\fad(220,220)}Alexander Trofimov
+Dialogue: 0,0:02:45.34,0:02:48.00,Gloss,,0,0,0,,{\fad(220,220)}Konstruktionszeichnung der Apparatur, 1996
+Dialogue: 0,0:02:52.16,0:02:55.68,Gloss,,0,0,0,,{\fad(220,220)}Geschliffene Innenseite
+Dialogue: 0,0:02:56.06,0:03:00.20,Gloss,,0,0,0,,{\fad(220,220)}Brennpunkt, fünfzig Zentimeter vor der Fläche
+Dialogue: 0,0:03:00.58,0:03:04.28,Gloss,,0,0,0,,{\fad(220,220)}Figur 2: gebogene Platten, offener Zylinder
+Dialogue: 0,0:03:08.22,0:03:13.12,Gloss,,0,0,0,,{\fad(220,220)}Motorisierte Drehplattform
+Dialogue: 0,0:03:15.72,0:03:21.86,Gloss,,0,0,0,,{\fad(220,220)}Titelseite RU 2122446 C1
+Dialogue: 0,0:03:22.24,0:03:27.22,Gloss,,0,0,0,,{\fad(220,220)}Figur 4: Spirale mit Einstiegsspalt
+Dialogue: 0,0:03:29.40,0:03:31.58,Gloss,,0,0,0,,{\fad(220,220)}Horizontale Anlage BIG-G2pf, 2015
+Dialogue: 0,0:03:31.96,0:03:34.80,Gloss,,0,0,0,,{\fad(220,220)}Zeichnung der Anlage zur Patentschrift
+Dialogue: 0,0:03:44.98,0:03:48.62,Gloss,,0,0,0,,{\fad(220,220)}Sechs Elemente, ein Einstiegsspalt
+Dialogue: 0,0:03:51.82,0:03:56.26,Gloss,,0,0,0,,{\fad(220,220)}Nikolai Kozyrev, 1959
+Dialogue: 0,0:04:58.94,0:05:01.46,Gloss,,0,0,0,,{\fad(220,220)}Kribbeln in den Händen
+Dialogue: 0,0:05:29.34,0:05:35.46,Gloss,,0,0,0,,{\fad(220,220)}Der Stuhl im Zentrum
+Dialogue: 0,0:06:17.50,0:06:20.70,Gloss,,0,0,0,,{\fad(220,220)}Magnetische Rekonnexion am Erdfeld
+Dialogue: 0,0:06:51.32,0:06:55.00,Gloss,,0,0,0,,{\fad(220,220)}Die Anlage im Freien, Polarnacht
+Dialogue: 0,0:06:58.02,0:07:01.10,Gloss,,0,0,0,,{\fad(220,220)}Senderseite: ein einzelnes Symbol
+Dialogue: 0,0:07:15.58,0:07:19.86,Gloss,,0,0,0,,{\fad(220,220)}Empfängerseite: Uhrzeit, Blatt, Stift
+Dialogue: 0,0:08:26.56,0:08:29.74,Gloss,,0,0,0,,{\fad(220,220)}Die Anlage heute
+Dialogue: 0,0:08:30.12,0:08:32.53,Gloss,,0,0,0,,{\fad(220,220)}Formel der Erfindung: die Ansprüche
+Dialogue: 0,0:08:47.40,0:08:50.98,Gloss,,0,0,0,,{\fad(220,220)}Nikolai Kozyrev, 1959
+Dialogue: 0,0:08:51.36,0:08:57.78,Gloss,,0,0,0,,{\fad(220,220)}Grab am Pulkowo-Observatorium
+Dialogue: 0,0:08:58.16,0:08:59.62,Gloss,,0,0,0,,{\fad(220,220)}Großer Refraktor, Pulkowo-Observatorium
+Dialogue: 0,0:09:00.00,0:09:02.97,Gloss,,0,0,0,,{\fad(220,220)}Werkstattarbeit im Lager
+Dialogue: 0,0:09:03.35,0:09:07.06,Gloss,,0,0,0,,{\fad(220,220)}Beobachtung des Mondes, 1958
+Dialogue: 0,0:09:07.44,0:09:12.91,Gloss,,0,0,0,,{\fad(220,220)}Krater Alphonsus
+Dialogue: 0,0:09:16.48,0:09:19.12,Gloss,,0,0,0,,{\fad(220,220)}Waage und Kreisel, Kozyrevs Messaufbau
+Dialogue: 0,0:00:00.20,0:00:21.45,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:00:24.34,0:00:57.86,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:00:58.24,0:01:00.56,Src,,0,0,0,,{\fad(220,220)}Foto: SerMega · CC BY-SA 4.0
+Dialogue: 0,0:01:03.78,0:01:06.50,Src,,0,0,0,,{\fad(220,220)}Foto: Brattarb, 2015 · CC BY-SA 3.0
+Dialogue: 0,0:01:06.88,0:01:10.36,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:01:15.12,0:02:44.96,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:02:45.34,0:02:48.00,Src,,0,0,0,,{\fad(220,220)}Foto: CC BY-SA 4.0
+Dialogue: 0,0:02:52.16,0:03:00.20,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:03:00.58,0:03:04.28,Src,,0,0,0,,{\fad(220,220)}Patentschrift RU 2122446 C1
+Dialogue: 0,0:03:08.22,0:03:15.34,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:03:15.72,0:03:27.22,Src,,0,0,0,,{\fad(220,220)}Patentschrift RU 2122446 C1
+Dialogue: 0,0:03:29.40,0:03:31.58,Src,,0,0,0,,{\fad(220,220)}Foto: Brattarb, 2015 · CC BY-SA 3.0
+Dialogue: 0,0:03:31.96,0:03:34.80,Src,,0,0,0,,{\fad(220,220)}Foto: SerMega · CC BY-SA 4.0
+Dialogue: 0,0:03:35.18,0:03:38.82,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:03:42.90,0:03:48.62,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:03:51.82,0:03:56.26,Src,,0,0,0,,{\fad(220,220)}Foto: gemeinfrei · CC0
+Dialogue: 0,0:03:56.64,0:04:08.88,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:11.86,0:04:16.98,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:19.08,0:04:24.10,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:25.82,0:04:40.96,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:44.92,0:04:48.12,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:50.00,0:04:57.10,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:58.94,0:05:50.00,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:05:58.22,0:06:04.76,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:06:17.50,0:06:20.70,Src,,0,0,0,,{\fad(220,220)}NASA Goddard Space Flight Center · TRACERS
+Dialogue: 0,0:06:22.42,0:06:24.54,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:06:30.60,0:06:55.00,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:06:58.02,0:07:04.66,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:07:08.44,0:07:49.70,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:07:50.08,0:07:54.56,Src,,0,0,0,,{\fad(220,220)}NASA Goddard Space Flight Center · TRACERS
+Dialogue: 0,0:08:01.48,0:08:04.72,Src,,0,0,0,,{\fad(220,220)}Foto: Brattarb, 2015 · CC BY-SA 3.0
+Dialogue: 0,0:08:05.10,0:08:09.14,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:08:18.50,0:08:29.74,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:08:30.12,0:08:32.53,Src,,0,0,0,,{\fad(220,220)}Patentschrift RU 2122446 C1
+Dialogue: 0,0:08:32.91,0:08:41.75,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:08:44.00,0:08:47.02,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:08:47.40,0:08:50.98,Src,,0,0,0,,{\fad(220,220)}Foto: gemeinfrei · CC0
+Dialogue: 0,0:08:51.36,0:08:57.78,Src,,0,0,0,,{\fad(220,220)}Foto: CC BY-SA 4.0
+Dialogue: 0,0:08:58.16,0:08:59.62,Src,,0,0,0,,{\fad(220,220)}Aufnahme gemeinfrei
+Dialogue: 0,0:09:00.00,0:09:07.06,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:09:07.44,0:09:12.91,Src,,0,0,0,,{\fad(220,220)}NASA · gemeinfrei
+Dialogue: 0,0:09:13.29,0:09:22.81,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion

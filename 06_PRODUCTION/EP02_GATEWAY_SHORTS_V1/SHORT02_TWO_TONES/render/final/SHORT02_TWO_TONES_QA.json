@@ -1,0 +1,29 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT02_TWO_TONES\\render\\final\\SHORT02_TWO_TONES_FINAL_1080x1920.mp4",
+  "sha256": "30b5aa66ac62d8a2787e279799e23c6c7a4230118ce168ccac2c88bb14509c76",
+  "duration": 49.133,
+  "shots": 15,
+  "avg_shot": 3.28,
+  "loudness": {
+    "input_i": "-14.10",
+    "input_tp": "-1.00",
+    "input_lra": "2.50",
+    "input_thresh": "-24.71",
+    "output_i": "-14.17",
+    "output_tp": "-1.00",
+    "output_lra": "2.20",
+    "output_thresh": "-24.69",
+    "normalization_type": "dynamic",
+    "target_offset": "0.17"
+  },
+  "checks": {
+    "portrait_1080x1920": true,
+    "h264": true,
+    "aac_48k_stereo": true,
+    "duration_under_60": true,
+    "loudness": true,
+    "peak": true,
+    "speed_112": true,
+    "semantic_timing": true
+  }
+}

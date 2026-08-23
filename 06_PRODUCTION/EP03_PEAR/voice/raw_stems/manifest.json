@@ -1,0 +1,23 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\raw_stems\\EP03_V2_06_OFFTIME.mp3",
+    "sha256": "e1aa9f430c95f3de2af6cbd65301b40003c96fc45dc738e2dcde01c1e36e5d21",
+    "bytes": 1241382,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 2402,
+    "request_id": "P7IN9BgkDSaLwPQpo8hs",
+    "text_sha256": "a26886e23d5cbffd1fe4b1dffc195e742ae24f09e042bb9676512065d9132911",
+    "characters": 1279,
+    "stem_id": "EP03_V2_06_OFFTIME"
+  }
+]

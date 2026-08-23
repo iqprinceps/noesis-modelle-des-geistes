@@ -1,0 +1,164 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Title,Arial,38,&H00F4F0E6,&H000000FF,&H90000000,&H70000000,-1,0,0,0,100,100,1,0,3,1,0,7,92,92,68,1
+Style: Evidence,Arial,23,&H00FFFFFF,&H000000FF,&H70000000,&H9823211E,-1,0,0,0,100,100,1,0,3,1,0,9,80,80,64,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.20,0:00:06.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:00:07.20,0:00:13.80,Title,,0,0,0,,THREE OBSERVERS
+Dialogue: 0,0:00:07.20,0:00:13.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:00:14.20,0:00:21.80,Title,,0,0,0,,NOW / PAST / FUTURE
+Dialogue: 0,0:00:14.20,0:00:21.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:00:22.20,0:00:30.80,Title,,0,0,0,,PROPOSED PROCEDURE
+Dialogue: 0,0:00:22.20,0:00:30.80,Evidence,,0,0,0,,PROPOSED
+Dialogue: 0,0:00:31.20,0:00:39.80,Title,,0,0,0,,9 JUNE 1983
+Dialogue: 0,0:00:31.20,0:00:39.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:00:40.20,0:00:49.80,Title,,0,0,0,,DISTORTION
+Dialogue: 0,0:00:40.20,0:00:49.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:00:50.20,0:00:57.80,Title,,0,0,0,,CIA ARCHIVE COPY
+Dialogue: 0,0:00:50.20,0:00:57.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:00:58.20,0:01:05.80,Title,,0,0,0,,U.S. ARMY → CIA READING ROOM → GOVINFO
+Dialogue: 0,0:00:58.20,0:01:05.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:01:06.20,0:01:13.80,Title,,0,0,0,,DEPARTMENT OF THE ARMY
+Dialogue: 0,0:01:06.20,0:01:13.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:01:14.20,0:01:21.80,Title,,0,0,0,,FORT MEADE
+Dialogue: 0,0:01:14.20,0:01:21.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:01:22.20,0:01:30.80,Title,,0,0,0,,WAYNE M. McDONNELL
+Dialogue: 0,0:01:22.20,0:01:30.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:01:31.20,0:01:39.80,Title,,0,0,0,,MECHANISM / PRACTICALITY
+Dialogue: 0,0:01:31.20,0:01:39.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:01:40.20,0:01:47.80,Title,,0,0,0,,FORT MEADE - 2009
+Dialogue: 0,0:01:40.20,0:01:47.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:01:48.20,0:01:56.80,Title,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:01:48.20,0:01:56.80,Evidence,,0,0,0,,CONTEXT RECONSTRUCTION
+Dialogue: 0,0:01:57.20,0:02:04.80,Title,,0,0,0,,ARMY ASSESSMENT
+Dialogue: 0,0:01:57.20,0:02:04.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:02:05.20,0:02:12.80,Title,,0,0,0,,LEFT 400 Hz
+Dialogue: 0,0:02:05.20,0:02:12.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:02:13.20,0:02:20.80,Title,,0,0,0,,RIGHT 410 Hz
+Dialogue: 0,0:02:13.20,0:02:20.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:02:21.20,0:02:29.80,Title,,0,0,0,,PERCEIVED BEAT 10 Hz
+Dialogue: 0,0:02:21.20,0:02:29.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:02:30.20,0:02:38.80,Title,,0,0,0,,BINAURAL BEAT
+Dialogue: 0,0:02:30.20,0:02:38.80,Evidence,,0,0,0,,RESEARCH
+Dialogue: 0,0:02:39.20,0:02:46.80,Title,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:02:39.20,0:02:46.80,Evidence,,0,0,0,,CONTEXT RECONSTRUCTION
+Dialogue: 0,0:02:47.20,0:02:55.80,Title,,0,0,0,,LATER PATENT - 1993
+Dialogue: 0,0:02:47.20,0:02:55.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:02:56.20,0:03:04.80,Title,,0,0,0,,REPORT MODEL
+Dialogue: 0,0:02:56.20,0:03:04.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:03:05.20,0:03:13.80,Title,,0,0,0,,HEMISPHERIC SYNCHRONIZATION
+Dialogue: 0,0:03:05.20,0:03:13.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:03:14.20,0:03:23.80,Title,,0,0,0,,ALTERED STATE
+Dialogue: 0,0:03:14.20,0:03:23.80,Evidence,,0,0,0,,RESEARCH
+Dialogue: 0,0:03:24.20,0:03:34.80,Title,,0,0,0,,CONCEPTUAL MODEL
+Dialogue: 0,0:03:24.20,0:03:34.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:03:35.20,0:03:43.80,Title,,0,0,0,,ITZHAK BENTOV
+Dialogue: 0,0:03:35.20,0:03:43.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:03:44.20,0:03:52.80,Title,,0,0,0,,RESONANCE
+Dialogue: 0,0:03:44.20,0:03:52.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:03:53.20,0:04:01.80,Title,,0,0,0,,BODY / FIELD
+Dialogue: 0,0:03:53.20,0:04:01.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:04:02.20,0:04:10.80,Title,,0,0,0,,CONSCIOUSNESS
+Dialogue: 0,0:04:02.20,0:04:10.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:04:11.20,0:04:19.80,Title,,0,0,0,,HOLOGRAPHIC ANALOGY
+Dialogue: 0,0:04:11.20,0:04:19.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:04:20.20,0:04:28.80,Title,,0,0,0,,REPORT MODEL
+Dialogue: 0,0:04:20.20,0:04:28.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:04:29.20,0:04:37.80,Title,,0,0,0,,SPACE / TIME
+Dialogue: 0,0:04:29.20,0:04:37.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:04:38.20,0:04:47.80,Title,,0,0,0,,THE ABSOLUTE
+Dialogue: 0,0:04:38.20,0:04:47.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:04:48.20,0:04:57.80,Title,,0,0,0,,FOCUS 10 / FOCUS 12
+Dialogue: 0,0:04:48.20,0:04:57.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:04:58.20,0:05:07.80,Title,,0,0,0,,CONCEPTUAL MODEL
+Dialogue: 0,0:04:58.20,0:05:07.80,Evidence,,0,0,0,,MODEL OF AUTHOR
+Dialogue: 0,0:05:08.20,0:05:19.80,Title,,0,0,0,,NEXT: 15 / 21
+Dialogue: 0,0:05:08.20,0:05:19.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:05:20.20,0:05:28.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:05:29.20,0:05:38.80,Title,,0,0,0,,TRAVEL INTO THE PAST
+Dialogue: 0,0:05:29.20,0:05:38.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:05:39.20,0:05:48.80,Title,,0,0,0,,CONCEPTUAL MODEL
+Dialogue: 0,0:05:39.20,0:05:48.80,Evidence,,0,0,0,,CLAIMED
+Dialogue: 0,0:05:49.20,0:05:58.80,Title,,0,0,0,,LESS THAN 5% - IN REPORT
+Dialogue: 0,0:05:49.20,0:05:58.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:05:59.20,0:06:08.80,Title,,0,0,0,,FOCUS 15 - PAST
+Dialogue: 0,0:05:59.20,0:06:08.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:06:09.20,0:06:18.80,Title,,0,0,0,,THE FUTURE
+Dialogue: 0,0:06:09.20,0:06:18.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:06:19.20,0:06:28.80,Title,,0,0,0,,FOCUS 21 - FUTURE
+Dialogue: 0,0:06:19.20,0:06:28.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:06:29.20,0:06:38.80,Title,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:06:29.20,0:06:38.80,Evidence,,0,0,0,,CLAIMED
+Dialogue: 0,0:06:39.20,0:06:48.80,Title,,0,0,0,,NO GUARANTEE - IN REPORT
+Dialogue: 0,0:06:39.20,0:06:48.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:06:49.20,0:06:58.80,Title,,0,0,0,,DOCUMENTED / CLAIMED
+Dialogue: 0,0:06:49.20,0:06:58.80,Evidence,,0,0,0,,SUMMARY
+Dialogue: 0,0:06:59.20,0:07:09.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:07:10.20,0:07:18.80,Title,,0,0,0,,INFORMATION COLLECTION POTENTIAL
+Dialogue: 0,0:07:10.20,0:07:18.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:07:19.20,0:07:27.80,Title,,0,0,0,,DISTORTION
+Dialogue: 0,0:07:19.20,0:07:27.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:07:28.20,0:07:36.80,Title,,0,0,0,,ONE TARGET
+Dialogue: 0,0:07:28.20,0:07:36.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:07:37.20,0:07:46.80,Title,,0,0,0,,NORMAL SPACE-TIME
+Dialogue: 0,0:07:37.20,0:07:46.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:07:47.20,0:07:56.80,Title,,0,0,0,,FOCUS 15
+Dialogue: 0,0:07:47.20,0:07:56.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:07:57.20,0:08:06.80,Title,,0,0,0,,FOCUS 21
+Dialogue: 0,0:07:57.20,0:08:06.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:08:07.20,0:08:16.80,Title,,0,0,0,,COMPARE DATA
+Dialogue: 0,0:08:07.20,0:08:16.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:08:17.20,0:08:26.80,Title,,0,0,0,,PROPOSED - NOT A RESULT
+Dialogue: 0,0:08:17.20,0:08:26.80,Evidence,,0,0,0,,PROPOSED
+Dialogue: 0,0:08:27.20,0:08:36.80,Title,,0,0,0,,PROPOSED STEPS
+Dialogue: 0,0:08:27.20,0:08:36.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:08:37.20,0:08:46.80,Title,,0,0,0,,NON-CORPOREAL ENERGY FORMS
+Dialogue: 0,0:08:37.20,0:08:46.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:08:47.20,0:08:55.80,Title,,0,0,0,,NON-CORPOREAL ENERGY FORMS
+Dialogue: 0,0:08:47.20,0:08:55.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:08:56.20,0:09:04.80,Title,,0,0,0,,PROPOSED - NOT PROVEN
+Dialogue: 0,0:08:56.20,0:09:04.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:09:05.20,0:09:14.80,Title,,0,0,0,,AUDITORY TEST
+Dialogue: 0,0:09:05.20,0:09:14.80,Evidence,,0,0,0,,RESEARCH
+Dialogue: 0,0:09:15.20,0:09:24.80,Title,,0,0,0,,SYSTEMATIC REVIEW - 2023
+Dialogue: 0,0:09:15.20,0:09:24.80,Evidence,,0,0,0,,RESEARCH
+Dialogue: 0,0:09:25.20,0:09:34.80,Title,,0,0,0,,BINAURAL / MONAURAL
+Dialogue: 0,0:09:25.20,0:09:34.80,Evidence,,0,0,0,,RESEARCH FIGURE
+Dialogue: 0,0:09:35.20,0:09:44.80,Title,,0,0,0,,14 EEG STUDIES
+Dialogue: 0,0:09:35.20,0:09:44.80,Evidence,,0,0,0,,RESEARCH
+Dialogue: 0,0:09:45.20,0:09:54.80,Title,,0,0,0,,5 SUPPORT / 8 CONTRADICT / 1 MIXED
+Dialogue: 0,0:09:45.20,0:09:54.80,Evidence,,0,0,0,,RESEARCH
+Dialogue: 0,0:09:55.20,0:10:04.80,Title,,0,0,0,,HETEROGENEOUS METHODS
+Dialogue: 0,0:09:55.20,0:10:04.80,Evidence,,0,0,0,,RESEARCH
+Dialogue: 0,0:10:05.20,0:10:14.80,Title,,0,0,0,,ALTERED STATE
+Dialogue: 0,0:10:05.20,0:10:14.80,Evidence,,0,0,0,,RESEARCH
+Dialogue: 0,0:10:15.20,0:10:24.80,Title,,0,0,0,,PAST / FUTURE INFORMATION
+Dialogue: 0,0:10:15.20,0:10:24.80,Evidence,,0,0,0,,CLAIMED
+Dialogue: 0,0:10:25.20,0:10:34.80,Title,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:10:25.20,0:10:34.80,Evidence,,0,0,0,,CLAIMED
+Dialogue: 0,0:10:35.20,0:10:44.80,Title,,0,0,0,,VERIFY NEW INFORMATION
+Dialogue: 0,0:10:35.20,0:10:44.80,Evidence,,0,0,0,,OPEN
+Dialogue: 0,0:10:45.20,0:10:54.80,Title,,0,0,0,,THE CLAIM GAP
+Dialogue: 0,0:10:45.20,0:10:54.80,Evidence,,0,0,0,,SUMMARY
+Dialogue: 0,0:10:55.20,0:11:03.80,Title,,0,0,0,,REPORT EXISTS
+Dialogue: 0,0:10:55.20,0:11:03.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:11:04.20,0:11:12.80,Title,,0,0,0,,ARMY ASSESSMENT
+Dialogue: 0,0:11:04.20,0:11:12.80,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:11:13.20,0:11:21.80,Title,,0,0,0,,CLAIMS IN REPORT
+Dialogue: 0,0:11:13.20,0:11:21.80,Evidence,,0,0,0,,CLAIMED
+Dialogue: 0,0:11:22.20,0:11:30.80,Title,,0,0,0,,OPERATIONAL RELIABILITY: OPEN
+Dialogue: 0,0:11:22.20,0:11:30.80,Evidence,,0,0,0,,OPEN
+Dialogue: 0,0:11:31.20,0:11:39.80,Title,,0,0,0,,NOT CIA PROOF
+Dialogue: 0,0:11:31.20,0:11:39.80,Evidence,,0,0,0,,SUMMARY
+Dialogue: 0,0:11:40.20,0:11:49.80,Title,,0,0,0,,PAST / PRESENT / FUTURE
+Dialogue: 0,0:11:40.20,0:11:49.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:11:50.20,0:11:59.80,Title,,0,0,0,,THE IMPOSSIBLE - PLANNED ON PAPER
+Dialogue: 0,0:11:50.20,0:11:59.80,Evidence,,0,0,0,,SUMMARY

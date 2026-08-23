@@ -1,0 +1,38 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\render\\final\\EP01_KOZYREV_FINAL_1080p.mp4",
+  "sha256": "5692dc0954304ac33558c2c457e1c784fbf255053b14ca16579b56d2824d178f",
+  "duration": 555.12,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "bit_rate": "251482"
+  },
+  "loudness": {
+    "input_i": "-14.41",
+    "input_tp": "-1.24",
+    "input_lra": "2.30",
+    "input_thresh": "-24.84",
+    "output_i": "-14.02",
+    "output_tp": "-1.00",
+    "output_lra": "2.20",
+    "output_thresh": "-24.43",
+    "normalization_type": "dynamic",
+    "target_offset": "0.02"
+  },
+  "checks": {
+    "resolution_1080p": true,
+    "h264_yuv420p": true,
+    "aac_stereo_48k": true,
+    "duration_matches": true,
+    "loudness_near_minus14": true,
+    "true_peak_safe": true
+  }
+}

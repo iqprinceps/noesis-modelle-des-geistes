@@ -1,0 +1,29 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\render\\final\\SHORT01_THREE_OBSERVERS_FINAL_1080x1920.mp4",
+  "sha256": "5f979be2f28b8b9fdd1cb0ce5cc8c3c1b0130a299185780446aa002e59a07f2e",
+  "duration": 46.114,
+  "shots": 14,
+  "avg_shot": 3.29,
+  "loudness": {
+    "input_i": "-14.03",
+    "input_tp": "-0.98",
+    "input_lra": "2.10",
+    "input_thresh": "-24.73",
+    "output_i": "-14.06",
+    "output_tp": "-1.00",
+    "output_lra": "1.90",
+    "output_thresh": "-24.63",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "checks": {
+    "portrait_1080x1920": true,
+    "h264": true,
+    "aac_48k_stereo": true,
+    "duration_under_60": true,
+    "loudness": true,
+    "peak": true,
+    "speed_112": true,
+    "semantic_timing": true
+  }
+}

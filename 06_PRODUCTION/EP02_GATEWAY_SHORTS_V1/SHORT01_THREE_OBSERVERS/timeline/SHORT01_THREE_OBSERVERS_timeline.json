@@ -1,0 +1,128 @@
+[
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH01",
+    "anchor": "Drei Menschen",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_AI01_THREE_OBSERVERS_9x16.png",
+    "label": "RECONSTRUCTION",
+    "start": 0.0,
+    "end": 2.559,
+    "duration": 2.559
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH02",
+    "anchor": "Einer beobachtet",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_CARD01_THREE_OBSERVERS_9x16.png",
+    "label": "PRESENT",
+    "start": 2.559,
+    "end": 4.36,
+    "duration": 1.801
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH03",
+    "anchor": "Einer soll",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_DOC01_RECOMMENDATION_H_9x16.png",
+    "label": "PAST · IN THE REPORT",
+    "start": 4.36,
+    "end": 8.34,
+    "duration": 3.98
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH04",
+    "anchor": "Der dritte",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_AI02_TIME_OBSERVERS_9x16.png",
+    "label": "FUTURE",
+    "start": 8.34,
+    "end": 10.76,
+    "duration": 2.42
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH05",
+    "anchor": "Das klingt erfunden",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_DOC02_ARMY_HEADER_9x16.png",
+    "label": "U.S. ARMY REPORT · 1983",
+    "start": 10.76,
+    "end": 12.42,
+    "duration": 1.66
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH06",
+    "anchor": "genau dieser Vorschlag",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_DOC01_RECOMMENDATION_H_9x16.png",
+    "label": "RECOMMENDATION H",
+    "start": 12.42,
+    "end": 20.719,
+    "duration": 8.299
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH07",
+    "anchor": "Anschließend",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_CARD01_THREE_OBSERVERS_9x16.png",
+    "label": "COMPARE REPORTS",
+    "start": 20.719,
+    "end": 24.019,
+    "duration": 3.3
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH08",
+    "anchor": "Der entscheidende Punkt",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_DOC01_RECOMMENDATION_H_9x16.png",
+    "label": "A PROPOSED TEST",
+    "start": 24.019,
+    "end": 27.119,
+    "duration": 3.1
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH09",
+    "anchor": "Versuchsplan",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_AI01_THREE_OBSERVERS_9x16.png",
+    "label": "PLAN · NOT RESULT",
+    "start": 27.119,
+    "end": 29.019,
+    "duration": 1.9
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH10",
+    "anchor": "nicht, dass dieser Versuch",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_CARD01_THREE_OBSERVERS_9x16.png",
+    "label": "NO SUCCESS REPORTED",
+    "start": 29.019,
+    "end": 32.36,
+    "duration": 3.341
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH11",
+    "anchor": "Das Merkwürdige",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_AI02_TIME_OBSERVERS_9x16.png",
+    "label": "WHAT IS ACTUALLY STRANGE",
+    "start": 32.36,
+    "end": 33.5,
+    "duration": 1.14
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH12",
+    "anchor": "nicht, dass die Army",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_DOC02_ARMY_HEADER_9x16.png",
+    "label": "NO PROOF OF TIME TRAVEL",
+    "start": 33.5,
+    "end": 37.899,
+    "duration": 4.399
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH13",
+    "anchor": "Militäranalyst",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_AI01_THREE_OBSERVERS_9x16.png",
+    "label": "A MILITARY ANALYST",
+    "start": 37.899,
+    "end": 43.319,
+    "duration": 5.42
+  },
+  {
+    "shot_id": "SHORT01_THREE_OBSERVERS_SH14",
+    "anchor": "konkreten Test",
+    "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_SHORTS_V1\\SHORT01_THREE_OBSERVERS\\assets\\S01_DOC01_RECOMMENDATION_H_9x16.png",
+    "label": "PAST · PRESENT · FUTURE",
+    "start": 43.319,
+    "end": 46.115,
+    "duration": 2.796
+  }
+]

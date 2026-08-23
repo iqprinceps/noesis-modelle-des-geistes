@@ -1,0 +1,109 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gloss,Arial,44,&H00D2E8F0,&H0,&HC828140A,&HC828140A,-1,0,0,0,100,100,0,0,3,14,0,1,86,420,132,1
+Style: Src,Arial,25,&H00A0D93F,&H0,&HC828140A,&HC828140A,0,0,0,0,100,100,1,0,3,10,0,1,86,420,92,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.20,0:00:03.88,Gloss,,0,0,0,,{\fad(220,220)}Engineering Quadrangle, Princeton
+Dialogue: 0,0:00:16.70,0:00:19.62,Gloss,,0,0,0,,{\fad(220,220)}Robert G. Jahn
+Dialogue: 0,0:00:20.00,0:00:22.58,Gloss,,0,0,0,,{\fad(220,220)}Jahns Vakuumkammer, Princeton 1966
+Dialogue: 0,0:00:49.38,0:00:54.30,Gloss,,0,0,0,,{\fad(220,220)}Analogoszilloskop, 1989
+Dialogue: 0,0:00:54.68,0:00:59.46,Gloss,,0,0,0,,{\fad(220,220)}Analogoszilloskop, 1977
+Dialogue: 0,0:00:59.84,0:01:05.66,Gloss,,0,0,0,,{\fad(220,220)}Nassau Hall, Princeton
+Dialogue: 0,0:01:08.38,0:01:09.96,Gloss,,0,0,0,,{\fad(220,220)}Elektrodenkopf mit Mikrowellenhorn, 1966
+Dialogue: 0,0:01:10.34,0:01:12.02,Gloss,,0,0,0,,{\fad(220,220)}Hof des Engineering Quadrangle
+Dialogue: 0,0:01:28.66,0:01:32.88,Gloss,,0,0,0,,{\fad(220,220)}Brenda J. Dunne
+Dialogue: 0,0:01:44.30,0:01:49.44,Gloss,,0,0,0,,{\fad(220,220)}Blair Arch, Princeton
+Dialogue: 0,0:01:55.98,0:01:59.00,Gloss,,0,0,0,,{\fad(220,220)}Zenerdiode, Bauform der Zeit
+Dialogue: 0,0:02:04.48,0:02:06.26,Gloss,,0,0,0,,{\fad(220,220)}Figur 8A: der Analogteil
+Dialogue: 0,0:02:09.40,0:02:11.02,Gloss,,0,0,0,,{\fad(220,220)}Figur 4: der Signalweg
+Dialogue: 0,0:02:15.72,0:02:20.60,Gloss,,0,0,0,,{\fad(220,220)}Gelochtes Mylarband, um 1979
+Dialogue: 0,0:03:21.48,0:03:24.80,Gloss,,0,0,0,,{\fad(220,220)}Galton-Brett, vorher und nachher
+Dialogue: 0,0:03:25.18,0:03:29.58,Gloss,,0,0,0,,{\fad(220,220)}Galton-Brett
+Dialogue: 0,0:04:09.58,0:04:12.46,Gloss,,0,0,0,,{\fad(220,220)}Figur 15A: kumulierte Abweichung
+Dialogue: 0,0:04:20.06,0:04:23.84,Gloss,,0,0,0,,{\fad(220,220)}Gebundener Zeilendrucker-Ausdruck, 1978
+Dialogue: 0,0:04:24.22,0:04:27.18,Gloss,,0,0,0,,{\fad(220,220)}Figur 15B: kumulierte Abweichung
+Dialogue: 0,0:05:04.84,0:05:14.27,Gloss,,0,0,0,,{\fad(220,220)}Institut für Grenzgebiete der Psychologie, Freiburg
+Dialogue: 0,0:05:23.08,0:05:31.16,Gloss,,0,0,0,,{\fad(220,220)}Philosophikum I, Gießen
+Dialogue: 0,0:06:32.29,0:06:34.94,Gloss,,0,0,0,,{\fad(220,220)}Figur 2: der tragbare Generator
+Dialogue: 0,0:07:41.84,0:07:47.30,Gloss,,0,0,0,,{\fad(220,220)}Zeilendrucker CDC 501
+Dialogue: 0,0:07:47.68,0:07:52.40,Gloss,,0,0,0,,{\fad(220,220)}Druckwalze eines Zeilendruckers
+Dialogue: 0,0:08:11.76,0:08:13.64,Gloss,,0,0,0,,{\fad(220,220)}Figur 3: die Maskentabelle
+Dialogue: 0,0:08:19.18,0:08:20.68,Gloss,,0,0,0,,{\fad(220,220)}Robert G. Jahn
+Dialogue: 0,0:08:24.23,0:08:31.87,Gloss,,0,0,0,,{\fad(220,220)}Jahns Unterschrift, Princeton 1966
+Dialogue: 0,0:08:59.76,0:09:05.40,Gloss,,0,0,0,,{\fad(220,220)}Engineering Quadrangle, Princeton
+Dialogue: 0,0:09:09.68,0:09:11.30,Gloss,,0,0,0,,{\fad(220,220)}Figur 1: Gesamtaufbau
+Dialogue: 0,0:09:11.68,0:09:14.98,Gloss,,0,0,0,,{\fad(220,220)}Figur 16: die Anordnung
+Dialogue: 0,0:09:19.28,0:09:23.80,Gloss,,0,0,0,,{\fad(220,220)}Figur 17: die Datenerfassung
+Dialogue: 0,0:09:24.18,0:09:26.98,Gloss,,0,0,0,,{\fad(220,220)}Figur 5A: der Datenweg
+Dialogue: 0,0:09:32.48,0:09:40.50,Gloss,,0,0,0,,{\fad(220,220)}Jahns Unterschrift, Princeton 1966
+Dialogue: 0,0:09:40.88,0:09:45.72,Gloss,,0,0,0,,{\fad(220,220)}Engineering Quadrangle, Princeton
+Dialogue: 0,0:09:49.94,0:09:52.56,Gloss,,0,0,0,,{\fad(220,220)}Figur 6B: die Anordnung
+Dialogue: 0,0:09:52.94,0:09:54.50,Gloss,,0,0,0,,{\fad(220,220)}Hardware-Zufallsgenerator, heutige Bauform
+Dialogue: 0,0:00:00.20,0:00:03.88,Src,,0,0,0,,{\fad(220,220)}CC BY 4.0
+Dialogue: 0,0:00:04.26,0:00:14.22,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:00:16.70,0:00:19.62,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:00:20.00,0:00:22.58,Src,,0,0,0,,{\fad(220,220)}Jahn, Princeton 1966 · gemeinfrei
+Dialogue: 0,0:00:22.96,0:00:35.06,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:00:39.04,0:00:49.00,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:00:49.38,0:00:54.30,Src,,0,0,0,,{\fad(220,220)}US Department of Energy · gemeinfrei
+Dialogue: 0,0:00:54.68,0:00:59.46,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 3.0
+Dialogue: 0,0:00:59.84,0:01:05.66,Src,,0,0,0,,{\fad(220,220)}CC BY 4.0
+Dialogue: 0,0:01:06.04,0:01:08.00,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:01:08.38,0:01:09.96,Src,,0,0,0,,{\fad(220,220)}Jahn, Princeton 1966 · gemeinfrei
+Dialogue: 0,0:01:10.34,0:01:12.02,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 4.0
+Dialogue: 0,0:01:12.40,0:01:40.68,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:01:44.30,0:01:49.44,Src,,0,0,0,,{\fad(220,220)}CC BY 4.0
+Dialogue: 0,0:01:49.82,0:01:55.60,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:01:55.98,0:01:59.00,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 4.0
+Dialogue: 0,0:01:59.38,0:02:04.10,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:02:04.48,0:02:06.26,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:02:06.64,0:02:09.02,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:02:09.40,0:02:11.02,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:02:15.72,0:02:20.60,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 3.0
+Dialogue: 0,0:02:20.98,0:02:24.70,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:02:30.72,0:03:16.10,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:03:21.48,0:03:29.58,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 4.0
+Dialogue: 0,0:03:29.96,0:03:46.38,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:01.14,0:04:09.20,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:09.58,0:04:12.46,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:04:12.84,0:04:16.06,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:20.06,0:04:23.84,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 3.0
+Dialogue: 0,0:04:24.22,0:04:27.18,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:04:27.56,0:04:50.34,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:55.98,0:05:01.42,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:05:04.84,0:05:14.27,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 3.0
+Dialogue: 0,0:05:14.65,0:05:22.70,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:05:23.08,0:05:31.16,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 3.0
+Dialogue: 0,0:05:31.54,0:05:42.16,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:05:51.10,0:06:15.60,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:06:18.72,0:06:31.91,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:06:32.29,0:06:34.94,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:06:35.32,0:06:41.64,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:06:43.96,0:07:03.31,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:07:07.48,0:07:41.46,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:07:41.84,0:07:52.40,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 3.0
+Dialogue: 0,0:07:57.86,0:08:11.38,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:08:11.76,0:08:13.64,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:08:14.02,0:08:23.85,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:08:24.23,0:08:31.87,Src,,0,0,0,,{\fad(220,220)}Jahn, Princeton 1966 · gemeinfrei
+Dialogue: 0,0:08:32.25,0:08:44.58,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:08:59.76,0:09:05.40,Src,,0,0,0,,{\fad(220,220)}CC BY-SA 4.0
+Dialogue: 0,0:09:09.68,0:09:14.98,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:09:15.36,0:09:18.90,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:09:19.28,0:09:26.98,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:09:27.36,0:09:32.10,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:09:32.48,0:09:40.50,Src,,0,0,0,,{\fad(220,220)}Jahn, Princeton 1966 · gemeinfrei
+Dialogue: 0,0:09:40.88,0:09:45.72,Src,,0,0,0,,{\fad(220,220)}CC BY 4.0
+Dialogue: 0,0:09:46.10,0:09:49.56,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:09:49.94,0:09:52.56,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift 5.830.064
+Dialogue: 0,0:09:52.94,0:09:54.50,Src,,0,0,0,,{\fad(220,220)}CC BY 4.0
+Dialogue: 0,0:09:54.88,0:10:10.83,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion

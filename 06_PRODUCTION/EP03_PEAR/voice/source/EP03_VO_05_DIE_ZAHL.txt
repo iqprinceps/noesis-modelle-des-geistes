@@ -1,0 +1,9 @@
+Und dann kommt der Teil, der schwerer zu erzählen ist als jeder Apparat.
+
+Über alle Jahre und alle Versuche zusammen liegt die Abweichung in der Größenordnung von einem Bit auf zehntausend.
+
+Stell dir zehntausend Münzwürfe vor. Erwartet werden fünftausend Mal Kopf. Gemessen werden fünftausendundeins.
+
+Das ist der ganze Effekt.
+
+Erst wenn man Millionen von Durchgängen übereinanderlegt, wird aus dem Rauschen eine Linie, die nicht mehr auf null zurückkehrt.

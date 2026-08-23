@@ -1,0 +1,79 @@
+{
+  "master": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\master\\EP02_GATEWAY_VO_MASTER_48k24_mono.wav",
+  "duration": 720.0,
+  "method": "scene-window fit with bounded atempo and explicit chapter pauses",
+  "scenes": [
+    {
+      "scene": "S1",
+      "source_seconds": 58.282,
+      "fitted_seconds": 49.103,
+      "atempo": 1.1872,
+      "pre_gap": 0.55,
+      "post_gap": 0.347,
+      "window": 50.0
+    },
+    {
+      "scene": "S2",
+      "source_seconds": 69.521,
+      "fitted_seconds": 73.493,
+      "atempo": 0.9459,
+      "pre_gap": 0.35,
+      "post_gap": 1.157,
+      "window": 75.0
+    },
+    {
+      "scene": "S3",
+      "source_seconds": 97.617,
+      "fitted_seconds": 88.507,
+      "atempo": 1.103,
+      "pre_gap": 0.35,
+      "post_gap": 1.143,
+      "window": 90.0
+    },
+    {
+      "scene": "S4",
+      "source_seconds": 105.14,
+      "fitted_seconds": 103.502,
+      "atempo": 1.0158,
+      "pre_gap": 0.35,
+      "post_gap": 1.148,
+      "window": 105.0
+    },
+    {
+      "scene": "S5",
+      "source_seconds": 110.155,
+      "fitted_seconds": 108.484,
+      "atempo": 1.0153,
+      "pre_gap": 0.35,
+      "post_gap": 1.166,
+      "window": 110.0
+    },
+    {
+      "scene": "S6",
+      "source_seconds": 120.14,
+      "fitted_seconds": 113.508,
+      "atempo": 1.0585,
+      "pre_gap": 0.35,
+      "post_gap": 1.142,
+      "window": 115.0
+    },
+    {
+      "scene": "S7",
+      "source_seconds": 125.434,
+      "fitted_seconds": 108.509,
+      "atempo": 1.1561,
+      "pre_gap": 0.35,
+      "post_gap": 1.141,
+      "window": 110.0
+    },
+    {
+      "scene": "S8",
+      "source_seconds": 66.966,
+      "fitted_seconds": 63.493,
+      "atempo": 1.0546,
+      "pre_gap": 0.35,
+      "post_gap": 1.157,
+      "window": 65.0
+    }
+  ]
+}

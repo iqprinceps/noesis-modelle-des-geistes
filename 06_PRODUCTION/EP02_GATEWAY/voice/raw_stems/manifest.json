@@ -1,0 +1,170 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems\\EP02_VO_01_DREI_BEOBACHTER.mp3",
+    "sha256": "c0bf3efd1709fbe63a020cc959c38f3ddc20ad515ca93af4162290373a7d578a",
+    "bytes": 933764,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.03,
+      "use_speaker_boost": true,
+      "speed": 1.05
+    },
+    "seed": 2402,
+    "request_id": "OGxkLBwDfKDVUTWy0g0d",
+    "text_sha256": "41b0a1fac709eea2dfcb6057d1b60816c01503008eaa30ee8a132969dbcf63df",
+    "characters": 833,
+    "stem_id": "EP02_VO_01_DREI_BEOBACHTER"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems\\EP02_VO_02_EINE_ARMY_AKTE_IM_CIA_ARCHIV.mp3",
+    "sha256": "1e1638dd5bbcbb1a279fb9f66a5863cd8d5b315e0c64703d4db19a2084508530",
+    "bytes": 1113487,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.03,
+      "use_speaker_boost": true,
+      "speed": 1.16
+    },
+    "seed": 2402,
+    "request_id": "efBLtpHwKCGXv4J5qVr9",
+    "text_sha256": "72411566f9ad13c74afe2a6a696c1464246769eeadcc8647d51f02323388f37d",
+    "characters": 1259,
+    "stem_id": "EP02_VO_02_EINE_ARMY_AKTE_IM_CIA_ARCHIV"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems\\EP02_VO_03_ZWEI_TOENE_UND_DER_DRITTE_RHYTHMUS.mp3",
+    "sha256": "978dc2999e2ac725202f1c1bb76b56ce6c4931f0cbc39c104041d38197db0811",
+    "bytes": 1562793,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.03,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "NUfcjHlL5rk2tGaOhNh7",
+    "text_sha256": "dbfef97b8580104effcbf62bcde6db4a3b9e32f55806dcc9ed3bc1aabe7ba505",
+    "characters": 1570,
+    "stem_id": "EP02_VO_03_ZWEI_TOENE_UND_DER_DRITTE_RHYTHMUS"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems\\EP02_VO_04_DAS_WELTMODELL_IM_BERICHT.mp3",
+    "sha256": "1847519f0ec2b14fab4b7fe595ff0b7106395d54d44105933851fccdf56b4ac5",
+    "bytes": 1683165,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.03,
+      "use_speaker_boost": true,
+      "speed": 0.88
+    },
+    "seed": 2402,
+    "request_id": "QqZEEtvdMcSro8OLs4Mz",
+    "text_sha256": "dc28c5c014f6f9d97ef43f320a5b7c8bfbc4431a6d3637c2df9d37eec607bc9c",
+    "characters": 1360,
+    "stem_id": "EP02_VO_04_DAS_WELTMODELL_IM_BERICHT"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems\\EP02_VO_05_FOCUS_15_FOCUS_21_UND_DER_KOERPER.mp3",
+    "sha256": "fe468976ea1019c72aa423a3d2534063ac49832214dc5db27fbb7fabcf980181",
+    "bytes": 1763413,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.03,
+      "use_speaker_boost": true,
+      "speed": 0.9
+    },
+    "seed": 2402,
+    "request_id": "wjFwL8jQZlcU1Z5WNxp2",
+    "text_sha256": "5fe1096e48cec0ca71941fbf5de5f0eac903ef150ceee270746cd2f50551025b",
+    "characters": 1424,
+    "stem_id": "EP02_VO_05_FOCUS_15_FOCUS_21_UND_DER_KOERPER"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems\\EP02_VO_06_ALS_DAS_MODELL_OPERATIV_WIRD.mp3",
+    "sha256": "821a239644b1c652546f5bf790f077b038b1b04a0e3de519369e53c4b1b2f24a",
+    "bytes": 1923492,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.03,
+      "use_speaker_boost": true,
+      "speed": 0.86
+    },
+    "seed": 2402,
+    "request_id": "RelrJSXXO953w9hoxnpE",
+    "text_sha256": "ae002bf8dbb69fc47dbb5a90c91762443108ced37d86b10b5e223bdc0888789d",
+    "characters": 1519,
+    "stem_id": "EP02_VO_06_ALS_DAS_MODELL_OPERATIV_WIRD"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems\\EP02_VO_07_DER_KLEINE_EFFEKT_GEGEN_DEN_RIESIGEN_CLAIM.mp3",
+    "sha256": "e61a087174c459188da4d16677f3b249d947c08dd2136be8b7e9879c5d275b0c",
+    "bytes": 2007919,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.03,
+      "use_speaker_boost": true,
+      "speed": 0.92
+    },
+    "seed": 2402,
+    "request_id": "EevVY6zVq9Vtgvd2eAQO",
+    "text_sha256": "4fbbf8ca78acdc831e4fed74665fe14ebe10f60fde12d6320b171cfe398d9af3",
+    "characters": 1600,
+    "stem_id": "EP02_VO_07_DER_KLEINE_EFFEKT_GEGEN_DEN_RIESIGEN_CLAIM"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems\\EP02_VO_08_WAS_BLEIBT.mp3",
+    "sha256": "dd5521f4b8fe2777e825e47c1b57d9bf333c0d81955286d3b65e1cc2d9614b4b",
+    "bytes": 1072527,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.03,
+      "use_speaker_boost": true,
+      "speed": 0.96
+    },
+    "seed": 2402,
+    "request_id": "0TSlOxxHEV2JTxs6ZuIV",
+    "text_sha256": "545a94bc7760c86adbec733720e447956e2f79e74a45460a97d5c282a0652709",
+    "characters": 938,
+    "stem_id": "EP02_VO_08_WAS_BLEIBT"
+  }
+]

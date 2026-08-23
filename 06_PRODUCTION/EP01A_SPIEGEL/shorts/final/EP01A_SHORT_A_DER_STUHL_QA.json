@@ -1,0 +1,22 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01A_SPIEGEL\\shorts\\final\\EP01A_SHORT_A_DER_STUHL_9x16.mp4",
+  "duration": 54.3,
+  "shots": 14,
+  "unique_visuals": 12,
+  "captions": 25,
+  "loudness_lufs": -14.36,
+  "true_peak_dbtp": -0.98,
+  "sha256": "51918405c3155f563c142c59401ad09f15e6810bb1bc32f4a099fffcb4cc62cd",
+  "checks": {
+    "1080x1920": true,
+    "h264_yuv420p": true,
+    "30fps": true,
+    "aac_48k_stereo": true,
+    "unter_3_minuten": true,
+    "dauer_stimmt": true,
+    "mind_10_motive": true,
+    "untertitel_vorhanden": true,
+    "loudness": true,
+    "peak": true
+  }
+}

@@ -1,0 +1,814 @@
+EP04 V4.2 — Edit Decision List
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+SZENE S1: Die Flut
+────────────────────────────────────────────────────────────────────────────────
+
+[00:00–00:04] ( 4.0s) EP04_V4_C001
+  Voice: Im Oktober 1913 sitzt ein Mann in einem Zug durch die Schweiz...
+  Asset: EP04_S1_001_lok_viadukt.png [STILL_IMAGE]
+
+[00:04–00:08] ( 4.0s) EP04_V4_C002
+  Voice: und sieht Europa untergehen...
+  Asset: EP04_S1_002_mann_zugfenster.png [STILL_IMAGE]
+
+[00:08–00:12] ( 4.0s) EP04_V4_C003
+  Voice: Er heißt Carl Gustav Jung er ist achtunddreißig Jahre alt...
+  Asset: EP04_S1_003_portraet_jung_1910.png [STILL_IMAGE]
+
+[00:12–00:16] ( 4.0s) EP04_V4_C004
+  Voice: und er hat gerade alles verloren was ihn ausgemacht hat...
+  Asset: EP04_S1_003_portraet_jung_1910.png [STILL_IMAGE]
+
+[00:16–00:20] ( 4.0s) EP04_V4_C005
+  Voice: Der Bruch mit Sigmund Freud liegt ein Jahr zurück...
+  Asset: EP04_S1_004_freud_und_jung.png [STILL_IMAGE]
+
+[00:20–00:24] ( 4.0s) EP04_V4_C006
+  Voice: Die Bewegung in der er der Kronprinz war hat ihn ausgestoßen...
+  Asset: EP04_S1_005_zerrissener_brief.png [STILL_IMAGE]
+
+[00:24–00:28] ( 4.0s) EP04_V4_C007
+  Voice: Und dann im Wachzustand mitten am Tag kommt das Bild...
+  Asset: EP04_S1_006_haende_auf_den_knien.png [STILL_IMAGE]
+
+[00:28–00:32] ( 4.0s) EP04_V4_C008
+  Voice: Eine ungeheure Flut über dem ganzen Norden Europas...
+  Asset: EP04_S1_007_die_flut.png [STILL_IMAGE]
+  >>> VEO: VE01_die_gelbe_flut.mp4 — VE01 Die gelbe Flut (8s)
+
+[00:32–00:36] ( 4.0s) EP04_V4_C009
+  Voice: zwischen der Nordsee und den Alpen Gelbe Wellen...
+  Asset: EP04_S1_008_truemmer_im_wasser.png [STILL_IMAGE]
+
+[00:36–00:40] ( 4.0s) EP04_V4_C010
+  Voice: Darin die treibenden Trümmer der Zivilisation...
+  Asset: EP04_S1_009_meer_wird_zu_blut.png [STILL_IMAGE]
+  >>> VEO: VE02_das_meer_wird_zu_blut.mp4 — VE02 Meer wird zu Blut (8s)
+
+[00:40–00:44] ( 4.0s) EP04_V4_C011
+  Voice: Und die Leichen ungezählter Tausender...
+  Asset: EP04_S1_010_notizbuch_auf_dem_schoss.png [STILL_IMAGE]
+
+[00:44–00:48] ( 4.0s) EP04_V4_C012
+  Voice: Dann färbt sich das Meer zu Blut...
+  Asset: EP04_S1_011_burghoelzli.png [STILL_IMAGE]
+
+[00:48–00:52] ( 4.0s) EP04_V4_C013
+  Voice: Es dauert etwa eine Stunde...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[00:52–00:56] ( 4.0s) EP04_V4_C014
+  Voice: Zwei Wochen später kommt es wieder Dasselbe Bild stärker...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[00:56–01:00] ( 4.0s) EP04_V4_C015
+  Voice: Und diesmal spricht eine Stimme mit ihm und sagt das sei wirklich...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[01:00–01:04] ( 4.0s) EP04_V4_C016
+  Voice: Jung ist Psychiater Er hat sein Berufsleben in einer psychiatrischen Klinik bego...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[01:04–01:08] ( 4.0s) EP04_V4_C017
+  Voice: Er hat später gesagt er habe sich von einer Psychose bedroht gefühlt...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[01:08–01:12] ( 4.0s) EP04_V4_C018
+  Voice: Im August 1914 bricht der Erste Weltkrieg aus Genau in der Landschaft die er ges...
+  Asset: EP04_S2_017_die_hoehle.png [STILL_IMAGE]
+
+
+────────────────────────────────────────────────────────────────────────────────
+SZENE S2: Er geht zurück hinein
+────────────────────────────────────────────────────────────────────────────────
+
+[01:12–01:16] ( 4.0s) EP04_V4_C019
+  Voice: An dieser Stelle würde jeder vernünftige Mensch aufhören...
+  Asset: EP04_S2_018_der_schwarze_kaefer.png [STILL_IMAGE]
+
+[01:16–01:20] ( 4.0s) EP04_V4_C020
+  Voice: Jung tut das Gegenteil Im Dezember 1913 setzt er sich abends an seinen Schreibti...
+  Asset: EP04_S2_019_rote_sonne_unter_wasser.png [STILL_IMAGE]
+
+[01:20–01:24] ( 4.0s) EP04_V4_C021
+  Voice: und macht es absichtlich...
+  Asset: CARD_aktive_imagination.png [STILL_IMAGE]
+
+[01:24–01:28] ( 4.0s) EP04_V4_C022
+  Voice: Er beschreibt es wie einen Schritt ins Dunkle...
+  Asset: EP04_S2_021_schattenfiguren.png [STILL_IMAGE]
+
+[01:28–01:32] ( 4.0s) EP04_V4_C023
+  Voice: Der Boden gibt nach er fällt und dann steht er in einer Höhle...
+  Asset: EP04_S2_022_zwei_gestalten_gewoelbe.png [STILL_IMAGE]
+
+[01:32–01:36] ( 4.0s) EP04_V4_C024
+  Voice: Ein Leichnam treibt vorbei Ein schwarzer Käfer...
+  Asset: EP04_S2_023_praxis_bei_tageslicht.png [STILL_IMAGE]
+
+[01:36–01:40] ( 4.0s) EP04_V4_C025
+  Voice: Eine rote Sonne tief unten im Wasser...
+  Asset: EP04_S2_024_gedeckter_tisch.png [STILL_IMAGE]
+
+[01:40–01:44] ( 4.0s) EP04_V4_C026
+  Voice: Was er dort tut hat er später zu einer Methode gemacht...
+  Asset: EP04_S2_025_arztkoffer_und_muetze.png [STILL_IMAGE]
+
+[01:44–01:48] ( 4.0s) EP04_V4_C027
+  Voice: und die ist bis heute in Gebrauch Sie heißt aktive Imagination...
+  Asset: EP04_S2_026_dielen_und_schreibtischbein.png [STILL_IMAGE]
+
+[01:48–01:52] ( 4.0s) EP04_V4_C028
+  Voice: Man setzt sich hin Man stellt das rechnende ordnende Denken still...
+  Asset: EP04_S2_027_notizhefte_im_regal.png [STILL_IMAGE]
+
+[01:52–01:56] ( 4.0s) EP04_V4_C029
+  Voice: ohne einzuschlafen Man lässt die Bilder kommen die dann kommen...
+  Asset: EP04_S3_028_elias.png [STILL_IMAGE]
+
+[01:56–02:00] ( 4.0s) EP04_V4_C030
+  Voice: Und dann geht man selbst hinein Man spricht die Gestalten an...
+  Asset: EP04_S3_029_salome.png [STILL_IMAGE]
+
+[02:00–02:04] ( 4.0s) EP04_V4_C031
+  Voice: Man widerspricht ihnen Man stellt Fragen und wartet auf die Antwort...
+  Asset: EP04_S3_030_schwarze_schlange_schiefer.png [STILL_IMAGE]
+
+[02:04–02:08] ( 4.0s) EP04_V4_C032
+  Voice: Kein Zuschauen Beteiligung...
+  Asset: EP04_S3_031_der_kopf_hebt_sich.png [STILL_IMAGE]
+
+[02:08–02:12] ( 4.0s) EP04_V4_C033
+  Voice: Und während das jeden Abend passiert führt Jung tagsüber weiter seine Praxis...
+  Asset: EP04_S3_032_philemon.png [STILL_IMAGE]
+
+[02:12–02:16] ( 4.0s) EP04_V4_C034
+  Voice: Er behandelt Patienten Er hat eine Frau und fünf Kinder...
+  Asset: EP04_S3_033_eisvogelgefieder.png [STILL_IMAGE]
+
+[02:16–02:20] ( 4.0s) EP04_V4_C035
+  Voice: Ab 1914 tut er Dienst als Militärarzt...
+  Asset: EP04_S3_034_kiesweg_im_garten.png [STILL_IMAGE]
+
+[02:20–02:24] ( 4.0s) EP04_V4_C036
+  Voice: Er hat später gesagt genau das habe ihn gehalten...
+  Asset: EP04_S3_035_kurrentschrift.png [STILL_IMAGE]
+
+[02:24–02:28] ( 4.0s) EP04_V4_C037
+  Voice: Die Familie und die Arbeit waren der Boden auf den er jeden Morgen zurückkam...
+  Asset: CARD_philemon_zitat.png [STILL_IMAGE]
+
+[02:28–02:32] ( 4.0s) EP04_V4_C038
+  Voice: Das ist keine Nebenbemerkung Das ist die Bedingung unter der er zurückkam...
+  Asset: EP04_S3_037_tiere_im_nebelwald.png [STILL_IMAGE]
+
+
+────────────────────────────────────────────────────────────────────────────────
+SZENE S3: Philemon
+────────────────────────────────────────────────────────────────────────────────
+
+[02:48–02:52] ( 4.0s) EP04_V4_C039
+  Voice: In den Bildern sind Gestalten und die Gestalten haben eigene Absichten...
+  Asset: EP04_S3_038_vogelschwarm.png [STILL_IMAGE]
+
+[02:52–02:56] ( 4.0s) EP04_V4_C040
+  Voice: Ein alter Prophet den er Elias nennt...
+  Asset: CARD_psych_objektivitaet.png [STILL_IMAGE]
+
+[02:56–03:00] ( 4.0s) EP04_V4_C041
+  Voice: Bei ihm eine junge blinde Frau namens Salome...
+  Asset: IMG40_autonome_struktur_V3.png [STILL_IMAGE]
+  NOTE: V3 Nachschlag (aus Veo)
+
+[03:00–03:04] ( 4.0s) EP04_V4_C042
+  Voice: Und bei den beiden immer wieder eine große schwarze Schlange...
+  Asset: EP04_REF_KUNDALINI_MULADHARA.jpg [STILL_IMAGE]
+
+[03:04–03:08] ( 4.0s) EP04_V4_C043
+  Voice: Merk dir die Schlange...
+  Asset: EP04_S4_041_die_schwarzen_hefte.png [STILL_IMAGE]
+
+[03:08–03:12] ( 4.0s) EP04_V4_C044
+  Voice: Später kommt eine dritte Gestalt dazu und die wird die wichtigste...
+  Asset: EP04_S4_042_naechtliche_notizen.png [STILL_IMAGE]
+
+[03:12–03:16] ( 4.0s) EP04_V4_C045
+  Voice: Ein alter Mann mit den Flügeln eines Eisvogels und den Hörnern eines Stiers...
+  Asset: EP04_S4_043_illuminierte_handschrift.png [STILL_IMAGE]
+
+[03:16–03:20] ( 4.0s) EP04_V4_C046
+  Voice: Er nennt sich Philemon...
+  Asset: EP04_S4_044_mandala.png [STILL_IMAGE]
+
+[03:20–03:24] ( 4.0s) EP04_V4_C047
+  Voice: Jung geht mit ihm im Garten spazieren...
+  Asset: EP04_S4_045_roter_ledereinband.png [STILL_IMAGE]
+
+[03:24–03:28] ( 4.0s) EP04_V4_C048
+  Voice: Er schreibt das so auf er geht den Gartenweg entlang und führt ein Gespräch...
+  Asset: IMG46_folio_kerzenlicht_V3.png [STILL_IMAGE]
+  NOTE: V3 Nachschlag (aus Veo)
+
+[03:28–03:32] ( 4.0s) EP04_V4_C049
+  Voice: Und Philemon sagt ihm Dinge die Jung nicht gedacht hat...
+  Asset: CARD_jung_begriffe.png [STILL_IMAGE]
+
+[03:32–03:36] ( 4.0s) EP04_V4_C050
+  Voice: Einmal wirft Philemon ihm vor er halte Gedanken für etwas das er selbst herstell...
+  Asset: EP04_S4_048_farbschichten_detail.png [STILL_IMAGE]
+
+[03:36–03:40] ( 4.0s) EP04_V4_C051
+  Voice: Thoughts were like animals in the forest or people in a room or birds in the air...
+  Asset: CARD_philemon_zitat.png [STILL_IMAGE]
+
+[03:40–03:44] ( 4.0s) EP04_V4_C052
+  Voice: Gedanken seien wie Tiere im Wald Wie Menschen in einem Zimmer...
+  Asset: EP04_S4_049_steinturm_am_see.png [STILL_IMAGE]
+
+[03:44–03:48] ( 4.0s) EP04_V4_C053
+  Voice: Wie Vögel in der Luft Man begegnet ihnen Man macht sie nicht...
+  Asset: EP04_S4_050_pergament_wird_entrollt.png [STILL_IMAGE]
+
+[03:48–03:52] ( 4.0s) EP04_V4_C054
+  Voice: Jung hat diesen Satz sein Leben lang nicht mehr losgelassen...
+  Asset: EP04_S4_051_indisches_blatt_am_tisch.png [STILL_IMAGE]
+
+[03:52–03:56] ( 4.0s) EP04_V4_C055
+  Voice: Er hat später gesagt Philemon habe ihm damit etwas beigebracht...
+  Asset: EP04_S5_052_zuerich_1932.png [STILL_IMAGE]
+
+[03:56–04:00] ( 4.0s) EP04_V4_C056
+  Voice: das er sich selbst nicht hätte beibringen können...
+  Asset: EP04_S5_053_haus_gemeindestrasse.png [STILL_IMAGE]
+
+[04:00–04:04] ( 4.0s) EP04_V4_C057
+  Voice: Er nannte es psychische Objektivität...
+  Asset: EP04_S5_054_der_vortragssaal.png [STILL_IMAGE]
+
+[04:04–04:08] ( 4.0s) EP04_V4_C058
+  Voice: Übersetzt In seinem eigenen Kopf war etwas das er nicht gemacht hat...
+  Asset: EP04_S5_055_portraet_hauer.png [STILL_IMAGE]
+
+
+────────────────────────────────────────────────────────────────────────────────
+SZENE S4: Das Rote Buch
+────────────────────────────────────────────────────────────────────────────────
+
+[04:30–04:34] ( 4.0s) EP04_V4_C059
+  Voice: Sechzehn Jahre lang schreibt er alles auf...
+  Asset: EP04_REF_HAUER.jpg [STILL_IMAGE]
+
+[04:34–04:38] ( 4.0s) EP04_V4_C060
+  Voice: Zuerst in schwarze Notizhefte roh und sofort in der Nacht in der es passiert...
+  Asset: EP04_S5_057_jung_am_rednerpult.png [STILL_IMAGE]
+
+[04:38–04:42] ( 4.0s) EP04_V4_C061
+  Voice: Dann überträgt er es Auf Pergament in Kalligraphie...
+  Asset: CARD_jung_warnung.png [STILL_IMAGE]
+
+[04:42–04:46] ( 4.0s) EP04_V4_C062
+  Voice: mit gemalten Mandalas und Initialen wie eine mittelalterliche Handschrift...
+  Asset: EP04_S4_045_roter_ledereinband.png [STILL_IMAGE]
+
+[04:46–04:50] ( 4.0s) EP04_V4_C063
+  Voice: Ein rotes Lederbuch an dem er von etwa 1915 bis 1930 arbeitet...
+  Asset: EP04_S5_059_zwei_zuhoerer.png [STILL_IMAGE]
+
+[04:50–04:54] ( 4.0s) EP04_V4_C064
+  Voice: Er veröffentlicht es nie Zu Lebzeiten sehen es eine Handvoll Menschen...
+  Asset: EP04_S5_060_kundalini_an_der_wurzel.png [STILL_IMAGE]
+
+[04:54–04:58] ( 4.0s) EP04_V4_C065
+  Voice: Und trotzdem steht darin alles...
+  Asset: EP04_S5_061_wirbelsaeule_und_aufstieg.png [STILL_IMAGE]
+  >>> VEO: VE05_aufsteigende_schlange.mp4 — VE05 Aufsteigende Schlange (8s)
+
+[04:58–05:02] ( 4.0s) EP04_V4_C066
+  Voice: Das kollektive Unbewusste Die Archetypen Die Individuation Das Selbst...
+  Asset: EP04_S5_062_hoehle_und_tafel.png [STILL_IMAGE]
+  >>> MG:  MG01_split_screen.mp4 — MG01 Split-Screen Höhle/Tafel (8s)
+
+[05:02–05:06] ( 4.0s) EP04_V4_C067
+  Voice: Jeder Begriff für den Jung heute bekannt ist kommt aus diesen sechzehn Jahren...
+  Asset: CARD_drei_warnungen.png [STILL_IMAGE]
+
+[05:06–05:10] ( 4.0s) EP04_V4_C068
+  Voice: Er hat es selbst so gesagt alles was er später erreicht habe sei darin schon ent...
+  Asset: EP04_S5_064_riss_im_boden.png [STILL_IMAGE]
+
+[05:10–05:14] ( 4.0s) EP04_V4_C069
+  Voice: Damit ist die Sache klar was die Person angeht...
+  Asset: EP04_S5_065_kamin_im_arbeitszimmer.png [STILL_IMAGE]
+
+[05:14–05:18] ( 4.0s) EP04_V4_C070
+  Voice: Sein gesamtes wissenschaftliches Werk ist der Bericht eines Mannes über eine Rei...
+  Asset: EP04_S5_066_familienbild_schreibtisch.png [STILL_IMAGE]
+
+[05:18–05:22] ( 4.0s) EP04_V4_C071
+  Voice: die er gemacht hat ohne zu wissen ob er zurückkommt...
+  Asset: CARD_midroll_cta.png [STILL_IMAGE]
+
+[05:22–05:26] ( 4.0s) EP04_V4_C072
+  Voice: Neunzehn Jahre nach der Flut passiert dann etwas mit dem er nicht rechnen konnte...
+  Asset: EP04_S5_068_die_tafel_wird_aufgehaengt.png [STILL_IMAGE]
+
+[05:26–05:30] ( 4.0s) EP04_V4_C073
+  Voice: Ihm wird eine Karte gereicht...
+  Asset: EP04_REF_CHAKRA_WELLCOME.jpg [STILL_IMAGE]
+
+
+────────────────────────────────────────────────────────────────────────────────
+SZENE S5: Der Saal
+────────────────────────────────────────────────────────────────────────────────
+
+[06:36–06:40] ( 4.0s) EP04_V4_C074
+  Voice: Herbst 1932 Zürich Jung ist siebenundfünfzig weltberühmt...
+  Asset: CARD_muladhara.png [STILL_IMAGE]
+
+[06:40–06:44] ( 4.0s) EP04_V4_C075
+  Voice: und steht vor dem Psychologischen Club dem Kreis den er selbst mitgegründet hat...
+  Asset: EP04_S5_053_eingang_des_clubs.png [STILL_IMAGE]
+
+[06:44–06:48] ( 4.0s) EP04_V4_C076
+  Voice: Das Thema ist Kundalini-Yoga Die Chakren...
+  Asset: EP04_S6_die_sechs_zentren.jpg [ARCHIVE]
+
+[06:48–06:52] ( 4.0s) EP04_V4_C077
+  Voice: Das Material stammt nicht von ihm...
+  Asset: EP04_S6_071_schreibtisch_der_sorgen.png [STILL_IMAGE]
+
+[06:52–06:56] ( 4.0s) EP04_V4_C078
+  Voice: Eine Woche zuvor hat am selben Ort der Indologe Jakob Wilhelm Hauer gesprochen...
+  Asset: EP04_S5_055_portraet_hauer.png [STILL_IMAGE]
+
+[06:56–07:00] ( 4.0s) EP04_V4_C079
+  Voice: ein Mann der zehn Monate später die Deutsche Glaubensbewegung gründen wird...
+  Asset: CARD_svadhisthana.png [STILL_IMAGE]
+
+[07:00–07:04] ( 4.0s) EP04_V4_C080
+  Voice: und 1934 in der SS sein wird...
+  Asset: EP04_S6_075_der_streit.png [STILL_IMAGE]
+
+[07:04–07:08] ( 4.0s) EP04_V4_C081
+  Voice: Jung soll erklären Er tut etwas anderes Er warnt...
+  Asset: CARD_manipura.png [STILL_IMAGE]
+
+[07:08–07:12] ( 4.0s) EP04_V4_C082
+  Voice: These things are really dangerous and ought not to be meddled with in our typica...
+  Asset: CARD_jung_warnung.png [STILL_IMAGE]
+
+[07:12–07:16] ( 4.0s) EP04_V4_C083
+  Voice: Diese Dinge seien wirklich gefährlich und man solle sie nicht auf unsere typisch...
+  Asset: EP04_S6_075_der_streit.png [STILL_IMAGE]
+
+[07:16–07:20] ( 4.0s) EP04_V4_C084
+  Voice: Vier Abende lang warnt er sein Publikum vor dem System das er ihm gleichzeitig e...
+  Asset: EP04_S6_076_hitzeflimmern.png [STILL_IMAGE]
+
+[07:20–07:24] ( 4.0s) EP04_V4_C085
+  Voice: Er spricht von einem absichtlich herbeigeführten psychotischen Zustand...
+  Asset: CARD_sprung_feuer_luft.png [STILL_IMAGE]
+
+[07:24–07:28] ( 4.0s) EP04_V4_C086
+  Voice: der bei labilen Menschen in eine echte Psychose führen könne...
+  Asset: CARD_emotion_abstand.png [STILL_IMAGE]
+
+[07:28–07:32] ( 4.0s) EP04_V4_C087
+  Voice: Und was steht auf dieser Karte...
+  Asset: EP04_S6_079_beobachter_vor_der_flamme.png [STILL_IMAGE]
+
+[07:32–07:36] ( 4.0s) EP04_V4_C088
+  Voice: Am unteren Ende an der Wurzel der Wirbelsäule liegt eine zusammengerollte Schlan...
+  Asset: EP04_S5_060_kundalini_an_der_wurzel.png [STILL_IMAGE]
+
+[07:36–07:40] ( 4.0s) EP04_V4_C089
+  Voice: Weckt man sie steigt sie auf...
+  Asset: IMG80_offenes_fenster_V3.png [STILL_IMAGE]
+  NOTE: V3 Nachschlag (aus Veo)
+
+[07:40–07:44] ( 4.0s) EP04_V4_C090
+  Voice: Die gesamte Tradition die sie beschreibt existiert um das zu überstehen...
+  Asset: EP04_S6_081_zwei_stuehle.png [STILL_IMAGE]
+
+[07:44–07:48] ( 4.0s) EP04_V4_C091
+  Voice: Jung sieht dieses Bild an Und er hat die schwarze Schlange schon gesehen...
+  Asset: EP04_S6_082_ajna.png [STILL_IMAGE]
+
+[07:48–07:52] ( 4.0s) EP04_V4_C092
+  Voice: Neunzehn Jahre vorher neben Elias und Salome in einer Höhle in seinem eigenen Ko...
+  Asset: EP04_S6_083_galvanometer_auf_null.png [STILL_IMAGE]
+
+[07:52–07:56] ( 4.0s) EP04_V4_C093
+  Voice: ohne dass ihm jemand gesagt hätte was das ist...
+  Asset: EP04_S6_084_sahasrara_loest_sich_auf.png [STILL_IMAGE]
+
+[07:56–08:00] ( 4.0s) EP04_V4_C094
+  Voice: Seine Warnung hat drei Teile...
+  Asset: EP04_REF_CHAKRA_WELLCOME.jpg [STILL_IMAGE]
+
+[08:00–08:04] ( 4.0s) EP04_V4_C095
+  Voice: Erstens Das System kommt mit einem Gefäß Der Europäer nimmt die Technik und läss...
+  Asset: EP04_S7_086_portraet_woodroffe.png [STILL_IMAGE]
+
+[08:04–08:08] ( 4.0s) EP04_V4_C096
+  Voice: Zweitens Der Europäer will etwas erreichen Eine Erfahrung eine Fähigkeit einen Z...
+  Asset: EP04_S7_087_high_court_kalkutta.png [STILL_IMAGE]
+
+[08:08–08:12] ( 4.0s) EP04_V4_C097
+  Voice: Genau dieser Zugriff ist das falsche Werkzeug...
+  Asset: EP04_S7_088_gelehrte_am_palmblatt.png [STILL_IMAGE]
+
+[08:12–08:16] ( 4.0s) EP04_V4_C098
+  Voice: Und drittens das ist der Kern...
+  Asset: CARD_ghose.png [STILL_IMAGE]
+
+[08:16–08:20] ( 4.0s) EP04_V4_C099
+  Voice: Wenn man das Unbewusste absichtlich aufweckt und hat nichts was einen hält...
+  Asset: CARD_sechs_zentren.png [STILL_IMAGE]
+
+[08:20–08:24] ( 4.0s) EP04_V4_C100
+  Voice: dann erleuchten einen die Inhalte nicht Sie übernehmen einen...
+  Asset: EP04_S7_091_das_blatt_von_1577.png [STILL_IMAGE]
+
+[08:24–08:28] ( 4.0s) EP04_V4_C101
+  Voice: Man hält das was aufsteigt für sich selbst...
+  Asset: CARD_sechs_zentren.png [STILL_IMAGE]
+
+[08:28–08:32] ( 4.0s) EP04_V4_C102
+  Voice: Er weiß das nicht aus Büchern Er hat es getan 1913...
+  Asset: EP04_S7_093_vers_ueber_sahasrara.png [STILL_IMAGE]
+
+[08:32–08:36] ( 4.0s) EP04_V4_C103
+  Voice: Ohne Karte ohne Lehrer ohne Gefäß...
+  Asset: EP04_S7_094_modernes_chakra_poster.png [STILL_IMAGE]
+
+[08:36–08:40] ( 4.0s) EP04_V4_C104
+  Voice: und was ihn gehalten hat waren eine Praxis eine Frau und fünf Kinder...
+  Asset: EP04_S7_095_der_esoterikladen.png [STILL_IMAGE]
+
+[08:40–08:44] ( 4.0s) EP04_V4_C105
+  Voice: Hast du jemals einen Gedanken gehabt von dem du schwören könntest dass er nicht ...
+  Asset: EP04_S7_096_portraet_leadbeater.png [STILL_IMAGE]
+
+[08:44–08:48] ( 4.0s) EP04_V4_C106
+  Voice: Schreib es kurz in die Kommentare bevor wir auflösen woher die Karte wirklich st...
+  Asset: EP04_S7_097_farbtherapie_apparat.png [STILL_IMAGE]
+
+
+────────────────────────────────────────────────────────────────────────────────
+SZENE S6: Jungs Karte
+────────────────────────────────────────────────────────────────────────────────
+
+[09:00–09:04] ( 4.0s) EP04_V4_C107
+  Voice: Und trotzdem gibt er das System nicht zurück Er liest es anders...
+  Asset: CARD_stammbaum.png [STILL_IMAGE]
+
+[09:04–09:08] ( 4.0s) EP04_V4_C108
+  Voice: Nicht als Anatomie Als Beschreibung von Zuständen in denen ein Mensch sein kann...
+  Asset: CARD_weltkarte_linien.png [STILL_IMAGE]
+
+[09:08–09:12] ( 4.0s) EP04_V4_C109
+  Voice: Und das geht so...
+  Asset: EP04_S7_100_jung_mit_der_lupe.png [STILL_IMAGE]
+
+[09:12–09:16] ( 4.0s) EP04_V4_C110
+  Voice: Ein Streit fängt mit einer sachlichen Bedrohung an Arbeitsplatz Geld Status...
+  Asset: EP04_S7_101_ueberblendung_hoehle_tafel.png [STILL_IMAGE]
+
+[09:16–09:20] ( 4.0s) EP04_V4_C111
+  Voice: Zehn Sekunden später geht es längst nicht mehr um die Sache...
+  Asset: EP04_S7_102_hand_auf_der_landkarte.png [STILL_IMAGE]
+
+[09:20–09:24] ( 4.0s) EP04_V4_C112
+  Voice: Der Körper ist angespannt die Stimme lauter alte Kränkungen mischen sich hinein...
+  Asset: EP04_S8_103_folio_in_der_vitrine.png [STILL_IMAGE]
+
+[09:24–09:28] ( 4.0s) EP04_V4_C113
+  Voice: Jung nennt das den Übergang von Muladhara zu Manipura...
+  Asset: EP04_S6_die_sechs_zentren.jpg [ARCHIVE]
+
+[09:28–09:32] ( 4.0s) EP04_V4_C114
+  Voice: vom Erdhaften ins Feuerhafte Vom konkreten Problem zum Affekt der einen ergreift...
+  Asset: EP04_S8_104_der_tresorraum.png [STILL_IMAGE]
+
+[09:32–09:36] ( 4.0s) EP04_V4_C115
+  Voice: Und dann kommt der Sprung der für ihn der entscheidende ist...
+  Asset: EP04_S8_105_behandschuhte_haende.png [STILL_IMAGE]
+
+[09:36–09:40] ( 4.0s) EP04_V4_C116
+  Voice: Von Manipura zu Anahata Vom Feuer zur Luft...
+  Asset: EP04_S8_106_der_leere_stuhl.png [STILL_IMAGE]
+
+[09:40–09:44] ( 4.0s) EP04_V4_C117
+  Voice: In den unteren Stufen ist der Mensch mit seinem Erleben identisch...
+  Asset: EP04_S8_107_ins_leere_heft_schreiben.png [STILL_IMAGE]
+
+[09:44–09:48] ( 4.0s) EP04_V4_C118
+  Voice: Ich bin wütend Ich bin verletzt Ich muss gewinnen...
+  Asset: EP04_S8_108_schaufenster_am_abend.png [STILL_IMAGE]
+
+[09:48–09:52] ( 4.0s) EP04_V4_C119
+  Voice: In Anahata erscheint ein Abstand...
+  Asset: EP04_S8_109_die_augen.png [STILL_IMAGE]
+
+[09:52–09:56] ( 4.0s) EP04_V4_C120
+  Voice: Zwischen dem Impuls und der Handlung entsteht eine Lücke in der etwas zusieht...
+  Asset: CARD_wer_hat_gesprochen.png [STILL_IMAGE]
+
+[09:56–10:00] ( 4.0s) EP04_V4_C121
+  Voice: Du bemerkst da ist Wut Da ist Angst Da ist Eifersucht...
+  Asset: EP04_S8_111_am_ufer.png [STILL_IMAGE]
+
+[10:00–10:04] ( 4.0s) EP04_V4_C122
+  Voice: Aus ich bin diese Emotion wird ich habe diese Emotion...
+  Asset: EP04_S8_112_land_ohne_wege.png [STILL_IMAGE]
+
+[10:04–10:08] ( 4.0s) EP04_V4_C123
+  Voice: Vom Brennen zum Atmen...
+  Asset: CARD_flaschenpost.png [STILL_IMAGE]
+
+[10:08–10:12] ( 4.0s) EP04_V4_C124
+  Voice: Und genau darauf beruhen bis heute eine ganze Reihe psychologischer Verfahren...
+  Asset: EP04_S8_114_die_flasche_am_strand.png [STILL_IMAGE]
+
+[10:12–10:16] ( 4.0s) EP04_V4_C125
+  Voice: auf der Unterscheidung zwischen einem inneren Zustand und dem Bewusstsein das ih...
+  Asset: EP04_S8_115_zuerichsee_bei_nacht.png [STILL_IMAGE]
+
+[10:16–10:20] ( 4.0s) EP04_V4_C126
+  Voice: Weiter oben wird Jungs Deutung dünn und er sagt das selbst...
+  Asset: EP04_S8_116_eth_zuerich.png [STILL_IMAGE]
+
+[10:20–10:24] ( 4.0s) EP04_V4_C127
+  Voice: Für Ajna hatte er kein Messgerät Für Sahasrara keinen Nachweis...
+  Asset: EP04_S8_117_portraet_pauli.png [STILL_IMAGE]
+
+[10:24–10:28] ( 4.0s) EP04_V4_C128
+  Voice: Er arbeitete mit Bildern und mit Bedeutung und er hat nie behauptet etwas andere...
+  Asset: CARD_pauli_traum.png [STILL_IMAGE]
+
+
+────────────────────────────────────────────────────────────────────────────────
+SZENE S7: Die Karte die er nie hatte
+────────────────────────────────────────────────────────────────────────────────
+
+[11:00–11:04] ( 4.0s) EP04_V4_C129
+  Voice: Bleibt die Frage woher die Karte eigentlich kam die man ihm 1932 in die Hand gab...
+  Asset: CARD_endcard.png [STILL_IMAGE]
+
+[11:04–11:08] ( 4.0s) EP04_V4_C130
+  Voice: Die westliche Standardquelle heißt The Serpent Power erschienen 1919 in London...
+  Asset: EP04_REF_CHAKRA_WELLCOME.jpg [STILL_IMAGE]
+
+[11:08–11:12] ( 4.0s) EP04_V4_C131
+  Voice: unter dem Namen Arthur Avalon...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:12–11:16] ( 4.0s) EP04_V4_C132
+  Voice: Arthur Avalon hat nie existiert...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:16–11:20] ( 4.0s) EP04_V4_C133
+  Voice: Dahinter steht Sir John Woodroffe Richter am High Court in Kalkutta...
+  Asset: EP04_REF_WOODROFFE.png [STILL_IMAGE]
+
+[11:20–11:24] ( 4.0s) EP04_V4_C134
+  Voice: ein amtierender Beamter des Britischen Empire...
+  Asset: EP04_REF_HIGHCOURT_1890.jpg [STILL_IMAGE]
+
+[11:24–11:28] ( 4.0s) EP04_V4_C135
+  Voice: Und der Deckname schützte nicht ihn Er lieh seinen Rang weiter...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:28–11:32] ( 4.0s) EP04_V4_C136
+  Voice: Die eigentliche Sanskrit-Arbeit leistete über Jahrzehnte ein bengalischer Gelehr...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:32–11:36] ( 4.0s) EP04_V4_C137
+  Voice: namens Atal Bihari Ghose zusammen mit weiteren indischen Mitarbeitern...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:36–11:40] ( 4.0s) EP04_V4_C138
+  Voice: Ihre Namen stehen auf keinem Umschlag...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:40–11:44] ( 4.0s) EP04_V4_C139
+  Voice: Der Name eines britischen Richters öffnete im Kolonialbetrieb Türen die ihnen ve...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:44–11:48] ( 4.0s) EP04_V4_C140
+  Voice: Die Historikerin Kathleen Taylor hat das 2001 als erste aufgearbeitet...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:48–11:52] ( 4.0s) EP04_V4_C141
+  Voice: Und der Text selbst...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:52–11:56] ( 4.0s) EP04_V4_C142
+  Voice: Ein einziges Werk aus Bengalen verfasst 1577...
+  Asset: EP04_S1_012_krankenakte.png [STILL_IMAGE]
+
+[11:56–12:00] ( 4.0s) EP04_V4_C143
+  Voice: Es heißt Ṣaṭ-cakra-nirūpaṇa und der Titel bedeutet wörtlich Beschreibung der sec...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:00–12:04] ( 4.0s) EP04_V4_C144
+  Voice: Sechs...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:04–12:08] ( 4.0s) EP04_V4_C145
+  Voice: Sahasrara der tausendblättrige Lotus kommt in dem Text vor...
+  Asset: EP04_REF_AJNA_1918.jpg [STILL_IMAGE]
+
+[12:08–12:12] ( 4.0s) EP04_V4_C146
+  Voice: Er ist dort beschrieben er ist dort wichtig aber als Chakra gezählt wird er nich...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:12–12:16] ( 4.0s) EP04_V4_C147
+  Voice: Der Text nennt sechs Zentren...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:16–12:20] ( 4.0s) EP04_V4_C148
+  Voice: Das siebte Chakra das heute jedes Poster zeigt entsteht beim Weiterzählen im Wes...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:20–12:24] ( 4.0s) EP04_V4_C149
+  Voice: Und die Farben...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:24–12:28] ( 4.0s) EP04_V4_C150
+  Voice: Der Regenbogen von Rot bis Violett der auf jeder Matte in jeder App und in jedem...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:28–12:32] ( 4.0s) EP04_V4_C151
+  Voice: er steht in keinem indischen Text...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:32–12:36] ( 4.0s) EP04_V4_C152
+  Voice: Der Theosoph Charles Leadbeater beschreibt 1927 hellsichtig ganz andere Farben...
+  Asset: EP04_REF_LEADBEATER.jpg [STILL_IMAGE]
+
+[12:36–12:40] ( 4.0s) EP04_V4_C153
+  Voice: Die Regenbogenzuordnung wird ab den dreißiger Jahren von westlichen Farbtherapeu...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:40–12:44] ( 4.0s) EP04_V4_C154
+  Voice: und erst um 1977 endgültig festgezurrt...
+  Asset: EP04_S1_013_zeitungen_1914.png [STILL_IMAGE]
+
+[12:44–12:48] ( 4.0s) EP04_V4_C155
+  Voice: Rechnen wir zusammen...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[12:48–12:52] ( 4.0s) EP04_V4_C156
+  Voice: Ein Text von 1577 aus Bengalen Übersetzt 1919 in London unter falschem Namen...
+  Asset: MG02_stammbaum.mp4 [VIDEO_CLIP]
+
+[12:52–12:56] ( 4.0s) EP04_V4_C157
+  Voice: mit ungenannter indischer Arbeit Sechs Zentren die zu sieben werden...
+  Asset: MG02_stammbaum.mp4 [VIDEO_CLIP]
+
+[12:56–13:00] ( 4.0s) EP04_V4_C158
+  Voice: Farben die in Kalifornien dazukommen Drei Jahrhunderte vier Länder...
+  Asset: MG02_stammbaum.mp4 [VIDEO_CLIP]
+
+[13:00–13:04] ( 4.0s) EP04_V4_C159
+  Voice: Menschen die einander nie begegnet sind...
+  Asset: MG02_stammbaum.mp4 [VIDEO_CLIP]
+
+[13:04–13:08] ( 4.0s) EP04_V4_C160
+  Voice: Und in der Mitte dieser Kette sitzt 1932 ein Mann in Zürich...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[13:08–13:12] ( 4.0s) EP04_V4_C161
+  Voice: sieht sich diese Karte an und erkennt das Gelände wieder...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[13:12–13:16] ( 4.0s) EP04_V4_C162
+  Voice: in dem er neunzehn Jahre vorher fast geblieben wäre...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[13:16–13:20] ( 4.0s) EP04_V4_C163
+  Voice: Hier kippt die Frage...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[13:20–13:24] ( 4.0s) EP04_V4_C164
+  Voice: Wie kann eine Karte so oft umgezeichnet werden und immer noch auf etwas zeigen...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+
+────────────────────────────────────────────────────────────────────────────────
+SZENE S8: Was bleibt
+────────────────────────────────────────────────────────────────────────────────
+
+[13:30–13:34] ( 4.0s) EP04_V4_C165
+  Voice: Was bleibt ist erstaunlich viel...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[13:34–13:38] ( 4.0s) EP04_V4_C166
+  Voice: Das Rote Buch gibt es Kalligraphie auf Pergament gemalte Mandalas...
+  Asset: EP04_S4_045_roter_ledereinband.png [STILL_IMAGE]
+
+[13:38–13:42] ( 4.0s) EP04_V4_C167
+  Voice: geschrieben zwischen 1913 und 1930...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[13:42–13:46] ( 4.0s) EP04_V4_C168
+  Voice: Jung hat es nie veröffentlicht Nach seinem Tod schloss die Familie es in einen Z...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[13:46–13:50] ( 4.0s) EP04_V4_C169
+  Voice: Dort lag es bis 2009...
+  Asset: EP04_S2_014_arbeitszimmer_bei_nacht.png [STILL_IMAGE]
+
+[13:50–13:54] ( 4.0s) EP04_V4_C170
+  Voice: Es hat einen einzelnen Wissenschaftler drei Jahre gekostet die Erben zu überrede...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[13:54–13:58] ( 4.0s) EP04_V4_C171
+  Voice: Die Methode gibt es Aktive Imagination von Jung beschrieben seither tausendfach ...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[13:58–14:02] ( 4.0s) EP04_V4_C172
+  Voice: Hinsetzen Das rechnende Denken stillstellen Die Bilder kommen lassen...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[14:02–14:06] ( 4.0s) EP04_V4_C173
+  Voice: Und dann selbst hineingehen und reden...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[14:06–14:10] ( 4.0s) EP04_V4_C174
+  Voice: Und die Karte gibt es Dreimal umgezeichnet in jedem Buchladen auf jeder Matte...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[14:10–14:14] ( 4.0s) EP04_V4_C175
+  Voice: Was Philemon war hat Jung nie gesagt...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[14:14–14:18] ( 4.0s) EP04_V4_C176
+  Voice: Er sagte er müsse ihn als psychisch wirklich behandeln Weiter ging er nicht...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[14:18–14:22] ( 4.0s) EP04_V4_C177
+  Voice: Eine Frage bleibt also...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[14:22–14:26] ( 4.0s) EP04_V4_C178
+  Voice: Wer hat gesprochen...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[14:26–14:30] ( 4.0s) EP04_V4_C179
+  Voice: Wenn ein Mann Sätze hört die er nicht gedacht hat und daraus dreißig Jahre Arbei...
+  Asset: EP04_S2_015_feder_und_tintenfass.png [STILL_IMAGE]
+
+[14:30–14:34] ( 4.0s) EP04_V4_C180
+  Voice: die bis heute gelesen wird was war die Quelle...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[14:34–14:38] ( 4.0s) EP04_V4_C181
+  Voice: Und die kleine Version davon kennt jeder...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[14:38–14:42] ( 4.0s) EP04_V4_C182
+  Voice: Ein Gedanke der da war bevor man ihn wollte...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[14:42–14:46] ( 4.0s) EP04_V4_C183
+  Voice: Ein Satz der aus einer Richtung kam die einem nicht gehört...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[14:46–14:50] ( 4.0s) EP04_V4_C184
+  Voice: Jung ging ohne Karte hinein...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[14:50–14:54] ( 4.0s) EP04_V4_C185
+  Voice: Heute liegt die Karte überall herum...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[14:54–14:58] ( 4.0s) EP04_V4_C186
+  Voice: Und das Gelände hat seit 1916 kaum jemand betreten...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[14:58–15:02] ( 4.0s) EP04_V4_C187
+  Voice: Der Herausgeber des Roten Buchs hat es eine Flaschenpost genannt...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[15:02–15:06] ( 4.0s) EP04_V4_C188
+  Voice: Jung habe sie ins Meer geworfen und gehofft dass jemand sie findet...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[15:06–15:08] ( 2.0s) EP04_V4_C189
+  Voice: Geworfen zwischen 1913 und 1930 Gefunden 2009...
+  Asset: EP04_S2_016_schritt_ins_dunkle.png [STILL_IMAGE]
+
+[15:08–15:10] ( 2.0s) EP04_V4_C190
+  Voice: [PAUSE 1.5-2s]...
+  Asset: None [MISSING]
+
+[15:10–15:12] ( 2.0s) EP04_V4_C191
+  Voice: Der Mann war Professor für Physik an der ETH Zürich und bekam den Nobelpreis Das...
+  Asset: EP04_S8_117_portraet_pauli.png [STILL_IMAGE]
+

@@ -1,0 +1,170 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems\\EP02V2_VO_01_DER_SATZ_DER_NICHT_IN_DIESE_AKTE_GEHOERT.mp3",
+    "sha256": "db446bd36c8a6766c95b2d4d335d22c805c1fccf7960f8f83da4a54edcee4b6a",
+    "bytes": 948393,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.12
+    },
+    "seed": 2402,
+    "request_id": "LFwtjtfr5r1IMU6Iq1Nt",
+    "text_sha256": "bd1f08d78581a6738f2ab005da92205d0b2cc265f2fc4cf8b1c12045217dd2b4",
+    "characters": 901,
+    "stem_id": "EP02V2_VO_01_DER_SATZ_DER_NICHT_IN_DIESE_AKTE_GEHOERT"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems\\EP02V2_VO_02_DIE_DREI_MAENNER_HINTER_DEM_MODELL.mp3",
+    "sha256": "03f5a7791578eea076826db2b2819b6d96d461b3747b189cf62a24c9f339fc40",
+    "bytes": 1197915,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.12
+    },
+    "seed": 2402,
+    "request_id": "HXWaUR0FsyWHE86Q4hXo",
+    "text_sha256": "01b454195c8da3f8074bf3a7ff183edb29d5f33f0c0ffffd8f42adc5bb03cb4b",
+    "characters": 1267,
+    "stem_id": "EP02V2_VO_02_DIE_DREI_MAENNER_HINTER_DEM_MODELL"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems\\EP02V2_VO_03_WAS_ZWEI_TOENE_IM_KOPF_ERZEUGEN.mp3",
+    "sha256": "071c178d49cc91b355c039c0505243acbe99ed9191d10f0e52b7582d35798e96",
+    "bytes": 1185376,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.12
+    },
+    "seed": 2402,
+    "request_id": "6KRk9pbPEacT3YDDhYrI",
+    "text_sha256": "0d5d803ec2a25e08ce24f8e9bc423be43b05703ed72891cb896e354fb50321a7",
+    "characters": 1217,
+    "stem_id": "EP02V2_VO_03_WAS_ZWEI_TOENE_IM_KOPF_ERZEUGEN"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems\\EP02V2_VO_04_WIE_AUS_ENTSPANNUNG_EIN_WELTMODELL_WIRD.mp3",
+    "sha256": "a633b351f5b7eee0ae2346c7ece290dcc2b516251b7fcf560cc43957fcc5dc5a",
+    "bytes": 1154447,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.12
+    },
+    "seed": 2402,
+    "request_id": "8OTAzbo91YaEDDsoUbzB",
+    "text_sha256": "a8e1665c1c48494152ce4a0d8476a2f803116d9a4c01c8b43e0a1606f583216a",
+    "characters": 1161,
+    "stem_id": "EP02V2_VO_04_WIE_AUS_ENTSPANNUNG_EIN_WELTMODELL_WIRD"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems\\EP02V2_VO_05_FOCUS_15_VERGANGENHEIT_FOCUS_21_ZUKUNFT.mp3",
+    "sha256": "46a936f54d2c70bb4033df6304105b21826e36df715cdc0a378f01e938f02a61",
+    "bytes": 1248070,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.12
+    },
+    "seed": 2402,
+    "request_id": "ELRlWZousBRxKMiesO6u",
+    "text_sha256": "5dafd68b67da0e14021fb0b67692fb8b4b5413c7e2d85740783061fe12b83346",
+    "characters": 1226,
+    "stem_id": "EP02V2_VO_05_FOCUS_15_VERGANGENHEIT_FOCUS_21_ZUKUNFT"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems\\EP02V2_VO_06_ALS_AUS_DEM_TRAINING_EIN_GEHEIMDIENSTPROBLEM_WIRD.mp3",
+    "sha256": "9a368d771ce6542be9e9a706575cc64615e51c2e1f3901edcd8ae631fb16301f",
+    "bytes": 1331244,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.12
+    },
+    "seed": 2402,
+    "request_id": "XoePvISxA2q3DAQxGSHd",
+    "text_sha256": "b8440fed84bf10bea7d6f748d5765147bfb5385953adacb64d30a8a6cac47ed2",
+    "characters": 1320,
+    "stem_id": "EP02V2_VO_06_ALS_AUS_DEM_TRAINING_EIN_GEHEIMDIENSTPROBLEM_WIRD"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems\\EP02V2_VO_07_DER_KLEINE_EFFEKT_UND_DER_RIESIGE_CLAIM.mp3",
+    "sha256": "1a446d05d339978897de90c0da6b9c803ecaaeb2155f6ce6fe0b935dcb415136",
+    "bytes": 1264370,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.12
+    },
+    "seed": 2402,
+    "request_id": "9G3ZXuqJMqzgetvXhanV",
+    "text_sha256": "823528771b2b4fc6c18ff008e3ca71b9fee1c1ddda5f34bfcb8b51ffd831146f",
+    "characters": 1285,
+    "stem_id": "EP02V2_VO_07_DER_KLEINE_EFFEKT_UND_DER_RIESIGE_CLAIM"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems\\EP02V2_VO_08_WAS_DIESE_AKTE_WIRKLICH_BEWEIST.mp3",
+    "sha256": "21d67615915fdbd7194d8646e55613c6fc2d81f286b2593921ecba48d2608716",
+    "bytes": 950065,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.12
+    },
+    "seed": 2402,
+    "request_id": "udz8z63NQY3jS40sXOfB",
+    "text_sha256": "81ba6d1cc6ca6eb0a6c290146d877a013f0daa6f8eccb93d7886f1ff5eb87cbb",
+    "characters": 930,
+    "stem_id": "EP02V2_VO_08_WAS_DIESE_AKTE_WIRKLICH_BEWEIST"
+  }
+]

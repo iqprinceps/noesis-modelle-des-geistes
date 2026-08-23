@@ -1,0 +1,43 @@
+{
+  "duration": 720.0,
+  "voice": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\audio\\EP02_voice_48k24_mono_-18LUFS.wav",
+  "voice_verify": {
+    "input_i": "-18.01",
+    "input_tp": "-2.00",
+    "input_lra": "2.50",
+    "input_thresh": "-28.33",
+    "output_i": "-18.00",
+    "output_tp": "-2.00",
+    "output_lra": "2.40",
+    "output_thresh": "-28.33",
+    "normalization_type": "dynamic",
+    "target_offset": "0.00"
+  },
+  "bed": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\audio\\EP02_original_ambient_-34LUFS.wav",
+  "bed_verify": {
+    "input_i": "-34.00",
+    "input_tp": "-27.16",
+    "input_lra": "1.20",
+    "input_thresh": "-44.02",
+    "output_i": "-34.04",
+    "output_tp": "-27.17",
+    "output_lra": "1.20",
+    "output_thresh": "-44.05",
+    "normalization_type": "dynamic",
+    "target_offset": "0.04"
+  },
+  "final": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\audio\\EP02_final_mix_48k24_stereo_-14LUFS.wav",
+  "final_verify": {
+    "input_i": "-14.01",
+    "input_tp": "-1.00",
+    "input_lra": "2.50",
+    "input_thresh": "-24.51",
+    "output_i": "-14.01",
+    "output_tp": "-1.00",
+    "output_lra": "2.40",
+    "output_thresh": "-24.49",
+    "normalization_type": "dynamic",
+    "target_offset": "0.01"
+  },
+  "rights": "Original procedural synthesis; no samples or third-party music."
+}

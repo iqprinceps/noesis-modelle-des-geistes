@@ -1,0 +1,48 @@
+{
+  "voice": "TUKJhQmz3RPYBNAgC5A1",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.56,
+    "similarity_boost": 0.8,
+    "style": 0.04,
+    "speed": 1.12,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\raw_stems",
+  "stems": [
+    {
+      "id": "EP02V2_VO_01_DER_SATZ_DER_NICHT_IN_DIESE_AKTE_GEHOERT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\source\\EP02V2_VO_01_DER_SATZ_DER_NICHT_IN_DIESE_AKTE_GEHOERT.txt"
+    },
+    {
+      "id": "EP02V2_VO_02_DIE_DREI_MAENNER_HINTER_DEM_MODELL",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\source\\EP02V2_VO_02_DIE_DREI_MAENNER_HINTER_DEM_MODELL.txt"
+    },
+    {
+      "id": "EP02V2_VO_03_WAS_ZWEI_TOENE_IM_KOPF_ERZEUGEN",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\source\\EP02V2_VO_03_WAS_ZWEI_TOENE_IM_KOPF_ERZEUGEN.txt"
+    },
+    {
+      "id": "EP02V2_VO_04_WIE_AUS_ENTSPANNUNG_EIN_WELTMODELL_WIRD",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\source\\EP02V2_VO_04_WIE_AUS_ENTSPANNUNG_EIN_WELTMODELL_WIRD.txt"
+    },
+    {
+      "id": "EP02V2_VO_05_FOCUS_15_VERGANGENHEIT_FOCUS_21_ZUKUNFT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\source\\EP02V2_VO_05_FOCUS_15_VERGANGENHEIT_FOCUS_21_ZUKUNFT.txt"
+    },
+    {
+      "id": "EP02V2_VO_06_ALS_AUS_DEM_TRAINING_EIN_GEHEIMDIENSTPROBLEM_WIRD",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\source\\EP02V2_VO_06_ALS_AUS_DEM_TRAINING_EIN_GEHEIMDIENSTPROBLEM_WIRD.txt"
+    },
+    {
+      "id": "EP02V2_VO_07_DER_KLEINE_EFFEKT_UND_DER_RIESIGE_CLAIM",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\source\\EP02V2_VO_07_DER_KLEINE_EFFEKT_UND_DER_RIESIGE_CLAIM.txt"
+    },
+    {
+      "id": "EP02V2_VO_08_WAS_DIESE_AKTE_WIRKLICH_BEWEIST",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\source\\EP02V2_VO_08_WAS_DIESE_AKTE_WIRKLICH_BEWEIST.txt"
+    }
+  ]
+}

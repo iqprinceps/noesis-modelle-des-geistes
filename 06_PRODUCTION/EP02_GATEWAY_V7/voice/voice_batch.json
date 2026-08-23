@@ -1,0 +1,51 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\raw_stems",
+  "stems": [
+    {
+      "id": "EP02V7_VO_01_DREI_BEOBACHTER",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\source\\EP02V7_VO_01_DREI_BEOBACHTER.txt"
+    },
+    {
+      "id": "EP02V7_VO_02_DIE_DREI_MAENNER",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\source\\EP02V7_VO_02_DIE_DREI_MAENNER.txt"
+    },
+    {
+      "id": "EP02V7_VO_03_ZWEI_TOENE",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\source\\EP02V7_VO_03_ZWEI_TOENE.txt"
+    },
+    {
+      "id": "EP02V7_VO_04_DER_SPRUNG",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\source\\EP02V7_VO_04_DER_SPRUNG.txt"
+    },
+    {
+      "id": "EP02V7_VO_05_DIE_STUFEN",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\source\\EP02V7_VO_05_DIE_STUFEN.txt"
+    },
+    {
+      "id": "EP02V7_VO_06_ZEHN_ZIFFERN",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\source\\EP02V7_VO_06_ZEHN_ZIFFERN.txt"
+    },
+    {
+      "id": "EP02V7_VO_07_EMPFEHLUNG_H",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\source\\EP02V7_VO_07_EMPFEHLUNG_H.txt"
+    },
+    {
+      "id": "EP02V7_VO_08_WAS_BLEIBT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\voice\\source\\EP02V7_VO_08_WAS_BLEIBT.txt"
+    }
+  ],
+  "quelle": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\07_VOICE_SCRIPT_CLEAN_V7.txt",
+  "hinweis": "Sprechtexte werden aus der Reinschrift abgeleitet, nicht getrennt gepflegt. Aenderungen immer in der Reinschrift."
+}

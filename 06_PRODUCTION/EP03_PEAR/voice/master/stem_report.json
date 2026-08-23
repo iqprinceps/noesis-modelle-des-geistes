@@ -1,0 +1,46 @@
+{
+  "duration": 608.729,
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "stems": [
+    {
+      "id": "EP03_VO_01_HOOK",
+      "duration": 62.276
+    },
+    {
+      "id": "EP03_VO_02_DER_MANN",
+      "duration": 108.298
+    },
+    {
+      "id": "EP03_VO_03_DIE_MASCHINE",
+      "duration": 86.796
+    },
+    {
+      "id": "EP03_VO_04_DER_ABLAUF",
+      "duration": 82.524
+    },
+    {
+      "id": "EP03_VO_05_DIE_ZAHL",
+      "duration": 27.353
+    },
+    {
+      "id": "EP03_VO_06_DIE_KRITIK",
+      "duration": 79.18
+    },
+    {
+      "id": "EP03_VO_07_DIE_PROBE",
+      "duration": 92.137
+    },
+    {
+      "id": "EP03_VO_08_WAS_BLEIBT",
+      "duration": 63.065
+    }
+  ]
+}

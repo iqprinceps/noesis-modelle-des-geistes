@@ -1,0 +1,3 @@
+file 'C:/Users/iQPrinceps/Documents/Codex/Youtube Modelle des Geistes/06_PRODUCTION/EP02_GATEWAY_SHORTS_V1/SHORT02_TWO_TONES/voice/pre.wav'
+file 'C:/Users/iQPrinceps/Documents/Codex/Youtube Modelle des Geistes/06_PRODUCTION/EP02_GATEWAY_SHORTS_V1/SHORT02_TWO_TONES/voice/SHORT02_TWO_TONES_voice_-18LUFS.wav'
+file 'C:/Users/iQPrinceps/Documents/Codex/Youtube Modelle des Geistes/06_PRODUCTION/EP02_GATEWAY_SHORTS_V1/SHORT02_TWO_TONES/voice/tail.wav'

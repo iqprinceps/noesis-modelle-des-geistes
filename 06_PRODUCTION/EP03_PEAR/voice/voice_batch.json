@@ -1,0 +1,49 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\raw_stems",
+  "stems": [
+    {
+      "id": "EP03_VO_01_HOOK",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\source\\EP03_VO_01_HOOK.txt"
+    },
+    {
+      "id": "EP03_VO_02_DER_MANN",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\source\\EP03_VO_02_DER_MANN.txt"
+    },
+    {
+      "id": "EP03_VO_03_DIE_MASCHINE",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\source\\EP03_VO_03_DIE_MASCHINE.txt"
+    },
+    {
+      "id": "EP03_VO_04_DER_ABLAUF",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\source\\EP03_VO_04_DER_ABLAUF.txt"
+    },
+    {
+      "id": "EP03_VO_05_DIE_ZAHL",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\source\\EP03_VO_05_DIE_ZAHL.txt"
+    },
+    {
+      "id": "EP03_VO_06_DIE_KRITIK",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\source\\EP03_VO_06_DIE_KRITIK.txt"
+    },
+    {
+      "id": "EP03_VO_07_DIE_PROBE",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\source\\EP03_VO_07_DIE_PROBE.txt"
+    },
+    {
+      "id": "EP03_VO_08_WAS_BLEIBT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP03_PEAR\\voice\\source\\EP03_VO_08_WAS_BLEIBT.txt"
+    }
+  ]
+}

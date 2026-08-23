@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\test\\SCENE02_A_speed108.mp3",
+  "sha256": "b4c69fded880a1bed94aaead845062abcecf77b29626866a2242714debfc9b23",
+  "bytes": 1089663,
+  "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+  "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.56,
+    "similarity_boost": 0.8,
+    "style": 0.04,
+    "use_speaker_boost": true,
+    "speed": 1.08
+  },
+  "seed": 2402,
+  "request_id": "pnKUvrtOot1uAmZc3xhN",
+  "text_sha256": "f798b86b258826069c675df0d39c6682cea8fe4e1b1022e30a32e4f51cf56033",
+  "characters": 1045
+}

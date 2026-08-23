@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\audio\\raw_stems\\EP04_VO_07A_WOODROFFE.mp3",
+  "sha256": "840d5ea1c6e8acba0502c7ca1750df523fd816df78958aed85b4a586155685c2",
+  "bytes": 1311182,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 2402,
+  "request_id": "idHXaCbWTPpcuDHN1OAV",
+  "text_sha256": "645c767de11cf4feddb4558e0d4c24dee315afdac24debe69173ff7d4dde4360",
+  "characters": 1221
+}

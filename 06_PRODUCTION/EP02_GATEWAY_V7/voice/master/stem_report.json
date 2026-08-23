@@ -1,0 +1,46 @@
+{
+  "duration": 618.017,
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "stems": [
+    {
+      "id": "EP02V7_VO_01_DREI_BEOBACHTER",
+      "duration": 57.586
+    },
+    {
+      "id": "EP02V7_VO_02_DIE_DREI_MAENNER",
+      "duration": 120.326
+    },
+    {
+      "id": "EP02V7_VO_03_ZWEI_TOENE",
+      "duration": 67.338
+    },
+    {
+      "id": "EP02V7_VO_04_DER_SPRUNG",
+      "duration": 49.691
+    },
+    {
+      "id": "EP02V7_VO_05_DIE_STUFEN",
+      "duration": 84.753
+    },
+    {
+      "id": "EP02V7_VO_06_ZEHN_ZIFFERN",
+      "duration": 69.242
+    },
+    {
+      "id": "EP02V7_VO_07_EMPFEHLUNG_H",
+      "duration": 70.078
+    },
+    {
+      "id": "EP02V7_VO_08_WAS_BLEIBT",
+      "duration": 91.905
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "duration": 555.12,
+  "voice": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\audio\\EP01_voice_48k24_mono_-18LUFS.wav",
+  "voice_verify": {
+    "input_i": "-18.00",
+    "input_tp": "-2.00",
+    "input_lra": "2.20",
+    "input_thresh": "-28.31",
+    "output_i": "-18.02",
+    "output_tp": "-2.00",
+    "output_lra": "2.20",
+    "output_thresh": "-28.34",
+    "normalization_type": "dynamic",
+    "target_offset": "0.02"
+  },
+  "bed": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\audio\\EP01_original_ambient_-34LUFS.wav",
+  "bed_verify": {
+    "input_i": "-34.00",
+    "input_tp": "-24.95",
+    "input_lra": "1.40",
+    "input_thresh": "-44.03",
+    "output_i": "-34.08",
+    "output_tp": "-24.98",
+    "output_lra": "1.40",
+    "output_thresh": "-44.09",
+    "normalization_type": "dynamic",
+    "target_offset": "0.08"
+  },
+  "final": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\audio\\EP01_final_mix_48k24_stereo_-14LUFS.wav",
+  "final_verify": {
+    "input_i": "-14.00",
+    "input_tp": "-1.00",
+    "input_lra": "2.20",
+    "input_thresh": "-24.44",
+    "output_i": "-14.02",
+    "output_tp": "-1.00",
+    "output_lra": "2.20",
+    "output_thresh": "-24.43",
+    "normalization_type": "dynamic",
+    "target_offset": "0.02"
+  },
+  "rights": "Original procedural synthesis; no samples or third-party music."
+}

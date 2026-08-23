@@ -1,0 +1,54 @@
+{
+  "duration": 586.531,
+  "tts_speed": 1.12,
+  "stems": [
+    {
+      "id": "EP02V2_VO_01_DER_SATZ_DER_NICHT_IN_DIESE_AKTE_GEHOERT",
+      "duration": 59.211,
+      "tts_speed": 1.12,
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\master\\stems\\EP02V2_VO_01_DER_SATZ_DER_NICHT_IN_DIESE_AKTE_GEHOERT.wav"
+    },
+    {
+      "id": "EP02V2_VO_02_DIE_DREI_MAENNER_HINTER_DEM_MODELL",
+      "duration": 74.815,
+      "tts_speed": 1.12,
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\master\\stems\\EP02V2_VO_02_DIE_DREI_MAENNER_HINTER_DEM_MODELL.wav"
+    },
+    {
+      "id": "EP02V2_VO_03_WAS_ZWEI_TOENE_IM_KOPF_ERZEUGEN",
+      "duration": 74.025,
+      "tts_speed": 1.12,
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\master\\stems\\EP02V2_VO_03_WAS_ZWEI_TOENE_IM_KOPF_ERZEUGEN.wav"
+    },
+    {
+      "id": "EP02V2_VO_04_WIE_AUS_ENTSPANNUNG_EIN_WELTMODELL_WIRD",
+      "duration": 72.075,
+      "tts_speed": 1.12,
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\master\\stems\\EP02V2_VO_04_WIE_AUS_ENTSPANNUNG_EIN_WELTMODELL_WIRD.wav"
+    },
+    {
+      "id": "EP02V2_VO_05_FOCUS_15_VERGANGENHEIT_FOCUS_21_ZUKUNFT",
+      "duration": 77.926,
+      "tts_speed": 1.12,
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\master\\stems\\EP02V2_VO_05_FOCUS_15_VERGANGENHEIT_FOCUS_21_ZUKUNFT.wav"
+    },
+    {
+      "id": "EP02V2_VO_06_ALS_AUS_DEM_TRAINING_EIN_GEHEIMDIENSTPROBLEM_WIRD",
+      "duration": 83.127,
+      "tts_speed": 1.12,
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\master\\stems\\EP02V2_VO_06_ALS_AUS_DEM_TRAINING_EIN_GEHEIMDIENSTPROBLEM_WIRD.wav"
+    },
+    {
+      "id": "EP02V2_VO_07_DER_KLEINE_EFFEKT_UND_DER_RIESIGE_CLAIM",
+      "duration": 78.948,
+      "tts_speed": 1.12,
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\master\\stems\\EP02V2_VO_07_DER_KLEINE_EFFEKT_UND_DER_RIESIGE_CLAIM.wav"
+    },
+    {
+      "id": "EP02V2_VO_08_WAS_DIESE_AKTE_WIRKLICH_BEWEIST",
+      "duration": 59.304,
+      "tts_speed": 1.12,
+      "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V2\\voice\\master\\stems\\EP02V2_VO_08_WAS_DIESE_AKTE_WIRKLICH_BEWEIST.wav"
+    }
+  ]
+}

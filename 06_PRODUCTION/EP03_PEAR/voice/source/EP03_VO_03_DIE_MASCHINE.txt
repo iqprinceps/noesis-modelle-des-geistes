@@ -1,0 +1,23 @@
+Und dann bauen sie Maschinen.
+
+Das Herzstück ist eine Kiste, die sie den Zufallsgenerator nennen.
+
+Es gibt sie auf Papier, in einer amerikanischen Patentschrift von neunzehnhundertachtundneunzig.
+
+Auf dem Titelblatt stehen die Namen: Brenda Dunne, Robert Jahn, Roger Nelson. Als Anmelder ist eine Firma eingetragen, die Pier Inc. heißt.
+
+Und darin steht, wie das Ding funktioniert.
+
+Am Anfang steht eine Rauschdiode. Ein Bauteil, das von sich aus zittert. Dieses Zittern ist echter physikalischer Zufall, kein Rechenprogramm — man kann es nicht vorausberechnen, auch nicht mit dem besten Rechner der Welt.
+
+Das Rauschen wird verstärkt und mit einer festen Spannung verglichen. Liegt es darüber, ist das Ergebnis eine Eins. Liegt es darunter, eine Null.
+
+Dahinter sitzt eine Schaltung, die jedes zweite Bit umdreht. Das klingt nach einer Kleinigkeit und ist eine der wichtigsten Stellen der ganzen Schaltung: Sie bügelt aus, wenn die Elektronik selbst eine Richtung bevorzugt.
+
+Am Ende kommen Nullen und Einsen aus einer Buchse, und ein Zähler addiert sie.
+
+Ein Versuch sind zweihundert Würfe. Er dauert zwei Zehntelsekunden. Tausend davon ergeben eine Serie, und dafür sitzt ein Mensch gut drei Minuten still.
+
+Das Labor selbst beschreibt es so: Es sei im Grunde, als würfe man zweihundert Münzen sehr schnell und zähle nach.
+
+Erwartungswert: die Hälfte. Alles andere wäre Zufall.

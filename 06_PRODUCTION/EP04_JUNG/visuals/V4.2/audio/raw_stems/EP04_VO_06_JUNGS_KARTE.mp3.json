@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\audio\\raw_stems\\EP04_VO_06_JUNGS_KARTE.mp3",
+  "sha256": "ac4137eb28134dfa0a6ad45f4a4a4c7de02180ef999ac86b039542a20ca39753",
+  "bytes": 1471678,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 2402,
+  "request_id": "Lu6bgjsD5N5NMPknHaSC",
+  "text_sha256": "fe93d12463460ace2a716b61f5f73e38188250f370fe60b03b8f9e09e2fb29f8",
+  "characters": 1410
+}

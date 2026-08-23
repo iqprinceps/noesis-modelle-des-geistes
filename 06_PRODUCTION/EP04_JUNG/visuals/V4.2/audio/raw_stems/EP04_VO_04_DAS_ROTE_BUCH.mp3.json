@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\audio\\raw_stems\\EP04_VO_04_DAS_ROTE_BUCH.mp3",
+  "sha256": "ebf71e6933bef7ca09c2e3f4bdc38a3931f725ea4845d7849fe7fa19ffccd04b",
+  "bytes": 1015266,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 2402,
+  "request_id": "peILJLJKd0Dq6RliBV6e",
+  "text_sha256": "720b0c52e2e7f73f6297a124700fbf3b00a6ebba8a09d927e7f2e35bf7affc39",
+  "characters": 983
+}

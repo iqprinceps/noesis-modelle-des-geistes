@@ -1,0 +1,46 @@
+{
+  "duration": 562.986,
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "stems": [
+    {
+      "id": "EP01A_VO_01_HOOK",
+      "duration": 59.629
+    },
+    {
+      "id": "EP01A_VO_02_DIE_MENSCHEN",
+      "duration": 103.793
+    },
+    {
+      "id": "EP01A_VO_03_DIE_MASCHINE",
+      "duration": 49.18
+    },
+    {
+      "id": "EP01A_VO_04_KOZYREV_RAUM",
+      "duration": 35.991
+    },
+    {
+      "id": "EP01A_VO_05_DIE_PROTOKOLLE",
+      "duration": 105.744
+    },
+    {
+      "id": "EP01A_VO_06_AURORA_BOREALIS",
+      "duration": 56.517
+    },
+    {
+      "id": "EP01A_VO_07_DIKSON",
+      "duration": 62.369
+    },
+    {
+      "id": "EP01A_VO_08_WAS_BLEIBT",
+      "duration": 82.663
+    }
+  ]
+}

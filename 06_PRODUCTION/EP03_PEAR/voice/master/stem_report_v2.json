@@ -1,0 +1,46 @@
+{
+  "duration": 611.005,
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "stems": [
+    {
+      "id": "EP03_V2_01_PARADOXON",
+      "duration": 34.133
+    },
+    {
+      "id": "EP03_V2_02_MCDONNELL",
+      "duration": 73.747
+    },
+    {
+      "id": "EP03_V2_03_MASCHINEN",
+      "duration": 102.121
+    },
+    {
+      "id": "EP03_V2_04_OPERATOR10",
+      "duration": 82.709
+    },
+    {
+      "id": "EP03_V2_05_REPLIKATION",
+      "duration": 69.195
+    },
+    {
+      "id": "EP03_V2_06_OFFTIME",
+      "duration": 77.508
+    },
+    {
+      "id": "EP03_V2_07_KRITIK",
+      "duration": 101.193
+    },
+    {
+      "id": "EP03_V2_08_WASBLEIBT",
+      "duration": 63.298
+    }
+  ]
+}

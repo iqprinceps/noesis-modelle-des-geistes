@@ -1,0 +1,170 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems\\EP01_VO_01_DER_HAMMER.mp3",
+    "sha256": "22398e51f57f2a8d6749bbb13bc53b29728714d3fa36bc4c0133f928bea05c42",
+    "bytes": 831782,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "kwlSx3cXVhSYa1mjP5KZ",
+    "text_sha256": "cd44ddd2787dad2c21f3d92b1e1e40ce82979604379c07d8f782a653b515a010",
+    "characters": 848,
+    "stem_id": "EP01_VO_01_DER_HAMMER"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems\\EP01_VO_02_DER_MANN_DER_SIE_NICHT_GEBAUT_HAT.mp3",
+    "sha256": "6530cd77f8aade7db66365c03a381d1116bcd9250854cf639f88851378c51b1d",
+    "bytes": 1056226,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "nSv8FbeyuQRFXtHmMenm",
+    "text_sha256": "6ae8030ac99d7f6fbe296789ec0cfdac243a55e74159d96a4adfb9fb18561685",
+    "characters": 1070,
+    "stem_id": "EP01_VO_02_DER_MANN_DER_SIE_NICHT_GEBAUT_HAT"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems\\EP01_VO_03_DIE_MASCHINE_AUF_PAPIER.mp3",
+    "sha256": "033984b5543987d15aad8f27e4d423a0deed50d75920bd3f1be03ae53c9f15a1",
+    "bytes": 1036164,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "enwQ3MQ07q7FrbRkZLiz",
+    "text_sha256": "e806ebb2154fd0420d613b122bbf31bccefa1e30db26b54a6cde044da167b4a5",
+    "characters": 1106,
+    "stem_id": "EP01_VO_03_DIE_MASCHINE_AUF_PAPIER"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems\\EP01_VO_04_AUS_THERAPIE_WIRD_INFORMATIONSRAUM.mp3",
+    "sha256": "4ffa3b1bf1c022ce2470a3514827a156588d01d61d852dec4956b08cea990df1",
+    "bytes": 1037418,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "NQRxixOqVhYg5OWzgfwR",
+    "text_sha256": "30f99500a74735245d848d0db1806e8060bc88df9ee2a690ab58909183e1109b",
+    "characters": 1092,
+    "stem_id": "EP01_VO_04_AUS_THERAPIE_WIRD_INFORMATIONSRAUM"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems\\EP01_VO_05_WAS_MUESSTE_HIER_EIGENTLICH_PASSIEREN.mp3",
+    "sha256": "b4c47c941a45e06bcc1501dfe95f151d26fd393f0af1aa5962b6ecf628cc37e1",
+    "bytes": 952991,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "as4JuTUPL3v1XJmEx6pa",
+    "text_sha256": "4eb5236ab35d3a61271fa6a5395a027ddb634699a580e673c430986771f2b546",
+    "characters": 925,
+    "stem_id": "EP01_VO_05_WAS_MUESSTE_HIER_EIGENTLICH_PASSIEREN"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems\\EP01_VO_06_DAS_EXPERIMENT_DAS_WIR_GERN_HAETTEN.mp3",
+    "sha256": "07ade0ceb3904ca7eb05b278472a8d8bdcbb1b00b77fde2d298c51ce4a0c3b72",
+    "bytes": 2036341,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "U7vS5v7sWwK1Vb2Kq6to",
+    "text_sha256": "269fb4fe182eef9abd508fa76a501beb63a80620b84e609ff1ace7174edcd581",
+    "characters": 2133,
+    "stem_id": "EP01_VO_06_DAS_EXPERIMENT_DAS_WIR_GERN_HAETTEN"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems\\EP01_VO_07_DAS_PATENT_IST_NICHT_DER_BEWEIS_DEN_ES_ZU_SEIN_SCHEINT.mp3",
+    "sha256": "6ce129a1d6023950f99f55678d27f5618be6c66c19a24a11a7c6f552b197337a",
+    "bytes": 808795,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "VhheIQp6YfLlJ1P9mKsh",
+    "text_sha256": "99a48ffea921fae07eeea4ffdad14411d6f55b356031fb4126ce2a95c66bc258",
+    "characters": 853,
+    "stem_id": "EP01_VO_07_DAS_PATENT_IST_NICHT_DER_BEWEIS_DEN_ES_ZU_SEIN_SCHEINT"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems\\EP01_VO_08_WAS_BLEIBT.mp3",
+    "sha256": "54390e197589cdd3c46bf80f875b1dcd755231612b31358953cf89982ce9f27f",
+    "bytes": 1031567,
+    "voice_name": "German Narration - Clear Professional Voice. Helmut Clark",
+    "voice_id": "TUKJhQmz3RPYBNAgC5A1",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.8,
+      "style": 0.04,
+      "use_speaker_boost": true,
+      "speed": 1.13
+    },
+    "seed": 2402,
+    "request_id": "7WpT3MFWIQZNrDyBO7uu",
+    "text_sha256": "83d978b8279ee6064571934b833f64c09a950c5c930baccff7ea7eaa66622b49",
+    "characters": 1052,
+    "stem_id": "EP01_VO_08_WAS_BLEIBT"
+  }
+]

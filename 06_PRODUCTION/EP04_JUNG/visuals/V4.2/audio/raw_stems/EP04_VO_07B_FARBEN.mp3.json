@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\audio\\raw_stems\\EP04_VO_07B_FARBEN.mp3",
+  "sha256": "72a7d7c378b7834a23fb07466134f3c6253643fa2dccc3828ab5d8f51496a796",
+  "bytes": 1040762,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 2402,
+  "request_id": "aK802vdRrQUCm1Sn3Nvt",
+  "text_sha256": "933870c8430bb8613c0a097c782079ac8642bdd755514333f9d1ba5df1aa390d",
+  "characters": 958
+}

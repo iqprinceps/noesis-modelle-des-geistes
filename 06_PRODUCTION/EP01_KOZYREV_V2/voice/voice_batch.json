@@ -1,0 +1,51 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\raw_stems",
+  "stems": [
+    {
+      "id": "EP01V2_VO_01_HOOK",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\source\\EP01V2_VO_01_HOOK.txt"
+    },
+    {
+      "id": "EP01V2_VO_02_KOZYREV",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\source\\EP01V2_VO_02_KOZYREV.txt"
+    },
+    {
+      "id": "EP01V2_VO_03_DIE_MASCHINE",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\source\\EP01V2_VO_03_DIE_MASCHINE.txt"
+    },
+    {
+      "id": "EP01V2_VO_04_KOZYREV_RAUM",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\source\\EP01V2_VO_04_KOZYREV_RAUM.txt"
+    },
+    {
+      "id": "EP01V2_VO_05_DIE_PROTOKOLLE",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\source\\EP01V2_VO_05_DIE_PROTOKOLLE.txt"
+    },
+    {
+      "id": "EP01V2_VO_06_AURORA_BOREALIS",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\source\\EP01V2_VO_06_AURORA_BOREALIS.txt"
+    },
+    {
+      "id": "EP01V2_VO_07_DAS_PATENT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\source\\EP01V2_VO_07_DAS_PATENT.txt"
+    },
+    {
+      "id": "EP01V2_VO_08_WAS_BLEIBT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\voice\\source\\EP01V2_VO_08_WAS_BLEIBT.txt"
+    }
+  ],
+  "quelle": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV_V2\\07_VOICE_SCRIPT_CLEAN_V2.txt",
+  "hinweis": "Sprechtexte werden aus der Reinschrift abgeleitet, nicht getrennt gepflegt. Aenderungen immer in der Reinschrift."
+}

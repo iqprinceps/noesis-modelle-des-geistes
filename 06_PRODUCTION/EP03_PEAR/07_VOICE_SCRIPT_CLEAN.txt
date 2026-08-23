@@ -1,0 +1,173 @@
+Du sitzt in einem Kellerraum an einer der teuersten Universitäten der Welt. Vor dir steht eine graue Kiste mit einer roten Leuchtziffer.
+
+Die Kiste wirft eine Münze. Tausend Mal in der Sekunde, elektronisch, aus einem Rauschen, das niemand vorhersagen kann.
+
+Deine Aufgabe ist einfach und absurd zugleich. Du sollst wollen, dass mehr Einsen herauskommen als Nullen. Ohne Knopf, ohne Berührung. Nur wollen.
+
+Du sitzt still. Zwei, drei Minuten. Dann zählt die Maschine aus.
+
+Die Abweichung ist winzig. So klein, dass sie in einem einzelnen Durchgang nichts bedeutet.
+
+Also machst du es noch einmal. Und noch einmal.
+
+Und irgendwann sind es Millionen von Durchgängen, und die Abweichung zeigt immer noch in dieselbe Richtung.
+
+Dieser Raum lag im Keller des Ingenieurgebäudes in Princeton. Er war achtundzwanzig Jahre lang in Betrieb.
+
+Geleitet hat ihn der Dekan der Ingenieurfakultät.
+
+Wie kommt so etwas an eine Universität wie diese?
+
+Und warum haben die Leute, die es betrieben haben, am Ende selbst zugesperrt?
+
+Der Mann heißt Robert Jahn. In seinem Fach hatte er einen Namen, den jeder kannte.
+
+Jahn war Ingenieur für Antriebstechnik. Elektrische Triebwerke für Raumfahrzeuge, Plasmaphysik, das Standardwerk auf diesem Gebiet trägt seinen Namen. Er hat für die NASA gearbeitet, und ab neunzehnhunderteinundsiebzig war er Dekan der Ingenieurfakultät in Princeton.
+
+Wer in Princeton Dekan der Ingenieurfakultät ist, entscheidet über Berufungen, über Geld, über Ruf. Jahn hatte diesen Posten fünfzehn Jahre.
+
+Später beschreibt er selbst, was er in diesen Jahren gleichzeitig war: Dekan, Professor für Raumfahrttechnik, Leiter eines großen Antriebsprogramms — und Leiter dieses Labors.
+
+Das ist der Punkt, an dem die Geschichte anfängt, ungewöhnlich zu werden.
+
+Denn zwischen siebenundsiebzig und neunundsiebzig betreut er eine studentische Projektarbeit über eine Frage, die an dieser Fakultät niemand stellt. Ob menschliche Aufmerksamkeit die Ausgabe eines elektronischen Zufallsgenerators verschieben kann.
+
+Wer diese Arbeit geschrieben hat, steht in keiner Quelle. Jahn nennt in seinen eigenen Aufsätzen nur die Sache, nie den Namen.
+
+Er sieht sich die Zahlen an und hört danach nicht mehr auf.
+
+Neunzehnhundertneunundsiebzig richtet er ein eigenes Labor ein. Princeton Engineering Anomalies Research. Im Haus nennen es alle nur PEAR.
+
+Die Laborleitung übernimmt Brenda Dunne, eine Psychologin. Sie bleibt bis zum letzten Tag.
+
+Und die Universität lässt ihn machen. Unter zwei Bedingungen: kein Geld von Princeton, und keine Doktoranden.
+
+Das heißt, wer hier mitarbeitet, tut es ohne akademische Laufbahn. Dunne wird es später auf eine Formel bringen, die sitzt: Wie soll man eine Begutachtung durch Fachkollegen bekommen, wenn man keine Fachkollegen hat.
+
+Und dann bauen sie Maschinen.
+
+Das Herzstück ist eine Kiste, die sie den Zufallsgenerator nennen.
+
+Es gibt sie auf Papier, in einer amerikanischen Patentschrift von neunzehnhundertachtundneunzig.
+
+Auf dem Titelblatt stehen die Namen: Brenda Dunne, Robert Jahn, Roger Nelson. Als Anmelder ist eine Firma eingetragen, die Pear Inc. heißt.
+
+Und darin steht, wie das Ding funktioniert.
+
+Am Anfang steht eine Rauschdiode. Ein Bauteil, das von sich aus zittert. Dieses Zittern ist echter physikalischer Zufall, kein Rechenprogramm — man kann es nicht vorausberechnen, auch nicht mit dem besten Rechner der Welt.
+
+Das Rauschen wird verstärkt und mit einer festen Spannung verglichen. Liegt es darüber, ist das Ergebnis eine Eins. Liegt es darunter, eine Null.
+
+Dahinter sitzt eine Schaltung, die jedes zweite Bit umdreht. Das klingt nach einer Kleinigkeit und ist eine der wichtigsten Stellen der ganzen Schaltung: Sie bügelt aus, wenn die Elektronik selbst eine Richtung bevorzugt.
+
+Am Ende kommen Nullen und Einsen aus einer Buchse, und ein Zähler addiert sie.
+
+Ein Versuch sind zweihundert Würfe. Er dauert zwei Zehntelsekunden. Tausend davon ergeben eine Serie, und dafür sitzt ein Mensch gut drei Minuten still.
+
+Das Labor selbst beschreibt es so: Es sei im Grunde, als würfe man zweihundert Münzen sehr schnell und zähle nach.
+
+Erwartungswert: die Hälfte. Alles andere wäre Zufall.
+
+Und der Ablauf im Labor ist immer gleich.
+
+Der Teilnehmer setzt sich davor und legt vorher fest, was er will. Mehr Einsen. Weniger Einsen. Oder gar nichts, einfach laufen lassen.
+
+Diese dritte Bedingung ist die wichtigste. Sie ist die Kontrolle. Wenn die Maschine auch ohne Absicht abweicht, ist der ganze Rest wertlos.
+
+Dann sitzt der Mensch da. Er darf die Kiste ansehen oder wegsehen, Musik hören, tun was ihm hilft.
+
+Es gibt keine Anleitung. Manche sagen, sie hätten sich angestrengt. Andere sagen, angestrengt habe nie funktioniert, es gehe nur, wenn man aufhört zu drücken.
+
+Das Labor notiert das mit und hat nie behauptet, eine Erklärung dafür zu haben.
+
+Über die Jahre kommen andere Apparate dazu. Ein Pendel aus Quarzglas. Ein Springbrunnen.
+
+Der eindrucksvollste Aufbau ist eine Wand aus Acrylglas, drei Meter hoch und knapp zwei Meter breit. Oben werden neuntausend Polystyrolkugeln eingefüllt, jede keine zwei Zentimeter groß.
+
+Sie fallen durch ein Raster aus dreihundertdreißig Nylonstiften und sammeln sich unten in neunzehn Fächern. Ein Durchgang dauert etwa zwölf Minuten.
+
+Was dabei entsteht, ist eine Glockenkurve. Dieselbe Kurve, die in jedem Statistiklehrbuch steht.
+
+Die Aufgabe für den Teilnehmer: Verschieb den Berg. Nach links oder nach rechts. Mit nichts als Aufmerksamkeit.
+
+Und dann kommt der Teil, der schwerer zu erzählen ist als jeder Apparat.
+
+Über alle Jahre und alle Versuche zusammen liegt die Abweichung in der Größenordnung von einem Bit auf zehntausend.
+
+Stell dir zehntausend Münzwürfe vor. Erwartet werden fünftausend Mal Kopf. Gemessen werden fünftausendundeins.
+
+Das ist der ganze Effekt.
+
+Erst wenn man Millionen von Durchgängen übereinanderlegt, wird aus dem Rauschen eine Linie, die nicht mehr auf null zurückkehrt.
+
+Genau darüber ist jahrzehntelang gestritten worden. Und der Streit ist berechtigt.
+
+Wo ein Effekt so klein ist, entscheidet die Methode alles. Wann hört man auf zu messen? Wer wertet aus? Was passiert mit Serien, die nicht ins Bild passen?
+
+Das wiegt schwer. Wer lange genug misst und selbst entscheidet, wann Schluss ist, findet auch in reinem Zufall irgendwann eine Abweichung, die nach etwas aussieht. Genau deshalb legt man in der Wissenschaft vorher fest, wie groß eine Studie wird.
+
+Ein Effekt von einem Bit auf zehntausend ist genau die Größenordnung, in der solche Fehler entstehen.
+
+Kritiker haben genau da angesetzt. Und der Punkt, der am meisten wehtut, steht in PEARs eigenen Unterlagen.
+
+Dort taucht eine Versuchsperson auf, die das Labor nur Operator zehn nennt. Zwölf Jahre. Zweiundsechzig Serien. Über hundertzwanzigtausend Durchgänge je Richtung. Von einem einzigen Menschen.
+
+Vierzehn Millionen Durchgänge hat das Labor insgesamt gemacht. Fünfzehn Prozent davon kamen von dieser einen Person.
+
+Und nach einer Analyse, die neunzehnhundertvierundneunzig öffentlich wurde, ging auf sie die Hälfte des gesamten Überschusses zurück.
+
+Wer das war, hat das Labor nie offengelegt.
+
+Was denkst du bis hier? Schreib es in die Kommentare, bevor der nächste Teil kommt.
+
+Denn jetzt kommt die Stelle, an der diese Geschichte etwas tut, was fast keine Geschichte dieser Art tut.
+
+Das Labor hat sich selbst überprüfen lassen.
+
+Ende der Neunziger schließt PEAR sich mit zwei deutschen Instituten zusammen. Freiburg und Gießen.
+
+Und sie machen es diesmal anders. Alles wird vorher festgelegt. Wie viele Durchgänge. Welche Bedingungen. Wie ausgewertet wird. Alle drei Labore benutzen dasselbe Gerät und dieselbe Software.
+
+Das ist der Versuch, den Kritiker seit zwanzig Jahren gefordert haben. Und PEAR macht ihn mit.
+
+Dann laufen die Maschinen.
+
+Und der Effekt ist nicht da.
+
+Die Abweichungen gehen in allen drei Laboren zwar in die gewünschte Richtung. Aber sie sind zu klein.
+
+Jahn und Dunne schreiben das später selbst auf, in ihrem eigenen Übersichtsaufsatz: Die Ausschläge hätten die Größe der früheren Versuche um eine Zehnerpotenz verfehlt und nicht einmal ein überzeugendes Signifikanzniveau erreicht.
+
+An anderer Stelle steht es noch schärfer: Legt man die eigenen früheren Ergebnisse als Maßstab an, dann sei die Vorhersage widerlegt.
+
+Geschrieben von denen, die zwei Jahrzehnte lang das Gegenteil gemessen hatten.
+
+Und dann arbeiten sie weiter.
+
+Sieben Jahre später ist Schluss.
+
+Zweitausendsieben ist Schluss. Die Leitung sperrt selbst zu.
+
+Jahn sagt dazu einen Satz, der lange nachhallt. Achtundzwanzig Jahre lang hätten sie getan, was sie tun wollten, und es gebe keinen Grund zu bleiben und noch mehr von denselben Daten zu erzeugen.
+
+Robert Jahn stirbt zweitausendsiebzehn.
+
+Was bleibt von achtundzwanzig Jahren?
+
+Die Maschinen gab es. Die Patentschrift liegt öffentlich aus, mit den Namen auf dem Titelblatt.
+
+Die Daten gibt es. Millionen von Durchgängen, aufgezeichnet und veröffentlicht.
+
+Und es gibt eine Wiederholung unter verschärften Bedingungen, die den Effekt nicht gefunden hat. Auch die ist veröffentlicht, von denselben Leuten.
+
+Damit ist die Sache für die meisten Fachleute erledigt.
+
+Eine Frage bleibt trotzdem. Warum hängt ein Mann, der Raketentriebwerke gebaut hat, achtundzwanzig Jahre seines Lebens an eine Abweichung von einem Bit auf zehntausend? Und warum lässt eine Universität wie diese ihn gewähren, solange er es selbst bezahlt?
+
+Und ob wir gerade dabei sind, dieselbe Frage noch einmal zu stellen. Mit besserer Elektronik und mehr Rechenleistung.
+
+Denn das Prinzip lebt weiter. In einem Netz aus Zufallsgeneratoren, verteilt über die ganze Welt, das seit neunzehnhundertachtundneunzig ununterbrochen misst.
+
+Sie nennen es Global Consciousness Project. Das globale Bewusstseinsprojekt.
+
+Das ist die nächste Folge.

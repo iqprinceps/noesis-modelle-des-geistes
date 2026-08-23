@@ -1,0 +1,129 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Title,Arial,37,&H00F2EFE5,&H0,&H90000000,&H78000000,-1,0,0,0,100,100,1,0,3,1,0,7,82,82,60,1
+Style: Evidence,Arial,22,&H00FFFFFF,&H0,&H70000000,&H9823211E,-1,0,0,0,100,100,1,0,3,1,0,9,70,70,58,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.15,0:00:02.85,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:00:03.15,0:00:05.85,Evidence,,0,0,0,,PROPOSED
+Dialogue: 0,0:00:06.15,0:00:09.85,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:00:10.15,0:00:13.85,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:00:14.15,0:00:19.64,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:00:19.93,0:00:25.42,Evidence,,0,0,0,,FORT MEADE · 2009
+Dialogue: 0,0:00:25.72,0:00:31.20,Evidence,,0,0,0,,ARMY REPORT
+Dialogue: 0,0:00:31.50,0:00:36.99,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:00:37.29,0:00:42.78,Evidence,,0,0,0,,PROPOSED
+Dialogue: 0,0:00:43.08,0:00:48.56,Evidence,,0,0,0,,NO RESULT REPORTED
+Dialogue: 0,0:00:48.86,0:00:54.34,Evidence,,0,0,0,,PORTRAIT RECONSTRUCTION
+Dialogue: 0,0:00:54.64,0:01:00.13,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:01:00.43,0:01:05.16,Title,,0,0,0,,ROBERT MONROE
+Dialogue: 0,0:01:00.43,0:01:05.16,Evidence,,0,0,0,,PORTRAIT RECONSTRUCTION
+Dialogue: 0,0:01:05.46,0:01:10.19,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:01:10.49,0:01:15.23,Evidence,,0,0,0,,CONTEXT · NOT GATEWAY FOOTAGE
+Dialogue: 0,0:01:15.53,0:01:20.26,Evidence,,0,0,0,,1993 PATENT
+Dialogue: 0,0:01:20.56,0:01:25.29,Evidence,,0,0,0,,PATENT DRAWING
+Dialogue: 0,0:01:25.59,0:01:30.32,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:01:30.62,0:01:35.35,Title,,0,0,0,,WAYNE M. McDONNELL
+Dialogue: 0,0:01:30.62,0:01:35.35,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:01:35.65,0:01:40.39,Title,,0,0,0,,ITZHAK BENTOV · NOT A PHOTOGRAPH
+Dialogue: 0,0:01:35.65,0:01:40.39,Evidence,,0,0,0,,DRAMATIZED RECONSTRUCTION
+Dialogue: 0,0:01:40.69,0:01:45.42,Evidence,,0,0,0,,U.S. PATENT · 1971
+Dialogue: 0,0:01:45.72,0:01:50.45,Evidence,,0,0,0,,U.S. PATENT · 1969
+Dialogue: 0,0:01:50.75,0:01:55.48,Evidence,,0,0,0,,PATENT DRAWING
+Dialogue: 0,0:01:55.78,0:02:00.51,Evidence,,0,0,0,,MODEL PROVENANCE
+Dialogue: 0,0:02:00.81,0:02:05.55,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:02:05.85,0:02:10.58,Evidence,,0,0,0,,NO VERIFIED PORTRAIT
+Dialogue: 0,0:02:10.88,0:02:15.61,Evidence,,0,0,0,,FORT MEADE · 2009
+Dialogue: 0,0:02:15.91,0:02:20.94,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:02:21.24,0:02:26.28,Evidence,,0,0,0,,AUDITORY PHENOMENON
+Dialogue: 0,0:02:26.58,0:02:31.61,Evidence,,0,0,0,,400 Hz · 410 Hz
+Dialogue: 0,0:02:31.91,0:02:36.94,Evidence,,0,0,0,,BINAURAL BEAT
+Dialogue: 0,0:02:37.24,0:02:42.27,Evidence,,0,0,0,,RESEARCH FIGURE
+Dialogue: 0,0:02:42.57,0:02:47.61,Evidence,,0,0,0,,CONTEXT · NOT GATEWAY FOOTAGE
+Dialogue: 0,0:02:47.91,0:02:52.94,Evidence,,0,0,0,,US 5,213,562
+Dialogue: 0,0:02:53.24,0:02:58.27,Evidence,,0,0,0,,PATENT DRAWING
+Dialogue: 0,0:02:58.57,0:03:03.61,Evidence,,0,0,0,,PATENT DRAWING
+Dialogue: 0,0:03:03.91,0:03:08.94,Evidence,,0,0,0,,PATENT DRAWING
+Dialogue: 0,0:03:09.24,0:03:14.27,Evidence,,0,0,0,,PORTRAIT RECONSTRUCTION
+Dialogue: 0,0:03:14.57,0:03:19.60,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:03:19.90,0:03:24.94,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:03:25.24,0:03:30.27,Evidence,,0,0,0,,CLAIM GAP
+Dialogue: 0,0:03:30.57,0:03:35.47,Evidence,,0,0,0,,MODEL VISUALIZATION
+Dialogue: 0,0:03:35.77,0:03:40.66,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:03:40.96,0:03:45.86,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:03:46.16,0:03:51.06,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:03:51.36,0:03:56.26,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:03:56.56,0:04:01.45,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:04:01.75,0:04:06.65,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:04:06.95,0:04:11.85,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:04:12.15,0:04:17.04,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:04:17.34,0:04:22.24,Evidence,,0,0,0,,ORIGINAL DIAGRAM
+Dialogue: 0,0:04:22.54,0:04:27.44,Evidence,,0,0,0,,MODEL VISUALIZATION
+Dialogue: 0,0:04:27.74,0:04:32.64,Evidence,,0,0,0,,CLAIM GAP
+Dialogue: 0,0:04:32.94,0:04:37.83,Title,,0,0,0,,NOT A PHOTOGRAPH
+Dialogue: 0,0:04:32.94,0:04:37.83,Evidence,,0,0,0,,DRAMATIZED RECONSTRUCTION
+Dialogue: 0,0:04:38.13,0:04:43.03,Evidence,,0,0,0,,INVENTOR CONTEXT
+Dialogue: 0,0:04:43.33,0:04:48.27,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:04:48.57,0:04:53.50,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:04:53.80,0:04:58.74,Evidence,,0,0,0,,MODEL VISUALIZATION
+Dialogue: 0,0:04:59.04,0:05:03.97,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:05:04.27,0:05:09.21,Evidence,,0,0,0,,FOCUS 15 · VISUALIZATION
+Dialogue: 0,0:05:09.51,0:05:14.45,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:05:14.75,0:05:19.68,Evidence,,0,0,0,,MODEL VISUALIZATION
+Dialogue: 0,0:05:19.98,0:05:24.92,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:05:25.22,0:05:30.15,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:05:30.45,0:05:35.39,Evidence,,0,0,0,,CONTEXT · NOT GATEWAY FOOTAGE
+Dialogue: 0,0:05:35.69,0:05:40.63,Evidence,,0,0,0,,NO GUARANTEE
+Dialogue: 0,0:05:40.93,0:05:45.86,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:05:46.16,0:05:51.10,Evidence,,0,0,0,,NOT ESTABLISHED
+Dialogue: 0,0:05:51.40,0:05:56.33,Evidence,,0,0,0,,EVIDENCE GAP
+Dialogue: 0,0:05:56.63,0:06:01.57,Evidence,,0,0,0,,CLAIM IN REPORT
+Dialogue: 0,0:06:01.87,0:06:06.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:06:07.10,0:06:12.04,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:06:12.34,0:06:17.28,Evidence,,0,0,0,,PROPOSED
+Dialogue: 0,0:06:17.58,0:06:22.51,Evidence,,0,0,0,,NO PERFECT RESULT
+Dialogue: 0,0:06:22.81,0:06:27.74,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:06:28.04,0:06:32.98,Evidence,,0,0,0,,PAST · PRESENT · FUTURE
+Dialogue: 0,0:06:33.28,0:06:38.22,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:06:38.52,0:06:43.45,Evidence,,0,0,0,,PROPOSED PROCEDURE
+Dialogue: 0,0:06:43.75,0:06:48.68,Evidence,,0,0,0,,MISSING EVIDENCE CHAIN
+Dialogue: 0,0:06:48.98,0:06:53.92,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:06:54.22,0:06:59.16,Evidence,,0,0,0,,CLAIM VISUALIZATION
+Dialogue: 0,0:06:59.46,0:07:04.39,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:07:04.69,0:07:09.62,Evidence,,0,0,0,,CLAIM VISUALIZATION
+Dialogue: 0,0:07:09.92,0:07:14.86,Evidence,,0,0,0,,CONDITIONAL
+Dialogue: 0,0:07:15.16,0:07:20.10,Evidence,,0,0,0,,ONTOLOGY OF THE REPORT
+Dialogue: 0,0:07:20.40,0:07:25.33,Evidence,,0,0,0,,NO RESULT REPORTED
+Dialogue: 0,0:07:25.63,0:07:30.64,Evidence,,0,0,0,,MEASURABLE PHENOMENON
+Dialogue: 0,0:07:30.94,0:07:35.95,Evidence,,0,0,0,,META-ANALYSIS · 2019
+Dialogue: 0,0:07:36.25,0:07:41.26,Evidence,,0,0,0,,RESEARCH FIGURE
+Dialogue: 0,0:07:41.56,0:07:46.57,Evidence,,0,0,0,,SYSTEMATIC REVIEW · 2023
+Dialogue: 0,0:07:46.87,0:07:51.88,Evidence,,0,0,0,,5 SUPPORT · 8 CONTRADICT · 1 MIXED
+Dialogue: 0,0:07:52.18,0:07:57.19,Evidence,,0,0,0,,EVIDENCE SCALE
+Dialogue: 0,0:07:57.49,0:08:02.50,Evidence,,0,0,0,,MODEL VISUALIZATION
+Dialogue: 0,0:08:02.80,0:08:07.82,Evidence,,0,0,0,,TEST STANDARD
+Dialogue: 0,0:08:08.11,0:08:13.13,Evidence,,0,0,0,,BLIND · LOCK · REPEAT
+Dialogue: 0,0:08:13.43,0:08:18.44,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:08:18.74,0:08:23.75,Evidence,,0,0,0,,NOT ESTABLISHED
+Dialogue: 0,0:08:24.05,0:08:29.06,Evidence,,0,0,0,,CLAIM GAP
+Dialogue: 0,0:08:29.36,0:08:34.37,Evidence,,0,0,0,,LIMITED EVIDENCE
+Dialogue: 0,0:08:34.67,0:08:39.68,Evidence,,0,0,0,,HETEROGENEOUS METHODS
+Dialogue: 0,0:08:39.98,0:08:44.99,Evidence,,0,0,0,,WHAT WOULD COUNT
+Dialogue: 0,0:08:45.29,0:08:50.11,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:08:50.41,0:08:55.22,Evidence,,0,0,0,,DOCUMENTED
+Dialogue: 0,0:08:55.52,0:09:00.34,Evidence,,0,0,0,,EVIDENCE RESIDUE
+Dialogue: 0,0:09:00.64,0:09:05.45,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:09:05.75,0:09:10.57,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:09:10.87,0:09:15.69,Evidence,,0,0,0,,PROPOSED
+Dialogue: 0,0:09:15.98,0:09:20.80,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:09:21.10,0:09:25.92,Evidence,,0,0,0,,IN THE REPORT
+Dialogue: 0,0:09:26.22,0:09:31.03,Evidence,,0,0,0,,RECONSTRUCTION
+Dialogue: 0,0:09:31.33,0:09:36.15,Evidence,,0,0,0,,PROPOSED · NOT PROVEN
+Dialogue: 0,0:09:36.45,0:09:41.26,Evidence,,0,0,0,,THE CONDITIONAL ENDING
+Dialogue: 0,0:09:41.56,0:09:46.38,Evidence,,0,0,0,,THE IMPOSSIBLE · PLANNED ON PAPER

@@ -1,0 +1,19 @@
+{
+  "duration": 638.017,
+  "voice_seconds": 618.017,
+  "endcard_seconds": 20.0,
+  "final_verify": {
+    "input_i": "-14.02",
+    "input_tp": "-1.00",
+    "input_lra": "2.50",
+    "input_thresh": "-24.62",
+    "output_i": "-14.09",
+    "output_tp": "-1.00",
+    "output_lra": "2.50",
+    "output_thresh": "-24.65",
+    "normalization_type": "dynamic",
+    "target_offset": "0.09"
+  },
+  "bed": "Eigensynthese, Anteil ueber 620 Hz, drei Intensitaetsstufen",
+  "rights": "Original procedural synthesis; no samples."
+}

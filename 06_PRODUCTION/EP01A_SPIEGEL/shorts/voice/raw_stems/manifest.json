@@ -1,0 +1,44 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01A_SPIEGEL\\shorts\\voice\\raw_stems\\SHORT_A_DER_STUHL.mp3",
+    "sha256": "baf6c65790cf6ce921dbf79bbc06a8f69f88040979310781e946b37b959e1ba9",
+    "bytes": 838470,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 2402,
+    "request_id": "eUku7PcEivem5TH032u9",
+    "text_sha256": "f63bde324dee9238c2c9f3b499be6239bff982b00c0d845e7d87663dec5d4909",
+    "characters": 825,
+    "stem_id": "SHORT_A_DER_STUHL"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01A_SPIEGEL\\shorts\\voice\\raw_stems\\SHORT_B_DER_VERSUCH.mp3",
+    "sha256": "a88712500608eeb2d9cc9b8e9f66ca4005bc71ab175c41b0ff405acb2ebc8bf2",
+    "bytes": 1049539,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 2402,
+    "request_id": "JKnTGDYL4eyZAXWf3SWN",
+    "text_sha256": "2516a0bc0c65dbf294a42e26b68b4ec6f43768c7fb99a1fec20fc21969237e62",
+    "characters": 1037,
+    "stem_id": "SHORT_B_DER_VERSUCH"
+  }
+]

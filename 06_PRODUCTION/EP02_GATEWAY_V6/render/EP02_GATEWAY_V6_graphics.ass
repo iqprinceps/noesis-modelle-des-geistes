@@ -1,0 +1,133 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gloss,Arial,44,&H00E0EBEE,&H0,&HC8140A04,&HC8140A04,-1,0,0,0,100,100,0,0,3,14,0,1,86,420,132,1
+Style: Src,Arial,25,&H00D3D25B,&H0,&HC8140A04,&HC8140A04,0,0,0,0,100,100,1,0,3,10,0,1,86,420,92,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.64,0:00:04.12,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:00:04.50,0:00:08.30,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:00:13.78,0:00:16.66,Gloss,,0,0,0,,{\fad(220,220)}Absender: Department of the Army
+Dialogue: 0,0:00:13.78,0:00:16.66,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:00:17.04,0:00:20.88,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:00:21.26,0:00:24.80,Gloss,,0,0,0,,{\fad(220,220)}9. Juni 1983, Fort George G. Meade
+Dialogue: 0,0:00:21.26,0:00:24.80,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:00:25.18,0:00:28.64,Gloss,,0,0,0,,{\fad(220,220)}Unterschrift: Wayne M. McDonnell, LTC
+Dialogue: 0,0:00:25.18,0:00:28.64,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:00:29.02,0:00:36.74,Gloss,,0,0,0,,{\fad(220,220)}Freigabevermerk, 2003
+Dialogue: 0,0:00:29.02,0:00:36.74,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:00:37.12,0:00:40.98,Gloss,,0,0,0,,{\fad(220,220)}Fort George G. Meade
+Dialogue: 0,0:00:37.12,0:00:40.98,Src,,0,0,0,,{\fad(220,220)}Aufnahme 2009
+Dialogue: 0,0:00:46.40,0:00:53.14,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:00:53.52,0:01:00.10,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:01:00.48,0:01:06.00,Gloss,,0,0,0,,{\fad(220,220)}Robert Monroe, 1915–1995
+Dialogue: 0,0:01:00.48,0:01:06.00,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:01:09.76,0:01:17.36,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:01:17.74,0:01:21.18,Gloss,,0,0,0,,{\fad(220,220)}Lieutenant Colonel, U.S. Army Intelligence
+Dialogue: 0,0:01:17.74,0:01:21.18,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:01:21.56,0:01:25.46,Gloss,,0,0,0,,{\fad(220,220)}Auftrag: Mechanik und praktische Nutzbarkeit prüfen
+Dialogue: 0,0:01:21.56,0:01:25.46,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:01:25.84,0:01:28.22,Gloss,,0,0,0,,{\fad(220,220)}Absender: U.S. Army Operational Group
+Dialogue: 0,0:01:25.84,0:01:28.22,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:01:28.60,0:01:32.70,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:01:33.08,0:01:37.20,Gloss,,0,0,0,,{\fad(220,220)}Itzhak Bentov, 1923–1979
+Dialogue: 0,0:01:33.08,0:01:37.20,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:01:37.58,0:01:41.30,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift · Itzhak Bentov, 1971
+Dialogue: 0,0:01:41.68,0:01:42.96,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift · Itzhak Bentov
+Dialogue: 0,0:01:43.34,0:01:45.78,Gloss,,0,0,0,,{\fad(220,220)}Katheter
+Dialogue: 0,0:01:43.34,0:01:45.78,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift · Itzhak Bentov, 1969
+Dialogue: 0,0:01:46.16,0:01:52.34,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:01:52.72,0:01:54.66,Src,,0,0,0,,{\fad(220,220)}US-Patent 5.213.562 · Robert A. Monroe · 1993
+Dialogue: 0,0:01:55.04,0:01:56.72,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift · Itzhak Bentov
+Dialogue: 0,0:02:01.12,0:02:05.80,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:02:06.18,0:02:15.58,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:02:15.96,0:02:18.20,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 1A
+Dialogue: 0,0:02:26.88,0:02:31.28,Gloss,,0,0,0,,{\fad(220,220)}Binaural gegen monaural
+Dialogue: 0,0:02:26.88,0:02:31.28,Src,,0,0,0,,{\fad(220,220)}eNeuro · CC BY 4.0
+Dialogue: 0,0:02:31.66,0:02:33.16,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:02:36.00,0:02:38.68,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 2
+Dialogue: 0,0:02:39.06,0:02:45.74,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 3
+Dialogue: 0,0:02:46.12,0:02:52.60,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:02:52.98,0:02:57.20,Gloss,,0,0,0,,{\fad(220,220)}Binaurale Beats zur Erzeugung gewünschter Zustände
+Dialogue: 0,0:02:52.98,0:02:57.20,Src,,0,0,0,,{\fad(220,220)}US-Patent 5.213.562 · Robert A. Monroe · 1993
+Dialogue: 0,0:02:57.58,0:03:02.08,Src,,0,0,0,,{\fad(220,220)}US-Patent 5.213.562 · Robert A. Monroe · 1993
+Dialogue: 0,0:03:02.46,0:03:07.04,Gloss,,0,0,0,,{\fad(220,220)}Erteilt 1993
+Dialogue: 0,0:03:02.46,0:03:07.04,Src,,0,0,0,,{\fad(220,220)}US-Patent 5.213.562 · Robert A. Monroe · 1993
+Dialogue: 0,0:03:07.42,0:03:10.64,Src,,0,0,0,,{\fad(220,220)}US-Patent 5.213.562 · Robert A. Monroe · 1993
+Dialogue: 0,0:03:13.92,0:03:19.88,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 4A
+Dialogue: 0,0:03:30.62,0:03:36.28,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:03:36.66,0:03:40.60,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 4B
+Dialogue: 0,0:03:40.98,0:03:43.56,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 1A
+Dialogue: 0,0:03:43.94,0:03:46.46,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 1C
+Dialogue: 0,0:03:46.84,0:03:48.40,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 3
+Dialogue: 0,0:03:48.78,0:03:51.46,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:03:51.84,0:03:55.42,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 4B
+Dialogue: 0,0:03:55.80,0:03:57.66,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 4C
+Dialogue: 0,0:03:59.57,0:04:01.82,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 2
+Dialogue: 0,0:04:02.20,0:04:04.96,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:05.34,0:04:11.28,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 5
+Dialogue: 0,0:04:16.06,0:04:19.64,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 4C
+Dialogue: 0,0:04:23.36,0:04:29.66,Src,,0,0,0,,{\fad(220,220)}US-Patentschrift · Itzhak Bentov
+Dialogue: 0,0:04:30.04,0:04:40.64,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:04:43.38,0:04:48.12,Gloss,,0,0,0,,{\fad(220,220)}Focus 10: wacher Geist, schlafender Körper
+Dialogue: 0,0:04:43.38,0:04:48.12,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:04:48.50,0:04:51.54,Gloss,,0,0,0,,{\fad(220,220)}Focus 12: erweiterte Aufmerksamkeit
+Dialogue: 0,0:04:48.50,0:04:51.54,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:04:51.92,0:04:57.86,Gloss,,0,0,0,,{\fad(220,220)}„Travel into the Past“ · Reise in die Vergangenheit
+Dialogue: 0,0:04:51.92,0:04:57.86,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Seite 24
+Dialogue: 0,0:05:01.34,0:05:05.18,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:05:05.56,0:05:11.16,Gloss,,0,0,0,,{\fad(220,220)}Weniger als fünf Prozent erreichen diesen Zustand
+Dialogue: 0,0:05:05.56,0:05:11.16,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:05:11.54,0:05:16.80,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:05:17.18,0:05:22.16,Gloss,,0,0,0,,{\fad(220,220)}„The Future“ · Die Zukunft
+Dialogue: 0,0:05:17.18,0:05:22.16,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Seite 24
+Dialogue: 0,0:05:22.54,0:05:27.30,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:05:27.68,0:05:35.60,Gloss,,0,0,0,,{\fad(220,220)}Abschnitt 31: Der außerkörperliche Zustand
+Dialogue: 0,0:05:27.68,0:05:35.60,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:05:35.98,0:05:37.50,Gloss,,0,0,0,,{\fad(220,220)}„does not guarantee success“
+Dialogue: 0,0:05:35.98,0:05:37.50,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:05:37.88,0:05:45.18,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:05:45.56,0:05:47.06,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:05:47.44,0:05:54.66,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:06:02.52,0:06:10.78,Gloss,,0,0,0,,{\fad(220,220)}Abschnitt 33: Informationsgewinnung
+Dialogue: 0,0:06:02.52,0:06:10.78,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Seite 25
+Dialogue: 0,0:06:11.16,0:06:18.32,Gloss,,0,0,0,,{\fad(220,220)}Abschnitt 33: Verzerrung
+Dialogue: 0,0:06:11.16,0:06:18.32,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:06:18.70,0:06:23.42,Gloss,,0,0,0,,{\fad(220,220)}Ein Test mit zehn zufälligen Ziffern
+Dialogue: 0,0:06:18.70,0:06:23.42,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:06:23.80,0:06:27.50,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:06:27.88,0:06:31.90,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:06:32.28,0:06:33.62,Gloss,,0,0,0,,{\fad(220,220)}Empfehlung H im vollen Wortlaut
+Dialogue: 0,0:06:32.28,0:06:33.62,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Seite 27
+Dialogue: 0,0:06:35.12,0:06:37.55,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:06:37.93,0:06:39.32,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:06:45.66,0:06:50.38,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:06:56.90,0:07:02.68,Gloss,,0,0,0,,{\fad(220,220)}Empfehlung J: nicht-körperliche Intelligenzen
+Dialogue: 0,0:06:56.90,0:07:02.68,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Seite 27
+Dialogue: 0,0:07:03.06,0:07:07.50,Gloss,,0,0,0,,{\fad(220,220)}„intelligent, non-corporal energy forms“
+Dialogue: 0,0:07:03.06,0:07:07.50,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:07:07.88,0:07:11.26,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:07:17.20,0:07:21.14,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:07:21.52,0:07:25.30,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Exhibit 5
+Dialogue: 0,0:07:25.68,0:07:34.92,Src,,0,0,0,,{\fad(220,220)}Systematischer Review 2023 · Open Access
+Dialogue: 0,0:07:35.30,0:07:40.74,Gloss,,0,0,0,,{\fad(220,220)}Meta-Analyse 2019: 22 Studien, moderater Effekt
+Dialogue: 0,0:07:35.30,0:07:40.74,Src,,0,0,0,,{\fad(220,220)}Meta-Analyse 2019 · Open Access
+Dialogue: 0,0:08:07.32,0:08:10.94,Src,,0,0,0,,{\fad(220,220)}eNeuro · CC BY 4.0
+Dialogue: 0,0:08:29.06,0:08:33.56,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:08:33.94,0:08:37.67,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:08:45.34,0:08:46.70,Gloss,,0,0,0,,{\fad(220,220)}Schlussfolgerungen A–G
+Dialogue: 0,0:08:45.34,0:08:46.70,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Seite 27
+Dialogue: 0,0:08:48.54,0:08:50.86,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:08:57.84,0:09:02.86,Src,,0,0,0,,{\fad(220,220)}Aufnahme 2009
+Dialogue: 0,0:09:03.24,0:09:06.94,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:09:16.14,0:09:22.24,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:09:29.86,0:09:31.52,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983
+Dialogue: 0,0:09:31.90,0:09:34.70,Src,,0,0,0,,{\fad(220,220)}Rekonstruktion
+Dialogue: 0,0:09:38.20,0:09:46.35,Src,,0,0,0,,{\fad(220,220)}U.S. Army Gateway Report · 9. Juni 1983 · Seite 27

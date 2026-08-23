@@ -1,0 +1,72 @@
+{
+  "voice": "TUKJhQmz3RPYBNAgC5A1",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.03,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\raw_stems",
+  "stems": [
+    {
+      "id": "EP02_VO_01_DREI_BEOBACHTER",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\source\\EP02_VO_01_DREI_BEOBACHTER.txt",
+      "settings": {
+        "speed": 1.05
+      }
+    },
+    {
+      "id": "EP02_VO_02_EINE_ARMY_AKTE_IM_CIA_ARCHIV",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\source\\EP02_VO_02_EINE_ARMY_AKTE_IM_CIA_ARCHIV.txt",
+      "settings": {
+        "speed": 1.16
+      }
+    },
+    {
+      "id": "EP02_VO_03_ZWEI_TOENE_UND_DER_DRITTE_RHYTHMUS",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\source\\EP02_VO_03_ZWEI_TOENE_UND_DER_DRITTE_RHYTHMUS.txt",
+      "settings": {
+        "speed": 1.13
+      }
+    },
+    {
+      "id": "EP02_VO_04_DAS_WELTMODELL_IM_BERICHT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\source\\EP02_VO_04_DAS_WELTMODELL_IM_BERICHT.txt",
+      "settings": {
+        "speed": 0.88
+      }
+    },
+    {
+      "id": "EP02_VO_05_FOCUS_15_FOCUS_21_UND_DER_KOERPER",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\source\\EP02_VO_05_FOCUS_15_FOCUS_21_UND_DER_KOERPER.txt",
+      "settings": {
+        "speed": 0.9
+      }
+    },
+    {
+      "id": "EP02_VO_06_ALS_DAS_MODELL_OPERATIV_WIRD",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\source\\EP02_VO_06_ALS_DAS_MODELL_OPERATIV_WIRD.txt",
+      "settings": {
+        "speed": 0.86
+      }
+    },
+    {
+      "id": "EP02_VO_07_DER_KLEINE_EFFEKT_GEGEN_DEN_RIESIGEN_CLAIM",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\source\\EP02_VO_07_DER_KLEINE_EFFEKT_GEGEN_DEN_RIESIGEN_CLAIM.txt",
+      "settings": {
+        "speed": 0.92
+      }
+    },
+    {
+      "id": "EP02_VO_08_WAS_BLEIBT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY\\voice\\source\\EP02_VO_08_WAS_BLEIBT.txt",
+      "settings": {
+        "speed": 0.96
+      }
+    }
+  ]
+}

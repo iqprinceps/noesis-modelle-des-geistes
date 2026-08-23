@@ -1,0 +1,48 @@
+{
+  "voice": "TUKJhQmz3RPYBNAgC5A1",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.56,
+    "similarity_boost": 0.8,
+    "style": 0.04,
+    "speed": 1.13,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\raw_stems",
+  "stems": [
+    {
+      "id": "EP01_VO_01_DER_HAMMER",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\source\\EP01_VO_01_DER_HAMMER.txt"
+    },
+    {
+      "id": "EP01_VO_02_DER_MANN_DER_SIE_NICHT_GEBAUT_HAT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\source\\EP01_VO_02_DER_MANN_DER_SIE_NICHT_GEBAUT_HAT.txt"
+    },
+    {
+      "id": "EP01_VO_03_DIE_MASCHINE_AUF_PAPIER",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\source\\EP01_VO_03_DIE_MASCHINE_AUF_PAPIER.txt"
+    },
+    {
+      "id": "EP01_VO_04_AUS_THERAPIE_WIRD_INFORMATIONSRAUM",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\source\\EP01_VO_04_AUS_THERAPIE_WIRD_INFORMATIONSRAUM.txt"
+    },
+    {
+      "id": "EP01_VO_05_WAS_MUESSTE_HIER_EIGENTLICH_PASSIEREN",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\source\\EP01_VO_05_WAS_MUESSTE_HIER_EIGENTLICH_PASSIEREN.txt"
+    },
+    {
+      "id": "EP01_VO_06_DAS_EXPERIMENT_DAS_WIR_GERN_HAETTEN",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\source\\EP01_VO_06_DAS_EXPERIMENT_DAS_WIR_GERN_HAETTEN.txt"
+    },
+    {
+      "id": "EP01_VO_07_DAS_PATENT_IST_NICHT_DER_BEWEIS_DEN_ES_ZU_SEIN_SCHEINT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\source\\EP01_VO_07_DAS_PATENT_IST_NICHT_DER_BEWEIS_DEN_ES_ZU_SEIN_SCHEINT.txt"
+    },
+    {
+      "id": "EP01_VO_08_WAS_BLEIBT",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP01_KOZYREV\\voice\\source\\EP01_VO_08_WAS_BLEIBT.txt"
+    }
+  ]
+}
