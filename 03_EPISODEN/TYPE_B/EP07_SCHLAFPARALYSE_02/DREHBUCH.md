@@ -1,164 +1,380 @@
-# EP07 — Schlafparalyse II: Wer sitzt auf deiner Brust?
+# EP07 V2 FINAL — Schlafparalyse II: Wer sitzt auf deiner Brust?
 
-**Archetyp:** B/C — Landkarte & Historische Akte  
-**Arbeitstitel:** **Wer sitzt auf deiner Brust? — Von Inkubi, Maren und der ältesten Angst der Menschheit**  
-**Alternative:** *Die kulturelle Geschichte der Schlafparalyse — 4000 Jahre nächtlicher Besucher*  
-**Ziel:** 10:00–10:30 Minuten  
-**Voice:** 126–134 WPM; ruhig, historisch-analytisch  
-**Spannungsmotor:** Die Menschheit beschreibt seit 4.000 Jahren denselben nächtlichen Angreifer. Wie wurde aus einer biologischen Lähmung der mächtigste Dämonenmythos der Geschichte?
+**Status:** Retention-Finalkandidatin  
+**Ziel:** 10:15–10:50 Minuten  
+**Archetyp:** B/C — historische Akte, Kultur & Rückkopplung  
+**Priorität:** Retention > Mystik > historische Vollständigkeit  
+**Voice:** ruhig, historisch, zunehmend unheimlich; Quellen sind Reveals, keine Vorlesung.
 
----
+## Logline
 
-## Szene 1 — Das Gemälde von 1781 | 0:00–1:05
+1692 sagt Richard Coman im Hexenprozess von Salem unter Eid aus, Bridget Bishop sei nachts in sein Zimmer gekommen, habe sich auf seinen Körper gelegt und ihn so bedrückt, dass er weder sprechen noch sich bewegen konnte. Jahrhunderte zuvor und danach beschreiben andere Kulturen dieselbe nächtliche Mechanik mit anderen Namen. Die entscheidende Frage ist nicht nur, warum Menschen überall ähnliche Wesen sehen — sondern ob die Geschichten, die eine Kultur über diese Wesen erzählt, das nächste Erlebnis selbst verändern können.
 
-**Funktion:** Ikonografischer Hook.  
-**Bild:** Henry Füssli, *The Nightmare* (1781), Öl auf Leinwand. Detailansichten: Dämon auf der Brust, leere Augen des Pferdes. Danach: Nicolai Abildgaards *Nachtmahr* (1800).  
-**Evidenz:** B.
+## Retention-Bauplan
 
-### Voiceover
-
-1781 präsentiert der schweizerisch-britische Maler Henry Füssli der Royal Academy in London ein Bild, das das Publikum verstört.
-
-Eine Frau liegt rücklings auf einem Bett. Auf ihrem Oberkörper hockt ein gedrungener, finsterer Dämon mit starrem Blick. Aus dem Hintergrund starrt ein Pferdekopf mit milchig-weißen Augen durch den Vorhang.
-
-Füssli nennt das Werk *The Nightmare*.
-
-Er malt keinen gewöhnlichen Albtraum. Er malt eine exakte anatomische und psychologische Momentaufnahme der Schlafparalyse, wie Zeitgenossen sie überall in Europa kannten.
-
-Zwanzig Jahre später schildert der dänische Künstler Nicolai Abildgaard dieselbe Szene: dieselbe Haltung, dieselbe Hilflosigkeit, derselbe lastende Dämon.
-
-Zwei Maler, zwei Länder, dieselbe Bildsprache.
-
-Und wer in den Archiven weiter zurückgeht, begreift: Dieses Bild ist keine Erfindung der Romantik. Es ist Jahrtausende alt.
+| Akt | Funktion | Zielzeit |
+|---|---|---:|
+| S1 Salem, 1692 | Gerichts-Hook + Konsequenz | 0:00–1:00 |
+| S2 Das Bild existiert schon überall | Füssli + historische Wiederholung | 1:00–2:20 |
+| S3 Viele Namen, derselbe Angriff | kompakte Welt-/Zeitkarte | 2:20–3:35 |
+| S4 Wenn ein Erlebnis zur Wahrheit einer Kultur wird | Kirche / Hexerei / Rituale | 3:35–4:55 |
+| S5 Huffords Gegenangriff | erste Wendung: Erfahrung vor Erzählung | 4:55–6:15 |
+| S6 Was glaubst du vor dem nächsten Anfall? | CTA + Hypothese | 6:15–7:05 |
+| S7 Ägypten gegen Dänemark | zweite Wendung: Kultur wirkt zurück | 7:05–8:40 |
+| S8 Der Dämon lernt schneller | Synthese + EP08-Hook | 8:40–10:30 |
 
 ---
 
-## Szene 2 — Keilschrift und Dämonen: Lilu und Lilitu | 1:05–2:30
+## Vollständiger Sprechertext
 
-**Funktion:** Mesopotamische Urquellen.  
-**Bild:** Sumerische Tontafeln, Keilschrift-Transkription für Lilu und Lilitu. Historische Karte des Zweistromlandes.  
-**Evidenz:** B.
+### S1 — Salem, 1692
 
-### Voiceover
+Salem, Massachusetts. Mai 1692.
 
-Die frühesten schriftlichen Zeugnisse stammen aus Mesopotamien. In den sumerischen Königslisten aus dem dritten Jahrtausend vor Christus taucht der Begriff **Lilu** auf.
+Richard Coman erzählt vor Gericht von einer Nacht, in der er wach in seinem Bett lag.
 
-Die mesopotamische Dämonologie beschreibt eine viergliedrige Gruppe nächtlicher Geister: Lilu, Lilitu, Ardat lili und Idlu lili.
+Das Zimmer ist vertraut.
 
-Ihre Angriffsmechanik wird auf Tontafeln festgehalten: Sie suchen Schlafende in der Dunkelheit auf, legen sich auf deren Körper, rauben ihnen die Stimme und entziehen ihnen die Lebenskraft.
+Seine Frau liegt neben ihm.
 
-Über Babylonien wandert das Motiv in die jüdische Folklore: **Lilith**, Adams mythische erste Frau, wird im Talmud zur Nachtdämonin, die Männer im Schlaf lähmt und ihnen den Atem stiehlt.
+Dann sieht er **Bridget Bishop**.
 
-Das Grundmuster ist bereits 2000 vor Christus vollständig ausformuliert: Das Opfer wacht auf, kann kein Glied rühren und spürt eine fremde Wesenheit auf seinem Brustkorb.
+Coman sagt, ihre Gestalt komme in sein Zimmer, lege sich auf seinen Körper und drücke ihn so nieder, dass er weder sprechen noch sich bewegen könne.
 
----
+Er versucht, seine Frau zu wecken.
 
-## Szene 3 — Die Systematisierung: Incubus und Succubus | 2:30–4:00
+Es gelingt ihm nicht.
 
-**Funktion:** Mittelalterliche Theologie & Hexenhammer.  
-**Bild:** Holzschnitte aus dem Spätmittelalter. Titelseite des *Malleus Maleficarum* (1486). Text-Card: Incubus (lat. incubare = aufliegen).  
-**Evidenz:** B.
+Dann verschwindet die Gestalt.
 
-### Voiceover
+Heute liest sich dieses Muster auffallend vertraut:
 
-Die mittelalterliche Kirche übersetzt die mesopotamischen Gestalten in die christliche Dämonologie.
+Wachheit.
 
-Aus Lilu wird der **Incubus** – vom lateinischen *incubare*, was wörtlich „obenauf liegen" bedeutet. Das weibliche Gegenstück bildet der **Succubus**.
+Lähmung.
 
-1486 widmet der berüchtigte *Malleus Maleficarum* – der Hexenhammer – den nächtlichen Heimsuchungen ganze Kapitel. Die Inquisitoren Heinrich Kramer und Jacob Sprenger listen minutiös auf, wie Dämonen den Schläfer fixieren, ihm das Sprechen verunmöglichen und Panik erzeugen.
+Druck.
 
-Als Gegenmaßnahmen empfehlen sie Weihwasser, Exorzismen und das Kreuzzeichen.
+Eine menschliche Präsenz im Raum.
 
-Was Theologen des 15. Jahrhunderts als teuflischen Pakt einstuften, war in Wahrheit die exakte Beschreibung einer REM-Atonie mit Incubus-Halluzination.
+1692 gibt es dafür aber keinen REM-Schlaf, keine Atonie und keine Schlafmedizin.
 
-Die biologische Lähmung des Körpers wurde zur theologischen Realität.
+Es gibt Hexerei.
 
----
+Und Bridget Bishop ist keine Figur aus einer Legende.
 
-## Szene 4 — Salem 1692: Wenn Lähmung tödlich wird | 4:00–5:30
+Sie sitzt tatsächlich vor Gericht.
 
-**Funktion:** Historische Gerichtsprozesse.  
-**Bild:** Originale Gerichtsprotokolle der Salem Witch Trials (1692). Porträt/Darstellung von Bridget Bishop.  
-**Evidenz:** B für Dokumente, V für neuropsychologische Retrospektive.
+Am 10. Juni 1692 wird sie gehängt.
 
-### Voiceover
+Eine private Nachtwahrnehmung ist Teil einer öffentlichen Realität geworden.
 
-Im Jahr 1692 erreichen die Hexenprozesse im amerikanischen Salem ihren Höhepunkt. In den Verhörprotokollen taucht ein wiederkehrendes Zeugnismuster auf.
+Aber Salem hat dieses Muster nicht erfunden.
 
-Männer und Frauen sagten unter Eid aus, die Angeklagten seien nachts in ihr Zimmer geschwebt, hätten sich auf ihre Brust geworfen und sie minutenlang gewürgt, während sie unfähig waren, die Hand zu heben oder um Hilfe zu rufen.
+Als man Jahrhunderte zurückgeht, taucht der Besucher immer wieder auf.
 
-Aufgrund solcher Aussagen wird unter anderem **Bridget Bishop** als Hexe verurteilt und gehängt.
+### S2 — Das Bild existiert schon überall
 
-Der Rechtshistoriker William H. Cooke wies nach, dass diese Anschuldigungen keine böswilligen Erfindungen waren. Die Zeugen erlebten echte Schlafparalysen.
+1781 malt Henry Füssli *The Nightmare*.
 
-Doch in einer Welt, die keine Neurologie kannte, gab es für diese Erfahrung nur eine logische Deutung: Hexerei.
+Eine Frau liegt rücklings auf einem Bett.
 
-Ein biochemischer Schalter im Gehirn entschied über Leben und Tod.
+Auf ihrer Brust hockt eine dunkle Gestalt.
 
----
+Aus dem Hintergrund starrt ein Pferdekopf mit weißen Augen durch einen Vorhang.
 
-## Szene 5 — Die germanische Mara und der Volksglaube | 5:30–7:00
+Das Bild wird berühmt, weil es etwas darstellt, das viele Betrachter bereits kennen.
 
-**Funktion:** Sprachgeschichte und europäische Rituale.  
-**Bild:** Eigene Karte West- und Nordeuropas: Mahr (Deutschland), Mara (Skandinavien), Pesanta (Spanien), Mora (Griechenland).  
-**Evidenz:** B.
+Nicht bloß einen schlechten Traum.
 
-### Voiceover
+Sondern den **Nachtmahr**: das Gefühl, nachts von einer fremden Macht bedrückt zu werden.
 
-Auch abseits kirchlicher Gerichte versuchten einfache Menschen, sich gegen das Wesen auf ihrer Brust zu wehren.
+Andere Künstler greifen das Motiv auf.
 
-Im germanischen Raum nannte man die Drückerin **Mahr** oder **Mara**.
+Andere Regionen kennen eigene Begriffe.
 
-Um sie abzuwehren, entwickelten sich europaweit skurrile Schutzrituale:
+Und je weiter man zurückgeht, desto schwieriger wird eine einfache Erklärung.
 
-In Deutschland stellte man einen Besen mit den Borsten nach oben an das Bett – im Glauben, die Mara müsse zuerst jeden Halm zählen, bevor sie den Schläfer lähmen könne.
+Denn die Namen ändern sich stark.
 
-In Katalonien fürchtete man die **Pesanta** – ein Tier mit durchlöcherten Eisenpfoten, das auf die Brust sprang.
+Die Angriffsmechanik erstaunlich wenig.
 
-Die Rituale wechselten, doch der anatomische Angriffspunkt blieb über Jahrhunderte fixiert: der Brustkorb.
+Etwas kommt nachts.
 
----
+Es nähert sich dem Schlafenden.
 
-## Szene 6 — David Huffords theoretischer Schnitt | 7:00–8:30
+Es nimmt Stimme oder Bewegung.
 
-**Funktion:** Wissenschaftlicher Wendepunkt.  
-**Bild:** David Hufford, Archivfoto/Arbeitszimmer. Diagramm: Cultural Source Hypothesis vs. Experiential Source Hypothesis.  
-**Evidenz:** B.
+Es sitzt, liegt oder drückt auf dem Körper.
 
-### Voiceover
+Und das Opfer erlebt die Szene nicht wie eine freie Fantasie, sondern wie einen Angriff.
 
-Bis in die späten 1970er-Jahre behauptete die Volkskunde: Der Mensch träumt von Hexen und Dämonen, weil die Kultur ihm diese Geschichten erzählt hat. Die Tradition erzeuge den Albtraum.
+Wenn alle nur dieselbe Geschichte voneinander kopieren würden, müsste irgendwo ein Ursprung erkennbar sein.
 
-David Hufford drehte diese Logik um.
+Stattdessen finden wir viele Ursprünge.
 
-Sein **Experience-Centered Approach** bewies: Die isolierte neurologische Erfahrung steht am Anfang. Weil das Gehirn in der Schlafparalyse panisch nach Erklärungen sucht, greift es nach den Symbolen seiner Zeit.
+### S3 — Viele Namen, derselbe Angriff
 
-Der Sumerer sieht Lilu. Der Inquisitor sieht den Incubus. Der Puritaner in Salem sieht die Nachbarin als Hexe.
+Im germanischen Raum heißt die Gestalt **Mahr** oder **Mara**.
 
-Die Folklore ist kein Märchen. Sie ist die historische Dokumentation eines biochemischen Fehlers.
+Im späteren christlichen Europa wird der **Incubus** zur Figur des nächtlichen Aufliegens.
 
----
+In japanischen Berichten erscheint das Erlebnis unter dem Begriff **Kanashibari** — gebunden oder festgehalten wie mit Metall.
 
-## Szene 7 — Was bleibt | 8:30–10:00
+In verschiedenen arabischen Traditionen existieren Vorstellungen von Jinn oder nächtlichen Wesen, die den Schlafenden bedrücken.
 
-**Funktion:** Zusammenfassung und Überleitung.  
-**Bild:** Überblendung: Keilschrifttafel → Füssli-Gemälde → moderne Schlafkabine.  
-**Evidenz:** Zusammenfassung.
+China kennt das Motiv des Geistes, der auf dem Bett oder Körper drückt.
 
-### Voiceover
+Neufundland kennt die **Old Hag**.
 
-Was zeigt uns die Kulturgeschichte der Schlafparalyse?
+Die Figuren gehören nicht einfach alle zu einer einzigen historischen Familie.
 
-**Belegt** ist, dass die Menschheit seit über 4.000 Jahren mit identischen Symptomen auf das Erwachen im gelähmten Zustand reagiert.
+Genau das macht es interessanter.
 
-**Belegt** ist, dass theologische Dogmen und Hexenverfolgungen auf realen physiologischen Phänomenen aufbauten.
+Unterschiedliche Religionen.
 
-Mit der Aufklärung verschwanden Dämonen und Hexen aus den Schlafzimmern.
+Unterschiedliche Sprachen.
 
-Doch die Schlafparalyse blieb. Und als im 20. Jahrhundert die Dämonen verklungen waren, suchte sich das menschliche Gehirn eine völlig neue Maske.
+Unterschiedliche Jahrhunderte.
+
+Und trotzdem kehren dieselben körperlichen Elemente wieder.
+
+Vielleicht entsteht die Geschichte also nicht zuerst im Mythos.
+
+Vielleicht entsteht der Mythos, weil Menschen etwas erleben, das nach einer Geschichte verlangt.
+
+Aber dann passiert etwas Entscheidendes.
+
+Sobald eine Kultur eine Erklärung besitzt, kann sie beim nächsten Erlebnis schon im Raum stehen.
+
+### S4 — Wenn ein Erlebnis zur Wahrheit einer Kultur wird
+
+Im europäischen Mittelalter ist ein nächtlicher Angriff kein neutrales medizinisches Problem.
+
+Er existiert in einer Welt voller Dämonologie, Sünde, Hexerei und religiöser Gegenmaßnahmen.
+
+Wenn jemand nachts gelähmt erwacht und Druck auf der Brust spürt, stehen mehrere Erklärungen bereit.
+
+Incubus.
+
+Hexe.
+
+Nachtmahr.
+
+Fluch.
+
+Dazu gehören auch Rituale.
+
+Gebete.
+
+Kreuzzeichen.
+
+Schutzobjekte.
+
+Mancherorts stellt man Besen oder andere Gegenstände ans Bett, um das nächtliche Wesen aufzuhalten oder abzulenken.
+
+Solche Praktiken wirken aus moderner Sicht irrational.
+
+Innerhalb des damaligen Modells sind sie logisch.
+
+Denn wenn die Ursache ein handelndes Wesen ist, braucht man eine Handlung gegen dieses Wesen.
+
+Und genau deshalb kann eine Schlafparalyse mehr werden als ein persönliches Erlebnis.
+
+Sie kann eine Anschuldigung bestätigen.
+
+Eine religiöse Welt stützen.
+
+Ein Gericht überzeugen.
+
+Oder eine ganze Gemeinschaft darin bestärken, dass nachts tatsächlich etwas kommt.
+
+Die einfache Theorie wäre daher:
+
+Menschen sehen Dämonen, weil ihre Kultur ihnen Dämonen beigebracht hat.
+
+Dann kommt David Hufford.
+
+Und dieses Modell bekommt ein Problem.
+
+### S5 — Huffords Gegenangriff
+
+Hufford untersucht in Neufundland die Old-Hag-Tradition.
+
+Er kennt das Erlebnis selbst.
+
+Aber entscheidend sind die Fälle von Menschen, die ähnliche Episoden schildern, obwohl sie die passende Überlieferung vorher nicht kennen.
+
+Das spricht gegen die Vorstellung, Kultur müsse das gesamte Grundmuster erst erzeugen.
+
+Hufford schlägt eine andere Richtung vor:
+
+Vielleicht steht am Anfang ein wiederkehrender menschlicher Zustand.
+
+Lähmung.
+
+Druck.
+
+Präsenz.
+
+Panik.
+
+Und Kulturen bauen daraus Modelle.
+
+Nicht alle gleich.
+
+Nicht als Kopie voneinander.
+
+Sondern als Antworten auf etwas, das der Körper und das Gehirn selbst liefern.
+
+Das erklärt, warum dieselbe Erlebnisstruktur in sehr verschiedenen Traditionen auftauchen kann.
+
+Doch jetzt entsteht eine zweite Frage.
+
+Wenn Kultur den ersten Anfall nicht erzeugen muss — bleibt sie danach wirklich bedeutungslos?
+
+Oder kann das, was man über die Nacht glaubt, den nächsten Anfall stärker machen?
+
+### S6 — Was glaubst du vor dem nächsten Anfall?
+
+Stell dir zwei Menschen vor.
+
+Beide wachen gelähmt auf.
+
+Beide spüren Druck.
+
+Beide sehen im dunklen Zimmer eine Form.
+
+Person A weiß: Das ist ein bekannter Schlafzustand. Er endet wieder.
+
+Person B glaubt seit Kindheit: In diesem Moment greift ein reales Wesen an, das Menschen töten kann.
+
+Der Körper ist zunächst derselbe.
+
+Aber ist die Nacht wirklich dieselbe?
+
+Was glaubst du?
+
+Schreib nur ein Wort: **ERFAHRUNG** oder **KULTUR**.
+
+Denn genau diese Frage wurde nicht nur philosophisch diskutiert.
+
+Man verglich Menschen aus zwei sehr unterschiedlichen kulturellen Umgebungen.
+
+Und die Unterschiede waren größer, als ein rein neutraler Schlafmechanismus erwarten lässt.
+
+### S7 — Ägypten gegen Dänemark
+
+Forscher um Baland Jalal und Devon Hinton verglichen Schlafparalyse in Ägypten und Dänemark.
+
+Die Grundstörung existiert in beiden Ländern.
+
+Aber die Deutung unterscheidet sich deutlich.
+
+In Teilen der ägyptischen Stichprobe wurde Schlafparalyse wesentlich häufiger mit übernatürlichen Angriffen, besonders Jinn, verbunden.
+
+In Dänemark dominierte eher eine physiologische Interpretation.
+
+Und genau hier erscheint die zweite Wendung.
+
+Die ägyptischen Betroffenen berichteten im Durchschnitt nicht nur mehr Angst.
+
+Sie berichteten auch häufigere Episoden und längere Lähmung.
+
+Übernatürliche Deutung hing mit stärkerer Todesangst zusammen.
+
+Damit dreht sich Huffords Modell ein zweites Mal.
+
+Kultur muss den Grundzustand nicht erfinden.
+
+Aber sobald eine Kultur ihm einen tödlichen Angreifer gibt, kann Angst den Schlaf verändern.
+
+Mehr Angst bedeutet schlechteren Schlaf.
+
+Schlechterer Schlaf erhöht wiederum die Wahrscheinlichkeit weiterer Episoden.
+
+Die Geschichte erklärt also nicht nur das Erlebnis.
+
+Sie kann Teil einer Rückkopplung werden, die das nächste Erlebnis wahrscheinlicher und heftiger macht.
+
+Ein Dämon muss nicht physisch existieren, um physiologische Folgen zu haben.
+
+Das ist vielleicht der unheimlichste Teil der ganzen Geschichte.
+
+Denn damit wird eine Erzählung körperlich.
+
+### S8 — Der Dämon lernt schneller
+
+Zurück nach Salem.
+
+Richard Coman erlebt nachts eine Gestalt.
+
+Seine Welt liefert ihm einen Namen und eine Ursache.
+
+Er trägt diese Ursache vor Gericht.
+
+Jahrhunderte später malt Füssli denselben Druck als Nachtmahr.
+
+Hufford findet in Neufundland ein ähnliches Erlebnis unter einem anderen Namen.
+
+Und moderne Forschung zeigt: Die Erklärung, die nach dem ersten Erlebnis entsteht, kann beim nächsten selbst Teil des Problems werden.
+
+Das bedeutet nicht, dass jede Kultur denselben Dämon sieht.
+
+Es bedeutet etwas subtileres.
+
+Der Körper liefert Rohmaterial.
+
+Die Kultur gibt ihm Form.
+
+Und diese Form wirkt zurück auf den Körper.
+
+Jahrtausendelang verbreiten sich solche Gestalten langsam.
+
+Durch Familien.
+
+Dörfer.
+
+Predigten.
+
+Bücher.
+
+Gemälde.
+
+Dann verändert sich die Geschwindigkeit.
+
+Am 12. April 2001 spricht ein Radiomoderator in den USA über schwarze Gestalten, die Menschen nachts in ihren Zimmern sehen.
+
+Die Reaktion ist gewaltig.
+
+Tausende Meldungen gehen ein.
+
+Und im frühen Internet bekommt der Schatten plötzlich Namen, Bilder und eine Silhouette, die Menschen auf der ganzen Welt innerhalb von Tagen sehen können.
+
+Früher brauchte ein Nachtgeist Generationen, um zu reisen.
+
+Jetzt braucht er eine Sendung.
 
 ---
 
 ## Endcard
 
-**Nächste Folge:** *Der Mann mit dem Hut — Alien Abductions, Shadow People und die moderne Schlafparalyse.*
+**Nächste Folge:** *Der Mann mit dem Hut — wie das Internet einer Halluzination ein Gesicht gibt.*  
+**Frage:** Was ist mächtiger: **ERLEBNIS** oder **ERZÄHLUNG**?
+
+## Voice-/Retention-Lock
+
+- Salem-Protokoll als visuellen Beweis spätestens um 20 Sekunden zeigen.
+- Bridget Bishop nicht als „durch Schlafparalyse verurteilt“ darstellen; die Aussage war Teil eines größeren Verfahrens.
+- Keine direkte historische Abstammungslinie Lilu → Lilith → Incubus behaupten.
+- Weltkarten-/Namensblock maximal 75 Sekunden; keine Folklore-Enzyklopädie.
+- Hufford als erste Wendung, Ägypten/Dänemark als zweite Wendung schützen.
+- CTA nur **ERFAHRUNG / KULTUR**.
+- Schluss muss auf Geschwindigkeit der Medien kippen; Art Bell nicht vollständig vorwegnehmen.
+
+## Primär-/Forschungsanker
+
+- Salem Witch Trials Documentary Archive: Aussagen/Depositions zu Bridget Bishop, einschließlich Richard Coman.
+- David J. Hufford: *The Terror That Comes in the Night* (1982).
+- Baland Jalal, Devon Hinton et al.: kulturvergleichende Forschung zu Schlafparalyse in Ägypten und Dänemark.
+- Historische Bildanker: Henry Füssli, *The Nightmare*; Malleus-/Salem-Dokumente nur als jeweilige historische Quelle, nicht als Beweis einer linearen Abstammung.
