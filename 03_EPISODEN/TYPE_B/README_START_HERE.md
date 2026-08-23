@@ -16,6 +16,9 @@ Die verbindliche Episoden- und Serienzuordnung steht in **`EPISODE_MAP.md`**. Di
   Repo-Pfad: `EP04B_CHAKRA_GENEALOGIE/`.  
   Zweite Folge aus dem EP04-V5-Split, aber standalone publizierbar und öffentlich nicht zwingend als „Teil 2“ zu labeln.
 
+**Gemeinsames verifiziertes Asset-Paket:** `EP04A_EP04B_ASSETS_PHASE2/`  
+Dort liegen kanonisches Download-Manifest, Direktlinks, Rights-Ampel, Shot-Mapping, Link-QA, Credits, Reconstruction-Prompts und fail-closed Downloader.
+
 ### Eigenständige Episode
 - **EP05 — Jung & Pauli / Synchronizität**  
   Repo-Pfad: `EP05_JUNG_PAULI/`.  
@@ -44,7 +47,7 @@ Type B ist das Landkarten- und Bewusstseinsformat. Es erzeugt Spannung nicht dur
 7. Editor setzt Originalassets und generierte Visuals gemäß Cue Sheet.
 8. QC Agent prüft Evidenzlabels, Rechte, Rhythmus und Tonfall.
 
-**Wichtig:** Dateien mit Status `EVIDENCE-ONLY` oder `AMBER` dürfen nicht automatisch als Bildmaterial verwendet werden.
+**Wichtig:** Dateien mit Status `EVIDENCE-ONLY`, `AMBER`, `YELLOW` oder `RED` dürfen nicht automatisch als final freigegebenes Bildmaterial behandelt werden. Für EP04A/EP04B gilt die Ampellogik des gemeinsamen Phase-2-Pakets.
 
 ## Naming Lock
 
