@@ -1,0 +1,27 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.62,
+    "similarity_boost": 0.80,
+    "style": 0.05,
+    "speed": 1.07,
+    "use_speaker_boost": true
+  },
+  "seed": 24042,
+  "output_format": "mp3_44100_128",
+  "output_dir": "PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/raw_stems",
+  "stems": [
+    {"id":"EP04B_V5_01_KARTE_ZERFAELLT","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_01_KARTE_ZERFAELLT.txt"},
+    {"id":"EP04B_V5_02_VIELE_KARTEN","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_02_VIELE_KARTEN.txt"},
+    {"id":"EP04B_V5_03_DIE_SECHS","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_03_DIE_SECHS.txt"},
+    {"id":"EP04B_V5_04_AVALON_WOODROFFE","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_04_AVALON_WOODROFFE.txt"},
+    {"id":"EP04B_V5_05_GHOSE_NETZWERK","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_05_GHOSE_NETZWERK.txt"},
+    {"id":"EP04B_V5_06_LEADBEATER","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_06_LEADBEATER.txt"},
+    {"id":"EP04B_V5_07_MUTATION_A","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_07_MUTATION_A.txt"},
+    {"id":"EP04B_V5_08_MUTATION_B","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_08_MUTATION_B.txt"},
+    {"id":"EP04B_V5_09_WARUM_BLEIBT_SIE","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_09_WARUM_BLEIBT_SIE.txt"},
+    {"id":"EP04B_V5_10_DIE_NAEHTE","text_file":"PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/voice/source/EP04B_V5_10_DIE_NAEHTE.txt"}
+  ]
+}

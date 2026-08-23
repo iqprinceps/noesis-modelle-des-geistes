@@ -1,42 +1,46 @@
 # EP04A — Jung & Kundalini: Produktionspaket
 
-## Identity Lock
-
-**Kanonische Episoden-ID: EP04A**  
-**Repo-Pfad aus Kompatibilitätsgründen:** `EP04_JUNG_CHAKREN/`
-
-Der Ordnername stammt aus der Zeit vor dem finalen V5-Split und wird nicht umbenannt, damit keine Asset-, Cue-, Runbook- oder externe Pfadreferenz bricht.
+**Kanonische Episoden-ID:** EP04A  
+**Repo-Pfad aus Kompatibilitätsgründen:** `EP04_JUNG_CHAKREN/`  
+**Status:** **READY FOR PRODUCTION INPUTS**
 
 ## Kanonisches Skript
 
-**Für Produktion gilt: `DREHBUCH_V5.md`.**
+`DREHBUCH_V5.md`
 
-Die Dateien `DREHBUCH.md`, `DREHBUCH_V2.md`, `DREHBUCH_V3.md` und `DREHBUCH_V4.md` sind Entwicklungsstände und dürfen nicht als aktueller Voice-Lock behandelt werden.
+`DREHBUCH.md`, `DREHBUCH_V2.md`, `DREHBUCH_V3.md` und `DREHBUCH_V4.md` sind Entwicklungsstände.
 
-## Verhältnis zu EP04B
+## Kanonischer Produktions-Handoff
 
-EP04A und EP04B wurden im Commit `bf29829dc12bf4ed0673fdbc36adfeaedc7dd76f` als **“EP04 V5 FINAL split”** zusammengeführt.
+`PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/`
 
-- **EP04A:** Jung, Kundalini, innere Bilder und psychologische Deutung.
-- **EP04B:** historische Genealogie der Chakra-Karte.
+Start dort mit:
+- `README.md`
+- `PRODUCTION_GUIDE_V5.md`
+- `PRODUCTION_COMMANDS.md`
+- `PRODUCTION_READY_LOCK_V5.md` in diesem Episodenordner
 
-Das sind zwei getrennte Folgen aus demselben redaktionellen Split. EP04B ist so gebaut, dass sie auch standalone publiziert werden kann und muss öffentlich nicht „Teil 2“ heißen.
+Der Handoff enthält:
+- 12 individuell gesetzte Voice-Performance-Stems + Batch/Timing/Pronunciation,
+- Clean Transcript + VO-Master/Forced-Alignment-Tool,
+- aktuell 44 MAIN + 8 RESERVE vollständige Bildprompts als **Coverage-Pool, nicht Quote**,
+- verifizierte Originalquellen-/Rights-Map,
+- individuelles Motion-/Cue-System,
+- eigene Musik-/SFX-Architektur und Generator,
+- Thumbnail-/Endcard-Brief.
 
-## Verhältnis zu EP05
+## Kreative Zahlen sind nicht hart
 
-**EP05 Jung & Pauli / Synchronizität ist eine eigenständige Episode.**
+`01_GLOBAL/00A_PRODUKTIONS_INDIVIDUALITAET.md` hat Vorrang vor Tabellenwerten aus Referenzfolgen. Stemzahl, Promptmenge, Shotdichte, Pausen und Laufzeit dürfen sich im realen Produktionsdurchgang ändern, wenn EP04A dadurch stärker und natürlicher wird.
 
-Sie kann narrativ an Jung anschließen, gehört aber nicht zum EP04A/EP04B-Split und ist keine EP04C.
+## EP04A-spezifische Identität
 
-## Wichtige V5-Dateien
+EP04A ist eine Hybridfolge aus **historischer Realität ↔ subjektiver Innenwelt**. Deshalb ist die Rekonstruktions-/Atmosphärenschicht bewusst größer als in EP04B.
 
-- `DREHBUCH_V5.md` — kanonischer Sprechertext
-- `CLAIMS_LOCK_V5.md` — Claims Lock
-- `ASSET_PLAN_V5.md` — Asset-/Rechteplanung
-- `VISUAL_STRATEGY_V5.md` — visuelle Strategie
-- `VISUAL_CUE_SHEET_V5.csv` — aktuelles Cue Sheet
-- `EDIT_RUNBOOK_V5.md` — Edit-Handoff
+## Verhältnis zu EP04B / EP05
 
-## Naming Lock
+EP04A + EP04B sind zwei getrennte Folgen aus dem Jung/Chakra-V5-Split. EP04B ist standalone publizierbar. EP05 Jung & Pauli ist eine eigenständige Episode und keine EP04C.
 
-Neue Commits, Tickets, Handoffs und Produktionsnotizen zu diesem Paket beginnen mit **EP04A**, auch wenn der physische Ordner weiterhin `EP04_JUNG_CHAKREN` heißt.
+## Legacy-Sperren
+
+Die alten `NANOBANANA_PROMPTS*.md` im Episodenordner sind nur noch Pointer/Deprecated-Hinweise. Für den Schnitt gilt der finale Cue-Sheet aus dem Production Summary, nicht ältere V2/V4-Tabellen.

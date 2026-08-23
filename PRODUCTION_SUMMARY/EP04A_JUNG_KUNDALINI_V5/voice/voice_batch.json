@@ -1,0 +1,29 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.57,
+    "similarity_boost": 0.80,
+    "style": 0.10,
+    "speed": 1.03,
+    "use_speaker_boost": true
+  },
+  "seed": 24041,
+  "output_format": "mp3_44100_128",
+  "output_dir": "PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/raw_stems",
+  "stems": [
+    {"id":"EP04A_V5_01_WARNUNG","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_01_WARNUNG.txt"},
+    {"id":"EP04A_V5_02_FLUT_BILD","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_02_FLUT_BILD.txt"},
+    {"id":"EP04A_V5_03_FLUT_DEUTUNG","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_03_FLUT_DEUTUNG.txt"},
+    {"id":"EP04A_V5_04_HOEHLE_SCHLANGE","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_04_HOEHLE_SCHLANGE.txt"},
+    {"id":"EP04A_V5_05_PHILEMON_BODEN","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_05_PHILEMON_BODEN.txt"},
+    {"id":"EP04A_V5_06_SEMINAR_GEFAHR","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_06_SEMINAR_GEFAHR.txt"},
+    {"id":"EP04A_V5_07_MANIPURA","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_07_MANIPURA.txt"},
+    {"id":"EP04A_V5_08_ANAHATA_WAHL","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_08_ANAHATA_WAHL.txt"},
+    {"id":"EP04A_V5_09_ZWEI_SEKUNDEN","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_09_ZWEI_SEKUNDEN.txt"},
+    {"id":"EP04A_V5_10_KARTE_BEWEGT_SICH","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_10_KARTE_BEWEGT_SICH.txt"},
+    {"id":"EP04A_V5_11_WAS_BLEIBT","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_11_WAS_BLEIBT.txt"},
+    {"id":"EP04A_V5_12_PAULI_HOOK","text_file":"PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/voice/source/EP04A_V5_12_PAULI_HOOK.txt"}
+  ]
+}

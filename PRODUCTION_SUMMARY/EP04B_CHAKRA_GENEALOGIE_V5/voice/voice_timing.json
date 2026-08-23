@@ -1,0 +1,16 @@
+{
+  "pre_roll_seconds": 0.30,
+  "tail_seconds": 2.0,
+  "note": "Gap values are reveal-oriented starting points, not hard timing. Keep document chains flowing unless the cut benefits from a clean reset.",
+  "gaps_after": {
+    "EP04B_V5_01_KARTE_ZERFAELLT": 0.55,
+    "EP04B_V5_02_VIELE_KARTEN": 0.45,
+    "EP04B_V5_03_DIE_SECHS": 0.85,
+    "EP04B_V5_04_AVALON_WOODROFFE": 0.35,
+    "EP04B_V5_05_GHOSE_NETZWERK": 0.80,
+    "EP04B_V5_06_LEADBEATER": 0.90,
+    "EP04B_V5_07_MUTATION_A": 0.25,
+    "EP04B_V5_08_MUTATION_B": 0.95,
+    "EP04B_V5_09_WARUM_BLEIBT_SIE": 0.85
+  }
+}

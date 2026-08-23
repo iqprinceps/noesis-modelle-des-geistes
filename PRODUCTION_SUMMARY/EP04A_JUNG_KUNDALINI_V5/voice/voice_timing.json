@@ -1,0 +1,18 @@
+{
+  "pre_roll_seconds": 0.35,
+  "tail_seconds": 2.4,
+  "note": "Gap values are episode-specific starting points, not hard timing. Final cadence follows the rendered voice and edit.",
+  "gaps_after": {
+    "EP04A_V5_01_WARNUNG": 0.75,
+    "EP04A_V5_02_FLUT_BILD": 0.45,
+    "EP04A_V5_03_FLUT_DEUTUNG": 0.90,
+    "EP04A_V5_04_HOEHLE_SCHLANGE": 0.65,
+    "EP04A_V5_05_PHILEMON_BODEN": 1.00,
+    "EP04A_V5_06_SEMINAR_GEFAHR": 0.75,
+    "EP04A_V5_07_MANIPURA": 0.40,
+    "EP04A_V5_08_ANAHATA_WAHL": 0.85,
+    "EP04A_V5_09_ZWEI_SEKUNDEN": 1.15,
+    "EP04A_V5_10_KARTE_BEWEGT_SICH": 1.00,
+    "EP04A_V5_11_WAS_BLEIBT": 0.55
+  }
+}
