@@ -11,6 +11,7 @@
   },
   "seed": 2402,
   "output_format": "mp3_44100_128",
+  "output_dir": "PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/raw_stems",
   "normalization_target": "-18 LUFS integrated, true peak <= -2 dBTP per VO stem/master",
   "master_structure": {
     "pre_roll_seconds": 0.35,
@@ -20,19 +21,20 @@
     "master_codec": "PCM 24-bit mono"
   },
   "stems": [
-    {"id":"EP05_V4_S01_WELTUHR","text_file":"voice/source/EP05_V4_S01_WELTUHR.txt"},
-    {"id":"EP05_V4_S02_TRAEUME","text_file":"voice/source/EP05_V4_S02_TRAEUME.txt"},
-    {"id":"EP05_V4_S03_GEGENUEBER","text_file":"voice/source/EP05_V4_S03_GEGENUEBER.txt"},
-    {"id":"EP05_V4_S04_KAEFER","text_file":"voice/source/EP05_V4_S04_KAEFER.txt"},
-    {"id":"EP05_V4_S05_GRENZE","text_file":"voice/source/EP05_V4_S05_GRENZE.txt"},
-    {"id":"EP05_V4_S06_ZUFALL_ZEICHEN","text_file":"voice/source/EP05_V4_S06_ZUFALL_ZEICHEN.txt"},
-    {"id":"EP05_V4_S07_QUANTENFALLE","text_file":"voice/source/EP05_V4_S07_QUANTENFALLE.txt"},
-    {"id":"EP05_V4_S08_WAS_BLEIBT","text_file":"voice/source/EP05_V4_S08_WAS_BLEIBT.txt"}
+    {"id":"EP05_V4_S01_WELTUHR","text_file":"PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/source/EP05_V4_S01_WELTUHR.txt"},
+    {"id":"EP05_V4_S02_TRAEUME","text_file":"PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/source/EP05_V4_S02_TRAEUME.txt"},
+    {"id":"EP05_V4_S03_GEGENUEBER","text_file":"PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/source/EP05_V4_S03_GEGENUEBER.txt"},
+    {"id":"EP05_V4_S04_KAEFER","text_file":"PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/source/EP05_V4_S04_KAEFER.txt"},
+    {"id":"EP05_V4_S05_GRENZE","text_file":"PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/source/EP05_V4_S05_GRENZE.txt"},
+    {"id":"EP05_V4_S06_ZUFALL_ZEICHEN","text_file":"PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/source/EP05_V4_S06_ZUFALL_ZEICHEN.txt"},
+    {"id":"EP05_V4_S07_QUANTENFALLE","text_file":"PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/source/EP05_V4_S07_QUANTENFALLE.txt"},
+    {"id":"EP05_V4_S08_WAS_BLEIBT","text_file":"PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/source/EP05_V4_S08_WAS_BLEIBT.txt"}
   ],
   "pronunciation_notes": [
+    "Batch vom Repository-Root ausfuehren.",
     "Keine Lautschrift-Kruecken oder getrennte Buchstaben einbauen.",
     "C. G. Jung als normale Initialen lesen lassen; falls der Hoertest stockt, nur in der Voice-Quelle zu 'C G Jung' vereinfachen, nicht in der Reinschrift.",
-    "ETH Zuerich, Wolfgang Pauli, Erna Rosenbaum, J. B. Rhine und Johannes Kepler vor Batch-Produktion einmal als 10-Sekunden-Hoertest pruefen.",
+    "ETH Zuerich, Wolfgang Pauli, Erna Rosenbaum, J. B. Rhine und Johannes Kepler vor Batch-Produktion einmal als kurzen Hoertest pruefen.",
     "Synchronizitaet und Quantenmechanik nicht kuenstlich verlangsamen; George spricht deutsche Fachwoerter bei speed 1.06 in der Regel sauber.",
     "Zahlen im Sprechtext ausgeschrieben lassen; Jahreszahlen duerfen als Ziffern in der Reinschrift stehen, fuer TTS bei Bedarf ausgeschrieben exportieren."
   ]
