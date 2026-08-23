@@ -1,0 +1,96 @@
+{
+  "package": "Staffel_1_Produktionspaket_v2",
+  "date": "2026-08-15",
+  "current_block": "TYPE_A",
+  "status": "production_brief_complete",
+  "editorial_rules": {
+    "archetypes": [
+      "TYPE_A",
+      "TYPE_B",
+      "TYPE_C"
+    ],
+    "evidence_levels": [
+      "BELEGT",
+      "BEHAUPTET",
+      "VERMUTET",
+      "OFFEN"
+    ],
+    "counterevidence": "must_be_plot_not_disclaimer",
+    "control_angle": "optional_and_evidence_bounded"
+  },
+  "episodes": [
+    {
+      "id": "EP01_KOZYREV",
+      "archetype": "TYPE_A",
+      "title": "Russische Wissenschaftler bauten eine Maschine, um durch die Zeit zu sehen",
+      "duration_minutes": "10-12",
+      "control_class": "C0/C1",
+      "files": [
+        "DREHBUCH.md",
+        "CLAIMS_LOCK.md",
+        "ASSET_PLAN.md",
+        "AGENT_RUNBOOK.md",
+        "SHORTS.md"
+      ],
+      "open_gates": [
+        "K05 biography primary source",
+        "K10 strongest primary purpose wording or safer title"
+      ]
+    },
+    {
+      "id": "EP02_GATEWAY",
+      "archetype": "TYPE_A",
+      "title": "Warum ein US-Militaeranalyst ausserkoerperliches Bewusstsein untersuchte",
+      "duration_minutes": "11-13",
+      "control_class": "C2",
+      "files": [
+        "DREHBUCH.md",
+        "CLAIMS_LOCK.md",
+        "ASSET_PLAN.md",
+        "AGENT_RUNBOOK.md",
+        "SHORTS.md"
+      ],
+      "open_gates": [
+        "page-level rights check",
+        "final update of binaural-beat review wording"
+      ]
+    },
+    {
+      "id": "EP03_PSYCHOTRONIK",
+      "archetype": "TYPE_A",
+      "title": "Der Kalte Krieg um eine Waffe, von der niemand wusste, ob sie existierte",
+      "duration_minutes": "11-13",
+      "control_class": "C2",
+      "files": [
+        "DREHBUCH.md",
+        "CLAIMS_LOCK.md",
+        "ASSET_PLAN.md",
+        "AGENT_RUNBOOK.md",
+        "SHORTS.md"
+      ],
+      "open_gates": [
+        "page-level rights check",
+        "separate verification before using Controlled Offensive Behavior contents"
+      ]
+    }
+  ],
+  "next_blocks": [
+    {
+      "id": "TYPE_B",
+      "episodes": [
+        "Jung & Chakren",
+        "Jung & Pauli / Synchronizitaet"
+      ],
+      "status": "deferred_by_design"
+    },
+    {
+      "id": "TYPE_C",
+      "episodes": [
+        "Princeton PEAR",
+        "Sheldrake / morphische Resonanz",
+        "Schumann-Resonanz / Mythengenese"
+      ],
+      "status": "deferred_by_design"
+    }
+  ]
+}

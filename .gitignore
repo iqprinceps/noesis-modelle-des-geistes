@@ -1,0 +1,59 @@
+# === NOESIS / Modelle des Geistes ===
+
+# Assets (zu groß für GitHub — separat verwalten)
+04_ASSETS/
+05_GENERATED/
+
+# Render-Ausgaben
+06_PRODUCTION/*/RENDERED/
+06_PRODUCTION/*/*.mp4
+06_PRODUCTION/*/*.wav
+06_PRODUCTION/*/*.aac
+06_PRODUCTION/*/*.mp3
+
+# Große Produktionsdateien
+06_PRODUCTION/*/voice/
+06_PRODUCTION/*/upload/
+06_PRODUCTION/*/*.json
+06_PRODUCTION/*/*.csv
+06_PRODUCTION/*/*.srt
+06_PRODUCTION/*/*.svg
+06_PRODUCTION/*/*.png
+06_PRODUCTION/*/*.jpg
+06_PRODUCTION/*/*.jpeg
+06_PRODUCTION/*/*.webp
+
+# Research (PDFs, HTML)
+research/
+
+# Temporäre Dateien
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+download_log.txt
+
+# Kontaktbögen (Bilder)
+KONTAKTBOGEN*.png
+
+# Nosesis_Channel (extern)
+Nosesis_Channel/

@@ -1,0 +1,874 @@
+#!/usr/bin/env python3
+"""EP03 PEAR V2 — Timeline Builder V2 (optimiert).
+
+Optimiert für flüssiges Sehen:
+- Logische Segmente statt einzelner Wortanker
+- Mindestanzeigezeit: 2.5 Sekunden
+- Maximale Anzeigezeit: 7 Sekunden
+- Bilder passen zum Hauptthema des Segments
+- Sanfte Übergänge
+
+Nutzung:
+    python tools/pear_timeline_v2_optimized.py
+"""
+
+from __future__ import annotations
+
+import json
+from pathlib import Path
+from PIL import Image
+
+ROOT = Path(__file__).resolve().parents[1]
+PROD = ROOT / "06_PRODUCTION" / "EP03_PEAR"
+
+ALIGNMENT = PROD / "voice" / "alignment" / "EP03_V2_alignment.json"
+TIMELINE = PROD / "timeline" / "EP03_V2_timeline.json"
+CLEAN = PROD / "07_VOICE_SCRIPT_CLEAN_V2.txt"
+
+GEN = PROD / "visuals" / "generated"
+CARDS = PROD / "visuals" / "cards"
+DL = ROOT / "04_ASSETS" / "01_DOWNLOADS" / "EP03_PEAR"
+PAT = DL / "P20_US5830064_figures_PD-USGov"
+
+
+def run(args, capture=False):
+    import subprocess
+    p = subprocess.run(args, text=True, capture_output=capture)
+    if p.returncode:
+        raise RuntimeError((p.stderr or p.stdout or "failed")[-8000:])
+    return (p.stdout or "") + (p.stderr or "")
+
+
+def dur(path: Path) -> float:
+    return float(run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                      "-of", "csv=p=0", str(path)], True).strip())
+
+
+def g(name): return str(GEN / f"{name}.png")
+def c(name): return str(CARDS / f"{name}.png")
+def dl(name): return str(DL / name)
+def pat(name): return str(PAT / f"US5830064_{name}_2320x3408.png")
+
+
+# Quellzeilen
+REKON = "Rekonstruktion"
+PATENT = "US-Patentschrift 5.830.064"
+NASA66 = "Jahn, Princeton 1966 · gemeinfrei"
+CCBY4 = "CC BY 4.0"
+CCBYSA4 = "CC BY-SA 4.0"
+CCBYSA3 = "CC BY-SA 3.0"
+CCBY2 = "CC BY 2.0"
+
+
+def build_segments() -> list[dict]:
+    """Definiert logische Segmente mit Text und Bild.
+    
+    Jedes Segment hat:
+    - start_text: Textanker für Startzeit
+    - end_text: Textanker für Endzeit (optional, sonst nächstes Segment)
+    - visual: Bild das zum Hauptthema passt
+    - scene: Szenen-Zugehörigkeit
+    - gloss: Beschriftung
+    - src: Quellzeile
+    """
+    
+    return [
+        # ============================================================ S1: PARADOXON
+        {
+            "start_text": "Der Dekan der Ingenieurfakultät",
+            "visual": g("pe_b01_jahn_portraet"),
+            "scene": "S1",
+            "gloss": "Robert G. Jahn",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Er sitzt im Keller",
+            "visual": g("pe_a01_keller_weit"),
+            "scene": "S1",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Er versucht, sie mit dem Gedanken",
+            "visual": g("pe_a05_gesicht_konzentration"),
+            "scene": "S1",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Eins von zehntausend Mal.",
+            "visual": g("pe_e05_sandkorn"),
+            "scene": "S1",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 2.5,
+        },
+        {
+            "start_text": "Robert Jahn hat Raketentriebwerke",
+            "visual": dl("P28_Jahn_Princeton_lab_1966_Plexiglas_vacuum_tank_Fig27.png"),
+            "scene": "S1",
+            "gloss": "Jahns Vakuumkammer, 1966",
+            "src": NASA66,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Er hat das Standardwerk",
+            "visual": g("pe_b05_buchruecken"),
+            "scene": "S1",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Er entscheidet über Berufungen",
+            "visual": dl("P02_Nassau_Hall_2026_CC-BY-4.0.jpg"),
+            "scene": "S1",
+            "gloss": "Nassau Hall, Princeton",
+            "src": CCBY4,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Und er verbringt achtundzwanzig Jahre",
+            "visual": g("pe_b15_jahn_alt"),
+            "scene": "S1",
+            "gloss": "Robert G. Jahn",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Warum?",
+            "visual": g("pe_h07_schreibtisch_leer"),
+            "scene": "S1",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 2.5,
+        },
+        
+        # ============================================================ S2: MCDONNELL
+        {
+            "start_text": "Der Mann, der das alles bezahlt",
+            "visual": c("PE_V2_CARD_MCDONNELL"),
+            "scene": "S2",
+            "gloss": "",
+            "src": "",
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Er hat McDonnell Douglas gegründet.",
+            "visual": g("pe_v2_01_mcdonnell_f15"),
+            "scene": "S2",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Und er hat eine Angst.",
+            "visual": g("pe_v2_03_pilot_cockpit"),
+            "scene": "S2",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Deshalb bezahlt er ein Labor in Princeton.",
+            "visual": dl("P01_EQuad_entrance_SEAS_2026_CC-BY-4.0.jpg"),
+            "scene": "S2",
+            "gloss": "Engineering Quadrangle",
+            "src": CCBY4,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Das Labor heißt PEAR.",
+            "visual": g("pe_b13_efeu_backstein"),
+            "scene": "S2",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Und die Universität lässt es zu.",
+            "visual": dl("P03_FitzRandolph_Gate_2026_CC-BY-4.0.jpg"),
+            "scene": "S2",
+            "gloss": "FitzRandolph Gate",
+            "src": CCBY4,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Die Laborleitung übernimmt Brenda Dunne",
+            "visual": g("pe_b10_dunne_portraet"),
+            "scene": "S2",
+            "gloss": "Brenda J. Dunne",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "How do you get peer review",
+            "visual": g("pe_b10_dunne_portraet"),
+            "scene": "S2",
+            "gloss": "Brenda J. Dunne",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        
+        # ============================================================ S3: MASCHINEN
+        {
+            "start_text": "Und dann bauen sie Maschinen.",
+            "visual": g("pe_c01_werkbank"),
+            "scene": "S3",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Das Herzstück ist eine Kiste",
+            "visual": pat("frontpage"),
+            "scene": "S3",
+            "gloss": "Titelblatt US 5.830.064",
+            "src": PATENT,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Eine Rauschdiode erzeugt echten",
+            "visual": g("pe_c03_rauschdiode"),
+            "scene": "S3",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Das Rauschen wird verstärkt",
+            "visual": pat("sheet13"),
+            "scene": "S3",
+            "gloss": "Figur 8A: Analogteil",
+            "src": PATENT,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Ein Versuch sind zweihundert Würfe.",
+            "visual": c("PE_CARD_MASSE"),
+            "scene": "S3",
+            "gloss": "",
+            "src": "",
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Der Teilnehmer setzt sich davor",
+            "visual": g("pe_d02_sitzung_seitlich"),
+            "scene": "S3",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Diese dritte Bedingung ist die wichtigste.",
+            "visual": g("pe_d12_stuhl_leer_labor"),
+            "scene": "S3",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Dann sitzt der Mensch da.",
+            "visual": g("pe_d10_kopfhoerer_tisch"),
+            "scene": "S3",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Über die Jahre kommen andere Apparate dazu.",
+            "visual": g("pe_d08_pendel_quarz"),
+            "scene": "S3",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Der eindrucksvollste Aufbau",
+            "visual": g("pe_d05_kugelwand_weit"),
+            "scene": "S3",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 6.0,
+        },
+        {
+            "start_text": "Was dabei entsteht, ist eine Glockenkurve.",
+            "visual": dl("P07_Galton_board_before_after_2017_CC-BY-SA-4.0.jpg"),
+            "scene": "S3",
+            "gloss": "Galton-Brett",
+            "src": CCBYSA4,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Die Aufgabe für den Teilnehmer:",
+            "visual": g("pe_d02_sitzung_seitlich"),
+            "scene": "S3",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        
+        # ============================================================ S4: OPERATOR 10
+        {
+            "start_text": "Und dann kommt der Teil",
+            "visual": g("pe_e05_sandkorn"),
+            "scene": "S4",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Über alle Jahre und alle Versuche zusammen",
+            "visual": g("pe_e01_linie_steigt"),
+            "scene": "S4",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Stell dir zehntausend Münzwürfe vor.",
+            "visual": g("pe_e02_muenzen_flug"),
+            "scene": "S4",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Und dann gibt es da diese eine Person.",
+            "visual": g("pe_d12_stuhl_leer_labor"),
+            "scene": "S4",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Das Labor nennt sie Operator zehn.",
+            "visual": g("pe_d12_stuhl_leer_labor"),
+            "scene": "S4",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Vierzehn Millionen Durchgänge",
+            "visual": g("pe_a10_ausdruckstapel"),
+            "scene": "S4",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Und nach einer Analyse",
+            "visual": pat("sheet19"),
+            "scene": "S4",
+            "gloss": "Figur 15A: kumulierte Abweichung",
+            "src": PATENT,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Wer das war, hat das Labor nie offengelegt.",
+            "visual": g("pe_d12_stuhl_leer_labor"),
+            "scene": "S4",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Was denkst du bis hier?",
+            "visual": c("PE_CARD_COMMENT"),
+            "scene": "S4",
+            "gloss": "",
+            "src": "",
+            "min_dur": 3.0,
+        },
+        
+        # ============================================================ S5: REPLIKATION
+        {
+            "start_text": "Denn jetzt kommt die Stelle",
+            "visual": g("pe_g10_labor_weiterarbeit"),
+            "scene": "S5",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Das Labor hat sich selbst überprüfen lassen.",
+            "visual": c("PE_CARD_PROBE"),
+            "scene": "S5",
+            "gloss": "",
+            "src": "",
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Ende der Neunziger schließt PEAR sich",
+            "visual": dl("P21_IGPP_Freiburg_Wilhelmstrasse3a_2011_CC-BY-SA-3.0.jpg"),
+            "scene": "S5",
+            "gloss": "IGPP Freiburg",
+            "src": CCBYSA3,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Und sie machen es diesmal anders.",
+            "visual": g("pe_g04_protokoll_unterschrift"),
+            "scene": "S5",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Dann laufen die Maschinen.",
+            "visual": g("pe_g01_institut_freiburg"),
+            "scene": "S5",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Und der Effekt ist nicht da.",
+            "visual": g("pe_g08_flaches_ergebnis"),
+            "scene": "S5",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Jahn und Dunne schreiben das später selbst auf",
+            "visual": g("pe_g09_veroeffentlichung"),
+            "scene": "S5",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Geschrieben von denen",
+            "visual": g("pe_g02_labor_deutsch"),
+            "scene": "S5",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Und dann arbeiten sie weiter.",
+            "visual": g("pe_g10_labor_weiterarbeit"),
+            "scene": "S5",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+        
+        # ============================================================ S6: OFF-TIME
+        {
+            "start_text": "Denn es gibt da noch etwas",
+            "visual": g("pe_e01_linie_steigt"),
+            "scene": "S6",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Das Labor hat auch versucht",
+            "visual": g("pe_c06_kiste_offen"),
+            "scene": "S6",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Sie nennen es Off-Time-Experimente.",
+            "visual": c("PE_V2_CARD_OFFTIME"),
+            "scene": "S6",
+            "gloss": "",
+            "src": "",
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "zu Zeiten, in denen sie gar nicht im Labor waren.",
+            "visual": g("pe_v2_04_offtime_uhr"),
+            "scene": "S6",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Und es gibt noch den sogenannten Baseline Bind.",
+            "visual": c("PE_V2_CARD_BASELINE"),
+            "scene": "S6",
+            "gloss": "",
+            "src": "",
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Die Kontrolldurchgänge",
+            "visual": g("pe_v2_05_baseline_glatt"),
+            "scene": "S6",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Kritiker sagen: Das ist ein Zeichen",
+            "visual": g("pe_f07_einzelner_stuhl_reihe"),
+            "scene": "S6",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Jahn und Dunne sagen etwas anderes.",
+            "visual": g("pe_b01_jahn_portraet"),
+            "scene": "S6",
+            "gloss": "Robert G. Jahn",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Unbewusst.",
+            "visual": g("pe_v2_06_geist_still"),
+            "scene": "S6",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Und anfängt, eine Geschichte über ein Modell des Geistes zu sein.",
+            "visual": c("PE_V2_CARD_MODELL"),
+            "scene": "S6",
+            "gloss": "",
+            "src": "",
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Es ist: Ist mein Geist überhaupt jemals still?",
+            "visual": g("pe_v2_06_geist_still"),
+            "scene": "S6",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        
+        # ============================================================ S7: KRITIK
+        {
+            "start_text": "Die Fachwelt hat darauf eine klare Antwort.",
+            "visual": g("pe_f01_endlospapier_boden"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "findet einen signifikanten, aber extrem kleinen Gesamteffekt.",
+            "visual": g("pe_e01_linie_steigt"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Ein Methodiker schreibt:",
+            "visual": g("pe_f06_person_am_stapel"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Schweine können nicht fliegen.",
+            "visual": g("pe_v2_07_schweine_fliegen"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Die andere Seite sagt:",
+            "visual": g("pe_b01_jahn_portraet"),
+            "scene": "S7",
+            "gloss": "Robert G. Jahn",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Wir haben die Daten.",
+            "visual": g("pe_a10_ausdruckstapel"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Und dann haben wir aufgehört.",
+            "visual": g("pe_h02_leerer_raum"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Sieben Jahre später ist Schluss.",
+            "visual": g("pe_h01_kisten_packen"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Jahn sagt dazu einen Satz",
+            "visual": g("pe_h04_datentraeger"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Robert Jahn stirbt zweitausendsiebzehn.",
+            "visual": g("pe_h06_grabstein_schlicht"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Die Universität äußert sich offiziell nicht zur Schließung.",
+            "visual": g("pe_v2_08_princeton_schweigen"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Ein Physiker von der University of Maryland sagt:",
+            "visual": g("pe_f07_einzelner_stuhl_reihe"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Das ist der Unterschied",
+            "visual": g("pe_v2_08_princeton_schweigen"),
+            "scene": "S7",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        
+        # ============================================================ S8: WAS BLEIBT
+        {
+            "start_text": "Was bleibt von achtundzwanzig Jahren?",
+            "visual": c("PE_CARD_SCHLUSSSTAND"),
+            "scene": "S8",
+            "gloss": "",
+            "src": "",
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Die Maschinen gab es.",
+            "visual": g("pe_c06_kiste_offen"),
+            "scene": "S8",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Die Daten gibt es.",
+            "visual": dl("P14_Bound_line_printer_listing_1978_CC-BY-SA-3.0.jpg"),
+            "scene": "S8",
+            "gloss": "Zeilendrucker-Ausdruck, 1978",
+            "src": CCBYSA3,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Und es gibt eine Wiederholung",
+            "visual": pat("sheet21"),
+            "scene": "S8",
+            "gloss": "Figur 15C: kumulierte Abweichung",
+            "src": PATENT,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Eine Frage bleibt trotzdem.",
+            "visual": g("pe_h07_schreibtisch_leer"),
+            "scene": "S8",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+        {
+            "start_text": "Warum hängt ein Mann",
+            "visual": dl("P35_Jahn_signature_titlepage_1966_PD-US-no-notice.png"),
+            "scene": "S8",
+            "gloss": "Jahns Unterschrift",
+            "src": NASA66,
+            "min_dur": 5.0,
+        },
+        {
+            "start_text": "Und warum lässt eine Universität wie diese",
+            "visual": dl("P01_EQuad_entrance_SEAS_2026_CC-BY-4.0.jpg"),
+            "scene": "S8",
+            "gloss": "Engineering Quadrangle",
+            "src": CCBY4,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Denn das Prinzip lebt weiter.",
+            "visual": dl("P31_TRNG_Araneus_Alea_REG_standin_2018_CC-BY-4.0.jpg"),
+            "scene": "S8",
+            "gloss": "Hardware-Zufallsgenerator",
+            "src": CCBY4,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Sie nennen es Global Consciousness Project.",
+            "visual": g("pe_h09_serverraum_klein"),
+            "scene": "S8",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 4.0,
+        },
+        {
+            "start_text": "Das ist die nächste Folge.",
+            "visual": g("pe_h05_fenster_abend"),
+            "scene": "S8",
+            "gloss": "",
+            "src": REKON,
+            "min_dur": 3.0,
+        },
+    ]
+
+
+def find_time(text: str, anchor: str, chars: list[dict], cursor: int = 0) -> float:
+    """Findet die Startzeit eines Textankers."""
+    pos = text.find(anchor, cursor)
+    if pos < 0:
+        pos = text.find(anchor)
+    if pos < 0:
+        return -1
+    
+    for i in range(pos, min(pos + len(anchor), len(chars))):
+        if not text[i].isspace():
+            return chars[i]["start"]
+    return -1
+
+
+def build_timeline():
+    """Baut die Timeline mit optimierten Segmenten."""
+    print("\n  Baue optimierte Timeline...")
+    
+    # Lade Alignment
+    if not ALIGNMENT.exists():
+        print(f"  FEHLER: Alignment fehlt: {ALIGNMENT}")
+        return
+    
+    alignment = json.loads(ALIGNMENT.read_text(encoding="utf-8"))
+    chars = alignment["characters"]
+    
+    # Lade Text
+    with open(CLEAN, 'r', encoding='utf-8') as f:
+        text = f.read()
+    
+    # Lade Segmente
+    segments = build_segments()
+    
+    # Finde Zeitpunkte
+    timeline = []
+    cursor = 0
+    
+    for i, seg in enumerate(segments):
+        start_time = find_time(text, seg["start_text"], chars, cursor)
+        
+        if start_time < 0:
+            print(f"  WARNUNG: Anker nicht gefunden: '{seg['start_text'][:50]}'")
+            continue
+        
+        # Bestimme Endzeit
+        if i < len(segments) - 1:
+            next_time = find_time(text, segments[i+1]["start_text"], chars, cursor)
+            if next_time > 0:
+                end_time = next_time
+            else:
+                end_time = start_time + 5.0
+        else:
+            end_time = chars[-1]["end"] if chars else start_time + 5.0
+        
+        # Mindest-Dauer erzwingen
+        min_dur = seg.get("min_dur", 2.5)
+        if end_time - start_time < min_dur:
+            end_time = start_time + min_dur
+        
+        # Maximale Dauer begrenzen (7 Sekunden)
+        if end_time - start_time > 7.0:
+            end_time = start_time + 7.0
+        
+        # Prüfe ob Bild existiert
+        visual_path = Path(seg["visual"])
+        if not visual_path.exists():
+            print(f"  WARNUNG: Bild fehlt: {visual_path.name}")
+            continue
+        
+        # Aspect Ratio
+        try:
+            with Image.open(visual_path) as im:
+                aspect = im.width / im.height
+        except Exception:
+            aspect = 16 / 9
+        
+        timeline.append({
+            "anchor": seg["start_text"],
+            "visual": seg["visual"],
+            "scene": seg["scene"],
+            "kind": "STILL",
+            "gloss": seg.get("gloss", ""),
+            "src": seg.get("src", ""),
+            "shot_id": f"SPG_V2_{i+1:03d}",
+            "start": round(start_time, 3),
+            "end": round(end_time, 3),
+            "duration": round(end_time - start_time, 3),
+            "aspect": round(aspect, 3),
+            "contain": not (1.62 <= aspect <= 1.95),
+            "scene_first": i == 0 or segments[i-1]["scene"] != seg["scene"],
+            "scene_last": i == len(segments) - 1 or segments[i+1]["scene"] != seg["scene"],
+        })
+        
+        cursor = text.find(seg["start_text"], cursor) + len(seg["start_text"])
+    
+    # Speichere Timeline
+    TIMELINE.parent.mkdir(parents=True, exist_ok=True)
+    TIMELINE.write_text(json.dumps(timeline, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    
+    # Statistik
+    total_duration = timeline[-1]["end"] if timeline else 0
+    unique_visuals = len(set(r["visual"] for r in timeline))
+    glosses = sum(1 for r in timeline if r["gloss"])
+    sources = sum(1 for r in timeline if r["src"])
+    
+    # Timing-Analyse
+    short = [r for r in timeline if r["duration"] < 2.0]
+    long = [r for r in timeline if r["duration"] > 7.0]
+    
+    print(f"\n  Timeline gespeichert: {TIMELINE.name}")
+    print(f"  Segmente: {len(timeline)}")
+    print(f"  Dauer: {total_duration:.2f}s ({int(total_duration//60)}:{total_duration%60:04.1f})")
+    print(f"  Einzelbilder: {unique_visuals}")
+    print(f"  Beschriftungen: {glosses}")
+    print(f"  Quellzeilen: {sources}")
+    print(f"  Kurze Shots (< 2s): {len(short)}")
+    print(f"  Lange Shots (> 7s): {len(long)}")
+    
+    # Szenen-Statistik
+    scenes = {}
+    for r in timeline:
+        scenes.setdefault(r["scene"], []).append(r)
+    
+    print(f"\n  Szenen:")
+    for scene, shots in scenes.items():
+        duration = shots[-1]["end"] - shots[0]["start"]
+        print(f"    {scene}: {len(shots)} Segmente, {duration:.1f}s")
+    
+    return timeline
+
+
+if __name__ == "__main__":
+    build_timeline()

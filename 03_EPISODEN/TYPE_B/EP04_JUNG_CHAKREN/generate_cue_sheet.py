@@ -1,0 +1,261 @@
+import csv
+from pathlib import Path
+
+# V4 Script structure with approximate timings
+# Total: ~1982 words @130 WPM = ~15.2 min = 912 seconds
+# Target: ~200 cues @4.5s average
+
+scenes = [
+    {
+        "id": "S1", "title": "Die Flut", "start": 0, "end": 72,
+        "cues": [
+            (0, 4, "Im Oktober 1913 sitzt ein Mann in einem Zug durch die Schweiz", "AI_RECON", "1913 Swiss train interior", "IMG01"),
+            (4, 8, "und sieht Europa untergehen", "AI_RECON", "Man looking out train window", "IMG02"),
+            (8, 12, "Er heißt Carl Gustav Jung er ist achtunddreißig Jahre alt", "ORIGINAL_ASSET", "Jung portrait ETH-BIB 1935", "Jung_ETH_1935"),
+            (12, 16, "und er hat gerade alles verloren was ihn ausgemacht hat", "AI_RECON", "Isolation rejection", "IMG03"),
+            (16, 20, "Der Bruch mit Sigmund Freud liegt ein Jahr zurück", "AI_RECON", "Freud and Jung split", "IMG04"),
+            (20, 24, "Die Bewegung in der er der Kronprinz war hat ihn ausgestoßen", "AI_RECON", "Man alone in Zurich", "IMG05"),
+            (24, 28, "Und dann im Wachzustand mitten am Tag kommt das Bild", "AI_RECON", "Vision appearing dramatic light", "IMG06"),
+            (28, 32, "Eine ungeheure Flut über dem ganzen Norden Europas", "AI_RECON", "Apocalyptic flood Northern Europe", "IMG07"),
+            (32, 36, "zwischen der Nordsee und den Alpen Gelbe Wellen", "AI_RECON", "Yellow waves flood", "IMG08"),
+            (36, 40, "Darin die treibenden Trümmer der Zivilisation", "AI_RECON", "Debris floating civilisation ruins", "IMG09"),
+            (40, 44, "Und die Leichen ungezählter Tausender", "AI_RECON", "Dramatic symbolic imagery", "IMG10"),
+            (44, 48, "Dann färbt sich das Meer zu Blut", "AI_RECON", "Blood-red sea apocalyptic", "IMG11"),
+            (48, 52, "Es dauert etwa eine Stunde", "AI_RECON", "Time passing clock", "IMG12"),
+            (52, 56, "Zwei Wochen später kommt es wieder Dasselbe Bild stärker", "AI_RECON", "Vision returning haunting", "IMG13"),
+            (56, 60, "Und diesmal spricht eine Stimme mit ihm und sagt das sei wirklich", "AI_RECON", "Voice from vision supernatural", "IMG14"),
+            (60, 64, "Jung ist Psychiater Er hat sein Berufsleben in einer psychiatrischen Klinik begonnen", "AI_RECON", "Psychiatrist portrait professional", "IMG15"),
+            (64, 68, "Er hat später gesagt er habe sich von einer Psychose bedroht gefühlt", "AI_RECON", "Fear of madness psychological", "IMG16"),
+            (68, 72, "Im August 1914 bricht der Erste Weltkrieg aus Genau in der Landschaft die er gesehen hat", "AI_RECON", "War declaration 1914 historical", "IMG17"),
+        ]
+    },
+    {
+        "id": "S2", "title": "Er geht zurück hinein", "start": 72, "end": 168,
+        "cues": [
+            (72, 76, "An dieser Stelle würde jeder vernünftige Mensch aufhören", "AI_RECON", "Crossroads decision moment", "IMG18"),
+            (76, 80, "Jung tut das Gegenteil Im Dezember 1913 setzt er sich abends an seinen Schreibtisch", "AI_RECON", "Man at desk evening 1913", "IMG19"),
+            (80, 84, "und macht es absichtlich", "AI_RECON", "Deliberate action intention", "IMG20"),
+            (84, 88, "Er beschreibt es wie einen Schritt ins Dunkle", "AI_RECON", "Stepping into darkness", "IMG21"),
+            (88, 92, "Der Boden gibt nach er fällt und dann steht er in einer Höhle", "AI_RECON", "Falling into cave darkness", "IMG22"),
+            (92, 96, "Ein Leichnam treibt vorbei Ein schwarzer Käfer", "AI_RECON", "Dark vision corpse beetle", "IMG23"),
+            (96, 100, "Eine rote Sonne tief unten im Wasser", "AI_RECON", "Red sun underwater", "IMG24"),
+            (100, 104, "Was er dort tut hat er später zu einer Methode gemacht", "AI_RECON", "Method development", "IMG25"),
+            (104, 108, "und die ist bis heute in Gebrauch Sie heißt aktive Imagination", "AI_RECON", "Active imagination technique", "IMG26"),
+            (108, 112, "Man setzt sich hin Man stellt das rechnende ordnende Denken still", "AI_RECON", "Meditation sitting still", "IMG27"),
+            (112, 116, "ohne einzuschlafen Man lässt die Bilder kommen die dann kommen", "AI_RECON", "Images appearing dreamlike", "IMG28"),
+            (116, 120, "Und dann geht man selbst hinein Man spricht die Gestalten an", "AI_RECON", "Engaging with visions", "IMG29"),
+            (120, 124, "Man widerspricht ihnen Man stellt Fragen und wartet auf die Antwort", "AI_RECON", "Dialogue with unconscious", "IMG30"),
+            (124, 128, "Kein Zuschauen Beteiligung", "AI_RECON", "Active participation", "IMG31"),
+            (128, 132, "Und während das jeden Abend passiert führt Jung tagsüber weiter seine Praxis", "AI_RECON", "Daily practice patient work", "IMG32"),
+            (132, 136, "Er behandelt Patienten Er hat eine Frau und fünf Kinder", "AI_RECON", "Family life normality", "IMG33"),
+            (136, 140, "Ab 1914 tut er Dienst als Militärarzt", "AI_RECON", "Military doctor WWI", "IMG34"),
+            (140, 144, "Er hat später gesagt genau das habe ihn gehalten", "AI_RECON", "Anchor stability", "IMG35"),
+            (144, 148, "Die Familie und die Arbeit waren der Boden auf den er jeden Morgen zurückkam", "AI_RECON", "Morning routine normal life", "IMG36"),
+            (148, 152, "Das ist keine Nebenbemerkung Das ist die Bedingung unter der er zurückkam", "AI_RECON", "Foundation ground stability", "IMG37"),
+        ]
+    },
+    {
+        "id": "S3", "title": "Philemon", "start": 168, "end": 270,
+        "cues": [
+            (168, 172, "In den Bildern sind Gestalten und die Gestalten haben eigene Absichten", "AI_RECON", "Archetypal figures emerging", "IMG38"),
+            (172, 176, "Ein alter Prophet den er Elias nennt", "AI_RECON", "Elias prophet figure", "IMG39"),
+            (176, 180, "Bei ihm eine junge blinde Frau namens Salome", "AI_RECON", "Salome blind woman", "IMG40"),
+            (180, 184, "Und bei den beiden immer wieder eine große schwarze Schlange", "ORIGINAL_ASSET", "Kundalini serpent Wellcome", "Kundalini_Serpent"),
+            (184, 188, "Merk dir die Schlange", "AI_RECON", "Black serpent coiled", "IMG41"),
+            (188, 192, "Später kommt eine dritte Gestalt dazu und die wird die wichtigste", "AI_RECON", "Third figure appearing", "IMG42"),
+            (192, 196, "Ein alter Mann mit den Flügeln eines Eisvogels und den Hörnern eines Stiers", "AI_RECON", "Philemon mythological figure", "IMG43"),
+            (196, 200, "Er nennt sich Philemon", "AI_RECON", "Philemon name appearing", "IMG44"),
+            (200, 204, "Jung geht mit ihm im Garten spazieren", "AI_RECON", "Garden walk conversation", "IMG45"),
+            (204, 208, "Er schreibt das so auf er geht den Gartenweg entlang und führt ein Gespräch", "AI_RECON", "Walking talking garden", "IMG46"),
+            (208, 212, "Und Philemon sagt ihm Dinge die Jung nicht gedacht hat", "AI_RECON", "Unexpected words revelation", "IMG47"),
+            (212, 216, "Einmal wirft Philemon ihm vor er halte Gedanken für etwas das er selbst herstellt", "AI_RECON", "Accusation confrontation", "IMG48"),
+            (216, 220, "Thoughts were like animals in the forest or people in a room or birds in the air", "ZITAT_KARTE", "Jung quote Philemon English", "QUOTE_PHILEMON"),
+            (220, 224, "Gedanken seien wie Tiere im Wald Wie Menschen in einem Zimmer", "AI_RECON", "Animals forest people room", "IMG49"),
+            (224, 228, "Wie Vögel in der Luft Man begegnet ihnen Man macht sie nicht", "AI_RECON", "Birds air encounter", "IMG50"),
+            (228, 232, "Jung hat diesen Satz sein Leben lang nicht mehr losgelassen", "AI_RECON", "Lasting impact memory", "IMG51"),
+            (232, 236, "Er hat später gesagt Philemon habe ihm damit etwas beigebracht", "AI_RECON", "Teaching learning", "IMG52"),
+            (236, 240, "das er sich selbst nicht hätte beibringen können", "AI_RECON", "Self-discovery limit", "IMG53"),
+            (240, 244, "Er nannte es psychische Objektivität", "AI_RECON", "Psychic objectivity concept", "IMG54"),
+            (244, 248, "Übersetzt In seinem eigenen Kopf war etwas das er nicht gemacht hat", "AI_RECON", "Mind discovery unknown", "IMG55"),
+        ]
+    },
+    {
+        "id": "S4", "title": "Das Rote Buch", "start": 270, "end": 396,
+        "cues": [
+            (270, 274, "Sechzehn Jahre lang schreibt er alles auf", "AI_RECON", "Writing journal years", "IMG56"),
+            (274, 278, "Zuerst in schwarze Notizhefte roh und sofort in der Nacht in der es passiert", "AI_RECON", "Black notebooks night writing", "IMG57"),
+            (278, 282, "Dann überträgt er es Auf Pergament in Kalligraphie", "AI_RECON", "Pergament calligraphy", "IMG58"),
+            (282, 286, "mit gemalten Mandalas und Initialen wie eine mittelalterliche Handschrift", "ORIGINAL_ASSET", "Red Book on desk", "Red_Book_Desk"),
+            (286, 290, "Ein rotes Lederbuch an dem er von etwa 1915 bis 1930 arbeitet", "AI_RECON", "Red leather book", "IMG59"),
+            (290, 294, "Er veröffentlicht es nie Zu Lebzeiten sehen es eine Handvoll Menschen", "AI_RECON", "Secret book private", "IMG60"),
+            (294, 298, "Und trotzdem steht darin alles", "AI_RECON", "Everything contained", "IMG61"),
+            (298, 302, "Das kollektive Unbewusste Die Archetypen Die Individuation Das Selbst", "AI_RECON", "Jung concepts appearing", "IMG62"),
+            (302, 306, "Jeder Begriff für den Jung heute bekannt ist kommt aus diesen sechzehn Jahren", "AI_RECON", "Legacy concepts", "IMG63"),
+            (306, 310, "Er hat es selbst so gesagt alles was er später erreicht habe sei darin schon enthalten gewesen", "AI_RECON", "Everything already there", "IMG64"),
+            (310, 314, "Damit ist die Sache klar was die Person angeht", "AI_RECON", "Person clear", "IMG65"),
+            (314, 318, "Sein gesamtes wissenschaftliches Werk ist der Bericht eines Mannes über eine Reise", "AI_RECON", "Journey report", "IMG66"),
+            (318, 322, "die er gemacht hat ohne zu wissen ob er zurückkommt", "AI_RECON", "Uncertain return", "IMG67"),
+            (322, 326, "Neunzehn Jahre nach der Flut passiert dann etwas mit dem er nicht rechnen konnte", "AI_RECON", "Unexpected event", "IMG68"),
+            (326, 330, "Ihm wird eine Karte gereicht", "AI_RECON", "Map being handed", "IMG69"),
+        ]
+    },
+    {
+        "id": "S5", "title": "Der Saal", "start": 396, "end": 540,
+        "cues": [
+            (396, 400, "Herbst 1932 Zürich Jung ist siebenundfünfzig weltberühmt", "AI_RECON", "Zurich 1932 autumn", "IMG70"),
+            (400, 404, "und steht vor dem Psychologischen Club dem Kreis den er selbst mitgegründet hat", "ORIGINAL_ASSET", "Psychologischer Club building", "Psychologischer_Club"),
+            (404, 408, "Das Thema ist Kundalini-Yoga Die Chakren", "ORIGINAL_ASSET", "Chakra diagram Wellcome", "Wellcome_Chakra"),
+            (408, 412, "Das Material stammt nicht von ihm", "AI_RECON", "Material from elsewhere", "IMG71"),
+            (412, 416, "Eine Woche zuvor hat am selben Ort der Indologe Jakob Wilhelm Hauer gesprochen", "ORIGINAL_ASSET", "Hauer portrait 1935", "Hauer_1935"),
+            (416, 420, "ein Mann der zehn Monate später die Deutsche Glaubensbewegung gründen wird", "AI_RECON", "Nazi connection", "IMG72"),
+            (420, 424, "und 1934 in der SS sein wird", "AI_RECON", "SS connection", "IMG73"),
+            (424, 428, "Jung soll erklären Er tut etwas anderes Er warnt", "AI_RECON", "Warning not explaining", "IMG74"),
+            (428, 432, "These things are really dangerous and ought not to be meddled with in our typically Western way", "ZITAT_KARTE", "Jung warning quote English", "QUOTE_WARNING"),
+            (432, 436, "Diese Dinge seien wirklich gefährlich und man solle sie nicht auf unsere typisch westliche Weise anfassen", "AI_RECON", "Danger warning", "IMG75"),
+            (436, 440, "Vier Abende lang warnt er sein Publikum vor dem System das er ihm gleichzeitig erklärt", "AI_RECON", "Four evenings seminar", "IMG76"),
+            (440, 444, "Er spricht von einem absichtlich herbeigeführten psychotischen Zustand", "AI_RECON", "Psychotic state warning", "IMG77"),
+            (444, 448, "der bei labilen Menschen in eine echte Psychose führen könne", "AI_RECON", "Vulnerability risk", "IMG78"),
+            (448, 452, "Und was steht auf dieser Karte", "AI_RECON", "Looking at map", "IMG79"),
+            (452, 456, "Am unteren Ende an der Wurzel der Wirbelsäule liegt eine zusammengerollte Schlange", "ORIGINAL_ASSET", "Kundalini serpent detail", "Kundalini_Detail"),
+            (456, 460, "Weckt man sie steigt sie auf", "AI_RECON", "Serpent rising", "IMG80"),
+            (460, 464, "Die gesamte Tradition die sie beschreibt existiert um das zu überstehen", "AI_RECON", "Tradition protection", "IMG81"),
+            (464, 468, "Jung sieht dieses Bild an Und er hat die schwarze Schlange schon gesehen", "AI_RECON", "Recognition déjà vu", "IMG82"),
+            (468, 472, "Neunzehn Jahre vorher neben Elias und Salome in einer Höhle in seinem eigenen Kopf", "AI_RECON", "Memory of vision", "IMG83"),
+            (472, 476, "ohne dass ihm jemand gesagt hätte was das ist", "AI_RECON", "No guidance", "IMG84"),
+            (476, 480, "Seine Warnung hat drei Teile", "AI_RECON", "Three parts warning", "IMG85"),
+            (480, 484, "Erstens Das System kommt mit einem Gefäß Der Europäer nimmt die Technik und lässt das Gefäß liegen", "AI_RECON", "Vessel container missing", "IMG86"),
+            (484, 488, "Zweitens Der Europäer will etwas erreichen Eine Erfahrung eine Fähigkeit einen Zustand", "AI_RECON", "Western goal-seeking", "IMG87"),
+            (488, 492, "Genau dieser Zugriff ist das falsche Werkzeug", "AI_RECON", "Wrong tool approach", "IMG88"),
+            (492, 496, "Und drittens das ist der Kern", "AI_RECON", "Core message", "IMG89"),
+            (496, 500, "Wenn man das Unbewusste absichtlich aufweckt und hat nichts was einen hält", "AI_RECON", "Awakening without anchor", "IMG90"),
+            (500, 504, "dann erleuchten einen die Inhalte nicht Sie übernehmen einen", "AI_RECON", "Possession takeover", "IMG91"),
+            (504, 508, "Man hält das was aufsteigt für sich selbst", "AI_RECON", "Misidentification", "IMG92"),
+            (508, 512, "Er weiß das nicht aus Büchern Er hat es getan 1913", "AI_RECON", "Personal experience", "IMG93"),
+            (512, 516, "Ohne Karte ohne Lehrer ohne Gefäß", "AI_RECON", "No guidance no map", "IMG94"),
+            (516, 520, "und was ihn gehalten hat waren eine Praxis eine Frau und fünf Kinder", "AI_RECON", "Family practice anchor", "IMG95"),
+            (520, 524, "Hast du jemals einen Gedanken gehabt von dem du schwören könntest dass er nicht von dir kam", "AI_RECON", "Comment prompt interaction", "IMG96"),
+            (524, 528, "Schreib es kurz in die Kommentare bevor wir auflösen woher die Karte wirklich stammt", "AI_RECON", "Comment call to action", "IMG97"),
+        ]
+    },
+    {
+        "id": "S6", "title": "Jungs Karte", "start": 540, "end": 660,
+        "cues": [
+            (540, 544, "Und trotzdem gibt er das System nicht zurück Er liest es anders", "AI_RECON", "Reading differently", "IMG98"),
+            (544, 548, "Nicht als Anatomie Als Beschreibung von Zuständen in denen ein Mensch sein kann", "AI_RECON", "States of being", "IMG99"),
+            (548, 552, "Und das geht so", "AI_RECON", "Here is how", "IMG100"),
+            (552, 556, "Ein Streit fängt mit einer sachlichen Bedrohung an Arbeitsplatz Geld Status", "AI_RECON", "Conflict starting", "IMG101"),
+            (556, 560, "Zehn Sekunden später geht es längst nicht mehr um die Sache", "AI_RECON", "Escalation", "IMG102"),
+            (560, 564, "Der Körper ist angespannt die Stimme lauter alte Kränkungen mischen sich hinein", "AI_RECON", "Body tension anger", "IMG103"),
+            (564, 568, "Jung nennt das den Übergang von Muladhara zu Manipura", "ORIGINAL_ASSET", "Chakra diagram", "Chakra_Diagram"),
+            (568, 572, "vom Erdhaften ins Feuerhafte Vom konkreten Problem zum Affekt der einen ergreift", "AI_RECON", "Earth to fire transition", "IMG104"),
+            (572, 576, "Und dann kommt der Sprung der für ihn der entscheidende ist", "AI_RECON", "Decisive jump", "IMG105"),
+            (576, 580, "Von Manipura zu Anahata Vom Feuer zur Luft", "AI_RECON", "Fire to air transition", "IMG106"),
+            (580, 584, "In den unteren Stufen ist der Mensch mit seinem Erleben identisch", "AI_RECON", "Identification with experience", "IMG107"),
+            (584, 588, "Ich bin wütend Ich bin verletzt Ich muss gewinnen", "AI_RECON", "I am angry I am hurt", "IMG108"),
+            (588, 592, "In Anahata erscheint ein Abstand", "AI_RECON", "Distance appearing", "IMG109"),
+            (592, 596, "Zwischen dem Impuls und der Handlung entsteht eine Lücke in der etwas zusieht", "AI_RECON", "Gap between impulse action", "IMG110"),
+            (596, 600, "Du bemerkst da ist Wut Da ist Angst Da ist Eifersucht", "AI_RECON", "Observing emotions", "IMG111"),
+            (600, 604, "Aus ich bin diese Emotion wird ich habe diese Emotion", "AI_RECON", "I have vs I am", "IMG112"),
+            (604, 608, "Vom Brennen zum Atmen", "AI_RECON", "Burning to breathing", "IMG113"),
+            (608, 612, "Und genau darauf beruhen bis heute eine ganze Reihe psychologischer Verfahren", "AI_RECON", "Modern psychology", "IMG114"),
+            (612, 616, "auf der Unterscheidung zwischen einem inneren Zustand und dem Bewusstsein das ihn bemerkt", "AI_RECON", "State vs awareness", "IMG115"),
+            (616, 620, "Weiter oben wird Jungs Deutung dünn und er sagt das selbst", "AI_RECON", "Limits of interpretation", "IMG116"),
+            (620, 624, "Für Ajna hatte er kein Messgerät Für Sahasrara keinen Nachweis", "AI_RECON", "No measurement no proof", "IMG117"),
+            (624, 628, "Er arbeitete mit Bildern und mit Bedeutung und er hat nie behauptet etwas anderes zu tun", "AI_RECON", "Images and meaning", "IMG118"),
+        ]
+    },
+    {
+        "id": "S7", "title": "Die Karte die er nie hatte", "start": 660, "end": 810,
+        "cues": [
+            (660, 664, "Bleibt die Frage woher die Karte eigentlich kam die man ihm 1932 in die Hand gab", "AI_RECON", "Where did map come from", "IMG119"),
+            (664, 668, "Die westliche Standardquelle heißt The Serpent Power erschienen 1919 in London", "ORIGINAL_ASSET", "Serpent Power book", "Serpent_Power"),
+            (668, 672, "unter dem Namen Arthur Avalon", "AI_RECON", "Arthur Avalon pseudonym", "IMG120"),
+            (672, 676, "Arthur Avalon hat nie existiert", "AI_RECON", "Never existed", "IMG121"),
+            (676, 680, "Dahinter steht Sir John Woodroffe Richter am High Court in Kalkutta", "ORIGINAL_ASSET", "Woodroffe portrait", "Woodroffe_Portrait"),
+            (680, 684, "ein amtierender Beamter des Britischen Empire", "ORIGINAL_ASSET", "High Court Calcutta", "High_Court"),
+            (684, 688, "Und der Deckname schützte nicht ihn Er lieh seinen Rang weiter", "AI_RECON", "Pseudonym protection", "IMG122"),
+            (688, 692, "Die eigentliche Sanskrit-Arbeit leistete über Jahrzehnte ein bengalischer Gelehrter", "AI_RECON", "Bengali scholar work", "IMG123"),
+            (692, 696, "namens Atal Bihari Ghose zusammen mit weiteren indischen Mitarbeitern", "AI_RECON", "Atal Bihari Ghose", "IMG124"),
+            (696, 700, "Ihre Namen stehen auf keinem Umschlag", "AI_RECON", "Names not on cover", "IMG125"),
+            (700, 704, "Der Name eines britischen Richters öffnete im Kolonialbetrieb Türen die ihnen verschlossen blieben", "AI_RECON", "Colonial doors", "IMG126"),
+            (704, 708, "Die Historikerin Kathleen Taylor hat das 2001 als erste aufgearbeitet", "AI_RECON", "Taylor 2001 research", "IMG127"),
+            (708, 712, "Und der Text selbst", "AI_RECON", "The text itself", "IMG128"),
+            (712, 716, "Ein einziges Werk aus Bengalen verfasst 1577", "AI_RECON", "1577 Bengal manuscript", "IMG129"),
+            (716, 720, "Es heißt Ṣaṭ-cakra-nirūpaṇa und der Titel bedeutet wörtlich Beschreibung der sechs Zentren", "AI_RECON", "Six centers description", "IMG130"),
+            (720, 724, "Sechs", "AI_RECON", "Number six", "IMG131"),
+            (724, 728, "Sahasrara der tausendblättrige Lotus kommt in dem Text vor", "ORIGINAL_ASSET", "Chakra diagram Brow", "Brow_Chakra"),
+            (728, 732, "Er ist dort beschrieben er ist dort wichtig aber als Chakra gezählt wird er nicht", "AI_RECON", "Important but not counted", "IMG132"),
+            (732, 736, "Der Text nennt sechs Zentren", "AI_RECON", "Text says six", "IMG133"),
+            (736, 740, "Das siebte Chakra das heute jedes Poster zeigt entsteht beim Weiterzählen im Westen", "AI_RECON", "Seventh chakra Western", "IMG134"),
+            (740, 744, "Und die Farben", "AI_RECON", "And the colors", "IMG135"),
+            (744, 748, "Der Regenbogen von Rot bis Violett der auf jeder Matte in jeder App und in jedem Kristallladen klebt", "AI_RECON", "Rainbow colors yoga mat", "IMG136"),
+            (748, 752, "er steht in keinem indischen Text", "AI_RECON", "Not in Indian text", "IMG137"),
+            (752, 756, "Der Theosoph Charles Leadbeater beschreibt 1927 hellsichtig ganz andere Farben", "ORIGINAL_ASSET", "Leadbeater portrait", "Leadbeater_Portrait"),
+            (756, 760, "Die Regenbogenzuordnung wird ab den dreißiger Jahren von westlichen Farbtherapeuten zusammengesetzt", "AI_RECON", "Western color therapists", "IMG138"),
+            (760, 764, "und erst um 1977 endgültig festgezurrt", "AI_RECON", "1977 finalized", "IMG139"),
+            (764, 768, "Rechnen wir zusammen", "AI_RECON", "Let us add up", "IMG140"),
+            (768, 772, "Ein Text von 1577 aus Bengalen Übersetzt 1919 in London unter falschem Namen", "MOTION_GRAPHIC", "Timeline 1577-1919", "TIMELINE_01"),
+            (772, 776, "mit ungenannter indischer Arbeit Sechs Zentren die zu sieben werden", "MOTION_GRAPHIC", "Timeline 1919-1927", "TIMELINE_02"),
+            (776, 780, "Farben die in Kalifornien dazukommen Drei Jahrhunderte vier Länder", "MOTION_GRAPHIC", "Timeline 1927-1977", "TIMELINE_03"),
+            (780, 784, "Menschen die einander nie begegnet sind", "MOTION_GRAPHIC", "Timeline complete", "TIMELINE_04"),
+            (784, 788, "Und in der Mitte dieser Kette sitzt 1932 ein Mann in Zürich", "AI_RECON", "Jung in Zurich 1932", "IMG141"),
+            (788, 792, "sieht sich diese Karte an und erkennt das Gelände wieder", "AI_RECON", "Recognizing terrain", "IMG142"),
+            (792, 796, "in dem er neunzehn Jahre vorher fast geblieben wäre", "AI_RECON", "Almost stayed there", "IMG143"),
+            (796, 800, "Hier kippt die Frage", "AI_RECON", "Question flips", "IMG144"),
+            (800, 804, "Wie kann eine Karte so oft umgezeichnet werden und immer noch auf etwas zeigen", "AI_RECON", "How can map still point", "IMG145"),
+        ]
+    },
+    {
+        "id": "S8", "title": "Was bleibt", "start": 810, "end": 912,
+        "cues": [
+            (810, 814, "Was bleibt ist erstaunlich viel", "AI_RECON", "What remains", "IMG146"),
+            (814, 818, "Das Rote Buch gibt es Kalligraphie auf Pergament gemalte Mandalas", "ORIGINAL_ASSET", "Red Book 2019", "Red_Book_2019"),
+            (818, 822, "geschrieben zwischen 1913 und 1930", "AI_RECON", "Written 1913-1930", "IMG147"),
+            (822, 826, "Jung hat es nie veröffentlicht Nach seinem Tod schloss die Familie es in einen Zürcher Banktresor", "AI_RECON", "Bank vault Zurich", "IMG148"),
+            (826, 830, "Dort lag es bis 2009", "AI_RECON", "Until 2009", "IMG149"),
+            (830, 834, "Es hat einen einzelnen Wissenschaftler drei Jahre gekostet die Erben zu überreden es herauszugeben", "AI_RECON", "Scientist convincing heirs", "IMG150"),
+            (834, 838, "Die Methode gibt es Aktive Imagination von Jung beschrieben seither tausendfach angewendet", "AI_RECON", "Active imagination method", "IMG151"),
+            (838, 842, "Hinsetzen Das rechnende Denken stillstellen Die Bilder kommen lassen", "AI_RECON", "Sitting still images", "IMG152"),
+            (842, 846, "Und dann selbst hineingehen und reden", "AI_RECON", "Going in and talking", "IMG153"),
+            (846, 850, "Und die Karte gibt es Dreimal umgezeichnet in jedem Buchladen auf jeder Matte", "AI_RECON", "Map everywhere today", "IMG154"),
+            (850, 854, "Was Philemon war hat Jung nie gesagt", "AI_RECON", "What was Philemon", "IMG155"),
+            (854, 858, "Er sagte er müsse ihn als psychisch wirklich behandeln Weiter ging er nicht", "AI_RECON", "Psychically real", "IMG156"),
+            (858, 862, "Eine Frage bleibt also", "AI_RECON", "One question remains", "IMG157"),
+            (862, 866, "Wer hat gesprochen", "AI_RECON", "Who spoke", "IMG158"),
+            (866, 870, "Wenn ein Mann Sätze hört die er nicht gedacht hat und daraus dreißig Jahre Arbeit macht", "AI_RECON", "Sentences not thought", "IMG159"),
+            (870, 874, "die bis heute gelesen wird was war die Quelle", "AI_RECON", "What was the source", "IMG160"),
+            (874, 878, "Und die kleine Version davon kennt jeder", "AI_RECON", "Small version everyone knows", "IMG161"),
+            (878, 882, "Ein Gedanke der da war bevor man ihn wollte", "AI_RECON", "Thought before wanted", "IMG162"),
+            (882, 886, "Ein Satz der aus einer Richtung kam die einem nicht gehört", "AI_RECON", "Sentence from elsewhere", "IMG163"),
+            (886, 890, "Jung ging ohne Karte hinein", "AI_RECON", "Jung went in without map", "IMG164"),
+            (890, 894, "Heute liegt die Karte überall herum", "AI_RECON", "Map everywhere now", "IMG165"),
+            (894, 898, "Und das Gelände hat seit 1916 kaum jemand betreten", "AI_RECON", "Terrain rarely entered", "IMG166"),
+            (898, 902, "Der Herausgeber des Roten Buchs hat es eine Flaschenpost genannt", "AI_RECON", "Message in bottle", "IMG167"),
+            (902, 906, "Jung habe sie ins Meer geworfen und gehofft dass jemand sie findet", "AI_RECON", "Thrown into sea", "IMG168"),
+            (906, 908, "Geworfen zwischen 1913 und 1930 Gefunden 2009", "AI_RECON", "Thrown found dates", "IMG169"),
+            (908, 910, "[PAUSE 1.5-2s]", "PAUSE", "Silence pause", "PAUSE"),
+            (910, 912, "Der Mann war Professor für Physik an der ETH Zürich und bekam den Nobelpreis Das ist die nächste Folge", "ORIGINAL_ASSET", "Pauli portrait ETH", "Pauli_ETH"),
+        ]
+    },
+]
+
+# Write CSV
+output = Path("C:/Users/iQPrinceps/Documents/Codex/Youtube Modelle des Geistes/03_EPISODEN/TYPE_B/EP04_JUNG_CHAKREN/VISUAL_CUE_SHEET_V4.csv")
+
+with open(output, 'w', newline='', encoding='utf-8') as f:
+    writer = csv.writer(f)
+    writer.writerow(["cue_id", "scene", "scene_title", "est_start", "est_end", "voice_anchor_start", "voice_anchor_end", "voice_excerpt", "visual_type", "visual_concept", "reference_assets", "generation_id", "edit_hold_rule", "highlight_rule", "sync_rule"])
+    
+    cue_num = 1
+    for scene in scenes:
+        for start, end, excerpt, vis_type, concept, gen_id in scene["cues"]:
+            cue_id = f"EP04_V4_C{cue_num:03d}"
+            writer.writerow([
+                cue_id, scene["id"], scene["title"], start, end,
+                excerpt[:30], excerpt[-30:], excerpt,
+                vis_type, concept, gen_id,
+                gen_id, "3-5s hold; gentle push.", "No evidentiary label.", "Map voice anchors to timestamps."
+            ])
+            cue_num += 1
+
+print(f"Written {cue_num-1} cues to {output}")
