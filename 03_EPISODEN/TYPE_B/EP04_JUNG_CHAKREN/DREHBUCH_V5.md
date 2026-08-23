@@ -1,26 +1,26 @@
-# EP04 V5 — Jung & Kundalini: Die Karte im Inneren
+# EP04 V5 FINAL — Jung & Kundalini: Die Schlange im Inneren
 
-**Status:** neue Master-Kandidatin nach Split von V4  
-**Ziel:** 10:30–11:30 Minuten  
+**Status:** Retention-Finalkandidatin  
+**Ziel:** 10:15–11:00 Minuten  
 **Priorität:** Retention > Erklärung > Vollständigkeit  
 **Voice:** dieselbe feste deutsche Erzählerstimme wie EP02/EP03. Ruhig, konzentriert, neugierig. Mystik darf stehen bleiben; keine spöttische Distanz.
 
 ## Logline
 
-1932 warnt C. G. Jung einen Saal voller Zuhörer vor Kundalini — neunzehn Jahre nachdem er selbst in eine innere Bilderwelt geraten war, in der eine Schlange, fremd wirkende Stimmen und Gestalten auftauchten. Als er die indischen Chakren psychologisch liest, erkennt er darin keine Anatomie, sondern eine Landkarte für Zustände des Bewusstseins.
+1932 warnt C. G. Jung einen Saal in Zürich vor Kundalini — neunzehn Jahre nachdem er selbst eine innere Bilderwelt betreten hatte, in der eine schwarze Schlange, fremd wirkende Stimmen und Gestalten auftauchten. Als er die Chakren psychologisch liest, erkennt er darin weniger eine Anatomie als eine Karte dafür, wie Bewusstsein von seinen eigenen Inhalten verschluckt werden kann — und wieder Abstand gewinnt.
 
 ## Retention-Bauplan
 
 | Akt | Funktion | Zielzeit |
 |---|---|---:|
-| S1 Die Warnung | Hook + Widerspruch | 0:00–1:05 |
-| S2 Die Flut | Rücksturz 1913 | 1:05–2:25 |
-| S3 Er geht hinein | aktive Imagination + Schlange | 2:25–3:50 |
-| S4 Zurück im Saal | 1932 + Karte + Gefahr | 3:50–5:05 |
-| S5 Jungs Karte | Muladhara → Manipura → Anahata | 5:05–6:45 |
-| S6 Der Moment | konkretes Erleben + CTA | 6:45–8:05 |
-| S7 Die Karte bewegt sich | zweite Wendung: Karte selbst ist historisch beweglich | 8:05–9:35 |
-| S8 Was bleibt | Mystery-Residue + Pauli-Teaser | 9:35–11:00 |
+| S1 Die Warnung | Hook: Gefahr + Schlange + Widerspruch | 0:00–0:55 |
+| S2 Die Flut | 1913: Kontrollverlust + Krieg | 0:55–2:10 |
+| S3 Die Schlange | aktive Imagination + Philemon + früher Payoff | 2:10–3:35 |
+| S4 Zurück im Saal | Kundalini, Gefahr, Gefäß | 3:35–4:55 |
+| S5 Die Karte | Muladhara → Manipura → Anahata | 4:55–6:25 |
+| S6 Der Moment | Zuschauer erlebt die Karte selbst + CTA | 6:25–7:35 |
+| S7 Die Karte bewegt sich | zweite Wendung, knapp | 7:35–8:45 |
+| S8 Was bleibt | Mystery-Residue + Pauli-Hook | 8:45–10:30 |
 
 ---
 
@@ -28,25 +28,15 @@
 
 ### S1 — Die Warnung
 
-Zürich, Oktober 1932.
+1932 warnt C. G. Jung einen Saal in Zürich vor Kundalini.
 
-Carl Gustav Jung steht vor einem Saal voller Menschen und spricht über Kundalini-Yoga.
+Er sagt: Wer mit solchen Techniken auf typisch westliche Weise herumspielt, kann sich psychisch in Gefahr bringen.
 
-Vor ihm liegen Zeichnungen von Chakren. Blüten. Sanskritzeichen. Eine Schlange, die sich am unteren Ende des Körpers zusammenrollt und nach oben steigen soll.
-
-Jung ist siebenundfünfzig. Arzt. Psychiater. Weltberühmt.
-
-Und er beginnt nicht mit Begeisterung.
-
-Er warnt.
-
-Diese Dinge seien gefährlich, sagt er. Man solle nicht auf typisch westliche Weise damit herumspielen.
-
-Das Merkwürdige daran ist nicht, dass ein Psychiater vor einem esoterischen System warnt.
+Das Merkwürdige ist nicht, dass ein Psychiater vor einem esoterischen System warnt.
 
 Das Merkwürdige ist, dass Jung dieses Gelände kennt.
 
-Neunzehn Jahre früher hatte er selbst Bilder gesehen, die ihn an den Rand dessen brachten, was er noch für sein eigenes Denken hielt.
+Neunzehn Jahre früher hatte er selbst eine innere Bilderwelt betreten.
 
 Eine Flut.
 
@@ -54,17 +44,19 @@ Eine Höhle.
 
 Eine rote Sonne unter Wasser.
 
-Eine schwarze Schlange.
+Gestalten, die ihm antworteten.
 
-Und Stimmen, die ihm Dinge sagten, die sich für ihn nicht wie seine eigenen Gedanken anfühlten.
+Und eine große schwarze Schlange.
 
-Jetzt steht vor ihm eine fremde Karte.
+Jetzt liegt vor ihm eine indische Karte.
 
-Und auf dieser Karte liegt wieder eine Schlange.
+Unten: wieder eine Schlange.
 
-Die Frage ist deshalb nicht nur, was Jung über Chakren dachte.
+Aufgerollt. Wartend. Bereit aufzusteigen.
 
-Die Frage ist: **Was erkannte er darin wieder?**
+Warum warnt ausgerechnet Jung vor einem inneren Gelände, das seinem eigenen so gefährlich ähnlich sieht?
+
+Dafür müssen wir zurück in das Jahr, in dem er selbst nicht wusste, ob er noch Herr über seine Bilder war.
 
 ### S2 — Die Flut
 
@@ -72,17 +64,19 @@ Oktober 1913.
 
 Jung sitzt in einem Zug durch die Schweiz.
 
-Der Bruch mit Sigmund Freud liegt hinter ihm. Die Bewegung, in der Jung einmal als Nachfolger galt, hat sich gespalten. Beruflich funktioniert sein Leben weiter. Innerlich nicht.
+Der Bruch mit Sigmund Freud liegt hinter ihm. Eine Bewegung, in der Jung einmal als Nachfolger galt, ist zerbrochen. Nach außen arbeitet er weiter. Innen beginnt etwas anderes.
 
-Dann kommt mitten am Tag ein Bild.
+Mitten am Tag kommt ein Bild.
 
 Europa unter Wasser.
 
-Gelbe Wellen. Trümmer. Tote. Schließlich färbt sich das Meer rot.
+Gelbe Wellen. Trümmer. Tote.
+
+Dann färbt sich das Meer rot.
 
 Die Vision kehrt zurück.
 
-Jung ist nicht irgendwer, der zum ersten Mal eine verstörende innere Szene erlebt. Er hat Jahre in der Psychiatrie gearbeitet. Er kennt psychotische Zustände. Er kennt die Sprache, mit der Ärzte solche Erfahrungen beschreiben.
+Jung ist nicht irgendein Mann, der zum ersten Mal eine verstörende innere Szene erlebt. Er hat Jahre in der Psychiatrie gearbeitet. Er kennt psychotische Zustände. Er kennt die Sprache, mit der Ärzte solche Erfahrungen beschreiben.
 
 Und genau deshalb erschreckt ihn, was passiert.
 
@@ -90,17 +84,19 @@ Später schreibt er, er habe sich von einer Psychose bedroht gefühlt.
 
 Dann beginnt im Sommer 1914 der Krieg in Europa.
 
-Für Jung verändert das rückblickend die Bedeutung seiner Bilder. Was vorher wie privater Zusammenbruch wirkte, bekommt plötzlich eine zweite Möglichkeit: Vielleicht war nicht alles darin nur privat.
+Für Jung verändert das rückblickend die Bedeutung seiner Bilder.
+
+Was vorher wie ein privater Zusammenbruch wirkte, bekommt plötzlich eine zweite Möglichkeit: Vielleicht war nicht alles darin nur privat.
 
 Das ist der gefährliche Gedanke.
 
 Denn wenn ein Bild mehr sein könnte als Fantasie — wie entscheidet man dann, welchem man folgt?
 
-Jung entscheidet sich für eine Methode, die kaum beruhigender klingt.
+Jung entscheidet sich nicht für Abstand.
 
 Er geht absichtlich zurück hinein.
 
-### S3 — Er geht hinein
+### S3 — Die Schlange
 
 Abends setzt er sich hin und wartet auf Bilder.
 
@@ -108,7 +104,13 @@ Er versucht nicht, sie wegzudrücken. Er lässt sie kommen.
 
 Dann tut er etwas, das später als aktive Imagination bekannt wird: Er bleibt nicht Zuschauer. Er spricht mit den Gestalten. Er widerspricht ihnen. Er stellt Fragen.
 
-In einer dieser inneren Landschaften fällt er in die Tiefe und landet in einer Höhle. Ein Leichnam treibt vorbei. Ein schwarzer Käfer. Eine rote Sonne liegt unter Wasser.
+In einer dieser inneren Landschaften fällt er in die Tiefe und landet in einer Höhle.
+
+Ein Leichnam treibt vorbei.
+
+Ein schwarzer Käfer.
+
+Eine rote Sonne liegt unter Wasser.
 
 Später erscheinen Figuren mit Namen.
 
@@ -116,73 +118,83 @@ Elias.
 
 Salome.
 
-Und bei ihnen eine große schwarze Schlange.
+Und bei ihnen: eine große schwarze Schlange.
+
+Da ist sie.
+
+Fast zwanzig Jahre bevor Jung vor Kundalini steht.
 
 Dann kommt Philemon: ein alter Mann mit Hörnern und den Flügeln eines Eisvogels.
 
-Jung behandelt ihn nicht wie eine Figur, die er bewusst erfunden hat. Philemon sagt Dinge, die ihn überraschen. Für Jung wird er zum Beispiel dafür, dass psychische Inhalte sich subjektiv eigenständig anfühlen können.
+Jung behandelt ihn nicht wie eine Figur, die er bewusst erfunden hat. Philemon sagt Dinge, die ihn überraschen.
 
-Das ist der Punkt, an dem die Geschichte leicht in zwei billige Richtungen kippt.
+Was war Philemon?
 
-Entweder: Jung war verrückt.
+Eine Figur seiner eigenen Psyche? Etwas, das sich nur wie ein Gegenüber anfühlte? Jung legt sich nicht endgültig fest.
 
-Oder: Jung sprach mit Wesen aus einer anderen Welt.
+Entscheidend ist für ihn etwas anderes: Manche inneren Inhalte verhalten sich subjektiv nicht wie Dinge, die wir einfach herstellen und kontrollieren.
 
-Jung selbst bleibt in einer unbequemeren Mitte.
+Und während nachts diese Welt wächst, hält er tagsüber an der anderen fest.
 
-Er nimmt die Erfahrung ernst, ohne ihre Quelle endgültig festzulegen.
+Patienten.
 
-Und während nachts diese Welt wächst, hält er tagsüber an der anderen fest: Patienten. Familie. Arbeit. Alltag.
+Familie.
+
+Arbeit.
+
+Alltag.
 
 Der Boden bleibt wichtig.
 
-Denn 1932 wird genau das wieder auftauchen.
+Denn 1932 wird genau diese Frage wiederkommen:
 
-Nur diesmal heißt die Schlange Kundalini.
+Was passiert, wenn man etwas in sich weckt — und nichts hat, das einen hält?
 
 ### S4 — Zurück im Saal
 
 Herbst 1932. Wieder Zürich.
 
-Der Indologe Jakob Wilhelm Hauer hat im Psychologischen Club über tantrischen Yoga gesprochen. Jung übernimmt das Material nicht einfach als religiöse Lehre. Er übersetzt es in seine eigene Sprache.
+Der Indologe Jakob Wilhelm Hauer hat im Psychologischen Club über tantrischen Yoga gesprochen. Jung übernimmt das Material nicht einfach als religiöse Lehre. Er liest es in seiner eigenen Sprache.
 
 Auf den Diagrammen liegt Kundalini unten, zusammengerollt. Wenn sie erwacht, steigt sie durch Zentren nach oben.
 
-Für die Tradition ist das kein Wellness-Poster.
+Heute klingt das schnell nach Wellness, Energiearbeit oder einem Poster an der Wand.
 
-Das System steht in einem größeren Gefüge aus Praxis, Disziplin, Lehrer-Schüler-Beziehung, Symbolik und religiösem Kontext.
+Für Jung ist das Gegenteil der Fall.
 
-Jung sieht genau darin ein Problem für den Westen.
+Er sieht darin ein System, das eingebettet ist in Praxis, Disziplin, Lehrer-Schüler-Beziehung und religiösen Kontext.
 
-Wir nehmen gern die Technik und lassen das Gefäß stehen.
+Genau deshalb misstraut er dem westlichen Zugriff.
 
-Wir wollen die Erfahrung.
+Wir wollen die Technik.
 
 Den Durchbruch.
 
+Die Erfahrung.
+
 Den Zustand.
 
-Und wir wollen ihn möglichst schnell.
+Und möglichst schnell.
 
 Jung kennt aus seinem eigenen Leben, wie wenig romantisch es wirken kann, wenn innere Inhalte plötzlich nicht mehr wie Bilder aussehen, sondern wie etwas mit eigener Schwerkraft.
 
-Darum interessiert ihn an Kundalini etwas anderes als die Frage, ob im Körper wirklich unsichtbare Räder rotieren.
+Darum interessiert ihn an den Chakren eine andere Frage als die, ob im Körper unsichtbare Räder rotieren.
 
-Er liest die Chakren als Zustände.
+Er liest sie als Zustände.
 
-Als Ebenen, in denen Bewusstsein sich unterschiedlich zu sich selbst verhält.
+Als eine Karte dafür, wie ein Mensch sich zu dem verhält, was in ihm geschieht.
 
-Und ab hier wird die alte Karte plötzlich erstaunlich modern.
+Und genau dort wird die alte Symbolik plötzlich unangenehm modern.
 
-### S5 — Jungs Karte
+### S5 — Die Karte
 
 Unten liegt Muladhara.
 
 Erde. Gewicht. Körper. Arbeit. Besitz. Rolle. Das Konkrete.
 
-Nicht schlecht. Nicht primitiv. Einfach die Welt, in der der Tisch ein Tisch ist und eine Rechnung bezahlt werden muss.
+Nicht schlecht. Nicht primitiv. Einfach die Welt, in der ein Tisch ein Tisch ist und eine Rechnung bezahlt werden muss.
 
-Dann beginnt Bewegung.
+Dann kommt Bewegung.
 
 Wasser.
 
@@ -190,9 +202,11 @@ Feuer.
 
 Affekt.
 
-Bei Manipura wird es für Jung psychologisch interessant: Der Mensch hat nicht mehr nur ein Problem. Er wird von seinem Zustand ergriffen.
+Bei Manipura wird es für Jung psychologisch interessant.
 
-Du kennst das.
+Ein Mensch hat nicht mehr nur ein Problem.
+
+Er wird von seinem Zustand ergriffen.
 
 Ein Gespräch beginnt sachlich.
 
@@ -200,7 +214,7 @@ Dann fällt ein Satz.
 
 Plötzlich wird der Körper heiß. Die Stimme verändert sich. Eine alte Kränkung taucht auf, obwohl sie mit dem Gespräch kaum etwas zu tun hat.
 
-In diesem Moment bist du nicht jemand, der Wut beobachtet.
+In diesem Moment beobachtest du Wut nicht.
 
 Du bist wütend.
 
@@ -218,97 +232,101 @@ Nicht: Ich bin diese Angst.
 
 Sondern: Da ist Angst.
 
-Der Zustand ist noch da. Aber etwas in dir steht einen Schritt daneben und kann ihn sehen.
+Der Zustand ist noch da.
+
+Aber etwas in dir steht einen Schritt daneben und kann ihn sehen.
 
 Das klingt klein.
 
 Psychologisch ist es riesig.
 
-Denn in dieser winzigen Lücke zwischen Impuls und Handlung entsteht zum ersten Mal eine Wahl.
+Denn in dieser Lücke zwischen Impuls und Handlung entsteht zum ersten Mal eine Wahl.
 
-Und genau dort kippt Jungs Chakren-Lektüre von exotischer Symbolik in etwas, das jeder kennt.
+Und jetzt probieren wir genau diesen Übergang aus.
 
 ### S6 — Der Moment
 
-Stell dir eine Situation vor, die du wirklich kennst.
+Eine Nachricht erscheint auf deinem Display.
 
-Eine Nachricht auf dem Display.
+Nur ein Name.
 
-Ein Name.
+Nur ein Satz.
 
-Ein Satz, der reicht.
+Und dein Körper ist schneller als dein Denken.
 
-Noch bevor du bewusst entschieden hast, reagiert dein Körper. Der Brustkorb zieht sich zusammen. Du formulierst schon eine Antwort. Vielleicht schärfer, als du eigentlich willst.
+Der Brustkorb zieht sich zusammen.
 
-Das ist der Moment vor der Karte.
+Der Kiefer spannt an.
 
-Der Zustand geschieht einfach.
+Der Finger ist schon über der Tastatur.
 
-Und jetzt passiert etwas Zweites.
+Du formulierst eine Antwort.
+
+Vielleicht schärfer, als du eigentlich willst.
+
+Bis hier passiert der Zustand einfach.
+
+Dann kommt etwas Zweites.
 
 Du bemerkst ihn.
 
-Für zwei Sekunden schreibst du nicht.
+Du schreibst zwei Sekunden lang nichts.
 
 Du siehst den Impuls, bevor du ihm gehorchst.
+
+Mehr ist es nicht.
+
+Aber genau in diesen zwei Sekunden verändert sich die Beziehung zwischen dir und dem, was gerade in dir passiert.
 
 Jung hätte darin keinen Beweis für ein Chakra gesehen.
 
 Aber er hätte gesagt: Genau dafür kann ein Symbol nützlich sein.
 
-Es macht einen inneren Übergang sichtbar, der sonst keinen Namen hat.
+Es macht einen Übergang sichtbar, der sonst keinen Namen hat.
 
-Vielleicht ist das der Grund, warum solche Karten Jahrhunderte überleben.
+Vielleicht ist das der Grund, warum solche Karten überleben.
 
 Nicht weil sie Anatomie sind.
 
 Sondern weil Menschen sich in ihnen wiederfinden.
 
-**Wenn du bis hier wählen müsstest: Ist so eine Karte für dich eher Entdeckung oder Projektion? Schreib nur ein Wort: KARTE oder PROJEKTION.**
+Ist das für dich eher eine Karte — oder ein Spiegel?
+
+Schreib nur ein Wort: **KARTE** oder **SPIEGEL**.
 
 Denn jetzt kommt das Problem.
 
-Die Karte, die Jung 1932 interpretiert, war selbst längst in Bewegung.
+Die Karte, die Jung 1932 vor sich hatte, war selbst längst in Bewegung.
 
 ### S7 — Die Karte bewegt sich
 
-Eine der wichtigsten westlichen Quellen für diese Chakrenbilder ist *The Serpent Power*.
+Eine der wichtigsten westlichen Quellen für diese Chakrenbilder ist *The Serpent Power* von 1919.
 
-London, 1919.
+Und schon dort wird die Geschichte unruhig.
 
-Auf dem Einband steht Arthur Avalon.
-
-Hinter diesem Namen steht vor allem der britische Richter John Woodroffe — und hinter seinem Wissen wiederum ein Netzwerk bengalischer Gelehrter, besonders Atal Bihari Ghose.
-
-Schon hier ist die Karte keine gerade Linie von „altem Indien“ nach Europa.
-
-Sie wandert durch Sprachen, Menschen, Kolonialstrukturen und Übersetzungen.
-
-Und dann wird es noch merkwürdiger.
-
-Der zentrale Text, den *The Serpent Power* übersetzt, heißt Ṣaṭ-cakra-nirūpaṇa.
+Der Text, auf den sich ein großer Teil dieser Darstellung stützt, heißt Ṣaṭ-cakra-nirūpaṇa.
 
 Beschreibung der sechs Zentren.
 
 Sechs.
 
-Sahasrara, der tausendblättrige Lotus über dem Kopf, spielt eine wichtige Rolle — aber der Text zählt die sechs Zentren darunter.
+Darüber spielt Sahasrara, der tausendblättrige Lotus, eine wichtige Rolle.
 
-Und der Regenbogen, den heute fast jeder sofort mit Chakren verbindet?
+Aber die vertraute saubere Sieben-Regenbogen-Karte, die heute sofort erkennbar ist, liegt hier nicht einfach fertig vor.
 
-Auch der wird im Westen erst nach und nach zum Standard.
+Sie entsteht über Übersetzungen, Deutungen und spätere westliche Schichten.
 
-Das bedeutet nicht, dass „die Chakren erfunden“ wurden.
+Das heißt nicht, dass „die Chakren erfunden“ wurden.
 
-Es bedeutet etwas Interessanteres:
+Es heißt etwas Interessanteres:
 
-**Die Karte hatte nie nur eine Form.**
+Die Karte hatte nie nur eine Form.
 
-Und genau daraus entsteht die nächste Frage.
+Jung liest also 1932 nicht einfach eine uralte, unveränderte Landkarte.
 
-Wenn eine Karte sich verändert — warum funktioniert sie trotzdem noch als Spiegel?
+Er liest eine Karte, die selbst schon gereist ist.
 
-Diese Geschichte verdient eine eigene Folge.
+Und dann zeichnet er sich auch noch hinein.
 
 ### S8 — Was bleibt
 
@@ -318,9 +336,17 @@ Zurück zu Jung.
 
 Er hatte Bilder.
 
-Eine Höhle. Wasser. Feuer. Gestalten. Eine Schlange.
+Wasser.
 
-1932 bekommt er eine fremde symbolische Sprache und liest darin etwas, das ihm vertraut vorkommt: den Übergang von einem Bewusstsein, das von seinen Inhalten verschluckt wird, zu einem Bewusstsein, das sie betrachten kann.
+Feuer.
+
+Eine Höhle.
+
+Gestalten.
+
+Eine Schlange.
+
+1932 bekommt er eine fremde symbolische Sprache und erkennt darin etwas, das ihm vertraut vorkommt: den Übergang von einem Bewusstsein, das von seinen Inhalten verschluckt wird, zu einem Bewusstsein, das sie betrachten kann.
 
 Vielleicht hat Jung Indien falsch gelesen.
 
@@ -332,29 +358,25 @@ Aber genau das macht die Sache interessant.
 
 Denn eine Karte muss nicht physikalisch wahr sein, um psychologisch etwas sichtbar zu machen.
 
-Und sie muss nicht psychologisch wahr sein, um gefährlich zu werden, wenn jemand sie für das Gelände hält.
+Und sie muss nicht psychologisch wahr sein, um mächtig zu werden, wenn jemand sie für das Gelände hält.
 
-Jung warnte 1932 vor Kundalini.
+Jung warnte vor diesen Bildern nicht, weil er sie für Unsinn hielt.
 
-Nicht, weil er innere Bilder für bedeutungslos hielt.
+Er warnte, weil er ihnen zu viel zutraute.
 
-Sondern weil er ihnen sehr viel zutraute.
-
-Und während er diese Vorträge hielt, saß bereits ein anderer Mann bei ihm in Analyse.
-
-Ein Physiker.
-
-Ein Nobelpreisträger.
-
-Ein Mann, dessen Träume Jung später in großer Zahl veröffentlichen würde.
+Und genau zu dieser Zeit saß bereits ein anderer Mann bei ihm.
 
 Wolfgang Pauli.
 
-Bei ihm wird aus der Frage nach inneren Bildern eine noch seltsamere Frage:
+Nobelpreisträger.
 
-**Was passiert, wenn ein Physiker und ein Psychologe anfangen, Zufälle ernst zu nehmen?**
+Physiker.
 
-Das ist die nächste Folge.
+Ein Mann, der beruflich gelernt hatte, der Wirklichkeit äußerst genaue Fragen zu stellen.
+
+Bei ihm verlässt Jungs Geschichte den inneren Raum.
+
+Und der Zufall wird zum nächsten Problem.
 
 ---
 
@@ -362,19 +384,22 @@ Das ist die nächste Folge.
 
 - Keine ironische Distanz zu mystischen Inhalten.
 - Mystische Bilder dürfen 2–4 Sekunden ohne Erklärung stehen.
+- Schlange im Hook innerhalb der ersten 25 Sekunden zeigen; Story-Payoff spätestens in S3.
 - Keine langen Skeptikerblöcke; Gegenprüfung erscheint als Wendung.
 - Keine Behauptung, Jungs Schlange **sei** Kundalini. Nur visuelle/biografische Parallele.
 - Keine Behauptung, Chakren seien anatomische Strukturen.
 - Kein „alles ist nur Projektion“-Schluss.
-- S7 bewusst knapp halten: Genealogie nur als zweiter Twist und Übergabe an EP04B.
+- S5 erklärt; S6 lässt erleben. Keine Wiederholung derselben psychologischen Aussage.
+- CTA ausschließlich „KARTE oder SPIEGEL“.
+- S7 maximal ca. 70 Sekunden. Keine Woodroffe/Ghose-Minidoku; die Genealogie gehört in EP04B.
+- Kein „Das ist die nächste Folge“. Pauli-Hook endet auf „Der Zufall wird zum nächsten Problem.“
 
 ## Quellen / Primäranker
 
 - C. G. Jung: *The Psychology of Kundalini Yoga. Notes of the Seminar Given in 1932*, hrsg. Sonu Shamdasani, Princeton University Press.
 - C. G. Jung: *Erinnerungen, Träume, Gedanken*, Kapitel zur Auseinandersetzung mit dem Unbewussten.
 - C. G. Jung: *The Red Book / Liber Novus*, hrsg. Sonu Shamdasani.
-- Library of Congress: Ausstellung *The Red Book of Carl G. Jung: Its Origins and Influence*.
-- Kathleen Taylor: *Sir John Woodroffe, Tantra and Bengal*; SOAS-Arbeit zur Avalon/Woodroffe/Ghose-Kollaboration.
+- Kathleen Taylor: *Sir John Woodroffe, Tantra and Bengal*.
 - Arthur Avalon / John Woodroffe: *The Serpent Power*, 1919.
 
 ## Vor Voice zwingend prüfen
@@ -382,3 +407,4 @@ Das ist die nächste Folge.
 1. Exakte Fundstelle der Jung-Warnung im Seminarband für Zitatkarte.
 2. Deutsche Originalformulierung zu Philemon/psychischer Objektivität, falls als Wortzitat genutzt.
 3. Visualisierung der Schlange: Jungs innere Schlange nie mit historischem Kundalini-Asset belegen; erst beim 1932-Reveal zusammenführen.
+4. S7: „Beschreibung der sechs Zentren“ nur auf Ṣaṭ-cakra-nirūpaṇa beziehen, nie auf alle indischen Chakra-Traditionen.
