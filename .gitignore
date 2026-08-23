@@ -13,8 +13,22 @@
 /EP05_JUNG_PAULI_MEDIA/
 *.part
 
-# Komplette Produktionsordner (lokal, zu groß)
-06_PRODUCTION/
+# Produktions-Medien (Bilder, Videos, Audio)
+06_PRODUCTION/**/*.mp4
+06_PRODUCTION/**/*.wav
+06_PRODUCTION/**/*.aac
+06_PRODUCTION/**/*.mp3
+06_PRODUCTION/**/*.png
+06_PRODUCTION/**/*.jpg
+06_PRODUCTION/**/*.jpeg
+06_PRODUCTION/**/*.webp
+06_PRODUCTION/**/*.gif
+06_PRODUCTION/**/*.svg
+06_PRODUCTION/**/*.ttf
+06_PRODUCTION/**/*.otf
+06_PRODUCTION/**/*.woff
+06_PRODUCTION/**/*.woff2
+06_PRODUCTION/**/RENDERED/
 
 # Research (PDFs, HTML)
 research/
