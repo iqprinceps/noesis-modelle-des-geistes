@@ -3,9 +3,8 @@ name: Materialize Schlafparalyse prompts
 on:
   push:
     branches: [production/canonical-image-prompts]
-    paths:
-      - '03_EPISODEN/TYPE_B/SCHLAFPARALYSE_PROMPTS_V4_REPO_READY.zip'
-      - '.github/workflows/materialize-schlafparalyse-prompts.yml'
+  pull_request:
+    branches: [master]
   workflow_dispatch:
 
 permissions:
@@ -13,6 +12,7 @@ permissions:
 
 jobs:
   materialize:
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
