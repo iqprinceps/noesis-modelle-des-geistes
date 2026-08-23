@@ -1,36 +1,20 @@
 # === NOESIS / Modelle des Geistes ===
 
+# Tool-Caches
+.mimocode/
+
 # Assets (zu groß für GitHub — separat verwalten)
 04_ASSETS/
 05_GENERATED/
 
 # Runtime-Downloads aus manifest-gesteuerten Asset-Downloadern
-# Medien, Lizenz-Sidecars und _META-Berichte bleiben lokal.
 /SCHLAFPARALYSE_ASSETS_PHASE2/
 /EP04A_EP04B_MEDIA/
 /EP05_JUNG_PAULI_MEDIA/
-/03_EPISODEN/TYPE_B/SCHLAFPARALYSE_ASSETS_PHASE2/SCHLAFPARALYSE_ASSETS_PHASE2/
 *.part
 
-# Render-Ausgaben
-06_PRODUCTION/*/RENDERED/
-06_PRODUCTION/*/*.mp4
-06_PRODUCTION/*/*.wav
-06_PRODUCTION/*/*.aac
-06_PRODUCTION/*/*.mp3
-
-# Große Produktionsdateien
-06_PRODUCTION/*/voice/
-06_PRODUCTION/*/upload/
-06_PRODUCTION/*/*.json
-06_PRODUCTION/*/*.csv
-06_PRODUCTION/*/*.srt
-06_PRODUCTION/*/*.svg
-06_PRODUCTION/**/*.svg
-06_PRODUCTION/*/*.png
-06_PRODUCTION/*/*.jpg
-06_PRODUCTION/*/*.jpeg
-06_PRODUCTION/*/*.webp
+# Komplette Produktionsordner (lokal, zu groß)
+06_PRODUCTION/
 
 # Research (PDFs, HTML)
 research/
