@@ -1,59 +1,59 @@
 # Schlafparalyse — Nano Banana Prompts V4
 
-Dieses Paket bringt EP06–EP08 auf das Produktionsformat der JUNG-V4-/PEAR-Pipeline.
+**Status:** direkte Repo-Ablage wie EP05 Jung–Pauli.
 
-## Paket
+Die finalen Bildprompts liegen sichtbar und kanonisch in den jeweiligen Episodenordnern. Es ist kein ZIP und kein Entpack-Schritt mehr erforderlich.
 
-`SCHLAFPARALYSE_PROMPTS_V4_REPO_READY.zip`
+## EP06
 
-SHA-256:
-`5f414def0f6e9eda90dc35dc111fd152d414e1708c77f486df60d80976fe37d5`
-
-Das ZIP enthält bereits die finalen Repository-Pfade:
-
-- `03_EPISODEN/TYPE_B/EP06_SCHLAFPARALYSE_01/`
-- `03_EPISODEN/TYPE_B/EP07_SCHLAFPARALYSE_02/`
-- `03_EPISODEN/TYPE_B/EP08_SCHLAFPARALYSE_03/`
-- `03_EPISODEN/TYPE_B/SCHLAFPARALYSE_PRODUCTION_READY_LOCK_V4.md`
-
-Pro Episode enthalten:
-
+`03_EPISODEN/TYPE_B/EP06_SCHLAFPARALYSE_01/`
 - `NANOBANANA_GUIDE_V4.md`
 - `NANOBANANA_PROMPTS_V4_S1_S2.md`
 - `NANOBANANA_PROMPTS_V4_S3_S4.md`
 - `NANOBANANA_PROMPTS_V4_S5_S6.md`
 - `NANOBANANA_PROMPTS_V4_S7_S8.md`
 
-## Coverage
+Prepared pool: **32 MAIN + 8 RESERVE**, plus real science/location assets and motion.
 
-Jede Folge: **56 MAIN + 8 RESERVE**.
+## EP07
 
-Jeder Main-Prompt folgt dem JUNG-V4-Schema:
+`03_EPISODEN/TYPE_B/EP07_SCHLAFPARALYSE_02/`
+- `NANOBANANA_GUIDE_V4.md`
+- four S1–S8 prompt batches
+
+Prepared pool: **20 MAIN + 4 RESERVE**. Deliberately archive-first: Salem primary documents and historical art carry the strongest evidence beats.
+
+## EP08
+
+`03_EPISODEN/TYPE_B/EP08_SCHLAFPARALYSE_03/`
+- `NANOBANANA_GUIDE_V4.md`
+- four S1–S8 prompt batches
+
+Prepared pool: **32 MAIN + 8 RESERVE**, plus real Art Bell/science assets and motion.
+
+## Prompt format
+
+Every image follows the same production format as Jung–Pauli:
 
 ```text
-IMGxx.png
-Referenz: STYLE_...png; VERIFIED_ASSET_FILENAME.jpg
+EXAKTER_DATEINAME.png
+Referenz: EXAKTE_REFERENZDATEI.jpg
 Prompt:
-...
+<vollständiger eigenständiger Prompt>
 ```
 
-Die Guides enthalten je drei Style-Anker:
+No hidden global prompt is required. Exact factual references were selected from the verified asset package; research-only URLs/PDFs are not used as direct image-generation references.
 
-- `STYLE_CINEMATIC_EPxx.png`
-- `STYLE_CONCEPTUAL_EPxx.png`
-- `STYLE_ARCHIVE_EPxx.png`
+## Why counts differ
 
-## Referenzen
+The layout is standardized; the creative quantity is not. EP07 has stronger original historical material and therefore needs less AI coverage than EP06/EP08. This follows `01_GLOBAL/00A_PRODUKTIONS_INDIVIDUALITAET.md`.
 
-Alle faktischen Dateinamen wurden gegen `SCHLAFPARALYSE_ASSETS_PHASE2/asset_manifest.csv` geprüft.
+## Global consistency rule
 
-- Keine `.url.txt`-Datei wird als Bildreferenz an die Bild-KI gegeben.
-- Keine PDF wird direkt als Bildreferenz verwendet.
-- `GREEN`-Assets sind direkte Referenzen.
-- `YELLOW`-Assets sind im Guide als Review-pflichtig markiert.
+See `01_GLOBAL/00C_IMAGE_PROMPT_STRUCTURE.md`. Run:
 
-## Edit-Regel
+```bash
+python3 tools/check_image_prompt_layout.py
+```
 
-Originalarchive und Originaldokumente haben Vorrang. Die 64 generierten Bilder pro Episode sind ein Coverage-Pool, kein Zwang, alle Bilder zu verwenden. Besonders EP07 soll weiterhin archivlastig bleiben.
-
-Siehe `SCHLAFPARALYSE_PRODUCTION_READY_LOCK_V4.md` für den finalen Produktions-Lock.
+A production-ready episode may no longer hide its final prompt text only in `PRODUCTION_SUMMARY` or a ZIP.
