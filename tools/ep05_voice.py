@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """EP05 Jung & Pauli V4 — Voice master and forced alignment.
 
-Raw MP3 stems are generated once from the production batch with:
-  elevenlabs_cli.py batch --batch-file PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/voice_batch_v4.json --execute
+Run from the repository root.
 
-This helper then normalizes all eight stems to the NOESIS voice target, builds
-one continuous PCM24/48kHz mono master and sends that master to ElevenLabs
-forced alignment against the clean production transcript.
+1) Generate raw MP3 stems:
+   elevenlabs_cli.py batch --batch-file PRODUCTION_SUMMARY/EP05_JUNG_PAULI_V4/voice/voice_batch_v4.json --execute
+2) Build normalized master + forced alignment:
+   python tools/ep05_voice.py all
 """
 
 from __future__ import annotations
@@ -79,11 +79,9 @@ def silence(path: Path, seconds: float):
     ])
 
 
-def resolve_text_file(raw: str) -> Path:
+def resolve_repo_path(raw: str) -> Path:
     p = Path(raw)
-    if p.is_absolute():
-        return p
-    return PROD / p
+    return p if p.is_absolute() else ROOT / p
 
 
 def build_master() -> float:
@@ -97,9 +95,8 @@ def build_master() -> float:
     silence(pre, PRE)
     lines.append(f"file '{pre.as_posix()}'")
 
-    stems = batch["stems"]
-    for i, stem in enumerate(stems):
-        source_text = resolve_text_file(stem["text_file"])
+    for i, stem in enumerate(batch["stems"]):
+        source_text = resolve_repo_path(stem["text_file"])
         if not source_text.is_file():
             raise SystemExit(f"Text stem missing: {source_text}")
         src = RAW / f"{stem['id']}.mp3"
@@ -114,7 +111,7 @@ def build_master() -> float:
         lines.append(f"file '{dst.as_posix()}'")
         report.append({"id": stem["id"], "duration": round(d, 3)})
         print(f"  {stem['id']:<34} {d:7.2f}s")
-        if i < len(stems) - 1:
+        if i < len(batch["stems"]) - 1:
             gap = MDIR / f"gap_{i+1:02d}.wav"
             silence(gap, GAP)
             lines.append(f"file '{gap.as_posix()}'")
