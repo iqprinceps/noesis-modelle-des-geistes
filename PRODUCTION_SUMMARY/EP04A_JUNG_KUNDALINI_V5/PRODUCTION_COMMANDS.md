@@ -43,7 +43,7 @@ python tools/ep04ab_audio_render.py EP04A
 
 The delivered stems are trimmed to the actual VO-master length. Any endscreen/atmospheric continuation is chosen in the edit, not baked as a fixed duration.
 
-## 6. Edit
+## 6. Build local render manifest + timeline
 
 Canonical cue map:
 
@@ -57,8 +57,26 @@ Motion rules:
 PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/MOTION_GRAPHICS_V5.md
 ```
 
+Run:
+
+```bash
+python tools/noesis_render.py EP04A doctor
+python tools/noesis_render.py EP04A manifest
+python tools/noesis_render.py EP04A plan
+```
+
+Review `06_PRODUCTION/EP04A_JUNG_KUNDALINI_V5/render_manifest.json` before the first full render. A cue may point to one file or to a list of local files. Empty entries must be filled with the intended local asset; the renderer never substitutes invented or generic stock material.
+
 Timing follows the actual VO master/alignment. Do not back-fill a target runtime, shot count or uniform hold duration into the edit.
 
-## 7. Captions / delivery
+## 7. Render + QA
+
+```bash
+python tools/noesis_render.py EP04A all
+```
+
+The `vision` camera profile is specific to EP04A: calmer symbolic holds, deeper push/pull movement where useful, and dry scene resets. It does not impose the rhythm of Gateway, PEAR or EP04B.
+
+## 8. Captions / delivery
 
 Build captions from the forced-alignment JSON using the clean transcript. Technical delivery follows the global NOESIS delivery spec; creative duration remains whatever this episode needs.
