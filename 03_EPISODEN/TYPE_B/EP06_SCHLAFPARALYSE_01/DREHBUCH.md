@@ -1,202 +1,349 @@
-# EP06 — Schlafparalyse I: Wenn der Körper nicht mitkommt
+# EP06 V2 FINAL — Schlafparalyse I: Du bist wach. Dein Körper nicht.
 
-**Archetyp:** B — Landkarte, Bewusstsein & Selbsterkenntnis  
-**Arbeitstitel:** **Wenn der Körper nicht mitkommt — warum Menschen weltweit dasselbe Wesen im Schlaf sehen**  
-**Alternative:** *Schlafparalyse: Du wachst auf. Eine Gestalt steht im Raum. Du kannst dich nicht bewegen.*  
-**Ziel:** 10:00–10:30 Minuten  
-**Voice:** 126–134 WPM; sachlich-neugierig, mit Druck  
-**Spannungsmotor:** Du wachst auf. Eine Gestalt steht im Raum. Du kannst dich nicht bewegen. Und das passiert seit Jahrtausenden auf jedem Kontinent.
+**Status:** Retention-Finalkandidatin  
+**Ziel:** 10:15–10:50 Minuten  
+**Archetyp:** B — Bewusstsein, Experiment & Grenzerfahrung  
+**Priorität:** Retention > Mystik > Erklärung > Vollständigkeit  
+**Voice:** ruhig, konzentriert, leicht unheimlich; keine Horror-Übertreibung, keine spöttische Distanz.
 
----
+## Logline
 
-## Szene 1 — Du wachst auf | 0:00–1:00
+1963 erlebt der spätere Folklorist David Hufford nachts etwas, für das er keinen Namen hat: Schritte, völlige Lähmung, Druck auf der Brust und die Gewissheit, dass etwas im Zimmer ist. Jahre später findet er in Neufundland Menschen, die dasselbe Erlebnis seit Generationen „Old Hag“ nennen. Die Neurologie kann heute die Lähmung erklären und den Zustand sogar im Labor auslösen. Aber eine Frage bleibt: Warum fühlt sich ein Timingfehler im Schlaf so oft wie die Anwesenheit eines anderen Wesens an?
 
-**Funktion:** Immersiver Hook.  
-**Bild:** Dunkler Schlafraum, Rückenansicht einer Person im Bett. Schatten an der Wand, die sich zu einer menschlichen Form verdichten. Danach: S.A.K. Wilson, *The Narcolepsies* (1928), Titelseite.  
-**Evidenz:** B.
+## Retention-Bauplan
 
-### Voiceover
-
-Du wachst auf. Es ist Nacht. Du liegst auf dem Rücken.
-
-Du willst dich bewegen, aber dein Körper reagiert nicht. Nicht einen Finger. Nicht einmal den Versuch, den Kopf zu drehen. Du bist wach. Du siehst die Decke. Du hörst dein eigenes Atmen. Aber irgendetwas hält dich fest.
-
-Dann siehst du sie.
-
-Eine Gestalt. Am Fußende deines Bettes. Oder neben dir. Dunkel. Menschengroß. Kein Gesicht. Aber sie ist da. Nicht als Gedanke, nicht als vages Gefühl: Du siehst sie so plastisch wie die Wand deines Zimmers.
-
-Du versuchst zu schreien – kein Ton. Du versuchst, dich aufzubäumen – nichts. Die Gestalt bewegt sich nicht, aber du spürst mit absoluter Gewissheit, dass sie dich fixiert.
-
-1928 beschreibt der britische Neurologe S.A.K. Wilson in seiner Arbeit *The Narcolepsies* erstmals systematisch, was in diesem Moment im menschlichen Nervensystem geschieht. Er prägt den Begriff: **sleep paralysis**.
-
-Doch was die Neurologie hier benennt, ist keine neue Krankheit. Es ist eine der ältesten dokumentierten Grenzerfahrungen des menschlichen Geistes.
+| Akt | Funktion | Zielzeit |
+|---|---|---:|
+| S1 Jemand kommt ins Zimmer | dokumentierter Personen-Hook | 0:00–0:55 |
+| S2 Die Old Hag kennt ihn schon | biografische Wendung | 0:55–2:10 |
+| S3 Der Körper schläft weiter | Mechanismus verständlich | 2:10–3:25 |
+| S4 Drei Arten, wie die Nacht zurückschlägt | Landkarte der Erfahrung | 3:25–4:55 |
+| S5 Das Labor erzeugt den Zustand | konkreter Versuch / erster Payoff | 4:55–6:20 |
+| S6 Was würdest du glauben? | Zuschauerexperiment + CTA | 6:20–7:15 |
+| S7 Warum ist da jemand? | zweite Wendung / Mystery-Peak | 7:15–8:55 |
+| S8 Was die Neurologie nicht wegwischt | Schluss + EP07-Hook | 8:55–10:30 |
 
 ---
 
-## Szene 2 — Der Mann, der es selbst erlebte | 1:00–2:20
+## Vollständiger Sprechertext
 
-**Funktion:** Biografischer Anker.  
-**Bild:** Rekonstruktion: junger Mann nachts im Studentenzimmer, 1963. Danach: David Huffords Buch *The Terror That Comes in the Night* (1982).  
-**Evidenz:** B.
+### S1 — Jemand kommt ins Zimmer
 
-### Voiceover
+Dezember 1963.
 
-1963 ist David Hufford Student in Neufundland, Kanada. Mitten in der Nacht wacht er auf.
+Ein College-Student liegt in einem dunklen Zimmer und hört, wie seine Tür aufgeht.
 
-Sein Körper ist wie versteinert. Er spürt eine bösartige Präsenz im Raum, die sich ihm nähert. Er kämpft um jeden Atemzug, unfähig, auch nur einen Laut hervorzubringen. Am nächsten Morgen glaubt er, den Verstand verloren zu haben, und behält das Erlebnis jahrelang für sich.
+Dann Schritte.
 
-Jahre später forscht er an der Memorial University of Newfoundland über lokale Folklore. Er stößt auf die uralte Überlieferung der **Old Hag** – einer Hexe, die sich nachts auf die Brust von Schlafenden setzt und sie erstickt.
+Sie kommen näher.
 
-Die Beschreibungen der Fischer und Dorfbewohner sind bis ins Detail identisch mit dem, was er 1963 in seinem Studentenzimmer durchlebt hat.
+Er will nach der Lampe greifen.
 
-Hufford stellt die entscheidende Frage: Was, wenn Folklore kein Produkt blühender Fantasie ist – sondern der Versuch, eine reale, biologische Anomalie zu erklären?
+Sein Arm bewegt sich nicht.
 
-1982 belegt er in seinem Standardwerk *The Terror That Comes in the Night*, dass Menschen über alle Kulturgrenzen hinweg exakt denselben Zustand erleben.
+Er will rufen.
 
-Die Frage lautet nicht mehr: Gibt es Schlafparalyse?
+Kein Ton.
 
-Die Frage lautet: **Warum sehen alle dasselbe?**
+Die Schritte erreichen das Bett. Die Matratze gibt nach, als würde jemand darauf steigen.
 
----
+Dann spürt er Gewicht auf seiner Brust.
 
-## Szene 3 — Was im Gehirn passiert | 2:20–3:45
+Und etwas, das er später kaum sachlich beschreiben kann: nicht nur Angst, sondern die überwältigende Gewissheit, dass das, was über ihm ist, bösartig ist.
 
-**Funktion:** Neurologische Erklärung.  
-**Bild:** Animation der Schlafstadien (Wach → NREM → REM). Schaltkreis-Grafik: Hirnstamm (Pons), Neurotransmitter GABA/Glyzin, Blockade der Motoneuronen.  
-**Evidenz:** B.
+Der Student heißt **David Hufford**.
 
-### Voiceover
+Jahre später wird er Folklorist. Und genau dieses Erlebnis zwingt ihn zu einer Frage, die seine ganze Arbeit verändern wird.
 
-Unser Schlaf verläuft in Zyklen von rund 90 Minuten und gipfelt im REM-Schlaf. In dieser Phase träumen wir am intensivsten.
+Denn 1963 kennt Hufford weder die Old Hag noch eine lokale Dämonentradition, die ihm diese Nacht hätte vorsagen können.
 
-Damit wir die Bewegungen unserer Träume nicht physisch ausführen – damit wir nicht um uns schlagen oder aus dem Bett springen –, legt das Gehirn einen biochemischen Schutzschalter um.
+Trotzdem wartet eine Geschichte auf ihn, in der fast jedes Detail schon existiert.
 
-Im Hirnstamm schütten spezialisierte Neuronen die Botenstoffe **GABA** und **Glyzin** aus. Sie blockieren die Weiterleitung von Bewegungssignalen an das Rückenmark. Die gesamte willkürliche Skelettmuskulatur wird lahmgelegt.
+### S2 — Die Old Hag kennt ihn schon
 
-Diesen Zustand nennt man **REM-Atonie**.
+Später arbeitet Hufford in Neufundland mit lokalen Erzählungen und Archiven.
 
-Bei einer Schlafparalyse gerät das Timing durcheinander. Das Großhirn schaltet in den vollen Wachzustand, während der Hirnstamm die muskuläre Blockade noch aufrechterhält.
+Dort stößt er auf einen Ausdruck: **to have the Old Hag**.
 
-Der Frontalkortex ist online. Der Körper bleibt offline.
+Wer die Old Hag „hat“, wacht nachts auf und kann sich nicht bewegen.
 
-Ausgelöst wird dieser asynchrone Zustand vor allem durch Schlafmangel, unregelmäßige Rhythmen, akuten Stress oder die Rückenlage.
+Man hört Schritte.
 
-Das erklärt, warum man sich nicht bewegen kann. Doch es erklärt noch nicht, warum in diesem Moment die Schatten erwachen.
+Etwas kommt näher.
 
----
+Es setzt sich auf die Brust.
 
-## Szene 4 — Die drei Gesichter der Halluzination | 3:45–5:05
+Der Atem wird schwer.
 
-**Funktion:** Taxonomie nach Allan Cheyne.  
-**Bild:** 3-teilige Grafik: INTRUDER (Schatten) | INCUBUS (Druck) | VESTIBULÄR-MOTORISCH (Schweben).  
-**Evidenz:** B.
+Und die Betroffenen erleben nicht bloß einen schlechten Traum. Sie sind überzeugt, wach zu sein.
 
-### Voiceover
+Für Hufford ist das unangenehm präzise.
 
-Der kanadische Schlafforscher J. Allan Cheyne wertete Tausende Fälle aus und fand heraus, dass die Halluzinationen keineswegs zufällig sind. Sie folgen drei präzisen neurologischen Mustern:
+Er hatte diese Tradition nicht gekannt, als ihm dasselbe Muster widerfuhr.
 
-Erstens: **Der Intruder**. Die Wahrnehmung einer bedrohlichen Gestalt im Zimmer. Schritte auf dem Dielenboden, Rascheln, das Geräusch fremden Atmens.
+Später sammelt er weitere Berichte von Menschen, die ebenfalls keine entsprechende Geschichte kannten.
 
-Zweitens: **Der Incubus**. Ein massiver, physischer Druck auf dem Brustkorb. Atemnot. Das Gefühl von Händen um die Kehle. Da die Atemhilfsmuskeln in der REM-Atonie blockiert sind und nur das Zwerchfell arbeitet, interpretiert das wache Gehirn das verringerte Atemvolumen als äußere Gewalteinwirkung.
+1982 erscheint daraus *The Terror That Comes in the Night*.
 
-Drittens: **Die vestibulär-motorische Dissoziation**. Schwebegefühle, Rotieren oder der Eindruck, den eigenen Körper von oben zu betrachten. Hier feuern die Lage- und Gleichgewichtszentren im temporoparietalen Übergang fehlerhafte Koordinaten.
+Huffords Problem ist größer als die Frage, ob es Hexen gibt.
 
-Das Mittelhirn registriert die Wehrlosigkeit des gelähmten Körpers und schaltet in eine extreme Alarmreaktion. Die Amygdala scannt die Umgebung nach Gefahren. Und wenn im dunklen Zimmer keine reale Bedrohung existiert, projiziert das Gehirn die Ursache seiner Panik selbst an die Wand.
+Wenn Kultur die Erfahrung vollständig erzeugt, warum berichten Menschen ohne diese kulturelle Vorlage von denselben Grundelementen?
 
----
+Und wenn die Erfahrung zuerst kommt — was genau passiert dann im Körper?
 
-## Szene 5 — Die Weltkarte der Namen | 5:05–6:35
+Die Antwort beginnt in einer Schlafphase, in der dein Gehirn dich jede Nacht absichtlich lähmt.
 
-**Funktion:** Kulturelle Kartierung.  
-**Bild:** Eigene Weltkarte, auf der die Begriffe chronologisch und geografisch aufleuchten.  
-**Evidenz:** B.
+### S3 — Der Körper schläft weiter
 
-### Voiceover
+Im REM-Schlaf träumt das Gehirn besonders intensiv.
 
-Über 100 Kulturen besitzen eigene Namen für diesen exakten Moment.
+Damit du nicht jede Bewegung deines Traums ausführst, wird die willkürliche Muskulatur weitgehend heruntergeregelt. Nervenschaltungen im Hirnstamm hemmen motorische Signale; der Körper liegt in **REM-Atonie**.
 
-In Skandinavien ist es die **Mara** – das Wesen, das dem Schläfer auf der Brust sitzt und bis heute in unserem Wort **Albtraum** weiterlebt.
+Normalerweise merkst du davon nichts.
 
-In Japan spricht man von **Kanashibari** – wörtlich: „in metallene Ketten geschlagen".
+Du träumst.
 
-In der arabischen Welt fürchtet man den **Al-Jathoom** – einen Dämon, der den Schlafenden niederdrückt.
+Der Körper bleibt still.
 
-In China heißt es **Guǐ yā chuáng** – „der Geist, der auf das Bett drückt".
+Dann endet die Phase und beides kommt gemeinsam zurück.
 
-In Thailand ist es **Phi Am**, auf den Philippinen die **Batibat**, in Finnland der **Painajainen**.
+Bei einer Schlafparalyse fällt diese Synchronität auseinander.
 
-Sprache, Geografie und Jahrhunderte trennen diese Völker. Doch die Symptomatik bleibt bis in die Wortwahl identisch: Erwachen, Lähmung, Schatten, Druck, Panik.
+Das Bewusstsein ist schon da.
 
-**Hast du diesen Zustand schon einmal erlebt? Schreib kurz in die Kommentare, welches der drei Muster es war, bevor wir zur Frage kommen, ob Kultur den Körper verändern kann.**
+Der Körper steckt noch für Sekunden oder Minuten im REM-Modus.
 
----
+Du siehst das Zimmer. Du hörst Geräusche. Du weißt, wo du liegst.
 
-## Szene 6 — Kulturelles Priming: Ägypten gegen Dänemark | 6:35–7:50
+Und du kannst deinen eigenen Arm nicht heben.
 
-**Funktion:** Empirische Messung nach Shelley Adler.  
-**Bild:** Split-Screen: Ägypten vs. Dänemark mit statistischen Balkendiagrammen.  
-**Evidenz:** B.
+Das erklärt die Lähmung.
 
-### Voiceover
+Es erklärt auch, warum Atmen sich ungewohnt und eingeschränkt anfühlen kann.
 
-Die Anthropologin Shelley Adler untersuchte, ob der Glaube an Geister die Häufigkeit der Lähmung beeinflusst.
+Aber eine gelähmte Muskulatur müsste noch keine Schritte im Flur erzeugen.
 
-Sie verglich Betroffene in Ägypten mit Probanden in Dänemark.
+Sie müsste keine Hände an deinem Hals erzeugen.
 
-In Ägypten ist der Glaube an die **Jinn** tief verwurzelt. Ein nächtlicher Angriff gilt als reale metaphysische Attacke. Rund 50 Prozent der dortigen Betroffenen gaben an, während der Paralyse akute Todesangst zu spüren.
+Und sie müsste schon gar nicht das Gefühl erzeugen, dass direkt neben deinem Bett jemand steht.
 
-In Dänemark hingegen existiert kein dämonologisches Narrativ. Das Ereignis wird schlicht als physiologische Fehlfunktion wahrgenommen; nur 17 Prozent verspürten Todesangst.
+Genau dort beginnt der zweite Teil des Phänomens.
 
-Das Ergebnis: In Ägypten tritt Schlafparalyse **dreimal häufiger** auf, die Episoden dauern signifikant länger und die Halluzinationen sind dramatisch intensiver.
+### S4 — Drei Arten, wie die Nacht zurückschlägt
 
-Das bedeutet: Die Kultur liefert nicht nur die Erklärung für das Erlebnis. Über Angst, Stress und Schlaffragmentierung steuert sie direkt die Biochemie des Anfalls.
+Der Psychologe **J. Allan Cheyne** und Kollegen untersuchten, wie sich diese Erlebnisse gruppieren.
 
----
+Sie fanden keine völlig zufällige Sammlung von Bildern.
 
-## Szene 7 — Das Rätsel der Hmong | 7:50–9:00
+Immer wieder erscheinen drei Familien.
 
-**Funktion:** Die medizinische Eskalation.  
-**Bild:** Historische Archivfotos: Hmong-Gemeinschaft in den USA, späte 1970er. Text-Card: SUNDS — Sudden Unexpected Nocturnal Death Syndrome.  
-**Evidenz:** B für Kontext, H für Nocebo-Mechanismus.
+Die erste ist der **Intruder**.
 
-### Voiceover
+Eine Präsenz im Zimmer. Schritte. Rascheln. Eine dunkle Gestalt. Das sichere Gefühl, beobachtet zu werden.
 
-In den späten 1970er-Jahren ereignet sich in den USA ein medizinisches Rätsel. Dutzende scheinbar kerngesunde, junge Männer der eingewanderten Hmong-Minderheit sterben nachts völlig unerwartet im Schlaf.
+Die zweite ist der **Incubus**.
 
-Die Autopsien liefern keinen organischen Befund.
+Druck auf der Brust. Atemnot. Würgen. Etwas sitzt auf dir oder hält dich fest.
 
-Die Hmong selbst machen den **Dab tsog** verantwortlich – einen rachsüchtigen Nachtgeist, der Schläfer erdrückt, wenn traditionelle Rituale vernachlässigt werden.
+Die dritte umfasst ungewöhnliche Körpererfahrungen.
 
-Die Medizin klassifiziert das Phänomen als **SUNDS** (Sudden Unexpected Nocturnal Death Syndrome).
+Schweben. Fallen. Drehen. Das Gefühl, den eigenen Körper zu verlassen oder ihn von außen zu sehen.
 
-Forscher vermuten heute eine fatale Verkettung: Traumatischer Fluchtstress und genetische Herzrhythmusstörungen trafen auf eine panische Schlafparalyse. Der absolute Glaube an den tödlichen Angriff des Geistes löste einen so gewaltigen Adrenalinstoß aus, dass das Herz versagte.
+Das Merkwürdige ist nicht, dass ein träumendes Gehirn seltsame Dinge produzieren kann.
 
-Ein extremer Nocebo-Effekt: Wenn die Angst vor dem Schatten den Körper tötet.
+Das Merkwürdige ist die Wiederholung.
 
----
+Menschen, die voneinander nichts wissen, landen immer wieder in ähnlichen Erlebnisräumen.
 
-## Szene 8 — Was bleibt | 9:00–10:15
+Sind das nur drei häufige Wege, auf dieselbe neurophysiologische Störung zu reagieren?
 
-**Funktion:** Bilanz und Ausblick.  
-**Bild:** Schlaflabor-Monitoring, EEG-Wellen glätten sich. Zurück zum dunklen Raum aus Szene 1.  
-**Evidenz:** Zusammenfassung.
+Oder sehen wir hier etwas Tieferes darüber, wie das Gehirn Gefahr konstruiert?
 
-### Voiceover
+Bevor wir darüber spekulieren, kommt ein Versuch, der einen Teil der Sache brutal nüchtern macht.
 
-Was bleibt von der Schlafparalyse?
+### S5 — Das Labor erzeugt den Zustand
 
-**Belegt** ist ein biochemischer Zustand, bei dem das Bewusstsein erwacht, bevor der Hirnstamm die REM-Atonie aufhebt.
+1992 nehmen japanische Schlafforscher 16 gesunde Versuchspersonen und verändern gezielt ihren Schlaf.
 
-**Belegt** ist, dass bis zu 50 Prozent aller Menschen mindestens einmal im Leben diese Dissoziation durchlaufen.
+Sie lassen sie zunächst schlafen, wecken sie zu bestimmten Zeitpunkten für eine Stunde und schicken sie danach wieder ins Bett.
 
-**Belegt** ist auch, dass kulturelle Angst die Frequenz und Wucht dieser Anfälle messbar verstärkt.
+Das Ziel ist, Schlafbeginn und REM-Phase gegeneinander zu verschieben.
 
-**Offen** bleibt, warum das menschliche Gehirn bei einem simplen Timing-Fehler der Reizübertragung weltweit immer wieder dieselben archetypischen Dämonen konstruiert.
+Die Methode funktioniert nicht jedes Mal.
 
-Wie die Menschheit aus dieser neurologischen Störung über Jahrtausende ein weltweites System aus Dämonen, Exorzismen und Hexenverbrennungen baute, zeigt die nächste Folge.
+Aber in den experimentellen Unterbrechungen entstehen **sechs dokumentierte Episoden isolierter Schlafparalyse**.
+
+Die Versuchspersonen wissen, dass sie im Labor liegen.
+
+Sie können sich nicht bewegen.
+
+Und fast alle Betroffenen berichten zusätzlich von unangenehmen visuellen oder akustischen Halluzinationen.
+
+Auf den Messgeräten sieht man genau den Widerspruch, den die Menschen beschreiben: Wachmerkmale im EEG — bei weiter bestehender Muskelatonie.
+
+Das ist wichtig.
+
+Der Zustand braucht keine verfluchte Wohnung.
+
+Keinen alten Dämonennamen.
+
+Keine Séance.
+
+Man kann seine Wahrscheinlichkeit erhöhen, indem man Schlafarchitektur stört.
+
+Aber selbst im Labor kommt mit der Lähmung etwas mit, das sich nicht wie eine Messkurve anfühlt.
+
+Eine Stimme.
+
+Ein Geräusch.
+
+Eine Präsenz.
+
+Und jetzt wird die Frage persönlich.
+
+### S6 — Was würdest du glauben?
+
+Stell dir vor, du kennst diese Studie nicht.
+
+Du wachst heute Nacht auf.
+
+Die Tür ist geschlossen.
+
+Du kannst dich nicht bewegen.
+
+Dann hörst du zwei Schritte neben dem Bett.
+
+Nicht im Traum.
+
+In dem Zimmer, das du kennst.
+
+Dein Brustkorb fühlt sich schwer an.
+
+Und im Augenwinkel steht eine dunkle Form.
+
+Was würde sich in **dieser Sekunde** echter anfühlen?
+
+Ein Fehler im Schlafrhythmus?
+
+Oder ein Besucher?
+
+Schreib nur ein Wort: **KÖRPER** oder **BESUCHER**.
+
+Denn genau an diesem Punkt reicht die reine Mechanik nicht mehr aus.
+
+Sie kann erklären, warum Bewegung blockiert ist.
+
+Sie kann zeigen, wann REM und Wachheit gleichzeitig auftreten.
+
+Aber sie muss noch erklären, warum Wehrlosigkeit so oft die Form einer Anwesenheit bekommt.
+
+### S7 — Warum ist da jemand?
+
+Eine naheliegende Antwort beginnt mit dem Alarmsystem.
+
+Du bist wach genug, um zu merken: Etwas stimmt nicht.
+
+Du kannst dich nicht bewegen.
+
+Atmen fühlt sich anders an.
+
+Dein Gehirn bekommt ein Problem ohne sichtbare Ursache.
+
+In einer solchen Lage ist es sinnvoller, einmal zu oft eine Bedrohung zu vermuten als einmal zu wenig.
+
+Das Wahrnehmungssystem sucht also nach einem Verursacher.
+
+Ein Knacken wird zu einem Schritt.
+
+Ein Schatten wird zu einer Schulter.
+
+Ein Gefühl von Druck bekommt einen Körper.
+
+Das ist eine plausible Erklärung für einen Teil der Intruder-Erfahrung.
+
+Nur bleibt ein Rest.
+
+Warum sind diese Präsenzen für Betroffene häufig nicht neutral?
+
+Warum fühlen sie sich absichtlich, beobachtend, manchmal intelligent an?
+
+Warum ist das Gefühl „jemand ist hier“ oft schon da, bevor überhaupt eine klare Gestalt erscheint?
+
+Die Forschung kann Mechanismen beschreiben, Wahrscheinlichkeiten messen und wiederkehrende Muster ordnen.
+
+Sie hat damit noch nicht jede subjektive Sekunde des Erlebnisses erklärt.
+
+Und genau dieser Rest ist der Grund, warum Schlafparalyse nie nur Medizin geblieben ist.
+
+Menschen geben einer unsichtbaren Ursache einen Namen.
+
+Dann erzählen sie anderen davon.
+
+Und irgendwann lebt die Gestalt länger als der Mensch, der sie gesehen hat.
+
+### S8 — Was die Neurologie nicht wegwischt
+
+Zurück zu David Hufford.
+
+1963 erlebt er etwas, das er nicht einordnen kann.
+
+Später findet er eine Tradition, die sein Erlebnis überraschend genau kennt.
+
+Heute können wir einen Teil dieser Nacht viel besser erklären.
+
+REM-Atonie ist real.
+
+Der Mischzustand aus Wachheit und fortbestehender Muskelhemmung ist messbar.
+
+Schlafparalyse lässt sich unter Laborbedingungen provozieren.
+
+Und die Halluzinationen bilden wiederkehrende Familien.
+
+Damit verschwindet das Rätsel nicht.
+
+Es verschiebt sich.
+
+Die interessante Frage lautet nicht mehr nur: **Was lähmt den Körper?**
+
+Sondern: **Warum verwandelt das menschliche Gehirn diese Lähmung so oft in eine Begegnung?**
+
+Huffords Old Hag ist nur eine Antwort darauf.
+
+Andere Kulturen gaben demselben Druck andere Gesichter.
+
+Manche nannten ihn Mara.
+
+Andere Incubus.
+
+Andere sahen eine Hexe.
+
+Und manchmal wurde aus einer Nachtgeschichte etwas viel Gefährlicheres: eine Aussage vor Gericht.
+
+In der nächsten Folge liegt ein Mann 1692 wach in seinem Bett, sieht eine Frau in sein verschlossenes Zimmer kommen — und schwört später vor Gericht, dass sie sich auf seine Brust gelegt habe, bis er weder sprechen noch sich bewegen konnte.
+
+Die Frau heißt Bridget Bishop.
+
+Wenige Tage später wird sie verurteilt.
 
 ---
 
 ## Endcard
 
-**Nächste Folge:** *Wer sitzt auf deiner Brust? — 4.000 Jahre Maren, Inkubi und Hexenprozesse.*
+**Nächste Folge:** *Wer sitzt auf deiner Brust? — Als Schlafparalyse zur Hexe wurde.*  
+**Frage:** Wenn drei Menschen denselben Besucher beschreiben: Ist das für dich eher **GEHIRN** oder **MUSTER**?
+
+## Voice-/Retention-Lock
+
+- Hufford in den ersten 5 Sekunden als reale Person etablieren; kein anonymer „Du wachst auf“-Hook.
+- Erster Quellen-Reveal spätestens um 20 Sekunden.
+- Kein Kultur-Weltkartenblock in EP06; kulturelle Genealogie gehört in EP07.
+- Takeuchi-Experiment als konkreten Akt schützen; Ergebnis nicht vorwegnehmen.
+- CTA nur **KÖRPER / BESUCHER**.
+- S7 mystisch offen lassen, aber keine externe Entität als Erklärung behaupten.
+- Schluss nicht mit Prävalenzstatistik verwässern; direkt auf Bridget Bishop ziehen.
+
+## Primär-/Forschungsanker
+
+- David J. Hufford: *The Terror That Comes in the Night* (1982) und spätere autobiografische Darstellung seines Erlebnisses von Dezember 1963.
+- J. Allan Cheyne et al.: Forschung zu Intruder-, Incubus- und ungewöhnlichen Körpererfahrungen bei Schlafparalyse.
+- Takeuchi et al.: *Isolated Sleep Paralysis Elicited by Sleep Interruption*, SLEEP 15(3), 1992.
