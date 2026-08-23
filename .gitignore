@@ -26,6 +26,7 @@
 06_PRODUCTION/*/*.csv
 06_PRODUCTION/*/*.srt
 06_PRODUCTION/*/*.svg
+06_PRODUCTION/**/*.svg
 06_PRODUCTION/*/*.png
 06_PRODUCTION/*/*.jpg
 06_PRODUCTION/*/*.jpeg
