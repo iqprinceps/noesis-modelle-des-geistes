@@ -1,10 +1,10 @@
 # EP07 V2 FINAL — Schlafparalyse II: Wer sitzt auf deiner Brust?
 
-**Status:** Retention-Finalkandidatin  
+**Status:** Voice-Authenticity FINAL  
 **Ziel:** 10:15–10:50 Minuten  
 **Archetyp:** B/C — historische Akte, Kultur & Rückkopplung  
 **Priorität:** Retention > Mystik > historische Vollständigkeit  
-**Voice:** ruhig, historisch, zunehmend unheimlich; Quellen sind Reveals, keine Vorlesung.
+**Voice:** ruhig, historisch, zunehmend unheimlich; gesprochen statt geschrieben. Quellen sind Reveals, keine Vorlesung. Direkte Reaktionen und Zuschaueransprache sparsam und organisch.
 
 ## Logline
 
@@ -33,9 +33,7 @@ Salem, Massachusetts. Mai 1692.
 
 Richard Coman erzählt vor Gericht von einer Nacht, in der er wach in seinem Bett lag.
 
-Das Zimmer ist vertraut.
-
-Seine Frau liegt neben ihm.
+Das Zimmer ist vertraut. Seine Frau liegt neben ihm.
 
 Dann sieht er **Bridget Bishop**.
 
@@ -47,7 +45,7 @@ Es gelingt ihm nicht.
 
 Dann verschwindet die Gestalt.
 
-Heute liest sich dieses Muster auffallend vertraut:
+Und wenn ihr die vorige Folge gesehen habt, klingt dieses Muster sofort vertraut:
 
 Wachheit.
 
@@ -57,21 +55,19 @@ Druck.
 
 Eine menschliche Präsenz im Raum.
 
-1692 gibt es dafür aber keinen REM-Schlaf, keine Atonie und keine Schlafmedizin.
+Nur: 1692 gibt es dafür keinen REM-Schlaf, keine Atonie und keine Schlafmedizin.
 
 Es gibt Hexerei.
 
-Und Bridget Bishop ist keine Figur aus einer Legende.
-
-Sie sitzt tatsächlich vor Gericht.
+Und Bridget Bishop ist keine Figur aus einer Legende. Sie sitzt tatsächlich vor Gericht.
 
 Am 10. Juni 1692 wird sie gehängt.
 
 Eine private Nachtwahrnehmung ist Teil einer öffentlichen Realität geworden.
 
-Aber Salem hat dieses Muster nicht erfunden.
+Aber genau hier muss man aufpassen: Salem hat dieses Muster nicht erfunden.
 
-Als man Jahrhunderte zurückgeht, taucht der Besucher immer wieder auf.
+Geht man Jahrhunderte zurück, taucht der Besucher immer wieder auf.
 
 ### S2 — Das Bild existiert schon überall
 
@@ -85,13 +81,11 @@ Aus dem Hintergrund starrt ein Pferdekopf mit weißen Augen durch einen Vorhang.
 
 Das Bild wird berühmt, weil es etwas darstellt, das viele Betrachter bereits kennen.
 
-Nicht bloß einen schlechten Traum.
+Nicht einfach einen schlechten Traum.
 
-Sondern den **Nachtmahr**: das Gefühl, nachts von einer fremden Macht bedrückt zu werden.
+Sondern den **Nachtmahr**: dieses Gefühl, nachts von einer fremden Macht bedrückt zu werden.
 
-Andere Künstler greifen das Motiv auf.
-
-Andere Regionen kennen eigene Begriffe.
+Andere Künstler greifen das Motiv auf. Andere Regionen kennen eigene Begriffe.
 
 Und je weiter man zurückgeht, desto schwieriger wird eine einfache Erklärung.
 
@@ -107,11 +101,13 @@ Es nimmt Stimme oder Bewegung.
 
 Es sitzt, liegt oder drückt auf dem Körper.
 
-Und das Opfer erlebt die Szene nicht wie eine freie Fantasie, sondern wie einen Angriff.
+Und das Opfer erlebt die Szene nicht wie freie Fantasie, sondern wie einen Angriff.
 
-Wenn alle nur dieselbe Geschichte voneinander kopieren würden, müsste irgendwo ein Ursprung erkennbar sein.
+Wenn wirklich alle nur dieselbe Geschichte voneinander kopiert hätten, müsste irgendwo ein klarer Ursprung zu finden sein.
 
-Stattdessen finden wir viele Ursprünge.
+Genau das sehen wir aber nicht.
+
+Wir sehen viele Ursprünge.
 
 ### S3 — Viele Namen, derselbe Angriff
 
@@ -127,9 +123,9 @@ China kennt das Motiv des Geistes, der auf dem Bett oder Körper drückt.
 
 Neufundland kennt die **Old Hag**.
 
-Die Figuren gehören nicht einfach alle zu einer einzigen historischen Familie.
+Und nein — diese Figuren gehören nicht einfach alle zu einer einzigen historischen Familie.
 
-Genau das macht es interessanter.
+Genau das macht es ja so interessant.
 
 Unterschiedliche Religionen.
 
@@ -145,7 +141,7 @@ Vielleicht entsteht der Mythos, weil Menschen etwas erleben, das nach einer Gesc
 
 Aber dann passiert etwas Entscheidendes.
 
-Sobald eine Kultur eine Erklärung besitzt, kann sie beim nächsten Erlebnis schon im Raum stehen.
+Sobald eine Kultur eine Erklärung besitzt, steht sie beim nächsten Erlebnis vielleicht schon mit im Raum.
 
 ### S4 — Wenn ein Erlebnis zur Wahrheit einer Kultur wird
 
@@ -163,7 +159,7 @@ Nachtmahr.
 
 Fluch.
 
-Dazu gehören auch Rituale.
+Und natürlich gehören dazu auch Rituale.
 
 Gebete.
 
@@ -173,13 +169,13 @@ Schutzobjekte.
 
 Mancherorts stellt man Besen oder andere Gegenstände ans Bett, um das nächtliche Wesen aufzuhalten oder abzulenken.
 
-Solche Praktiken wirken aus moderner Sicht irrational.
+Aus moderner Sicht wirkt das irrational.
 
-Innerhalb des damaligen Modells sind sie logisch.
+Innerhalb des damaligen Modells ist es völlig logisch.
 
 Denn wenn die Ursache ein handelndes Wesen ist, braucht man eine Handlung gegen dieses Wesen.
 
-Und genau deshalb kann eine Schlafparalyse mehr werden als ein persönliches Erlebnis.
+Und genau deshalb kann Schlafparalyse mehr werden als ein persönliches Erlebnis.
 
 Sie kann eine Anschuldigung bestätigen.
 
@@ -189,13 +185,11 @@ Ein Gericht überzeugen.
 
 Oder eine ganze Gemeinschaft darin bestärken, dass nachts tatsächlich etwas kommt.
 
-Die einfache Theorie wäre daher:
-
-Menschen sehen Dämonen, weil ihre Kultur ihnen Dämonen beigebracht hat.
+Die einfache Theorie wäre also: Menschen sehen Dämonen, weil ihre Kultur ihnen Dämonen beigebracht hat.
 
 Dann kommt David Hufford.
 
-Und dieses Modell bekommt ein Problem.
+Und genau dieses Modell bekommt ein Problem.
 
 ### S5 — Huffords Gegenangriff
 
@@ -203,7 +197,7 @@ Hufford untersucht in Neufundland die Old-Hag-Tradition.
 
 Er kennt das Erlebnis selbst.
 
-Aber entscheidend sind die Fälle von Menschen, die ähnliche Episoden schildern, obwohl sie die passende Überlieferung vorher nicht kennen.
+Entscheidend sind aber die Fälle von Menschen, die ähnliche Episoden schildern, obwohl sie die passende Überlieferung vorher nicht kennen.
 
 Das spricht gegen die Vorstellung, Kultur müsse das gesamte Grundmuster erst erzeugen.
 
@@ -221,23 +215,19 @@ Panik.
 
 Und Kulturen bauen daraus Modelle.
 
-Nicht alle gleich.
+Nicht alle gleich. Nicht als Kopie voneinander. Sondern als Antworten auf etwas, das Körper und Gehirn selbst liefern.
 
-Nicht als Kopie voneinander.
+Das erklärt ziemlich gut, warum dieselbe Erlebnisstruktur in sehr verschiedenen Traditionen auftauchen kann.
 
-Sondern als Antworten auf etwas, das der Körper und das Gehirn selbst liefern.
+Aber jetzt kommt die zweite Frage.
 
-Das erklärt, warum dieselbe Erlebnisstruktur in sehr verschiedenen Traditionen auftauchen kann.
+Wenn Kultur den ersten Anfall nicht erzeugen muss — heißt das wirklich, dass sie danach keine Rolle mehr spielt?
 
-Doch jetzt entsteht eine zweite Frage.
-
-Wenn Kultur den ersten Anfall nicht erzeugen muss — bleibt sie danach wirklich bedeutungslos?
-
-Oder kann das, was man über die Nacht glaubt, den nächsten Anfall stärker machen?
+Oder kann das, was man über die Nacht glaubt, den nächsten Anfall tatsächlich stärker machen?
 
 ### S6 — Was glaubst du vor dem nächsten Anfall?
 
-Stell dir zwei Menschen vor.
+Stellt euch zwei Menschen vor.
 
 Beide wachen gelähmt auf.
 
@@ -253,15 +243,15 @@ Der Körper ist zunächst derselbe.
 
 Aber ist die Nacht wirklich dieselbe?
 
-Was glaubst du?
+Was glaubt ihr?
 
-Schreib nur ein Wort: **ERFAHRUNG** oder **KULTUR**.
+Schreibt nur ein Wort: **ERFAHRUNG** oder **KULTUR**.
 
 Denn genau diese Frage wurde nicht nur philosophisch diskutiert.
 
-Man verglich Menschen aus zwei sehr unterschiedlichen kulturellen Umgebungen.
+Man hat Menschen aus zwei sehr unterschiedlichen kulturellen Umgebungen verglichen.
 
-Und die Unterschiede waren größer, als ein rein neutraler Schlafmechanismus erwarten lässt.
+Und die Unterschiede waren größer, als ein völlig neutraler Schlafmechanismus erwarten lässt.
 
 ### S7 — Ägypten gegen Dänemark
 
@@ -275,7 +265,7 @@ In Teilen der ägyptischen Stichprobe wurde Schlafparalyse wesentlich häufiger 
 
 In Dänemark dominierte eher eine physiologische Interpretation.
 
-Und genau hier erscheint die zweite Wendung.
+Und genau hier kommt die zweite Wendung.
 
 Die ägyptischen Betroffenen berichteten im Durchschnitt nicht nur mehr Angst.
 
@@ -283,29 +273,27 @@ Sie berichteten auch häufigere Episoden und längere Lähmung.
 
 Übernatürliche Deutung hing mit stärkerer Todesangst zusammen.
 
-Damit dreht sich Huffords Modell ein zweites Mal.
+Das heißt nicht: Kultur zaubert Schlafparalyse herbei.
 
-Kultur muss den Grundzustand nicht erfinden.
+Aber es heißt sehr wohl: Die Geschichte, die du über das Erlebnis glaubst, kann beeinflussen, wie bedrohlich es wird — und möglicherweise auch, wie sehr sich Schlaf und Angst gegenseitig hochschaukeln.
 
-Aber sobald eine Kultur ihm einen tödlichen Angreifer gibt, kann Angst den Schlaf verändern.
+Mehr Angst kann schlechteren Schlaf bedeuten.
 
-Mehr Angst bedeutet schlechteren Schlaf.
+Schlechterer Schlaf kann wiederum weitere Episoden begünstigen.
 
-Schlechterer Schlaf erhöht wiederum die Wahrscheinlichkeit weiterer Episoden.
+Und plötzlich erklärt die Geschichte nicht nur das Erlebnis.
 
-Die Geschichte erklärt also nicht nur das Erlebnis.
+Sie wird Teil einer Rückkopplung.
 
-Sie kann Teil einer Rückkopplung werden, die das nächste Erlebnis wahrscheinlicher und heftiger macht.
+Ein Dämon muss nicht physisch existieren, um körperliche Folgen zu haben.
 
-Ein Dämon muss nicht physisch existieren, um physiologische Folgen zu haben.
-
-Das ist vielleicht der unheimlichste Teil der ganzen Geschichte.
+Und ja — das ist vielleicht der unheimlichste Teil der ganzen Geschichte.
 
 Denn damit wird eine Erzählung körperlich.
 
 ### S8 — Der Dämon lernt schneller
 
-Zurück nach Salem.
+Okay, zurück nach Salem.
 
 Richard Coman erlebt nachts eine Gestalt.
 
@@ -371,6 +359,9 @@ Jetzt braucht er eine Sendung.
 - Hufford als erste Wendung, Ägypten/Dänemark als zweite Wendung schützen.
 - CTA nur **ERFAHRUNG / KULTUR**.
 - Schluss muss auf Geschwindigkeit der Medien kippen; Art Bell nicht vollständig vorwegnehmen.
+- Konversationsmarker sparsam und reaktiv einsetzen; kein Dauer-„genau“.
+- „Und nein“/„Und ja“ nur dort, wo der Sprecher tatsächlich auf eine naheliegende Zuschauerannahme reagiert.
+- Zuschauerfragen im Plural („was glaubt ihr?“), immersive Szenen dürfen im Singular bleiben.
 
 ## Primär-/Forschungsanker
 

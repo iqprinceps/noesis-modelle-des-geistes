@@ -1,10 +1,10 @@
 # EP06 V2 FINAL — Schlafparalyse I: Du bist wach. Dein Körper nicht.
 
-**Status:** Retention-Finalkandidatin  
+**Status:** Voice-Authenticity FINAL  
 **Ziel:** 10:15–10:50 Minuten  
 **Archetyp:** B — Bewusstsein, Experiment & Grenzerfahrung  
 **Priorität:** Retention > Mystik > Erklärung > Vollständigkeit  
-**Voice:** ruhig, konzentriert, leicht unheimlich; keine Horror-Übertreibung, keine spöttische Distanz.
+**Voice:** ruhig, konzentriert, leicht unheimlich; gesprochen statt geschrieben. Natürliche Marker wie „genau“, „und ja“, „okay“ oder direkte Zuschauerfragen sparsam einsetzen; keine Horror-Übertreibung, keine spöttische Distanz.
 
 ## Logline
 
@@ -37,9 +37,7 @@ Dann Schritte.
 
 Sie kommen näher.
 
-Er will nach der Lampe greifen.
-
-Sein Arm bewegt sich nicht.
+Er will nach der Lampe greifen — aber sein Arm bewegt sich nicht.
 
 Er will rufen.
 
@@ -53,11 +51,13 @@ Und etwas, das er später kaum sachlich beschreiben kann: nicht nur Angst, sonde
 
 Der Student heißt **David Hufford**.
 
-Jahre später wird er Folklorist. Und genau dieses Erlebnis zwingt ihn zu einer Frage, die seine ganze Arbeit verändern wird.
+Und genau diese Nacht wird Jahre später seine ganze Arbeit verändern.
 
-Denn 1963 kennt Hufford weder die Old Hag noch eine lokale Dämonentradition, die ihm diese Nacht hätte vorsagen können.
+Denn Hufford kennt 1963 weder die Old Hag noch irgendeine lokale Dämonentradition, die ihm dieses Erlebnis hätte vorsagen können.
 
-Trotzdem wartet eine Geschichte auf ihn, in der fast jedes Detail schon existiert.
+Trotzdem stößt er später auf eine Geschichte, in der fast jedes Detail schon existiert.
+
+Und da wird es interessant.
 
 ### S2 — Die Old Hag kennt ihn schon
 
@@ -75,23 +75,23 @@ Es setzt sich auf die Brust.
 
 Der Atem wird schwer.
 
-Und die Betroffenen erleben nicht bloß einen schlechten Traum. Sie sind überzeugt, wach zu sein.
+Und die Betroffenen erleben das nicht wie irgendeinen schlechten Traum. Sie sind überzeugt, wach zu sein.
 
 Für Hufford ist das unangenehm präzise.
 
-Er hatte diese Tradition nicht gekannt, als ihm dasselbe Muster widerfuhr.
+Er kannte diese Tradition nicht, als ihm fast dasselbe Muster widerfuhr.
 
 Später sammelt er weitere Berichte von Menschen, die ebenfalls keine entsprechende Geschichte kannten.
 
 1982 erscheint daraus *The Terror That Comes in the Night*.
 
-Huffords Problem ist größer als die Frage, ob es Hexen gibt.
+Und ja — damit wird sein Problem größer als die Frage, ob es Hexen gibt.
 
-Wenn Kultur die Erfahrung vollständig erzeugt, warum berichten Menschen ohne diese kulturelle Vorlage von denselben Grundelementen?
+Wenn Kultur die Erfahrung vollständig erzeugt, warum berichten dann Menschen ohne diese kulturelle Vorlage von denselben Grundelementen?
 
-Und wenn die Erfahrung zuerst kommt — was genau passiert dann im Körper?
+Und wenn die Erfahrung zuerst kommt: Was passiert da eigentlich im Körper?
 
-Die Antwort beginnt in einer Schlafphase, in der dein Gehirn dich jede Nacht absichtlich lähmt.
+Die Antwort beginnt in einer Schlafphase, in der dein Gehirn dich jede Nacht ganz absichtlich lähmt.
 
 ### S3 — Der Körper schläft weiter
 
@@ -99,15 +99,11 @@ Im REM-Schlaf träumt das Gehirn besonders intensiv.
 
 Damit du nicht jede Bewegung deines Traums ausführst, wird die willkürliche Muskulatur weitgehend heruntergeregelt. Nervenschaltungen im Hirnstamm hemmen motorische Signale; der Körper liegt in **REM-Atonie**.
 
-Normalerweise merkst du davon nichts.
+Normalerweise bekommst du davon nichts mit.
 
-Du träumst.
+Du träumst, der Körper bleibt still, und irgendwann kommen Bewusstsein und Bewegung gemeinsam zurück.
 
-Der Körper bleibt still.
-
-Dann endet die Phase und beides kommt gemeinsam zurück.
-
-Bei einer Schlafparalyse fällt diese Synchronität auseinander.
+Bei einer Schlafparalyse klappt genau dieses Timing nicht.
 
 Das Bewusstsein ist schon da.
 
@@ -115,13 +111,13 @@ Der Körper steckt noch für Sekunden oder Minuten im REM-Modus.
 
 Du siehst das Zimmer. Du hörst Geräusche. Du weißt, wo du liegst.
 
-Und du kannst deinen eigenen Arm nicht heben.
+Und trotzdem kannst du deinen eigenen Arm nicht heben.
 
 Das erklärt die Lähmung.
 
-Es erklärt auch, warum Atmen sich ungewohnt und eingeschränkt anfühlen kann.
+Es erklärt auch, warum Atmen sich plötzlich ungewohnt oder eingeschränkt anfühlen kann.
 
-Aber eine gelähmte Muskulatur müsste noch keine Schritte im Flur erzeugen.
+Aber — und genau da sitzt das eigentliche Rätsel — eine gelähmte Muskulatur müsste noch keine Schritte im Flur erzeugen.
 
 Sie müsste keine Hände an deinem Hals erzeugen.
 
@@ -133,33 +129,33 @@ Genau dort beginnt der zweite Teil des Phänomens.
 
 Der Psychologe **J. Allan Cheyne** und Kollegen untersuchten, wie sich diese Erlebnisse gruppieren.
 
-Sie fanden keine völlig zufällige Sammlung von Bildern.
+Und sie fanden nicht einfach ein chaotisches Sammelsurium von Bildern.
 
-Immer wieder erscheinen drei Familien.
+Immer wieder tauchen drei Familien auf.
 
 Die erste ist der **Intruder**.
 
-Eine Präsenz im Zimmer. Schritte. Rascheln. Eine dunkle Gestalt. Das sichere Gefühl, beobachtet zu werden.
+Eine Präsenz im Zimmer. Schritte. Rascheln. Eine dunkle Gestalt. Dieses sehr konkrete Gefühl: Da ist jemand.
 
 Die zweite ist der **Incubus**.
 
 Druck auf der Brust. Atemnot. Würgen. Etwas sitzt auf dir oder hält dich fest.
 
-Die dritte umfasst ungewöhnliche Körpererfahrungen.
+Und die dritte umfasst ungewöhnliche Körpererfahrungen.
 
 Schweben. Fallen. Drehen. Das Gefühl, den eigenen Körper zu verlassen oder ihn von außen zu sehen.
 
-Das Merkwürdige ist nicht, dass ein träumendes Gehirn seltsame Dinge produzieren kann.
+Natürlich kann ein träumendes Gehirn seltsame Dinge produzieren.
 
-Das Merkwürdige ist die Wiederholung.
+Das Überraschende ist die Wiederholung.
 
 Menschen, die voneinander nichts wissen, landen immer wieder in ähnlichen Erlebnisräumen.
 
-Sind das nur drei häufige Wege, auf dieselbe neurophysiologische Störung zu reagieren?
+Sind das einfach drei häufige Wege, auf dieselbe neurophysiologische Störung zu reagieren?
 
 Oder sehen wir hier etwas Tieferes darüber, wie das Gehirn Gefahr konstruiert?
 
-Bevor wir darüber spekulieren, kommt ein Versuch, der einen Teil der Sache brutal nüchtern macht.
+Bevor wir darüber spekulieren, schauen wir uns einen Versuch an, der einen Teil der Sache brutal nüchtern macht.
 
 ### S5 — Das Labor erzeugt den Zustand
 
@@ -167,7 +163,7 @@ Bevor wir darüber spekulieren, kommt ein Versuch, der einen Teil der Sache brut
 
 Sie lassen sie zunächst schlafen, wecken sie zu bestimmten Zeitpunkten für eine Stunde und schicken sie danach wieder ins Bett.
 
-Das Ziel ist, Schlafbeginn und REM-Phase gegeneinander zu verschieben.
+Das Ziel: Schlafbeginn und REM-Phase gegeneinander zu verschieben.
 
 Die Methode funktioniert nicht jedes Mal.
 
@@ -183,15 +179,11 @@ Auf den Messgeräten sieht man genau den Widerspruch, den die Menschen beschreib
 
 Das ist wichtig.
 
-Der Zustand braucht keine verfluchte Wohnung.
-
-Keinen alten Dämonennamen.
-
-Keine Séance.
+Der Zustand braucht keine verfluchte Wohnung, keinen alten Dämonennamen und keine Séance.
 
 Man kann seine Wahrscheinlichkeit erhöhen, indem man Schlafarchitektur stört.
 
-Aber selbst im Labor kommt mit der Lähmung etwas mit, das sich nicht wie eine Messkurve anfühlt.
+Aber selbst im Labor kommt mit der Lähmung manchmal etwas mit, das sich überhaupt nicht wie eine Messkurve anfühlt.
 
 Eine Stimme.
 
@@ -203,71 +195,69 @@ Und jetzt wird die Frage persönlich.
 
 ### S6 — Was würdest du glauben?
 
-Stell dir vor, du kennst diese Studie nicht.
+Stellt euch vor, ihr kennt diese Studie nicht.
 
-Du wachst heute Nacht auf.
+Ihr wacht heute Nacht auf.
 
 Die Tür ist geschlossen.
 
-Du kannst dich nicht bewegen.
+Ihr könnt euch nicht bewegen.
 
-Dann hörst du zwei Schritte neben dem Bett.
+Dann hört ihr zwei Schritte direkt neben dem Bett.
 
-Nicht im Traum.
+Nicht irgendwo im Traum — in dem Zimmer, das ihr kennt.
 
-In dem Zimmer, das du kennst.
-
-Dein Brustkorb fühlt sich schwer an.
+Der Brustkorb fühlt sich schwer an.
 
 Und im Augenwinkel steht eine dunkle Form.
 
-Was würde sich in **dieser Sekunde** echter anfühlen?
+Was glaubt ihr: Was würde sich in **dieser Sekunde** echter anfühlen?
 
 Ein Fehler im Schlafrhythmus?
 
 Oder ein Besucher?
 
-Schreib nur ein Wort: **KÖRPER** oder **BESUCHER**.
+Schreibt nur ein Wort: **KÖRPER** oder **BESUCHER**.
 
-Denn genau an diesem Punkt reicht die reine Mechanik nicht mehr aus.
+Denn genau das ist der Punkt: Dass sich so eine Situation absolut real anfühlen kann, bestreitet die Mechanik überhaupt nicht.
 
 Sie kann erklären, warum Bewegung blockiert ist.
 
 Sie kann zeigen, wann REM und Wachheit gleichzeitig auftreten.
 
-Aber sie muss noch erklären, warum Wehrlosigkeit so oft die Form einer Anwesenheit bekommt.
+Aber sie muss trotzdem noch erklären, warum Wehrlosigkeit so oft die Form einer Anwesenheit bekommt.
 
 ### S7 — Warum ist da jemand?
 
 Eine naheliegende Antwort beginnt mit dem Alarmsystem.
 
-Du bist wach genug, um zu merken: Etwas stimmt nicht.
+Du bist wach genug, um zu merken: Hier stimmt etwas nicht.
 
 Du kannst dich nicht bewegen.
 
 Atmen fühlt sich anders an.
 
-Dein Gehirn bekommt ein Problem ohne sichtbare Ursache.
+Dein Gehirn bekommt also ein Problem — nur ohne sichtbare Ursache.
 
-In einer solchen Lage ist es sinnvoller, einmal zu oft eine Bedrohung zu vermuten als einmal zu wenig.
+Und in so einer Lage ist es evolutionär sinnvoller, einmal zu oft eine Bedrohung zu vermuten als einmal zu wenig.
 
-Das Wahrnehmungssystem sucht also nach einem Verursacher.
+Das Wahrnehmungssystem sucht nach einem Verursacher.
 
 Ein Knacken wird zu einem Schritt.
 
 Ein Schatten wird zu einer Schulter.
 
-Ein Gefühl von Druck bekommt einen Körper.
+Ein Gefühl von Druck bekommt plötzlich einen Körper.
 
 Das ist eine plausible Erklärung für einen Teil der Intruder-Erfahrung.
 
-Nur bleibt ein Rest.
+Aber ganz weg ist das Problem damit nicht.
 
-Warum sind diese Präsenzen für Betroffene häufig nicht neutral?
+Warum sind diese Präsenzen für Betroffene so oft nicht neutral?
 
-Warum fühlen sie sich absichtlich, beobachtend, manchmal intelligent an?
+Warum wirken sie absichtlich, beobachtend, manchmal sogar intelligent?
 
-Warum ist das Gefühl „jemand ist hier“ oft schon da, bevor überhaupt eine klare Gestalt erscheint?
+Und warum ist dieses Gefühl „jemand ist hier“ oft schon da, bevor überhaupt eine klare Gestalt erscheint?
 
 Die Forschung kann Mechanismen beschreiben, Wahrscheinlichkeiten messen und wiederkehrende Muster ordnen.
 
@@ -283,7 +273,7 @@ Und irgendwann lebt die Gestalt länger als der Mensch, der sie gesehen hat.
 
 ### S8 — Was die Neurologie nicht wegwischt
 
-Zurück zu David Hufford.
+Okay, kurz zurück zu David Hufford.
 
 1963 erlebt er etwas, das er nicht einordnen kann.
 
@@ -299,9 +289,7 @@ Schlafparalyse lässt sich unter Laborbedingungen provozieren.
 
 Und die Halluzinationen bilden wiederkehrende Familien.
 
-Damit verschwindet das Rätsel nicht.
-
-Es verschiebt sich.
+Das Rätsel verschwindet dadurch nicht. Es verschiebt sich.
 
 Die interessante Frage lautet nicht mehr nur: **Was lähmt den Körper?**
 
@@ -341,6 +329,9 @@ Wenige Tage später wird sie verurteilt.
 - CTA nur **KÖRPER / BESUCHER**.
 - S7 mystisch offen lassen, aber keine externe Entität als Erklärung behaupten.
 - Schluss nicht mit Prävalenzstatistik verwässern; direkt auf Bridget Bishop ziehen.
+- Konversationsmarker sparsam: höchstens 1–2 pro Minute; nie zwei Füllwörter direkt hintereinander.
+- „Was glaubt ihr?“ nur an echten Entscheidungspunkten; immersive Passagen dürfen weiter mit „du“ arbeiten.
+- Natürlichkeit kommt vor allem aus Satzverbindungen und Reaktionen, nicht aus Dauerfloskeln.
 
 ## Primär-/Forschungsanker
 
