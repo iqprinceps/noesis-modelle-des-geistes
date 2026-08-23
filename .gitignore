@@ -4,10 +4,11 @@
 04_ASSETS/
 05_GENERATED/
 
-# Schlafparalyse Runtime-Downloads
-# Der Downloader erzeugt hier Medien, Lizenz-Sidecars und _META-Berichte.
-# Diese Dateien bleiben lokal; die kanonischen Manifeste/Skripte liegen unter 03_EPISODEN/TYPE_B/.
+# Runtime-Downloads aus manifest-gesteuerten Asset-Downloadern
+# Medien, Lizenz-Sidecars und _META-Berichte bleiben lokal.
 /SCHLAFPARALYSE_ASSETS_PHASE2/
+/EP04A_EP04B_MEDIA/
+/EP05_JUNG_PAULI_MEDIA/
 /03_EPISODEN/TYPE_B/SCHLAFPARALYSE_ASSETS_PHASE2/SCHLAFPARALYSE_ASSETS_PHASE2/
 *.part
 

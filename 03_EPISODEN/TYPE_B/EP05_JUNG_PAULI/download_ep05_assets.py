@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""EP04A/EP04B wrapper for the shared NOESIS resilient asset engine."""
+"""EP05 Jung & Pauli wrapper for the shared NOESIS resilient asset engine."""
 from pathlib import Path
 import sys
 
@@ -13,8 +13,8 @@ HERE = Path(__file__).resolve().parent
 
 if __name__ == "__main__":
     raise SystemExit(main_for(
-        "EP04A_EP04B",
-        HERE / "asset_manifest.csv",
-        Path.cwd() / "EP04A_EP04B_MEDIA",
-        ("EP04A", "EP04B"),
+        "EP05_JUNG_PAULI",
+        HERE / "asset_manifest_v5.csv",
+        Path.cwd() / "EP05_JUNG_PAULI_MEDIA",
+        ("EP05",),
     ))
