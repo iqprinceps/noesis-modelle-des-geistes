@@ -1,130 +1,96 @@
-# EP04B — Wer hat die sieben Regenbogen-Chakren erfunden?
+# EP04B FINAL — Wer hat die Karte gezeichnet, die heute jeder kennt?
 
-**Status:** eigenständige Folge aus dem EP04-V4-Split  
-**Ziel:** 10:00–11:00 Minuten  
+**Status:** Retention-Finalkandidatin  
+**Ziel:** 10:00–10:45 Minuten  
 **Archetyp:** historische Detektivgeschichte / wandernde Landkarte  
 **Priorität:** Retention zuerst. Dokumente sind Reveals, keine Vorlesung.
 
 ## Logline
 
-Fast jede moderne Chakra-Grafik zeigt sieben Zentren in Regenbogenfarben. Geht man rückwärts durch die Quellen, verschwindet zuerst der Regenbogen, dann verändert sich die Zahl, dann die Bedeutung — bis klar wird: Die heute vertraute Karte ist kein einzelnes uraltes System, sondern das Ergebnis einer langen Kette aus indischen Traditionen, Übersetzungen, Theosophie, Psychologie und westlicher Esoterik.
+Fast jede moderne Chakra-Grafik zeigt sieben Zentren in Regenbogenfarben. Geht man rückwärts durch die Quellen, verschwindet zuerst der Regenbogen, dann verändert sich die Zahl, dann die Bedeutung — bis klar wird: Die heute vertraute Karte ist kein unverändertes uraltes Original, sondern das Ergebnis einer langen Kette aus indischen Traditionen, Übersetzungen, Theosophie, Psychologie und westlicher Esoterik.
 
 ## Retention-Bauplan
 
 | Akt | Funktion | Zielzeit |
 |---|---|---:|
-| S1 Rückwärts | Hook: moderne Karte zerfällt | 0:00–1:00 |
-| S2 Es gab nie nur eine Karte | Vielfalt statt Ursprung | 1:00–2:15 |
-| S3 Die Sechs | 1577 / Ṣaṭ-cakra-nirūpaṇa | 2:15–3:35 |
-| S4 Arthur Avalon existiert nicht | Woodroffe + Ghose | 3:35–5:00 |
-| S5 Der Hellseher | Leadbeater 1927 | 5:00–6:20 |
-| S6 Der Regenbogen entsteht | westliche Synthese | 6:20–7:45 |
-| S7 Warum bleibt sie? | zweite Wendung: Karte funktioniert gerade weil sie neu ist | 7:45–9:10 |
-| S8 Was ist dann „echt“? | Residue + Rückbindung Jung | 9:10–10:40 |
+| S1 Die Karte zerfällt | Hook: Regenbogen verschwindet + SECHS | 0:00–0:55 |
+| S2 Es gab nie nur eine Karte | Vielfalt, extrem kurz | 0:55–1:35 |
+| S3 Die Sechs | 1577 / historischer Fremdheits-Reveal | 1:35–2:55 |
+| S4 Arthur Avalon existiert nicht | Woodroffe + Ghose + Netzwerk | 2:55–4:20 |
+| S5 Der Hellseher | Leadbeater 1927: neue Autorität | 4:20–5:40 |
+| S6 Die Mutation | konkrete sichtbare Schichten zum Regenbogen | 5:40–7:20 |
+| S7 Warum bleibt sie? | zweite Wendung: Hybridität als Stärke | 7:20–8:50 |
+| S8 Die Nähte | philosophischer Abschluss | 8:50–10:15 |
 
 ---
 
 ## Vollständiger Sprechertext
 
-### S1 — Rückwärts
+### S1 — Die Karte zerfällt
 
-Du kennst dieses Bild, auch wenn du nie Yoga gemacht hast.
+Diese Grafik sieht aus, als wäre sie seit Jahrtausenden dieselbe.
 
-Sieben Punkte entlang eines menschlichen Körpers.
+Sieben Zentren.
 
-Rot unten.
+Sieben Farben.
 
-Dann Orange. Gelb. Grün. Blau. Indigo. Violett.
+Rot bis Violett.
 
 Ein perfekter Regenbogen vom Becken bis zum Scheitel.
 
-Die Grafik wirkt so selbstverständlich, dass man kaum noch fragt, woher sie kommt.
+Aber geh hundert Jahre zurück — und der Regenbogen verschwindet.
 
-Also drehen wir sie um.
+Geh weiter zurück — und die Bilder verändern sich.
 
-Wir gehen rückwärts.
+Und in einem der wichtigsten Texte, auf die sich der Westen später berufen wird, steht schon im Titel eine andere Zahl.
 
-2020.
+Sechs.
 
-1980.
+Also drehen wir die Karte um.
 
-1950.
+Nicht um herauszufinden, ob Chakren „echt“ sind.
 
-1927.
+Sondern um eine seltsamere Frage zu beantworten:
 
-1919.
+Wer hat die Karte gezeichnet, die heute jeder erkennt?
 
-1577.
-
-Und während wir zurückgehen, passiert etwas Seltsames.
-
-Der Regenbogen verschwindet.
-
-Die Zuordnungen verändern sich.
-
-Die Bilder verändern sich.
-
-Und irgendwann steht in einem der wichtigsten Texte, auf die sich der Westen später berufen wird, nicht „sieben Chakren“.
-
-Sondern sechs Zentren.
-
-Das bedeutet nicht, dass Chakren im zwanzigsten Jahrhundert erfunden wurden.
-
-Es bedeutet etwas viel Interessanteres.
-
-**Die Karte, die heute überall hängt, hat eine Biografie.**
-
-Und in dieser Biografie tauchen ein britischer Richter, bengalische Gelehrte, ein Hellseher, Farbtherapeuten und Psychologen auf.
-
-Die Frage ist nicht: Sind Chakren echt?
-
-Die bessere Frage ist: **Wer hat aus vielen Karten die eine gemacht, die wir heute erkennen?**
+Denn je weiter wir zurückgehen, desto weniger sieht die Vergangenheit nach unserem Poster aus.
 
 ### S2 — Es gab nie nur eine Karte
 
-Der erste Fehler entsteht schon im Singular.
+Der erste Fehler steckt schon im Singular.
 
 „Das Chakrensystem.“
 
-Als hätte es irgendwann in Indien einen verbindlichen Plan gegeben, auf den sich alle geeinigt hätten.
+Als hätte es irgendwann in Indien einen verbindlichen Plan gegeben.
 
 So war es nicht.
 
-In unterschiedlichen tantrischen und yogischen Traditionen finden sich unterschiedliche Zahlen, Namen, Positionen und Funktionen von Zentren im subtilen Körper.
+In verschiedenen tantrischen und yogischen Traditionen finden sich unterschiedliche Zahlen, Namen, Positionen und Funktionen von Zentren im subtilen Körper.
 
-Manche Systeme arbeiten mit wenigen Zentren.
+Andere Gottheiten.
 
-Andere mit mehr.
+Andere Silben.
 
-Manche ordnen ihnen Gottheiten, Silben, Elemente oder Lotusblätter zu.
+Andere Lotusblätter.
 
-Andere bauen ganz andere symbolische Körper.
+Andere Karten.
 
-Das Wort Chakra bedeutet Rad oder Kreis. Aber daraus folgt noch keine einheitliche Anatomie.
+Das ist wichtig, weil der Westen später etwas tun wird, das Menschen mit komplizierten Dingen gern tun:
 
-Das ist wichtig, weil der Westen später genau das tun wird, was Menschen mit komplizierten Systemen gern tun:
-
-Er macht daraus eine saubere Grafik.
+Er macht sie sauber.
 
 Sieben Ebenen.
 
 Sieben Farben.
 
-Sieben Themen.
-
-Ein Aufstieg von unten nach oben.
+Eine Richtung nach oben.
 
 Perfekt für ein Poster.
 
-Perfekt für ein Buchcover.
+Aber unsere Spur beginnt viel unordentlicher.
 
-Perfekt für eine App.
-
-Nur beginnt unsere Spur viel unordentlicher.
-
-In Bengalen.
-
-Mit einem Text, dessen Titel bereits eine Zahl enthält.
+Mit einem Text, dessen Titel bereits eine Zahl trägt.
 
 ### S3 — Die Sechs
 
@@ -138,9 +104,9 @@ Sechs Zentren liegen entlang der inneren Achse.
 
 Darüber erscheint Sahasrara, der tausendblättrige Lotus.
 
-Er ist wichtig. Er ist Zielpunkt. Aber die sechs Zentren darunter geben dem Text seinen Namen.
+Er ist wichtig. Er ist Zielpunkt.
 
-Und genau hier beginnt eine kleine Verschiebung, die später riesig wird.
+Aber die sechs Zentren darunter geben dem Text seinen Namen.
 
 Wenn du sechs Zentren plus den Lotus oben siehst, kannst du natürlich sieben Punkte zählen.
 
@@ -148,21 +114,27 @@ Visuell ist das naheliegend.
 
 Aber Zählen ist bereits Interpretation.
 
-Und die Farben, die du heute erwartest?
+Und dann sieh dir die Bilder an.
 
-Sie sehen nicht aus wie unser moderner Regenbogen.
+Sanskritzeichen.
 
-Die historischen Tafeln aus der späteren englischen Ausgabe sind viel fremder: Sanskritzeichen, Tiere, geometrische Formen, Blütenblätter, Farben ohne die vertraute Reihenfolge.
+Tiere.
 
-Wenn man sie heute zum ersten Mal sieht, wirken sie fast wie ein anderes System.
+Geometrische Formen.
 
-Und dann passiert der entscheidende Sprung.
+Blütenblätter.
 
-Dieser Text verlässt seinen Kontext.
+Farben, die nicht wie unsere saubere Regenbogenleiter funktionieren.
 
-Er reist nach London.
+Wenn man diese Tafeln heute zum ersten Mal sieht, wirken sie fast wie ein anderes System.
 
-Und auf dem Buch, das ihn berühmt macht, steht ein Name, der so gar nicht existiert hat.
+Und genau diese fremde Karte beginnt nun zu reisen.
+
+Nach London.
+
+Auf den Einband eines Buches.
+
+Unter einem Namen, der so gar nicht existiert hat.
 
 ### S4 — Arthur Avalon existiert nicht
 
@@ -170,21 +142,23 @@ Und auf dem Buch, das ihn berühmt macht, steht ein Name, der so gar nicht exist
 
 Auf dem Titelblatt steht Arthur Avalon.
 
-Arthur Avalon ist kein normaler Autor.
+Arthur Avalon ist kein normaler Autorname.
 
-Der Name gehört zu einem Projekt, das vor allem mit Sir John Woodroffe verbunden wird: britischer Richter am High Court in Kalkutta, hochrangiger Beamter des Empire — und gleichzeitig fasziniert von Tantra.
+Der Name ist vor allem mit Sir John Woodroffe verbunden: britischer Richter am High Court in Kalkutta, hochrangiger Beamter des Empire — und zugleich tief an tantrischen Texten interessiert.
 
-Aber die Geschichte wird interessanter, je genauer man hinsieht.
+Aber je genauer man hinsieht, desto weniger funktioniert die Geschichte vom einzelnen westlichen Entdecker.
 
-Die Forschung von Kathleen Taylor zeigt, wie stark Woodroffes Arbeit auf bengalischen Gelehrten und Mitarbeitern beruhte. Besonders wichtig war sein Freund Atal Bihari Ghose.
+Kathleen Taylors Forschung zeigt, wie stark Woodroffes Arbeit auf bengalischen Gelehrten und Mitarbeitern beruhte.
 
-Taylor beschreibt Ghose als zentrale Quelle jenes Textwissens, für das „Arthur Avalon“ später berühmt wurde.
+Besonders wichtig war Atal Bihari Ghose.
 
-Das verändert das Bild.
+Ghose war für Woodroffe eine zentrale Quelle jenes Textwissens, für das „Arthur Avalon“ später berühmt wurde.
 
-Vor uns steht nicht einfach „ein Brite entdeckt Tantra“.
+Das Bild verändert sich.
 
-Wir sehen ein Netzwerk.
+Nicht: Ein Brite findet Tantra.
+
+Sondern:
 
 Bengalische Gelehrsamkeit.
 
@@ -198,17 +172,13 @@ Pseudonym.
 
 Druck in London.
 
-Und plötzlich liegt eine sehr spezielle tantrische Karte auf den Schreibtischen westlicher Leser.
+Eine Karte wandert durch Menschen und Strukturen, bevor sie überhaupt zum westlichen Standard wird.
 
-Das Buch wird enorm einflussreich.
+Und acht Jahre später bekommt sie eine völlig andere Autorität.
 
-Aber die Karte bleibt nicht stehen.
+Nicht mehr: „Hier steht es.“
 
-Acht Jahre später sieht ein anderer Mann Chakren auf seine Weise.
-
-Und diesmal behauptet er nicht, einen Text zu übersetzen.
-
-Er behauptet, sie zu sehen.
+Sondern: „Ich sehe es.“
 
 ### S5 — Der Hellseher
 
@@ -218,69 +188,61 @@ Leadbeater ist Theosoph und Hellseher.
 
 Er beschreibt Chakren als Dinge, die er clairvoyant wahrnehmen könne.
 
-Das ist eine völlig andere Autorität als ein Sanskrittext.
+Das ist ein radikaler Wechsel.
 
-Nicht: „Hier steht es.“
+Ein Sanskrittext kann falsch übersetzt werden.
 
-Sondern: „Ich sehe es.“
+Ein Manuskript kann verglichen werden.
 
-Und seine Bilder beeinflussen den Westen stark.
+Aber was machst du mit jemandem, der sagt: Ich sehe das direkt?
 
-Nur sehen seine Chakren wieder anders aus.
+Leadbeaters Bilder werden einflussreich.
 
-Farben, Dynamik, Funktionen — vieles passt nicht sauber zu den alten Texten und auch nicht zu dem Regenbogenposter, das später überall hängt.
+Farbig.
 
-Das ist der Moment, an dem aus Überlieferung etwas Neues wird.
+Dynamisch.
 
-Nicht durch einen einzigen Betrug.
+Fast technisch.
 
-Nicht durch eine geheime Entscheidung.
+Und wieder sehen die Chakren anders aus.
 
-Sondern durch Schichten.
+Andere Farben.
 
-Jemand übersetzt.
+Andere Bewegungen.
 
-Jemand deutet.
+Andere Funktionen.
 
-Jemand sieht.
+Wir haben also inzwischen mindestens drei Schichten:
 
-Jemand ordnet Farben zu.
+alte Texttraditionen,
 
-Jemand verbindet Zentren mit Drüsen.
+koloniale Übersetzung,
 
-Jemand schreibt ein populäres Handbuch.
+clairvoyante Neuinterpretation.
 
-Und jede Generation übernimmt die Karte, als wäre die vorherige Version schon immer so gewesen.
+Und noch immer fehlt das, was heute sofort jeder erwartet.
 
-Bis irgendwann niemand mehr die Nähte sieht.
+Der saubere Regenbogen.
 
-### S6 — Der Regenbogen entsteht
+### S6 — Die Mutation
 
-Zwischen den 1920er und 1950er Jahren kommen im westlichen Chakra-Modell immer mehr Elemente zusammen, die heute selbstverständlich wirken.
+Jetzt passiert die eigentliche Mutation.
 
-Farben werden wichtiger.
+Nicht in einem einzigen Raum.
 
-Körperliche Zuordnungen werden systematischer.
+Nicht durch einen einzigen Erfinder.
 
-Die siebenstufige Form setzt sich durch.
+Sondern Schritt für Schritt.
 
-Später wird daraus zunehmend die saubere Regenbogenleiter.
+Zuerst werden Farben wichtiger.
 
-Rot bis Violett.
+Dann werden Zentren stärker mit Körperfunktionen verknüpft.
 
-Von „Überleben“ unten bis „Spiritualität“ oben.
+Dann tauchen psychologische Bedeutungen auf.
 
-Eine perfekte visuelle Grammatik.
+Dann Entwicklungsstufen.
 
-Und genau deshalb ist sie so stark.
-
-Du brauchst kein Sanskrit.
-
-Du brauchst keinen Guru.
-
-Du brauchst nicht einmal einen religiösen Kontext.
-
-Du schaust auf die Grafik und verstehst sofort die Richtung.
+Dann wird aus vielen möglichen Beziehungen eine klare Leiter.
 
 Unten schwer.
 
@@ -290,21 +252,47 @@ Unten Körper.
 
 Oben Geist.
 
-Dazwischen eine Entwicklungsgeschichte, in die sich fast jedes Problem eintragen lässt.
+Und die Farben rasten immer sauberer in die Reihenfolge des sichtbaren Spektrums ein.
 
-Die moderne Chakra-Karte ist deshalb nicht nur religiös.
+Rot.
 
-Sie ist Interface.
+Orange.
 
-Ein Bedienfeld für das Selbst.
+Gelb.
 
-Und jetzt kommt die unangenehme Frage.
+Grün.
 
-Wenn sie historisch zusammengesetzt ist — warum fühlt sie sich für so viele Menschen trotzdem unmittelbar richtig an?
+Blau.
+
+Indigo.
+
+Violett.
+
+Das Entscheidende ist nicht, dass irgendwann jemand in einem geheimen Zimmer sieben Kreise ausgemalt hat.
+
+Das Entscheidende ist, dass immer neue Systeme dieselbe Karte anschlussfähiger machen.
+
+Farbmodelle.
+
+Körperdeutungen.
+
+Psychologie.
+
+New Age.
+
+Populäre Gesundheitsliteratur.
+
+Und jedes Mal sieht die neue Schicht nach kurzer Zeit so aus, als wäre sie schon immer da gewesen.
+
+Bis niemand mehr die Nähte sieht.
 
 ### S7 — Warum bleibt sie?
 
-Vielleicht gerade weil sie zusammengesetzt ist.
+Und genau hier dreht sich die Frage.
+
+Wenn die moderne Karte historisch zusammengesetzt ist — warum fühlt sie sich für so viele Menschen trotzdem unmittelbar richtig an?
+
+Vielleicht gerade deshalb.
 
 Alte Systeme mussten in ihren Traditionen funktionieren.
 
@@ -320,15 +308,13 @@ Farbpsychologie.
 
 Körpermodelle.
 
-New Age.
-
 Psychotherapie-Sprache.
 
 Und jedes neue Element macht sie anschlussfähiger.
 
 Das klingt zunächst wie ein Argument gegen sie.
 
-Aber kulturell ist es ihre Superkraft.
+Kulturell ist es ihre Superkraft.
 
 Eine Karte überlebt nicht unbedingt, weil sie unverändert bleibt.
 
@@ -336,7 +322,7 @@ Manchmal überlebt sie, weil jede Generation sich selbst hineinzeichnen kann.
 
 Genau das tat auch C. G. Jung.
 
-1932 nimmt er die Chakren und liest sie psychologisch.
+1932 liest er die Chakren psychologisch.
 
 Muladhara wird zum festen Alltagsbewusstsein.
 
@@ -344,67 +330,68 @@ Manipura zum Affekt.
 
 Anahata zum Abstand zwischen Erleben und Beobachten.
 
-Jung behauptet damit nicht einfach eine neue Anatomie.
-
 Er macht aus einer religiösen Karte eine psychologische.
 
-Und damit fügt auch er eine weitere Schicht hinzu.
+Und fügt damit noch eine Schicht hinzu.
 
-### S8 — Was ist dann „echt“?
+### S8 — Die Nähte
 
-Am Ende haben wir also keine schöne Enthüllung, bei der ein einzelner Mensch 1970 irgendwo sieben bunte Kreise erfindet.
+Am Ende liegt dieselbe Karte wieder vor uns.
 
-Die wirkliche Geschichte ist besser.
+Sieben Zentren.
 
-Ein Symbolsystem wandert.
+Sieben Farben.
 
-Es verlässt Texte.
+Rot bis Violett.
 
-Es wechselt Sprachen.
+Nur jetzt sieht man die Nähte.
 
-Es geht durch Kolonialismus und Reformbewegungen.
+Texte.
 
-Durch Theosophen und Hellseher.
+Übersetzungen.
 
-Durch Psychologen, Farbmodelle und Popkultur.
+Kolonialgeschichte.
 
-Und irgendwann sieht es so selbstverständlich aus, dass niemand mehr fragt, warum das Herz grün sein soll.
+Hellseher.
+
+Psychologen.
+
+Farbsysteme.
+
+Popkultur.
 
 Sind die sieben Regenbogen-Chakren deshalb falsch?
 
-Historisch gesehen sind sie kein unverändertes Relikt aus einem einzigen uralten System.
+Historisch sind sie kein unverändertes Relikt aus einem einzigen uralten System.
 
 Aber Symbole funktionieren nicht wie Fossilien.
 
 Sie verändern sich, sobald Menschen sie benutzen.
 
-Vielleicht ist die bessere Frage deshalb nicht, ob die Karte alt genug ist.
+Vielleicht macht das die Karte nicht schwächer.
 
-Sondern ob sie etwas zeigt, das du ohne sie nicht gesehen hättest.
+Vielleicht macht es sie interessanter.
 
-Und genau an diesem Punkt wird Jungs Warnung wieder interessant.
+Denn die mächtigsten Karten sind nicht unbedingt die ältesten.
 
-Eine Karte kann nützlich sein.
-
-Eine Karte kann schön sein.
-
-Eine Karte kann dich verändern.
-
-Gefährlich wird sie dort, wo du vergisst, dass jemand sie gezeichnet hat.
+Es sind die, bei denen wir vergessen, dass jemand sie gezeichnet hat.
 
 ---
 
 ## Endregel
 
-Letzter Satz bleibt stehen. Keine direkte Vorschau auf EP05 nötig; diese Folge funktioniert unabhängig.
+- Kein Subscribe.
+- Kein Teaser auf eine andere Folge.
+- Nach dem letzten Satz 1,5–2 Sekunden halten, dann Schwarz/Endcard.
+- Bildschluss: historische Varianten liegen transparent übereinander; die moderne Regenbogenkarte bleibt zuletzt sichtbar, aber mit erkennbaren „Nähten“/Schichten.
 
 ## Quellen / Primäranker
 
 - *Ṣaṭ-cakra-nirūpaṇa*, überliefert u. a. in Arthur Avalon / John Woodroffe: *The Serpent Power* (1919).
 - John Woodroffe / Arthur Avalon: *The Serpent Power*.
-- Kathleen Taylor: *Sir John Woodroffe, Tantra and Bengal* (2001) sowie SOAS-Dissertation zur Avalon/Woodroffe/Ghose-Kollaboration.
+- Kathleen Taylor: *Sir John Woodroffe, Tantra and Bengal* (2001) sowie Forschung zur Avalon/Woodroffe/Ghose-Kollaboration.
 - Charles W. Leadbeater: *The Chakras* (1927).
-- Kurt Leland: Forschung zur Entstehung des westlichen Regenbogen-Chakra-Modells; veröffentlicht u. a. in *Quest Magazine* / Theosophical Society in America.
+- Forschung zur schrittweisen Entstehung des westlichen Regenbogen-Chakra-Modells, u. a. Kurt Leland / Theosophical Society in America.
 - C. G. Jung: *The Psychology of Kundalini Yoga*, Seminar 1932.
 
 ## Voice-/Claim-Regeln
@@ -413,4 +400,8 @@ Letzter Satz bleibt stehen. Keine direkte Vorschau auf EP05 nötig; diese Folge 
 - Der Sechs-Beat bezieht sich ausdrücklich auf Ṣaṭ-cakra-nirūpaṇa.
 - Nicht behaupten, eine einzelne Person habe den modernen Regenbogen allein erfunden.
 - Regenbogenmodell als schrittweise westliche Synthese erzählen.
-- „Arthur Avalon existiert nicht“ bedeutet: Pseudonym/kollektives Projekt, nicht dass die publizierten Arbeiten fiktiv wären.
+- „Arthur Avalon existiert nicht“ bedeutet: Pseudonym/Projekt, nicht dass die publizierten Arbeiten fiktiv wären.
+- S2 maximal ca. 40 Sekunden.
+- S3–S5 als stärksten Reveal-Lauf schützen.
+- S6 muss visuell mit konkreten Originalgrafiken/Artefakten belegt werden; Voice darf zusammenfassen, Bild muss Mutation zeigen.
+- Letzter Satz bleibt: „Es sind die, bei denen wir vergessen, dass jemand sie gezeichnet hat.“
