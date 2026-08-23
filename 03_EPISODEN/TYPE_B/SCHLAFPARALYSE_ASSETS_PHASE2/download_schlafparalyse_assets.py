@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """NOESIS Schlafparalyse EP06-EP08 — Phase 2 Asset Downloader.
 
-Downloads only assets marked auto_download=true in asset_manifest.json.
+Downloads assets from the canonical CSV manifest (JSON is also accepted).
 RED/reference-only entries are never downloaded as media; URL sidecars are created instead.
 
 Python 3 standard library only.
@@ -23,7 +23,7 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_MANIFEST = SCRIPT_DIR / "asset_manifest.json"
+DEFAULT_MANIFEST = SCRIPT_DIR / "asset_manifest.csv"
 DEFAULT_ROOT = Path.cwd() / "SCHLAFPARALYSE_ASSETS_PHASE2"
 USER_AGENT = "NOESIS-Asset-Fetcher/2.0 (+documentary-production; respects source licenses)"
 
@@ -39,7 +39,7 @@ MAGIC = [
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Download verified NOESIS sleep-paralysis assets into a production folder tree.")
-    p.add_argument("--manifest", type=Path, default=DEFAULT_MANIFEST, help="Path to asset_manifest.json")
+    p.add_argument("--manifest", type=Path, default=DEFAULT_MANIFEST, help="Path to asset_manifest.csv or .json")
     p.add_argument("--root", type=Path, default=DEFAULT_ROOT, help="Output root directory")
     p.add_argument("--only", choices=["EP06", "EP07", "EP08", "SHARED"], action="append",
                    help="Restrict to episode(s). Repeat flag for several. Shared assets serving a selected episode are included.")
@@ -52,6 +52,19 @@ def parse_args() -> argparse.Namespace:
 
 
 def load_manifest(path: Path) -> dict[str, Any]:
+    if path.suffix.lower() == ".csv":
+        assets: list[dict[str, Any]] = []
+        with path.open("r", encoding="utf-8-sig", newline="") as f:
+            for row in csv.DictReader(f):
+                row["episodes"] = [x for x in row.get("episodes", "").split(";") if x]
+                row["auto_download"] = row.get("auto_download", "0").strip().lower() in {"1", "true", "yes"}
+                row["download_url"] = row.get("download_url") or None
+                row["rights_basis"] = row.get("license", "")
+                row["credit"] = row.get("license", "")
+                row["shot_recommendation"] = "See PHASE2_ASSET_LIST.md"
+                row["reconstruction_prompt"] = "See RECON_PROMPTS.md"
+                assets.append(row)
+        return {"assets": assets}
     data = json.loads(path.read_text(encoding="utf-8"))
     if "assets" not in data or not isinstance(data["assets"], list):
         raise ValueError("Manifest does not contain an assets list")
@@ -163,14 +176,12 @@ def download(asset: dict[str, Any], root: Path, timeout: int, retries: int, forc
                 ok, why = expected_ok(asset.get("expected_kind", "detect"), magic_ext, content_type, header)
                 if not ok:
                     raise RuntimeError(why)
-
                 target = choose_target(out_dir, requested_name, asset.get("expected_kind", "detect"), magic_ext, content_type)
                 if target.exists() and not force:
                     digest = sha256(target)
                     print(f"SKIP {asset['id']}: exists -> {target}")
                     write_license_sidecar(target, asset)
                     return {"id": asset["id"], "status": "EXISTS", "path": str(target), "bytes": target.stat().st_size, "sha256": digest, "final_url": final_url}
-
                 part = target.with_suffix(target.suffix + ".part")
                 with part.open("wb") as f:
                     f.write(header)
@@ -212,11 +223,11 @@ def write_license_sidecar(media_path: Path, asset: dict[str, Any]) -> None:
         f"Title: {asset['title']}\n"
         f"Traffic light: {asset['traffic_light']}\n"
         f"License/status: {asset['license']}\n"
-        f"Rights basis: {sanitize_text(asset['rights_basis'])}\n"
-        f"Credit: {sanitize_text(asset['credit'])}\n"
+        f"Rights basis: {sanitize_text(asset.get('rights_basis', asset['license']))}\n"
+        f"Credit: {sanitize_text(asset.get('credit', asset['license']))}\n"
         f"Source page: {asset['source_page']}\n"
         f"Download URL: {asset.get('download_url') or ''}\n"
-        f"Production note: {sanitize_text(asset['shot_recommendation'])}\n"
+        f"Production note: {sanitize_text(asset.get('shot_recommendation', 'See PHASE2_ASSET_LIST.md'))}\n"
     )
     sidecar.write_text(text, encoding="utf-8")
 
@@ -230,10 +241,8 @@ def write_reference_file(asset: dict[str, Any], root: Path) -> Path:
         f"URL={asset['source_page']}\n"
         f"STATUS={asset['traffic_light']} / REFERENCE ONLY\n"
         f"LICENSE={asset['license']}\n"
-        f"RIGHTS_BASIS={sanitize_text(asset['rights_basis'])}\n"
-        f"CREDIT={sanitize_text(asset['credit'])}\n"
-        f"SHOT={sanitize_text(asset['shot_recommendation'])}\n"
-        f"RECON_PROMPT={sanitize_text(asset.get('reconstruction_prompt',''))}\n",
+        f"SHOT={asset.get('shot_recommendation', 'See PHASE2_ASSET_LIST.md')}\n"
+        f"RECON_PROMPT={asset.get('reconstruction_prompt', 'See RECON_PROMPTS.md')}\n",
         encoding="utf-8"
     )
     return path
@@ -242,9 +251,8 @@ def write_reference_file(asset: dict[str, Any], root: Path) -> Path:
 def write_meta(root: Path, assets: list[dict[str, Any]], report: list[dict[str, Any]], source_manifest: Path) -> None:
     meta = root / "_META"
     meta.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(source_manifest, meta / "asset_manifest_used.json")
-
-    cols = ["id", "episodes", "traffic_light", "title", "category", "license", "source_page", "download_url", "relative_dir", "filename", "credit", "shot_recommendation", "verification"]
+    shutil.copy2(source_manifest, meta / ("asset_manifest_used" + source_manifest.suffix.lower()))
+    cols = ["id", "episodes", "traffic_light", "title", "license", "source_page", "download_url", "relative_dir", "filename"]
     with (meta / "MANIFEST.csv").open("w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
@@ -252,19 +260,16 @@ def write_meta(root: Path, assets: list[dict[str, Any]], report: list[dict[str, 
             row = {k: a.get(k, "") for k in cols}
             row["episodes"] = ",".join(a.get("episodes", []))
             w.writerow(row)
-
-    credit_lines = ["# CREDITS / LICENSE NOTES", "", "Always re-check license page immediately before final publication if the production date is much later than this manifest.", ""]
+    credit_lines = ["# CREDITS / LICENSE NOTES", ""]
     for a in assets:
         if a["traffic_light"] in {"GREEN", "YELLOW"}:
-            credit_lines += [f"## {a['id']} — {a['title']}", f"- Status: **{a['traffic_light']}**", f"- License: {a['license']}", f"- Credit: {a['credit']}", f"- Source: {a['source_page']}", f"- Rights basis: {a['rights_basis']}", ""]
+            credit_lines += [f"## {a['id']} — {a['title']}", f"- Status: **{a['traffic_light']}**", f"- License: {a['license']}", f"- Source: {a['source_page']}", ""]
     (meta / "CREDITS.md").write_text("\n".join(credit_lines), encoding="utf-8")
-
-    refs = ["# REFERENCE-ONLY SOURCES", "", "These URLs are research/reconstruction references. The downloader intentionally does not fetch their copyrighted/uncleared media.", ""]
+    refs = ["# REFERENCE-ONLY SOURCES", ""]
     for a in assets:
         if not a.get("auto_download"):
             refs += [f"- **{a['id']} — {a['title']}**: {a['source_page']} — {a['license']}"]
     (meta / "REFERENCE_LINKS.md").write_text("\n".join(refs), encoding="utf-8")
-
     (meta / "download_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
@@ -274,11 +279,9 @@ def main() -> int:
     assets = [a for a in manifest["assets"] if selected(a, args.only)]
     if args.green_only:
         assets = [a for a in assets if a["traffic_light"] != "YELLOW"]
-
     root = args.root.resolve()
     root.mkdir(parents=True, exist_ok=True)
     print(f"NOESIS Asset Phase 2\nRoot: {root}\nAssets selected: {len(assets)}\n")
-
     report: list[dict[str, Any]] = []
     for asset in assets:
         if asset.get("auto_download"):
@@ -287,9 +290,7 @@ def main() -> int:
             ref_path = write_reference_file(asset, root)
             print(f"REF  {asset['id']}: {ref_path}")
             report.append({"id": asset["id"], "status": "REFERENCE_ONLY", "path": str(ref_path), "url": asset["source_page"]})
-
     write_meta(root, assets, report, args.manifest)
-
     counts: dict[str, int] = {}
     for r in report:
         counts[r["status"]] = counts.get(r["status"], 0) + 1
