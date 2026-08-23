@@ -40,7 +40,7 @@ python tools/ep04ab_audio_render.py EP04B
 
 Delivered stems end with the actual VO master. Any final map/end-screen hold is created at edit length, not template length.
 
-## 6. Edit
+## 6. Build local render manifest + timeline
 
 Cue map:
 
@@ -54,8 +54,24 @@ Motion plan:
 PRODUCTION_SUMMARY/EP04B_CHAKRA_GENEALOGIE_V5/MOTION_GRAPHICS_V5.md
 ```
 
-Source readability and final VO determine shot duration. Do not force uniform rhythm, shot count or act duration.
+Run:
 
-## 7. Captions / delivery
+```bash
+python tools/noesis_render.py EP04B doctor
+python tools/noesis_render.py EP04B manifest
+python tools/noesis_render.py EP04B plan
+```
+
+Review `06_PRODUCTION/EP04B_CHAKRA_GENEALOGIE_V5/render_manifest.json`. A cue can contain one local source object or several sequential files. Source readability and the real Voice determine the rhythm; there is no uniform hold duration.
+
+## 7. Render + QA
+
+```bash
+python tools/noesis_render.py EP04B all
+```
+
+The `archive` profile is deliberately drier than EP04A: controlled document pans, restrained zoom and less cinematic drift. Motion clips remain explicit local assets and are never replaced silently.
+
+## 8. Captions / delivery
 
 Use forced alignment against `07_VOICE_SCRIPT_CLEAN_V5.txt`. Technical delivery follows NOESIS spec; creative duration remains whatever the finished episode needs.
