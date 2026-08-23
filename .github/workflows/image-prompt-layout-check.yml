@@ -1,0 +1,25 @@
+name: Image prompt layout check
+
+on:
+  pull_request:
+    paths:
+      - '03_EPISODEN/**/NANOBANANA*'
+      - 'PRODUCTION_SUMMARY/**/NANOBANANA*'
+      - '01_GLOBAL/00C_IMAGE_PROMPT_STRUCTURE.md'
+      - 'tools/check_image_prompt_layout.py'
+      - '.github/workflows/image-prompt-layout-check.yml'
+  push:
+    branches: [master]
+    paths:
+      - '03_EPISODEN/**/NANOBANANA*'
+      - 'PRODUCTION_SUMMARY/**/NANOBANANA*'
+      - '01_GLOBAL/00C_IMAGE_PROMPT_STRUCTURE.md'
+      - 'tools/check_image_prompt_layout.py'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enforce direct episode prompt layout
+        run: python3 tools/check_image_prompt_layout.py
