@@ -1,0 +1,38 @@
+name: Materialize Schlafparalyse prompts
+
+on:
+  push:
+    branches: [production/canonical-image-prompts]
+    paths:
+      - '03_EPISODEN/TYPE_B/SCHLAFPARALYSE_PROMPTS_V4_REPO_READY.zip'
+      - '.github/workflows/materialize-schlafparalyse-prompts.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: production/canonical-image-prompts
+      - name: Verify and extract canonical prompt package
+        run: python3 tools/unpack_schlafparalyse_prompts_v4.py
+      - name: Verify direct episode layout
+        run: python3 tools/check_image_prompt_layout.py
+      - name: Commit visible prompt markdown
+        run: |
+          git config user.name 'noesis-production-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add 03_EPISODEN/TYPE_B/EP06_SCHLAFPARALYSE_01/NANOBANANA_*.md
+          git add 03_EPISODEN/TYPE_B/EP07_SCHLAFPARALYSE_02/NANOBANANA_*.md
+          git add 03_EPISODEN/TYPE_B/EP08_SCHLAFPARALYSE_03/NANOBANANA_*.md
+          git add 03_EPISODEN/TYPE_B/SCHLAFPARALYSE_PRODUCTION_READY_LOCK_V4.md
+          if git diff --cached --quiet; then
+            echo 'Prompt markdown already materialized.'
+          else
+            git commit -m 'Materialize Schlafparalyse image prompts in episode folders'
+            git push origin HEAD:production/canonical-image-prompts
+          fi
