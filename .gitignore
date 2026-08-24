@@ -75,6 +75,9 @@
 # Fertige Renderordner
 06_PRODUCTION/**/RENDERED/
 
+# Lokale, aus dem kanonischen Downloadbaum kopierte flache Prompt-Assetordner
+06_PRODUCTION/**/IMAGE_GENERATION_KIT/02_ASSETS/
+
 # Research (PDFs, HTML)
 research/
 

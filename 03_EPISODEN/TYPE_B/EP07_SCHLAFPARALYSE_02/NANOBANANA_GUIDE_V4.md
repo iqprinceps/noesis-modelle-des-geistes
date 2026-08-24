@@ -9,8 +9,8 @@
 Wie EP05 Jung–Pauli:
 
 ```text
-EXAKTER_DATEINAME.png
-Referenz: EXAKTE_DATEI.jpg; ...
+EP07_IMG001_SALEM_BEDROOM_COMAN_RECON.png
+Referenz: STYLE_ARCHIVE_EP07.png
 Prompt:
 <vollständiger eigenständiger Prompt>
 ```
@@ -32,7 +32,7 @@ Prompt:
 Create a premium cinematic historical-documentary style master in 16:9 for a film about sleep paralysis, Salem testimony and cultural interpretation. Plausible late-seventeenth-century New England interiors, restrained European historical rooms and modern research spaces, practical candle/window light, tactile wood, cloth and paper, realistic human behavior, deep neutral shadows and subtle film grain. Serious and investigative, never gothic entertainment. No fantasy witch costumes, green magic, glowing eyes, fog-machine horror, fake archive text or watermark.
 
 ### STYLE_ARCHIVE_EP07.png
-Referenz: EP07_S01_Richard_Coman_Testimony_v_Bridget_Bishop_1692; EP07_S02_Fuseli_The_Nightmare_1781_PD.jpg
+Referenz: EP07_S01_Richard_Coman_Testimony_v_Bridget_Bishop_1692.pdf; EP07_S02_Fuseli_The_Nightmare_1781_PD.jpg
 Prompt:
 Create a premium 16:9 archival-documentary style master using the uploaded real Salem record and Fuseli artwork only as authentic source objects. Preserve original page/art content instead of regenerating it. Museum-like neutral lighting, restrained paper texture, precise crops, negative space for editor annotations and subtle depth. No fake handwriting, no invented seals, no aging filter that changes the source, no red-string conspiracy aesthetic, no generated text or watermark.
 
@@ -44,8 +44,8 @@ Create a restrained 16:9 conceptual documentary style master for showing how a r
 ## Default factual references
 
 Use only when named:
-- `EP07_S01_Richard_Coman_Testimony_v_Bridget_Bishop_1692`
-- `EP07_S01_Bridget_Bishop_Examination_1692`
+- `EP07_S01_Richard_Coman_Testimony_v_Bridget_Bishop_1692.pdf`
+- `EP07_S01_Bridget_Bishop_Examination_1692.pdf`
 - `EP07_S01_Bridget_Bishop_lithograph_PD.jpg`
 - `EP07_S02_Fuseli_The_Nightmare_1781_PD.jpg`
 - `EP07_S02_Abildgaard_Nightmare_1800_PD.jpg`

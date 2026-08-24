@@ -20,7 +20,7 @@ Prompt:
 Create a premium 16:9 conceptual frame in which a spoken-story setting—a small group at a table, books and family conversation—gradually transitions into the sensory geometry of a dark bedroom: pressure on bedding, fixed eye line and threatening negative space. Keep the transition physically subtle through shadow and composition, not literal words entering a brain. The visual should support the idea that interpretation can influence fear and later experience without saying culture creates all sleep paralysis. Realistic people, restrained graphite and warm paper tones, subtle grain. No supernatural entity, text, watermark.
 
 EP07_IMG019_SALEM_LOOP_RETURN.png  
-Referenz: STYLE_ARCHIVE_EP07.png; EP07_S01_Richard_Coman_Testimony_v_Bridget_Bishop_1692; EP07_S01_Bridget_Bishop_lithograph_PD.jpg  
+Referenz: STYLE_ARCHIVE_EP07.png; EP07_S01_Richard_Coman_Testimony_v_Bridget_Bishop_1692.pdf; EP07_S01_Bridget_Bishop_lithograph_PD.jpg
 Prompt:  
 Create a sober 16:9 closing historical-documentary composite using the uploaded real Coman testimony and public-domain Bridget Bishop lithograph as separate authentic source objects. Preserve both faithfully. Between them, include only a small reconstructed dark-bedroom fragment as context, clearly visually distinct from the archival material. The composition should show experience, cultural interpretation and public accusation intersecting without implying that this testimony alone caused Bishop's conviction. Neutral museum light, restrained grain. No red guilt stamp, fake handwriting, witch effects, generated text or watermark.
 

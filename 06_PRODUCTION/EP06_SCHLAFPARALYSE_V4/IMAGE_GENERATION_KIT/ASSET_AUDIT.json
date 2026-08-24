@@ -1,0 +1,13 @@
+{
+  "episode": "EP06",
+  "prompt_count": 40,
+  "style_master_count": 3,
+  "style_master_references_ready": 3,
+  "missing_style_master_references": [],
+  "required_factual_reference_count": 5,
+  "required_factual_references_ready": 5,
+  "missing_required_references": [],
+  "flat_asset_files": 22,
+  "missing_manifest_downloads": [],
+  "generation_ready": true
+}

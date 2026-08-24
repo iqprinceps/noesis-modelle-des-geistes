@@ -9,8 +9,8 @@
 Wie EP05 Jung–Pauli:
 
 ```text
-EXAKTER_DATEINAME.png
-Referenz: EXAKTE_DATEI.jpg; ...
+EP08_IMG001_ART_BELL_RADIO_RECON.png
+Referenz: STYLE_MEDIA_EP08.png
 Prompt:
 <vollständiger eigenständiger Prompt>
 ```

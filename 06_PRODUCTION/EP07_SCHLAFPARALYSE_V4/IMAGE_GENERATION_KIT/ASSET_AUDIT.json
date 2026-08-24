@@ -1,0 +1,38 @@
+{
+  "episode": "EP07",
+  "prompt_count": 24,
+  "style_master_count": 3,
+  "style_master_references_ready": 3,
+  "missing_style_master_references": [],
+  "required_factual_reference_count": 4,
+  "required_factual_references_ready": 4,
+  "missing_required_references": [],
+  "flat_asset_files": 31,
+  "missing_manifest_downloads": [
+    {
+      "id": "EP07_EXP_001",
+      "filename": "EP07_S01_Sarah_Good_Sarah_Osburn_Tituba_Examinations_1692",
+      "source_page": "https://digitalarchives.sec.state.ma.us/uncategorised/SO_01d12510-bdb9-4463-b25a-3b7295a0e9a7/",
+      "blocking_for_current_prompts": false
+    },
+    {
+      "id": "EP07_EXP_002",
+      "filename": "EP07_S01_Rebecca_Nurse_Examination_1692",
+      "source_page": "https://digitalarchives.sec.state.ma.us/uncategorised/SO_69f85161-f64b-428e-8fdf-0cb52fa44be7/",
+      "blocking_for_current_prompts": false
+    },
+    {
+      "id": "EP07_EXP_003",
+      "filename": "EP07_S01_Mary_Walcott_Elizabeth_Hubbard_v_John_Proctor_1692",
+      "source_page": "https://digitalarchives.sec.state.ma.us/uncategorised/SO_78ee8ee6-7712-41e2-b2fa-8b9b74c4e64e/",
+      "blocking_for_current_prompts": false
+    },
+    {
+      "id": "EP07_EXP_004",
+      "filename": "EP07_S01_Mittimus_Martha_Corey_Rebecca_Nurse_1692",
+      "source_page": "https://digitalarchives.sec.state.ma.us/uncategorised/SO_4ac3ae25-9c1c-42c0-9b94-b1257e2fc01e/",
+      "blocking_for_current_prompts": false
+    }
+  ],
+  "generation_ready": true
+}

@@ -15,7 +15,7 @@ Prompt:
 Create a premium 16:9 close historical reconstruction of an adult man in a late-seventeenth-century New England bed trying unsuccessfully to wake the sleeping person beside him. Frame the man's tense eyes, still shoulder and hand that cannot complete the movement; keep both faces non-identifiable. The room is ordinary, poor-to-middling rather than gothic, with believable linen, timber and low practical light. The visual should communicate wakefulness plus helplessness, not supernatural certainty. No visible attacker, restraints, melodramatic terror, modern objects, text or watermark.
 
 EP07_IMG003_PRIVATE_NIGHT_TO_COURT.png  
-Referenz: STYLE_ARCHIVE_EP07.png; EP07_S01_Richard_Coman_Testimony_v_Bridget_Bishop_1692  
+Referenz: STYLE_ARCHIVE_EP07.png; EP07_S01_Richard_Coman_Testimony_v_Bridget_Bishop_1692.pdf
 Prompt:  
 Create a sophisticated 16:9 documentary transition using the uploaded real Richard Coman testimony as an authentic source object on the right side of frame while the left side contains a restrained reconstructed dark bedroom fading into neutral daylight. Preserve the real document exactly; do not redraw, rewrite or invent handwriting. The composition should communicate a private nighttime perception becoming public testimony. Museum-like source lighting, tactile but unaltered paper, realistic bedroom materials, generous negative space for editor highlighting. No fake court seal, red accusation stamp, witch silhouette over the document, generated text or watermark.
 
