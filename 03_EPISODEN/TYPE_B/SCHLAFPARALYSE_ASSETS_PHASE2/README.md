@@ -1,79 +1,65 @@
-# NOESIS — Schlafparalyse Phase 2 Assets
+# NOESIS — Schlafparalyse EP06–EP08 Assets V5
 
-Produktionspaket für EP06–EP08.
+## Kanonischer Einstieg
 
-## Inhalt
+`asset_manifest_v5.json` ist der **kanonische Manifest-Einstiegspunkt**. Er umfasst drei normalisierte CSV-Layer:
 
-- `asset_manifest.csv` — kanonisches Download-Manifest mit 49 geprüften Einträgen, Direktlinks, Dateinamen und Zielordnern
-- `PHASE2_ASSET_LIST.md` — vollständige lesbare Asset-/Shot-Liste
-- `LINK_VERIFICATION.md` — Link-, Lizenz- und Kontextprüfung
-- `CREDITS.md` — Attribution und ShareAlike-/Personality-Hinweise
-- `RECON_PROMPTS.md` — KI-Reconstruction-Prompts für fehlende/ungeklärte Visuals
-- `download_schlafparalyse_assets.py` — ausführbarer Downloader mit MIME/Magic-Byte-Check, SHA-256 und License-Sidecars
-- `dry_run.txt` — geprüfter 49-Einträge-Dry-Run
+1. `asset_manifest.csv` — 49 geprüfte Phase-2-Basisassets
+2. `asset_manifest_v5_additions.csv` — 2 erste V5-Erweiterungen
+3. `asset_manifest_v5_expansion.csv` — 25 zusätzliche retention-orientierte Original-/Kontextassets
 
-## Rechte-Ampel
+Der V5-Downloader verarbeitet alle drei Layer automatisch und prüft sie mit demselben resilienten Downloadpfad.
 
-- **GREEN: 27** — geprüft und automatisch ladbar
-- **YELLOW: 11** — verfügbar, aber Attribution/ShareAlike, Persönlichkeit oder Produktionskontext prüfen
-- **RED/reference only: 11** — nur Recherche/Reconstruction, kein automatischer Medien-Download
+## Bestand
 
-Damit sind **38 Medienassets automatisch downloadbar** und 11 weitere Quellen bewusst als Reference-only separiert.
+- **76 eindeutige Asset-Einträge**
+- **46 GREEN / 19 YELLOW / 11 RED**
+- **65 automatisch downloadbare Medienassets**
+- **EP06: 22 Assets inkl. Shared**
+- **EP07: 28 Assets**
+- **EP08: 32 Assets inkl. Shared**
+
+Damit sind die gesetzten Original-/Kontextziele für den individuellen V5-Visualplan erreicht. Zusammen mit den separaten AI-Reconstruction-Pools und Motion-/Diagramm-Slots reicht die Basis für rund 146–150 Shots und >90 eindeutige Visuals pro Folge, ohne lange Holds oder sichtbare Bildloops.
 
 ## Download
 
-Im Ordner ausführen:
+Empfohlen:
 
 ```bash
-python3 download_schlafparalyse_assets.py
-```
-
-Nur GREEN:
-
-```bash
-python3 download_schlafparalyse_assets.py --green-only
+python3 03_EPISODEN/TYPE_B/SCHLAFPARALYSE_ASSETS_PHASE2/download_schlafparalyse_assets_v5.py
 ```
 
 Nur eine Folge:
 
 ```bash
-python3 download_schlafparalyse_assets.py --only EP07
+python3 03_EPISODEN/TYPE_B/SCHLAFPARALYSE_ASSETS_PHASE2/download_schlafparalyse_assets_v5.py --only EP07
 ```
 
-Eigener Zielordner:
+Nur GREEN:
 
 ```bash
-python3 download_schlafparalyse_assets.py --root ./SCHLAFPARALYSE_MEDIA
+python3 03_EPISODEN/TYPE_B/SCHLAFPARALYSE_ASSETS_PHASE2/download_schlafparalyse_assets_v5.py --green-only
 ```
 
-Das Script speichert GREEN und YELLOW getrennt, erzeugt für jedes geladene Asset eine `.license.txt`-Sidecar und schreibt `_META/MANIFEST.csv`, Credits, Reference-Links und einen JSON-Downloadreport. Vor dem Speichern werden Redirect, MIME-Type und Datei-Signatur geprüft; HTML-/Fehlerseiten werden nicht als Medienasset akzeptiert.
+Standard lädt GREEN + YELLOW. RED bleibt Reference-only. Erfolgreiche Dateien werden bei späteren Läufen übersprungen.
 
-## Wichtige neue Assets
+## Rechte-Ampel
 
-### EP06
-- Samuel A. Kinnier Wilson Portrait (PD)
-- echtes REM-Polysomnogramm (PD)
-- Slow-Wave-PSG als Vergleich (PD)
-- zusätzliche hochauflösende Polysomnographie-/Laborbilder
+- **GREEN:** dokumentierter Rechtestatus; grundsätzlich produktionsfähig, Kontextpflicht bleibt.
+- **YELLOW:** nutzbar/reviewbar, aber Attribution, ShareAlike, Persönlichkeitsrechte oder finaler Lizenzcheck beachten.
+- **RED:** nur Recherche/Reconstruction; keine direkte Medienveröffentlichung.
 
-### EP07
-- Bridget-Bishop-Primärakten und Richard-Coman-Zeugnis
-- weitere Bridget-Bishop-/Salem-Archiv- und Kunstassets
-- Füssli, Abildgaard und Malleus/Wellcome-Material
-- Library-of-Congress-/Public-Domain-Gerichtsdarstellungen
+## KI-Aufbereitung von Originals
 
-### EP08
-- Art Bell Portrait (CC0)
-- 1990er Radiostudio-Referenz
-- Radio-Konsole, Fax, Shortwave-Radio und CRT als frei verwendbare Medienwelt
-- US-Government-Roswell-/Area-51-Dokumente als klar begrenzter UFO-Kulturkontext
+Originale dürfen für Retention und visuelle Konsistenz editorial aufbereitet werden: Cleanup, Color Grade, Detail-Crops, Parallax, Depth, Matte Expansion, isolierte Objekte, native NOESIS-Callouts und Motion-Composites.
 
-## Redaktionsregel
+Nicht erlaubt ist dabei eine faktische Verfälschung: kein erfundener Dokumenttext, keine veränderten Messdaten, keine falsche Datierung/Identität/Provenienz und kein Kontextbild als angebliches Foto eines konkreten Experiments.
 
-`GREEN` bedeutet: **Rechtestatus ausreichend dokumentiert**, nicht „beliebig kontextfrei einsetzbar“.
+## Wichtige redaktionelle Locks
 
-- spätere Salem-Darstellungen immer als spätere Darstellung/Jahr kennzeichnen;
 - generische Schlaflaborbilder nie als Takeuchi-Originalversuch ausgeben;
+- historische Salem-Darstellungen mit Jahr bzw. als spätere Darstellung kennzeichnen;
 - Burney Relief nicht als sicher identifizierte Lilitu behandeln;
-- Roswell/Area 51 nie als Beleg für Alien-Abductions oder Schlafparalyse verwenden;
-- KI-Szenen sichtbar als Rekonstruktion behandeln, sobald sonst Archivcharakter suggeriert würde.
+- Jinn-/Japan-Ikonografie illustriert kulturelle Deutungsräume, keine direkte genealogische Beweiskette;
+- Roswell/Area 51 nur UFO-Kultur-/Institutionenkontext, nie Beweis für Abduction oder Schlafparalyse;
+- Radio-/Modem-/CRT-Objekte als Periodenkontext nutzen, nicht als Art Bells konkretes Studioequipment behaupten.
