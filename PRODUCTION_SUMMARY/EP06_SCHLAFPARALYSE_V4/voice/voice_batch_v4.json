@@ -1,0 +1,63 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/raw_stems",
+  "normalization_target": "-18 LUFS integrated, true peak <= -2 dBTP per VO stem/master",
+  "master_structure": {
+    "pre_roll_seconds": 0.35,
+    "inter_stem_gap_seconds": 0.65,
+    "tail_seconds": 2.2,
+    "sample_rate_hz": 48000,
+    "master_codec": "PCM 24-bit mono"
+  },
+  "stems": [
+    {
+      "id": "EP06_V4_S01_ZIMMER",
+      "text_file": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/source/EP06_V4_S01_ZIMMER.txt"
+    },
+    {
+      "id": "EP06_V4_S02_OLD_HAG",
+      "text_file": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/source/EP06_V4_S02_OLD_HAG.txt"
+    },
+    {
+      "id": "EP06_V4_S03_REM_ATONIE",
+      "text_file": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/source/EP06_V4_S03_REM_ATONIE.txt"
+    },
+    {
+      "id": "EP06_V4_S04_DREI_FAMILIEN",
+      "text_file": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/source/EP06_V4_S04_DREI_FAMILIEN.txt"
+    },
+    {
+      "id": "EP06_V4_S05_LABOR",
+      "text_file": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/source/EP06_V4_S05_LABOR.txt"
+    },
+    {
+      "id": "EP06_V4_S06_KOERPER_BESUCHER",
+      "text_file": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/source/EP06_V4_S06_KOERPER_BESUCHER.txt"
+    },
+    {
+      "id": "EP06_V4_S07_PRAESENZ",
+      "text_file": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/source/EP06_V4_S07_PRAESENZ.txt"
+    },
+    {
+      "id": "EP06_V4_S08_WAS_BLEIBT",
+      "text_file": "PRODUCTION_SUMMARY/EP06_SCHLAFPARALYSE_V4/voice/source/EP06_V4_S08_WAS_BLEIBT.txt"
+    }
+  ],
+  "pronunciation_notes": [
+    "Batch vom Repository-Root ausfuehren.",
+    "Keine Lautschrift-Kruecken ungeprueft in den finalen Text schreiben.",
+    "Vor dem Vollbatch einen kurzen Hoertest fuer Eigennamen/Fachbegriffe machen: David Hufford, Old Hag, REM-Atonie, J. Allan Cheyne, Incubus, Takeuchi",
+    "Nur die Voice-Quelle korrigieren, falls ein Begriff hoerbar falsch ausgesprochen wird; DREHBUCH.md bleibt kanonisch."
+  ]
+}

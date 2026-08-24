@@ -1,0 +1,63 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/raw_stems",
+  "normalization_target": "-18 LUFS integrated, true peak <= -2 dBTP per VO stem/master",
+  "master_structure": {
+    "pre_roll_seconds": 0.35,
+    "inter_stem_gap_seconds": 0.65,
+    "tail_seconds": 2.2,
+    "sample_rate_hz": 48000,
+    "master_codec": "PCM 24-bit mono"
+  },
+  "stems": [
+    {
+      "id": "EP08_V4_S01_4500_NACHRICHTEN",
+      "text_file": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/source/EP08_V4_S01_4500_NACHRICHTEN.txt"
+    },
+    {
+      "id": "EP08_V4_S02_SHADOW_PEOPLE",
+      "text_file": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/source/EP08_V4_S02_SHADOW_PEOPLE.txt"
+    },
+    {
+      "id": "EP08_V4_S03_ALIENS",
+      "text_file": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/source/EP08_V4_S03_ALIENS.txt"
+    },
+    {
+      "id": "EP08_V4_S04_HARVARD",
+      "text_file": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/source/EP08_V4_S04_HARVARD.txt"
+    },
+    {
+      "id": "EP08_V4_S05_HAT_MAN",
+      "text_file": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/source/EP08_V4_S05_HAT_MAN.txt"
+    },
+    {
+      "id": "EP08_V4_S06_MUSTER_MEME",
+      "text_file": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/source/EP08_V4_S06_MUSTER_MEME.txt"
+    },
+    {
+      "id": "EP08_V4_S07_INTERNET_ANFALL",
+      "text_file": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/source/EP08_V4_S07_INTERNET_ANFALL.txt"
+    },
+    {
+      "id": "EP08_V4_S08_RUECKKOPPLUNG",
+      "text_file": "PRODUCTION_SUMMARY/EP08_SCHLAFPARALYSE_V4/voice/source/EP08_V4_S08_RUECKKOPPLUNG.txt"
+    }
+  ],
+  "pronunciation_notes": [
+    "Batch vom Repository-Root ausfuehren.",
+    "Keine Lautschrift-Kruecken ungeprueft in den finalen Text schreiben.",
+    "Vor dem Vollbatch einen kurzen Hoertest fuer Eigennamen/Fachbegriffe machen: Art Bell, Coast to Coast AM, Heidi Hollis, John E. Mack, Susan Clancy, Richard McNally, Diphenhydramin, Rodney Ascher",
+    "Nur die Voice-Quelle korrigieren, falls ein Begriff hoerbar falsch ausgesprochen wird; DREHBUCH.md bleibt kanonisch."
+  ]
+}

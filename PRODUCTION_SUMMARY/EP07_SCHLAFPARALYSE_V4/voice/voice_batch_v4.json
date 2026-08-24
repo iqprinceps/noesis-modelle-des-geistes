@@ -1,0 +1,63 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "seed": 2402,
+  "output_format": "mp3_44100_128",
+  "output_dir": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/raw_stems",
+  "normalization_target": "-18 LUFS integrated, true peak <= -2 dBTP per VO stem/master",
+  "master_structure": {
+    "pre_roll_seconds": 0.35,
+    "inter_stem_gap_seconds": 0.65,
+    "tail_seconds": 2.2,
+    "sample_rate_hz": 48000,
+    "master_codec": "PCM 24-bit mono"
+  },
+  "stems": [
+    {
+      "id": "EP07_V4_S01_SALEM",
+      "text_file": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/source/EP07_V4_S01_SALEM.txt"
+    },
+    {
+      "id": "EP07_V4_S02_NACHTMAHR",
+      "text_file": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/source/EP07_V4_S02_NACHTMAHR.txt"
+    },
+    {
+      "id": "EP07_V4_S03_VIELE_NAMEN",
+      "text_file": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/source/EP07_V4_S03_VIELE_NAMEN.txt"
+    },
+    {
+      "id": "EP07_V4_S04_KULTUR_WIRD_WAHR",
+      "text_file": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/source/EP07_V4_S04_KULTUR_WIRD_WAHR.txt"
+    },
+    {
+      "id": "EP07_V4_S05_HUFFORD",
+      "text_file": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/source/EP07_V4_S05_HUFFORD.txt"
+    },
+    {
+      "id": "EP07_V4_S06_ERFAHRUNG_KULTUR",
+      "text_file": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/source/EP07_V4_S06_ERFAHRUNG_KULTUR.txt"
+    },
+    {
+      "id": "EP07_V4_S07_AEGYPTEN_DAENEMARK",
+      "text_file": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/source/EP07_V4_S07_AEGYPTEN_DAENEMARK.txt"
+    },
+    {
+      "id": "EP07_V4_S08_DAEMON_LERNT",
+      "text_file": "PRODUCTION_SUMMARY/EP07_SCHLAFPARALYSE_V4/voice/source/EP07_V4_S08_DAEMON_LERNT.txt"
+    }
+  ],
+  "pronunciation_notes": [
+    "Batch vom Repository-Root ausfuehren.",
+    "Keine Lautschrift-Kruecken ungeprueft in den finalen Text schreiben.",
+    "Vor dem Vollbatch einen kurzen Hoertest fuer Eigennamen/Fachbegriffe machen: Richard Coman, Bridget Bishop, Henry Füssli, Kanashibari, David Hufford, Baland Jalal, Devon Hinton",
+    "Nur die Voice-Quelle korrigieren, falls ein Begriff hoerbar falsch ausgesprochen wird; DREHBUCH.md bleibt kanonisch."
+  ]
+}

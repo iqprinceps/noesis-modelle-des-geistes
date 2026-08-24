@@ -271,7 +271,7 @@ def unpack_prompts() -> None:
 
 
 def main() -> int:
-    unpack_prompts()
+    # unpack_prompts()  # skipped — ZIP corrupted
     for ep, cfg in EPISODES.items():
         if not cfg["source"].is_file():
             raise SystemExit(f"Missing canonical script: {cfg['source']}")
