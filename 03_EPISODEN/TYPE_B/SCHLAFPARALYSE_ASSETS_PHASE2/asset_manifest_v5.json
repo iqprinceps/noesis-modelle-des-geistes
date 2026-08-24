@@ -1,0 +1,22 @@
+{
+  "schema_version": 5,
+  "generated": "2026-08-24",
+  "status": "CANONICAL",
+  "source_of_truth": "this include manifest",
+  "includes": [
+    "asset_manifest.csv",
+    "asset_manifest_v5_additions.csv",
+    "asset_manifest_v5_expansion.csv"
+  ],
+  "counts": {
+    "unique_assets": 76,
+    "green": 46,
+    "yellow": 19,
+    "red": 11,
+    "auto_download": 65,
+    "EP06_including_shared": 22,
+    "EP07": 28,
+    "EP08_including_shared": 32
+  },
+  "production_note": "Use this file as the canonical manifest entrypoint. Included CSV files are normalized layers; the V5 downloader merges and deduplicates them before downloading."
+}
