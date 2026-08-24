@@ -1,72 +1,39 @@
-# Credits & Attribution — Schlafparalyse Phase 2
+# Schlafparalyse — Credits / License Index V5
 
-**Stand:** 23.08.2026  
+**Stand:** 24.08.2026
 
-Für Public-Domain/CC0-Assets ist Attribution meist nicht verpflichtend, wird für NOESIS trotzdem empfohlen. Für CC-BY/CC-BY-SA gilt die jeweilige Lizenzpflicht.
+Die konkrete Attribution jedes Assets steht im jeweiligen Manifest-Layer und zusätzlich nach dem lokalen Download in der automatisch erzeugten `.license.txt`-Sidecar.
 
-## YELLOW / Attribution besonders beachten
+Kanonische Layer:
 
-### SHARED_SCI_002 — EEG cap photograph
-- Lizenz: Public Domain dedication; personality-rights warning
-- Credit: Thuglas / Wikimedia Commons — Public Domain dedication; personality rights review required
-- Quelle: https://commons.wikimedia.org/wiki/File:EEG_cap.jpg
-- Produktionshinweis: Nur nach Personality-Review; kurzer Elektroden-Close-up statt langer identifizierbarer Patientendarstellung.
+- `asset_manifest.csv`
+- `asset_manifest_v5_additions.csv`
+- `asset_manifest_v5_expansion.csv`
 
-### SHARED_SCI_003 — Polysomnography tester
-- Lizenz: CC BY-SA 4.0
-- Credit: 邱鈺鋒 (Kuyohong) / Wikimedia Commons — CC BY-SA 4.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Polysomnography_tester.jpg
-- Produktionshinweis: Sensor-/Equipment-Crops bevorzugen; ShareAlike-Pflichten im Delivery-Workflow verfolgen.
+## Ampel
 
-### SHARED_SCI_004 — Polysomnography connections close-up
-- Lizenz: CC BY-SA 4.0
-- Credit: Z22 / Wikimedia Commons — CC BY-SA 4.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Polysomnography_connections.jpg
+- **GREEN:** 46
+- **YELLOW:** 19
+- **RED/reference-only:** 11
 
-### SHARED_SCI_005 — Simplified Sleep Phases diagram
-- Lizenz: CC BY-SA 3.0
-- Credit: Kernsters / Wikimedia Commons — CC BY-SA 3.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Simplified_Sleep_Phases.jpg
-- Produktionshinweis: Wenn möglich als native NOESIS-Grafik neu zeichnen.
+## Hauptquellen / Rechtefamilien
 
-### EP07_ART_004 — Burney Relief alternate photograph
-- Lizenz: CC BY-SA 3.0
-- Credit: Aiwok / Wikimedia Commons — CC BY-SA 3.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Burney_Relief_Babylon_-1800-1750.JPG
+### Public Domain / CC0
+- U.S.-Government-/Federal-Government-Material
+- historische Public-Domain-Kunst und -Dokumente
+- mehrere Wikimedia-Commons-Uploads mit Public-Domain-Dedication / CC0
+- Project-Gutenberg-/historische Kartenkontexte
 
-### EP07_ART_005 — Burney Relief — bust detail
-- Lizenz: CC BY-SA 3.0
-- Credit: Fæ / Wikimedia Commons — CC BY-SA 3.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Burney_Relief_bust.jpg
+### Creative Commons
+- CC BY / CC BY-SA gekennzeichnete Wissenschafts-, Orts-, Studio- und Technikbilder
+- Attribution und ggf. ShareAlike entsprechend der einzelnen Manifestzeile beachten
 
-### EP07_ART_006 — Burney Relief — lions/talons detail
-- Lizenz: CC BY-SA 3.0
-- Credit: Fæ / Wikimedia Commons — CC BY-SA 3.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Burney_Relief_lions.jpg
+### Massachusetts Archives
+Salem-Primärdokumente sind über das Massachusetts Archives Digital Repository erschlossen. Die Manifestzeilen dokumentieren die jeweilige Source-URL und den Downloadpfad. Dokumente immer mit korrektem Titel/Datum/Personenkontext verwenden.
 
-### EP08_MEDIA_002 — Budd Hopkins and Dr. John E. Mack in hypnosis session, Istanbul
-- Lizenz: CC BY-SA 4.0
-- Credit: Becket01 / Wikimedia Commons — CC BY-SA 4.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Budd_Hopkins_and_Dr._John_Mack_in_hypnosis_session,_Istanbul.jpg
-- Produktionshinweis: Präzise Caption/Datum; unbekannte abgebildete Person nicht als „Abductee“ bezeichnen, sofern Quelle das nicht belegt.
+### Reference-only
+Art-Bell-Archivseiten, einzelne Forschungs-/Universitätsseiten und andere Quellen ohne hinreichend klare Medienrechte bleiben RED. Sie dienen ausschließlich der Recherche und dem Bau eigener Source Cards/Rekonstruktionen.
 
-### EP06_PERSON_002 — Edinburgh University group portrait including S.A.K. Wilson
-- Lizenz: CC BY 4.0
-- Credit: Wellcome Collection — CC BY 4.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Edinburgh_University_Group_Wellcome_M0017749.jpg
+## KI-/Restaurationshinweis
 
-### SHARED_SCI_008 — Polysomnography model lying on side
-- Lizenz: CC BY-SA 4.0; identifiable model
-- Credit: Clinique Somnomed / Wikimedia Commons — CC BY-SA 4.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Polysomnography_model_on_his_side.jpg
-- Produktionshinweis: Nicht als Takeuchi-Proband ausgeben.
-
-### EP08_MEDIA_003 — Country 1035 radio studio, London, 1996
-- Lizenz: CC BY-SA 4.0
-- Credit: Triston Russell / Wikimedia Commons — CC BY-SA 4.0
-- Quelle: https://commons.wikimedia.org/wiki/File:Country_1035_Studio_1_in_Parsons_Green,_London,_circa_1995.jpg
-- Produktionshinweis: Periodenreferenz, nicht Art Bells tatsächliches Studio.
-
-## GREEN — empfohlene Quellenangabe
-
-Auch bei Public Domain/CC0 in Beschreibung oder Produktions-Credits Quelle nennen, insbesondere Wellcome Collection, NIH/NHLBI, Massachusetts Archives, Library of Congress, FBI/CIA und Wikimedia Commons.
+Bei aufbereiteten Originalen bleibt die ursprüngliche Source/Lizenz im Credit maßgeblich. Cleanup, Grading, Crop, Parallax oder Matte Expansion machen aus einem lizenzierten Asset kein lizenzfreies neues Werk. Originaltext, Messdaten, historische Datierung und Identität dürfen nicht verfälscht werden.
