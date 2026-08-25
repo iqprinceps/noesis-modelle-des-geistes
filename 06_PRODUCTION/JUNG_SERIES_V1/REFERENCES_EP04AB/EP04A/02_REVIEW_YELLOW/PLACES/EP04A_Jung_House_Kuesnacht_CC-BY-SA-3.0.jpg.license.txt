@@ -1,0 +1,14 @@
+ID: EP04A_PLACE_005
+Episode(s): EP04A
+Title: C. G. Jung Haus Küsnacht – Außenansicht
+Traffic light: YELLOW
+License/status: CC BY-SA 3.0 — Roland zh / Roland Fischer
+Source page: https://commons.wikimedia.org/wiki/File:K%C3%BCsnacht%20-%20Wohnhaus%20von%20C.%20G.%20Jung,%20Seestrasse%20228%202011-08-26%2014-59-46.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/K%C3%BCsnacht%20-%20Wohnhaus%20von%20C.%20G.%20Jung%2C%20Seestrasse%20228%202011-08-26%2014-59-46.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_SHAREALIKE
+Script act: S3;S8
+Shot use: Alltag/Boden-Gegengewicht zu inneren Bildern; moderne Aufnahme als Ort kennzeichnen.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

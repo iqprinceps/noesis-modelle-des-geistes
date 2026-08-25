@@ -1,0 +1,11 @@
+ID: EP05_SRC07
+Episode(s): EP05
+Title: Johannes Kepler portrait
+Traffic light: GREEN
+License/status: Public Domain per locked source map
+Source page: https://commons.wikimedia.org/wiki/File:Portrait_of_Johannes_Kepler.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20Johannes%20Kepler.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/6/66/Portrait_of_Johannes_Kepler.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Note: Kepler reveal.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

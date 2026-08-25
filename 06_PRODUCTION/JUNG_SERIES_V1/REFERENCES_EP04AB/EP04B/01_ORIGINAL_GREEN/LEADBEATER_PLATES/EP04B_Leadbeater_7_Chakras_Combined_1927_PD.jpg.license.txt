@@ -1,0 +1,14 @@
+ID: EP04B_CHAKRA_001
+Episode(s): EP04B
+Title: Leadbeater: sieben Chakra-Abbildungen kombiniert, 1927
+Traffic light: GREEN
+License/status: Public domain / C. W. Leadbeater (d. 1934)
+Source page: https://commons.wikimedia.org/wiki/File:7%20Chakras%20Combined%20Reordered.JPG
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/7%20Chakras%20Combined%20Reordered.JPG
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/d/d0/7_Chakras_Combined_Reordered.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S5;S6
+Shot use: Starker Dokument-Reveal und Morph-Quelle; langsam Details isolieren.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

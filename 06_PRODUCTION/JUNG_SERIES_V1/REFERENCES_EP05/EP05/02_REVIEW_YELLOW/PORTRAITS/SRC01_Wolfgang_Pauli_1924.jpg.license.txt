@@ -1,0 +1,11 @@
+ID: EP05_SRC01
+Episode(s): EP05
+Title: Wolfgang Pauli, 1924
+Traffic light: YELLOW
+License/status: Commons source locked; verify concrete PD/license block at download
+Source page: https://commons.wikimedia.org/wiki/File:Wolfgang_Pauli.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Wolfgang%20Pauli.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/e/ea/Wolfgang_Pauli.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Note: Identity anchor; archive concrete Commons rights block.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

@@ -1,0 +1,14 @@
+ID: EP04A_PLACE_006
+Episode(s): EP04A
+Title: Bollingen Tower – heutige Außenansicht
+Traffic light: YELLOW
+License/status: CC BY-SA 4.0 — Davide Mauro
+Source page: https://commons.wikimedia.org/wiki/File:Bollingen%20Tower%201.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Bollingen%20Tower%201.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_SHAREALIKE
+Script act: S3;S8
+Shot use: Symbolischer Ort/ruhiger Hold 5–7 s; heutige Aufnahme, kein Beleg für 1913.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

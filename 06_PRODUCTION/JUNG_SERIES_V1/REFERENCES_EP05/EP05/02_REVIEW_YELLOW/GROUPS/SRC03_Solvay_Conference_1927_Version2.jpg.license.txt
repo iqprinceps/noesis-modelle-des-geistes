@@ -1,0 +1,11 @@
+ID: EP05_SRC03
+Episode(s): EP05
+Title: Solvay Conference 1927 — Version 2
+Traffic light: YELLOW
+License/status: Commons source locked; verify concrete PD basis at download
+Source page: https://commons.wikimedia.org/wiki/File:Solvay_conference_1927_Version2.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Solvay%20conference%201927%20Version2.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/8/89/Solvay_conference_1927_Version2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Note: Scientific reality anchor; one of two useful versions.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

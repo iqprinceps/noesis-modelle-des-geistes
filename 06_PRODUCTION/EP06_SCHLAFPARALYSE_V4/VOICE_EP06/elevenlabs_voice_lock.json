@@ -1,0 +1,12 @@
+{
+  "episode": "EP06_SCHLAFPARALYSE_V4",
+  "voice_name": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model": "eleven_multilingual_v2",
+  "stability": 0.58,
+  "similarity_boost": 0.8,
+  "style": 0.08,
+  "speed": 1.06,
+  "use_speaker_boost": true,
+  "rule": "Never time-stretch. Regenerate only the failed take with this exact lock."
+}

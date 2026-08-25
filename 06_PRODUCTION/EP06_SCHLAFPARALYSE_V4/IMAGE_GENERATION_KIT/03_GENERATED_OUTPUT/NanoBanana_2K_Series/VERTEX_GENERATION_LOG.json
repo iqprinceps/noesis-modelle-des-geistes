@@ -1,0 +1,214 @@
+{
+  "episode": "EP06",
+  "model": "gemini-3-pro-image",
+  "resolution": "2K",
+  "aspect_ratio": "16:9",
+  "generated_at_unix": 1787582548,
+  "results": [
+    {
+      "filename": "IMG004_MATTRESS_WEIGHT.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Use the uploaded STYLE_CONCEPTUAL_EP06 image only for restrained color, texture and lighting; do not copy its composition, repeated-room effect or any figure from it. Create exactly one horizontal landscape frame at 16:9, 2560x1440. Show one ordinary bedroom, one bed and exactly one awake sleeper lying completely motionless. Use a low three-quarter camera angle from the foot-side of the bed. Near the sleeper's feet, but clearly separate from the natural pressure made by the sleeper's body, show one small localized oval depression in the mattress and blanket, about the width of a human hand and only a few centimeters deep, as if invisible weight has just settled there. The indentation must be clearly readable yet physically subtle; nothing visible causes it. Preserve normal mattress geometry, believable fabric tension, correct human anatomy and one practical warm-neutral light source. Single exposure only. No duplicate bed, duplicate sleeper, extra limbs, reflection, translucent overlay, motion trail, ghost image, person-shaped shadow, creature, hand, claw, smoke, glow, text, logo or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_CORRECTION_BATCH_S1_S2.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5972449
+    },
+    {
+      "filename": "IMG006_MALEVOLENT_PRESENCE_NEGATIVE_SPACE.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Use the uploaded STYLE_CONCEPTUAL_EP06 image only as a restrained palette and lighting reference; do not copy its layout, double exposure or repeated rooms. Create exactly one horizontal landscape image, width clearly greater than height, at 16:9 and 2560x1440; never portrait or 9:16. Show one bedroom, one bed and one awake sleeper only. Place the sleeper's head and shoulder in the lower-left foreground, partly visible and in focus, with the eyes directed toward an empty corner occupying the right third of the frame. In that corner, ordinary architecture—a doorframe, wall edge and soft cast shadow—may align for a moment so that the negative space barely hints at an upright human proportion, but on inspection it must resolve entirely as empty room geometry. Keep the corner bright enough to read. There must be no actual body, silhouette, head, face, hat, eyes, feet or solid human-shaped mass. Single exposure, realistic optics, normal anatomy, visible midtones, one small warm practical light. No duplicate person, duplicate room, reflection, translucent overlay, paranormal fog, creature, text, logo or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_CORRECTION_BATCH_S1_S2.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5498387
+    },
+    {
+      "filename": "IMG008_OLD_HAG_BEDROOM_PATTERN.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Use the uploaded STYLE_CONCEPTUAL_EP06 image only for restrained color, material texture and lighting; do not copy its composition, double exposure or repeated figures. Create exactly one horizontal 16:9, 2560x1440 documentary reconstruction in one modest mid-to-late twentieth-century Newfoundland bedroom. Show exactly one bed and exactly one anonymous adult lying awake and immobile, with a fixed gaze toward the extreme edge of the room. At that edge, a hanging robe plus a doorframe shadow may together create a weak older-human-like suggestion, but it must remain flat, incomplete and obviously ambiguous: no solid body, no volume, no head, no face, no hands, no feet and no creature. Add one shallow localized mattress depression near the foot of the bed, separate from the sleeper's body. Keep all anatomy and furniture physically plausible, the room readable, and the mood quietly uncanny rather than horror-driven. Single exposure only. No second sleeper, second bed, duplicate limbs, reflection, translucent figure, spectral person, witch, broom, claws, glowing eyes, fog, text, logo or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_CORRECTION_BATCH_S1_S2.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 6009751
+    },
+    {
+      "filename": "IMG009_REM_BODY_STILL.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Create a premium 16:9 conceptual documentary frame explaining REM atonia without labels: an anonymous sleeping person lies naturally in bed while a restrained translucent overlay separates an active head/brain region from a deliberately quiet body silhouette. Keep the visual physical and sober, more like a documentary explanatory composite than a medical poster. Deep graphite room, muted cool tones, one warm bedside light, realistic body proportions and subtle grain. No glowing nervous system, no energy field, no paralysis chains, no readable text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 6030745
+    },
+    {
+      "filename": "IMG010_REM_RECORD_EDIT_BASE.png",
+      "references": [
+        "STYLE_SCIENCE_EP06.png",
+        "EP06_REM_Polysomnography_30sec.png"
+      ],
+      "prompt": "Create a clean 16:9 scientific-documentary edit base centered on the uploaded real REM polysomnographic record. Preserve the source trace faithfully as an inserted source object rather than redrawing its data. Surround it with a dark neutral laboratory desk and restrained monitor context, leaving clear space for editor-added German explanation. The source should remain the evidence hero. No fabricated waveforms, fake numerical values, futuristic interface, neon, text generated into the image or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5110471
+    },
+    {
+      "filename": "IMG011_WAKE_BODY_LAG.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Create a sophisticated 16:9 split-state documentary visualization of a person whose eyes are clearly open in a familiar bedroom while the body remains completely still under bedding. Use two subtle layers of focus or light rather than a literal split screen: the face/eyes feel awake and sharp, the body remains dim and sleep-like. The contradiction should be understandable immediately. Realistic optics, natural posture, muted night palette, subtle grain. No ghost double, astral body, external attacker, labels, text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5572128
+    },
+    {
+      "filename": "IMG012_ARM_COMMAND_NO_RESPONSE.png",
+      "references": [
+        "STYLE_CINEMATIC_EP06.png"
+      ],
+      "prompt": "Create a 16:9 close documentary reconstruction of an awake person's face and forearm during sleep paralysis. Their eyes and brow show focused effort, while the forearm lies motionless on the sheet. The image should communicate a failed voluntary command rather than injury. Natural low bedroom light, realistic skin and fabric, shallow depth of field, restrained emotion, subtle grain. No restraints, electrodes, visible attacker, medical emergency cues, readable text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 6190458
+    },
+    {
+      "filename": "IMG013_INTRUDER_DOORWAY.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Create a premium 16:9 subjective illustration of the Intruder family of sleep-paralysis experiences. From a bed-level viewpoint, an ordinary dark doorway contains only enough shadow geometry to suggest a standing human presence. The silhouette must remain incomplete and featureless, plausibly created by darkness and expectation. Keep the room realistic, human-scale and quiet. Deep graphite, low practical light, subtle grain. No monster anatomy, hat, glowing eyes, paranormal mist, text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 6829498
+    },
+    {
+      "filename": "IMG014_INCUBUS_PRESSURE.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Create a restrained 16:9 subjective documentary frame for the Incubus cluster: an anonymous awake sleeper lies on the back with visible chest tension and a heavy dark zone of shadow over the torso, but no visible being. Bedding compresses naturally beneath the body. The visual must express pressure, breathing discomfort and helplessness without turning folklore into objective evidence. Realistic anatomy, practical darkness, subtle film grain. No creature sitting on the chest, no hands around the neck, no gore, text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5713263
+    },
+    {
+      "filename": "IMG015_VESTIBULAR_FLOAT.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Create a sophisticated 16:9 conceptual documentary visualization of an unusual vestibular sleep-paralysis sensation. A bedroom remains physically coherent while the viewer's perspective seems to tilt and rise a small distance above the bed, producing a credible sensation of floating or rotating without depicting a literal soul leaving the body. Use restrained perspective distortion, realistic room materials, deep neutral night tones and subtle grain. No transparent spirit body, tunnel of light, cosmic stars, occult imagery, text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 6356502
+    },
+    {
+      "filename": "IMG016_THREE_FAMILIES_TRIPTYCH_BASE.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Create a clean premium 16:9 three-panel documentary base with no text. Panel one: an ambiguous human-like shadow in a doorway. Panel two: a motionless sleeper with perceived chest pressure but no visible attacker. Panel three: a subtly tilted bedroom perspective suggesting floating or falling. Keep all three visually coherent, realistic and restrained so the editor can label them Intruder, Incubus and vestibular experience. No supernatural proof, monster imagery, glowing effects, readable text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5466040
+    },
+    {
+      "filename": "IMG017_SLEEP_LAB_WIDE_RECON.png",
+      "references": [
+        "STYLE_SCIENCE_EP06.png",
+        "EP06_Sleep_Studies_NHLBI_Polysomnography.jpg"
+      ],
+      "prompt": "Create a premium 16:9 documentary reconstruction of a modest early-1990s sleep laboratory, using the uploaded NHLBI sleep-study image only as factual equipment/context reference. One anonymous adult participant lies in a simple bed with plausible sensors while a technician is visible only from behind at basic monitoring equipment. Keep all people non-identifiable and the technology period-plausible, not futuristic. Neutral clinical light mixed with darkness, realistic cables and materials, subtle grain. Do not imply this is an original photograph of the Takeuchi 1992 experiment. No fake data, readable monitor text, sci-fi glow or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S5_S6.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 6348087
+    },
+    {
+      "filename": "IMG018_SLEEP_INTERRUPTION_CLOCK.png",
+      "references": [
+        "STYLE_SCIENCE_EP06.png"
+      ],
+      "prompt": "Create a restrained 16:9 scientific-documentary reconstruction of a sleep-interruption protocol without readable labels: a dark sleep-lab room, an analog wall clock, a sleeping anonymous participant and a technician quietly preparing to wake them. The visual function is to show deliberate interruption and return to sleep, not to claim a precise undocumented minute. Historically plausible early-1990s equipment, realistic practical lighting and subtle grain. No dramatic alarm, flashing lights, invented study paperwork, readable text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S5_S6.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 6954029
+    },
+    {
+      "filename": "IMG019_RETURN_TO_BED_RECON.png",
+      "references": [
+        "STYLE_SCIENCE_EP06.png"
+      ],
+      "prompt": "Create a cinematic 16:9 early-1990s sleep-lab reconstruction of an anonymous participant returning to bed after a controlled waking period. Show the person from behind or cropped, adjusting bedding while simple sensor leads and monitoring equipment wait nearby. The scene should feel procedural and mundane, emphasizing that the experiment manipulates sleep timing rather than invoking anything paranormal. Neutral clinical palette, realistic equipment, subtle film grain. No real-participant identity claim, no futuristic displays, no ghost imagery, readable text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S5_S6.md",
+      "status": "FAILED",
+      "error": "HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+    },
+    {
+      "filename": "IMG020_EEG_AWAKE_BODY_STILL_BASE.png",
+      "references": [
+        "STYLE_SCIENCE_EP06.png",
+        "EP06_REM_Polysomnography_30sec.png"
+      ],
+      "prompt": "Create a premium 16:9 explanatory documentary composite in which the uploaded real REM polysomnography trace remains unaltered as a source panel beside a reconstructed anonymous participant lying awake-eyed but motionless in a sleep-lab bed. The composition should visually communicate simultaneous waking features and persistent muscle inhibition without fabricating numerical data. Dark neutral lab, restrained cool highlights, clear negative space for editor typography. No fake waveform, no paranormal imagery, no readable generated text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S5_S6.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5396685
+    },
+    {
+      "filename": "IMG021_LAB_HALLUCINATION_AMBIGUOUS.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png",
+        "EP06_Sleep_Studies_NHLBI_Polysomnography.jpg"
+      ],
+      "prompt": "Create a controlled 16:9 subjective reconstruction from the viewpoint of an anonymous sleep-lab participant during paralysis. Real clinical equipment and bed rails remain recognizable, but one ordinary equipment stand and curtain shadow combine into an ambiguous human-like presence at the edge of vision. Keep the scene grounded in a laboratory and make the ambiguity reversible on inspection. No actual entity, monster, glowing eyes, altered medical equipment, fake text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S5_S6.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5673130
+    },
+    {
+      "filename": "IMG022_VIEWER_BEDROOM_TWO_STEPS.png",
+      "references": [
+        "STYLE_CINEMATIC_EP06.png"
+      ],
+      "prompt": "Create an immersive 16:9 contemporary bedroom seen from the pillow, designed for the viewer thought experiment. The closed door is visible, the body is implied only by a motionless hand at the lower edge, and two subtle shadow/board details beside the bed suggest the location of heard footsteps without showing a person. Ordinary modern room, practical streetlight and lamp spill, realistic optics and restrained tension. No phone brand, visible intruder, horror staging, text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S5_S6.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 5770867
+    },
+    {
+      "filename": "SHOT02_FOGO_MAP_TABLE.png",
+      "references": [
+        "EP06_Fogo_Island_to_Cape_Bonavista_Admiralty_Chart_1873.jpg"
+      ],
+      "prompt": "Treat the uploaded historical Admiralty chart as a locked, immutable source layer, not as visual inspiration. Create a horizontal 16:9, 2560x1440 top-down editorial composite in which the real uploaded chart lies flat on a plain wooden table and occupies at least 80 percent of the frame. Preserve the chart's actual pixel content exactly: every coastline, island, sounding number, compass circle, fold, stain, printed label and title must remain where it is. You may uniformly scale, rotate, crop only the extreme outer margin and apply one consistent perspective transform to the entire chart; do not redraw, regenerate, retype, clean up, sharpen, translate, replace or invent any part of the printed map. Place one closed or completely blank notebook and one plain pencil outside the printed chart area. Use neutral archival light and leave modest empty table space for editor-added labels. No handwriting, generated words, fake map labels, compass tools covering geography, red-string route, occult symbols, logo or watermark. If exact chart preservation is not possible, return the unmodified uploaded chart rather than an invented chart. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_CORRECTION_BATCH_S1_S2.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 7236220
+    },
+    {
+      "filename": "SHOT03_REM_VS_SLOW_WAVE_SOURCE_TABLE.png",
+      "references": [
+        "EP06_REM_Polysomnography_30sec.png",
+        "EP06_Slow_Wave_Sleep_PSG.jpg"
+      ],
+      "prompt": "Create a restrained 16:9 archival/science tabletop comparison using the two uploaded real sleep-record source images as separate preserved panels. Do not redraw or alter their traces. Place them against a dark neutral background with enough spacing for editor-added labels and arrows. The purpose is visual comparison, not a new medical claim. No fake data, generated labels, sci-fi interface or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "SKIPPED_EXISTING",
+      "bytes": 7032076
+    },
+    {
+      "filename": "SHOT04_EMPTY_BEDROOM_SHADOWS.png",
+      "references": [
+        "STYLE_CONCEPTUAL_EP06.png"
+      ],
+      "prompt": "Create a quiet 16:9 reserve image of an empty bedroom at night where ordinary furniture shadows can be read in more than one way. A coat, chair and doorway produce near-human shapes without forming a definite figure. Realistic practical light, deep graphite palette and subtle grain. Use as a perceptual bridge only. No actual person, ghost, demon, glowing eyes, text or watermark. Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.",
+      "source": "NANOBANANA_PROMPTS_V4_S3_S4.md",
+      "status": "GENERATED",
+      "bytes": 6348270
+    }
+  ]
+}

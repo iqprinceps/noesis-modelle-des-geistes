@@ -1,0 +1,14 @@
+ID: EP04B_CHAKRA_006
+Episode(s): EP04B
+Title: Leadbeater: Crown chakra plate, 1927
+Traffic light: GREEN
+License/status: Public domain / C. W. Leadbeater (d. 1934)
+Source page: https://commons.wikimedia.org/wiki/File:Chakracrown.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Chakracrown.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/e/eb/Chakracrown.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S6
+Shot use: Detail für Mutationssequenz; 2–3 s.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

@@ -1,0 +1,8 @@
+ID=EP04B_REF_001
+EPISODES=EP04B
+TITLE=Crown/Brow/Throat Chakras — Commons metadata conflict on region/date
+TRAFFIC_LIGHT=RED
+LICENSE=Rights appear public domain, but source metadata conflicts (title vs description); content/provenance not production-locked
+SOURCE_PAGE=https://commons.wikimedia.org/wiki/File:Crown%20Brow%20Throat%20Chakras%2C%20Rajasthan%2018th%20Century.jpg
+DIRECT_URL=
+NOTE=

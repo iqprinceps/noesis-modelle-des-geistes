@@ -1,0 +1,14 @@
+ID: EP04A_PLACE_002
+Episode(s): EP04A
+Title: Zürich Bahnhofplatz / Bahnhofstrasse, 1930
+Traffic light: YELLOW
+License/status: CC BY-SA 4.0 — Baugeschichtliches Archiv der Stadt Zürich
+Source page: https://commons.wikimedia.org/wiki/File:Bahnhofplatz%201930.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Bahnhofplatz%201930.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_SHAREALIKE
+Script act: S1;S4
+Shot use: Period establishing Zürich um 1930; 2–3 s. Nicht als Seminarort ausgeben.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

@@ -1,0 +1,8 @@
+ID=EP05_DOC02
+EPISODES=EP05
+TITLE=Naturerklärung und Psyche, 1952
+TRAFFIC_LIGHT=RED
+LICENSE=METADATA CLEARED — scan reproduction permission required
+SOURCE_PAGE=https://www.helveticarchives.ch/detail.aspx?ID=184586
+DIRECT_URL=
+NOTE=Use bibliographic reconstruction by default; no scan without permission.

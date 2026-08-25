@@ -1,0 +1,8 @@
+ID=EP04A_RECON_004
+EPISODES=EP04A
+TITLE=Philemon — non-Red-Book reconstruction only
+TRAFFIC_LIGHT=RED
+LICENSE=No media source by design — RECONSTRUCTION
+SOURCE_PAGE=
+DIRECT_URL=
+NOTE=

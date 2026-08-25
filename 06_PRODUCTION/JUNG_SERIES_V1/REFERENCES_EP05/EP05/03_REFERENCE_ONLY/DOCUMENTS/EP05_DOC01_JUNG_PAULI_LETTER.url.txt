@@ -1,0 +1,8 @@
+ID=EP05_DOC01
+EPISODES=EP05
+TITLE=Jung/Pauli correspondence scan
+TRAFFIC_LIGHT=RED
+LICENSE=PERMISSION REQUIRED — CERN/ETH correspondence is not automatically reusable
+SOURCE_PAGE=https://scientific-info.cern/archives/Pauli_archive/guide/letters
+DIRECT_URL=
+NOTE=Do not auto-download or use scan without explicit reproduction permission.

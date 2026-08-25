@@ -1,0 +1,14 @@
+ID: EP04B_PLACE_003
+Episode(s): EP04B
+Title: Theosophical Society Adyar – heutige Campusansicht
+Traffic light: YELLOW
+License/status: CC BY-SA 2.0 — Aleksandr Zykov
+Source page: https://commons.wikimedia.org/wiki/File:The%20Theosophical%20Society%20%286708431041%29.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Theosophical%20Society%20%286708431041%29.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/c/cf/The_Theosophical_Society_%286708431041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_SHAREALIKE
+Script act: S7;S8
+Shot use: Moderne Orts-/Kontinuitätsatmosphäre; als 2011-Aufnahme labeln.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

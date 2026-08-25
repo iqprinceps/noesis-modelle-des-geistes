@@ -1,0 +1,11 @@
+ID: EP05_SRC02
+Episode(s): EP05
+Title: Wolfgang Pauli, 1945
+Traffic light: GREEN
+License/status: Public Domain per locked source map
+Source page: https://commons.wikimedia.org/wiki/File:Pauli.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Pauli.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/4/43/Pauli.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Note: Optional second Pauli portrait.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

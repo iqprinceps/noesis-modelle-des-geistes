@@ -1,0 +1,14 @@
+ID: EP04A_DOC_001
+Episode(s): EP04A
+Title: Jung: Association Method – historische Chart/Abbildung
+Traffic light: GREEN
+License/status: Public domain / old work (Jung, 1910 context)
+Source page: https://commons.wikimedia.org/wiki/File:Association-Method.png
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Association-Method.png
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S2
+Shot use: Wissenschaftlicher Kontrast zu den späteren inneren Bildern; 2–3 s Detailpan.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

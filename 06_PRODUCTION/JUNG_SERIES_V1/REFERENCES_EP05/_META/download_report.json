@@ -1,0 +1,129 @@
+[
+  {
+    "id": "EP05_SRC01",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\02_REVIEW_YELLOW\\PORTRAITS\\SRC01_Wolfgang_Pauli_1924.jpg",
+    "bytes": 557246,
+    "sha256": "698a5e70287c6cf7fa02d1db540908dd8c2795457460ce9b766dcbbbeb74ea63",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wolfgang%20Pauli.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wolfgang_Pauli.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_SRC02",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\01_ORIGINAL_GREEN\\PORTRAITS\\SRC02_Wolfgang_Pauli_1945.jpg",
+    "bytes": 58999,
+    "sha256": "58ef202ed9f603f93e9c82d3e1062eab47aae8c97c3cc577010ad8f71b708d23",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pauli.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pauli.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_SRC03",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\02_REVIEW_YELLOW\\GROUPS\\SRC03_Solvay_Conference_1927_Version2.jpg",
+    "bytes": 444241,
+    "sha256": "7b164dfbc4ab6e491ce81972b8c0e076fdc4af622289d0aa3cb43ee3c2be4030",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Solvay%20conference%201927%20Version2.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Solvay_conference_1927_Version2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_SRC04",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\02_REVIEW_YELLOW\\GROUPS\\SRC04_Solvay_Conference_1927.jpg",
+    "bytes": 2671814,
+    "sha256": "ae76a5be54f53cca50074a0d1ac8653187154d264fc58ed928e1b92c27e17e2a",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Solvay%20conference%201927.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_SRC05",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\02_REVIEW_YELLOW\\PORTRAITS\\SRC05_Carl_Gustav_Jung_Portrait.jpg",
+    "bytes": 44065,
+    "sha256": "1918441815fb74dfedc708b9a2bd1e47957c393bd40cfacfe0ae4a97d52e2e4b",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carl%20Gustav%20Jung%20portrait.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Carl_Gustav_Jung_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_SRC06",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\02_REVIEW_YELLOW\\PLACES\\SRC06_ETH_Zuerich_Historical.jpg",
+    "bytes": 3833065,
+    "sha256": "b5b3a9304fbb7a70bc6941ca37668971859b64de3c2055e5b001e728afab5eaf",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ETH%20Zuerich%201880.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/ETH_Zuerich_1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_SRC07",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\01_ORIGINAL_GREEN\\PORTRAITS\\SRC07_Johannes_Kepler_Portrait.jpg",
+    "bytes": 643322,
+    "sha256": "90b53515521b0cde39787e5164ffcd6f7c79e2c8b55fcdd5895f20c301d42837",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20Johannes%20Kepler.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Portrait_of_Johannes_Kepler.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_SRC08",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\02_REVIEW_YELLOW\\SPECIES\\SRC08_Cetonia_Aurata_Species.jpg",
+    "bytes": 196846,
+    "sha256": "04a54f5adb343f43f9963741bd1c719bcc7c904510b7c8428c3f6fb2a4af50fb",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cetonia%20aurata.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cetonia_aurata.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_SRC09",
+    "status": "DOWNLOADED",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\01_ORIGINAL_GREEN\\SPECIES\\SRC09_Cetonia_Aurata_CC0.jpg",
+    "bytes": 1439585,
+    "sha256": "413162ee79d95e9a89a580a95a2fe33aca57a8f16a21dfad82f44c5dfb17037b",
+    "content_type": "image/jpeg",
+    "detected_mime": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cetonia-aurata-21-fws.jpg",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cetonia-aurata-21-fws.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "retrieval_variant": "wikimedia-3840px",
+    "attempt": 1
+  },
+  {
+    "id": "EP05_DOC01",
+    "status": "REFERENCE_ONLY",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\03_REFERENCE_ONLY\\DOCUMENTS\\EP05_DOC01_JUNG_PAULI_LETTER.url.txt"
+  },
+  {
+    "id": "EP05_DOC02",
+    "status": "REFERENCE_ONLY",
+    "path": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\03_REFERENCE_ONLY\\DOCUMENTS\\EP05_DOC02_NATURERKLAERUNG_UND_PSYCHE_1952.url.txt"
+  }
+]

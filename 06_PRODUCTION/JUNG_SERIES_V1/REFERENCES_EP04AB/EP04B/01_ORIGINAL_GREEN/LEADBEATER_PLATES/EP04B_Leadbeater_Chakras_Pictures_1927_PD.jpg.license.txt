@@ -1,0 +1,14 @@
+ID: EP04B_CHAKRA_002
+Episode(s): EP04B
+Title: Leadbeater: Chakras picture sheet, 1927
+Traffic light: GREEN
+License/status: Public domain / C. W. Leadbeater (d. 1934)
+Source page: https://commons.wikimedia.org/wiki/File:Leadbeater%27s%20Chakras%20Pictures.JPG
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Leadbeater%27s%20Chakras%20Pictures.JPG
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/b/be/Leadbeater%27s_Chakras_Pictures.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S5;S6
+Shot use: Hero-Plate-Set; dokumentiert die farbige clairvoyante Neuinterpretation.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

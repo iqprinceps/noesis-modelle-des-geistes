@@ -1,0 +1,14 @@
+ID: EP04A_OBJECT_001
+Episode(s): EP04A
+Title: Galvanometer aus Jungs Burghölzli-Kontext, 1904/1905
+Traffic light: GREEN
+License/status: Public domain / old work
+Source page: https://commons.wikimedia.org/wiki/File:Galvanom%C3%A8tre.png
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Galvanom%C3%A8tre.png
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S2
+Shot use: Starker Detailshot für klinisch-experimentellen Jung; 3–5 s. Nicht mit Kundalini verknüpfen.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

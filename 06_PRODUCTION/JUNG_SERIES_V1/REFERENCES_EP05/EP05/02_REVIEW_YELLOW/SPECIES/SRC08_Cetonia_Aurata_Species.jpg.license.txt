@@ -1,0 +1,11 @@
+ID: EP05_SRC08
+Episode(s): EP05
+Title: Cetonia aurata species reference
+Traffic light: YELLOW
+License/status: Commons source locked; verify concrete license block at download
+Source page: https://commons.wikimedia.org/wiki/File:Cetonia_aurata.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Cetonia%20aurata.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/f/f7/Cetonia_aurata.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Note: Species reference only; never claim this is Jung's historical beetle.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

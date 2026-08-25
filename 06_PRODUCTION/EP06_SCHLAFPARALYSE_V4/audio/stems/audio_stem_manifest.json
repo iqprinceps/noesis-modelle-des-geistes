@@ -1,0 +1,31 @@
+{
+  "episode": "EP06",
+  "duration_seconds": 639.036,
+  "sample_rate": 48000,
+  "channels": 2,
+  "subtype": "PCM_24",
+  "source_timing": "06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\VOICE_EP06\\master\\stem_report.json",
+  "generator_seed": 6062402,
+  "source": "project-owned deterministic synthesis",
+  "mix_note": "VO remains foreground; final bed about -30 LUFS, deliver at -14 LUFS +/-0.5 and <=-0.8 dBTP.",
+  "restrictions": [
+    "no third-party recordings",
+    "no jump scares",
+    "no trailer booms",
+    "no occult drones",
+    "no branded interface sounds",
+    "no sound that asserts a supernatural entity as fact"
+  ],
+  "files": [
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_MX_LOW.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_MX_HARMONIC.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_MX_NOISE.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_MX_MASTER.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_SFX_BEDROOM_ROOMTONE.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_SFX_FOOTSTEPS_DISTANT.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_SFX_MATTRESS_WEIGHT.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_SFX_SLEEP_LAB.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_SFX_EEG_MOTION.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\audio\\stems\\EP06_SFX_BREATH_BODY.wav"
+  ]
+}

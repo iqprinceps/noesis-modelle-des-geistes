@@ -1,0 +1,14 @@
+ID: EP04A_PORTRAIT_004
+Episode(s): EP04A
+Title: Jakob Wilhelm Hauer, 1935
+Traffic light: YELLOW
+License/status: CC BY-SA 3.0 DE — Bundesarchiv, Bild 183-2004-0413-500
+Source page: https://commons.wikimedia.org/wiki/File:Bundesarchiv%20Bild%20183-2004-0413-500%2C%20Prof.%20Jakob%20Wilhelm%20Hauer.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Bundesarchiv%20Bild%20183-2004-0413-500%2C%20Prof.%20Jakob%20Wilhelm%20Hauer.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_SHAREALIKE
+Script act: S4
+Shot use: Hauer-Reveal; Aufnahme 1935 labeln, nicht als Foto seines Zürcher Vortrags 1932.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

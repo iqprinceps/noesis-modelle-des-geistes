@@ -1,0 +1,8 @@
+ID=EP04A_RECON_002
+EPISODES=EP04A
+TITLE=Cave, red sun, beetle, corpse-like form — reconstruction only
+TRAFFIC_LIGHT=RED
+LICENSE=No media source by design — RECONSTRUCTION
+SOURCE_PAGE=
+DIRECT_URL=
+NOTE=

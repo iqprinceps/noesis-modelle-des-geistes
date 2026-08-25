@@ -1,0 +1,11 @@
+ID: EP05_SRC09
+Episode(s): EP05
+Title: Cetonia aurata alternative species reference
+Traffic light: GREEN
+License/status: CC0 per locked source map
+Source page: https://commons.wikimedia.org/wiki/File:Cetonia-aurata-21-fws.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Cetonia-aurata-21-fws.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/3/3d/Cetonia-aurata-21-fws.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Note: CC0 alternative retained in addition to SRC08.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

@@ -1,0 +1,14 @@
+ID: EP04A_GROUP_001
+Episode(s): EP04A
+Title: Clark University 1909: Freud, Jung u. a.
+Traffic light: GREEN
+License/status: Public domain; photographers Louis Schervee (d. 1923) / Franz Bushong (d. 1938), term expired
+Source page: https://commons.wikimedia.org/wiki/File:Freud%20at%20Clark%20University%20in%201909.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Freud%20at%20Clark%20University%20in%201909.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S2
+Shot use: Vor-1913 intellektuelles Umfeld; kurzer Gruppen-Reveal, 3–4 s.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

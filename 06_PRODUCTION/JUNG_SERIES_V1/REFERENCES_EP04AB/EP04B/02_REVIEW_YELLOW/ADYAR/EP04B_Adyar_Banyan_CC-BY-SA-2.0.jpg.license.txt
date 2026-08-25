@@ -1,0 +1,14 @@
+ID: EP04B_PLACE_004
+Episode(s): EP04B
+Title: Banyan Tree auf dem Adyar-Campus
+Traffic light: YELLOW
+License/status: CC BY-SA 2.0 — Aleksandr Zykov
+Source page: https://commons.wikimedia.org/wiki/File:Banyan%20Tree%20%286708442469%29.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Banyan%20Tree%20%286708442469%29.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/4/4e/Banyan_Tree_%286708442469%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_SHAREALIKE
+Script act: S7;S8
+Shot use: Atmosphärischer Hold für kulturelle Kontinuität; kein historischer Beleg.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

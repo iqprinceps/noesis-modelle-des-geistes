@@ -18,9 +18,9 @@ PROFILES={
 'EP04A':dict(summary='EP04A_JUNG_KUNDALINI_V5',cue='VISUAL_CUE_SHEET_V5_FINAL.csv',voice='EP04A_JUNG_KUNDALINI_V5_VO_MASTER.wav',alignment='EP04A_JUNG_KUNDALINI_V5_alignment.json',out='EP04A_JUNG_KUNDALINI_V5',camera='vision',zoom=.052,hold_zoom=.022,fade=.18,bg='#0B0A0D'),
 'EP04B':dict(summary='EP04B_CHAKRA_GENEALOGIE_V5',cue='VISUAL_CUE_SHEET_V5.csv',voice='EP04B_CHAKRA_GENEALOGIE_V5_VO_MASTER.wav',alignment='EP04B_CHAKRA_GENEALOGIE_V5_alignment.json',out='EP04B_CHAKRA_GENEALOGIE_V5',camera='archive',zoom=.042,hold_zoom=.015,fade=.12,bg='#11100E'),
 'EP05':dict(summary='EP05_JUNG_PAULI_V4',cue='VISUAL_CUE_SHEET.csv',cue_fallback='03_EPISODEN/TYPE_B/EP05_JUNG_PAULI/VISUAL_CUE_SHEET.csv',voice='EP05_JUNG_PAULI_V4_VO_MASTER.wav',alignment='EP05_JUNG_PAULI_V4_alignment.json',out='EP05_JUNG_PAULI_V4',camera='precision',zoom=.044,hold_zoom=.018,fade=.14,bg='#0D1014'),
-'EP06':dict(summary='EP06_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP06_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP06_SCHLAFPARALYSE_V4_alignment.json',out='EP06_SCHLAFPARALYSE_V4',camera='intimate',zoom=.048,hold_zoom=.020,fade=.16,bg='#090A0D'),
-'EP07':dict(summary='EP07_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP07_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP07_SCHLAFPARALYSE_V4_alignment.json',out='EP07_SCHLAFPARALYSE_V4',camera='archive',zoom=.038,hold_zoom=.014,fade=.12,bg='#100D0B'),
-'EP08':dict(summary='EP08_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP08_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP08_SCHLAFPARALYSE_V4_alignment.json',out='EP08_SCHLAFPARALYSE_V4',camera='network',zoom=.050,hold_zoom=.018,fade=.14,bg='#080B10')}
+'EP06':dict(summary='EP06_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP06_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP06_SCHLAFPARALYSE_V4_alignment.json',out='EP06_SCHLAFPARALYSE_V4',camera='intimate',zoom=.022,hold_zoom=.006,source_zoom=.008,fade=.16,bg='#090A0D'),
+'EP07':dict(summary='EP07_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP07_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP07_SCHLAFPARALYSE_V4_alignment.json',out='EP07_SCHLAFPARALYSE_V4',camera='archive',zoom=.015,hold_zoom=.004,source_zoom=.006,fade=.12,bg='#100D0B'),
+'EP08':dict(summary='EP08_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP08_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP08_SCHLAFPARALYSE_V4_alignment.json',out='EP08_SCHLAFPARALYSE_V4',camera='network',zoom=.024,hold_zoom=.007,source_zoom=.008,fade=.14,bg='#080B10')}
 
 def run(a,capture=False):
  p=subprocess.run(a,text=True,capture_output=capture)
@@ -47,6 +47,16 @@ def read_cues(p):
 def cue_id(r,i): return r.get('cue_id') or r.get('id') or r.get('act') or f'CUE{i+1:03d}'
 def cue_anchor(r): return r.get('voice_anchor') or r.get('anchor') or r.get('anchor_text') or ''
 def cue_scene(r): return r.get('section') or r.get('scene') or r.get('act') or ''
+
+def media_kind(q):
+ if not q:return 'MISSING'
+ if q.suffix.lower() in VIDEO_EXT:return 'VIDEO'
+ s=q.as_posix().upper(); stem=q.stem.upper()
+ if stem.startswith('CARD') or '/CARDS/' in s:return 'CARD'
+ documentary=('MAP','DOCUMENT','SCAN','PDF','TESTIMONY','DEPOSITION','EXAMINATION','RECORD','PSG','EEG','POLYSOMNOGRAPH','SOURCE_TABLE','MANIFEST','NEWSPAPER','LETTER','FILE_1947','DIAGRAM')
+ if any(token in stem for token in documentary):return 'SOURCE_STATIC'
+ if '/01_ORIGINAL_GREEN/' in s or '/02_REVIEW_YELLOW/' in s:return 'SOURCE'
+ return 'STILL'
 
 def alignment_chars(d):
  for x in [d]+[d[k] for k in ('alignment','normalized_alignment') if isinstance(d.get(k),dict)]:
@@ -135,9 +145,9 @@ def build_timeline(ep,p,cues,idx):
    s=start+span*j/n; e=start+span*(j+1)/n; q=visuals[j] if visuals else None; base=cue_id(row,i)
    shots.append(dict(shot_id=base if n==1 else f'{base}_{j+1:02d}',cue_id=base,scene=cue_scene(row),anchor=cue_anchor(row),
     pace=(row.get('pace') or 'normal').casefold(),function=row.get('edit_function') or row.get('edit_rule') or '',notes=row.get('notes') or '',
-    visual=str(q) if q else '',kind='VIDEO' if q and q.suffix.lower() in VIDEO_EXT else 'STILL',start=round(s,3),end=round(e,3),duration=round(e-s,3)))
+    visual=str(q) if q else '',kind=media_kind(q),start=round(s,3),end=round(e,3),duration=round(e-s,3)))
  for i,r in enumerate(shots):
-  r['scene_first']=i==0 or shots[i-1]['scene']!=r['scene']; r['scene_last']=i==len(shots)-1 or shots[i+1]['scene']!=r['scene']
+  r['scene_first']=i==0 or shots[i-1]['scene']!=r['scene']; r['scene_last']=i==len(shots)-1 or shots[i+1]['scene']!=r['scene']; r['motion_policy']=motion_policy(ep,i,r)
  p['timeline'].parent.mkdir(parents=True,exist_ok=True); p['timeline'].write_text(json.dumps({'episode':ep,'duration':total,'voice':str(p['voice']),'shots':shots},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
  miss=[r for r in shots if not r['visual']]; print(f'Timeline: {len(shots)} shots / {total:.2f}s / unresolved {len(miss)}')
  long=[r for r in shots if r['duration']>12]
@@ -152,16 +162,48 @@ def contain_needed(p):
   with Image.open(p) as im: ar=im.width/max(1,im.height)
   return not 1.62<=ar<=1.95
  except Exception:return False
+def motion_policy(ep,i,r):
+ kind=r.get('kind','STILL')
+ if kind=='VIDEO':return 'NATIVE_CLIP_NO_EXTERNAL_CAMERA'
+ if kind=='CARD':return 'STATIC_CARD'
+ if kind=='SOURCE_STATIC':return 'STATIC_SOURCE'
+ if kind=='SOURCE':return 'SUBTLE_SOURCE' if i%3==0 and r.get('pace') not in {'hold','reset'} else 'STATIC_SOURCE'
+ # Only about half of ordinary stills move; the rest are deliberately calm.
+ return 'SUBTLE_STILL' if i%2==0 and r.get('duration',0)>1.5 else 'STATIC_STILL'
+
+def base_filter(r,scale='1920:1080'):
+ # Die Hintergrundunschaerfe wird mit der Arbeitsaufloesung skaliert, sonst
+ # wirkt der Grund bei hoeher aufgeloester Kameravorlage schaerfer als geplant.
+ sigma=round(28*int(scale.split(':')[0])/1920,1)
+ if contain_needed(Path(r['visual'])):return f'split=2[fg][bg];[bg]scale={scale}:force_original_aspect_ratio=increase,crop={scale},gblur=sigma={sigma},eq=brightness=-0.24[back];[fg]scale={scale}:force_original_aspect_ratio=decrease[front];[back][front]overlay=(W-w)/2:(H-h)/2'
+ return f'scale={scale}:force_original_aspect_ratio=increase,crop={scale}'
+
 def camera_filter(ep,i,r):
- c=PROFILES[ep]; frames=max(2,round(r['duration']*FPS*SUB)); amount=c['hold_zoom'] if r.get('pace') in {'hold','reset'} else c['zoom']
+ c=PROFILES[ep]; policy=r.get('motion_policy') or motion_policy(ep,i,r); frames=max(2,round(r['duration']*FPS*SUB))
+ fade=float(c['fade']); fi=f",fade=t=in:st=0:d={fade:.3f}:color={c['bg']}" if r['scene_first'] else ''; fo=f",fade=t=out:st={max(0,r['duration']-fade):.3f}:d={fade:.3f}:color={c['bg']}" if r['scene_last'] else ''
+ if policy.startswith('STATIC_') or policy=='NATIVE_CLIP_NO_EXTERNAL_CAMERA':
+  return base_filter(r)+f',fps={FPS},format=yuv420p'+fi+fo
+ amount=c.get('source_zoom',.008) if policy=='SUBTLE_SOURCE' else (c['hold_zoom'] if r.get('pace') in {'hold','reset'} else c['zoom'])
  fam={'vision':['in','diag','out','up','in','left','out','right'],'archive':['left','right','in','down','right','out','up','left'],'precision':['in','right','out','left','down','in','up','right'],'intimate':['in','in','left','out','right','in','up','out'],'network':['diag','right','in','left','out','down','diag','up']}
- mode=fam[c['camera']][i%8]; z0,z1=(1,1+amount) if mode!='out' else (1+amount,1); p=f'on/{frames}'; q=f'(({p})*({p})*(3-2*({p})))'; z=f'({z0:.5f}+({z1-z0:.5f})*{q})'
+ mode='in' if policy=='SUBTLE_SOURCE' else fam[c['camera']][i%8]; z0,z1=(1,1+amount) if mode!='out' else (1+amount,1); p=f'on/{frames}'; q=f'(({p})*({p})*(3-2*({p})))'; z=f'({z0:.5f}+({z1-z0:.5f})*{q})'
  x=f'(iw-iw/zoom)*(0.70*(1-{q}))' if mode=='left' else f'(iw-iw/zoom)*(0.70*{q})' if mode=='right' else f'(iw-iw/zoom)*(0.15+0.55*{q})' if mode=='diag' else '(iw-iw/zoom)/2'
  y=f'(ih-ih/zoom)*(0.70*(1-{q}))' if mode=='up' else f'(ih-ih/zoom)*(0.70*{q})' if mode=='down' else f'(ih-ih/zoom)*(0.70-0.50*{q})' if mode=='diag' else '(ih-ih/zoom)/2'
- if contain_needed(Path(r['visual'])): base='split=2[fg][bg];[bg]scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,gblur=sigma=28,eq=brightness=-0.24[back];[fg]scale=1920:1080:force_original_aspect_ratio=decrease[front];[back][front]overlay=(W-w)/2:(H-h)/2,scale=3840:2160'
- else: base='scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160'
- fade=float(c['fade']); fi=f",fade=t=in:st=0:d={fade:.3f}:color={c['bg']}" if r['scene_first'] else ''; fo=f",fade=t=out:st={max(0,r['duration']-fade):.3f}:d={fade:.3f}:color={c['bg']}" if r['scene_last'] else ''
- return base+f",zoompan=z='{z}':x='{x}':y='{y}':d=1:s=1920x1080:fps={FPS*SUB},tblend=all_mode=average,framestep={SUB},fps={FPS},format=yuv420p"+fi+fo
+ # Produktionsstandard, "Die Fahrt muss glatt laufen": zoompan rechnet
+ # ganzzahlig. Sieht es die Vorlage in Ausgabegroesse, ist ein Schritt ein
+ # voller Ausgabepixel und die Fahrt laeuft in Stufen. Die Vorlage geht daher
+ # auf 7680x4320, und zoompan gibt in 3840x2160 aus; der anschliessende
+ # Lanczos-Downscale auf 1920 macht aus dem Ganzzahlschritt einen
+ # Viertelpixelschritt.
+ #
+ # zoompan direkt auf 1920 ausgeben zu lassen genuegt nicht - sein interner
+ # Scaler rastet dann wieder auf ganze Ausgabepixel (gemessen 0,41 statt 0,16).
+ #
+ # Zusaetzlich vier Zwischenschritte je Ausgabebild, gemittelt mit tmix: die
+ # vier Positionen runden unterschiedlich, ihr Mittel bewegt sich in Vierteln.
+ # tblend mittelte nur je zwei von vier Subframes und warf den Rest weg.
+ base=base_filter(r,'7680:4320')
+ weights=' '.join(['1']*SUB)
+ return base+f",zoompan=z='{z}':x='{x}':y='{y}':d=1:s=3840x2160:fps={FPS*SUB},tmix=frames={SUB}:weights='{weights}',framestep={SUB},scale=1920:1080:flags=lanczos,fps={FPS},format=yuv420p"+fi+fo
 
 def render(ep,p,shots):
  miss=[r for r in shots if not r['visual'] or not Path(r['visual']).is_file()]

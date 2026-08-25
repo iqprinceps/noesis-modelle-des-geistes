@@ -1,0 +1,8 @@
+ID=EP04B_REF_002
+EPISODES=EP04B
+TITLE=Sir John George Woodroffe portrait, NPG x42937, 1928
+TRAFFIC_LIGHT=RED
+LICENSE=Rights-managed / NPG reuse permission required; no production-safe reusable file confirmed
+SOURCE_PAGE=https://www.npg.org.uk/collections/search/portrait/mw173985/Sir-John-George-Woodroffe
+DIRECT_URL=
+NOTE=

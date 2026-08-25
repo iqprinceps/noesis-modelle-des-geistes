@@ -1,0 +1,14 @@
+ID: EP04B_GROUP_001
+Episode(s): EP04B
+Title: Annie Besant und C. W. Leadbeater, London 1901
+Traffic light: GREEN
+License/status: Public domain / PD-Art / old photograph
+Source page: https://commons.wikimedia.org/wiki/File:Annie%20Besant%20and%20CWLeadbeater%20London%201901.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Annie%20Besant%20and%20CWLeadbeater%20London%201901.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/5/5c/Annie_Besant_and_CWLeadbeater_London_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S5
+Shot use: Theosophisches Netzwerk; kurzer Kontextbeat, exaktes Jahr 1901 labeln.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

@@ -1,0 +1,14 @@
+ID: EP04B_PLACE_001
+Episode(s): EP04B
+Title: Theosophical Society Headquarters Adyar, 1890
+Traffic light: GREEN
+License/status: Public domain / old work
+Source page: https://commons.wikimedia.org/wiki/File:Adyar%20TG.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Adyar%20TG.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/5/5a/Adyar_TG.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S5
+Shot use: Historischer Ortsanker für Theosophie/Adyar; 3–4 s.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

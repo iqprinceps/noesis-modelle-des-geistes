@@ -1,0 +1,11 @@
+ID: EP05_SRC06
+Episode(s): EP05
+Title: ETH Zürich, historical 1880
+Traffic light: YELLOW
+License/status: Commons / Baugeschichtliches Archiv; verify concrete rights block
+Source page: https://commons.wikimedia.org/wiki/File:ETH_Zuerich_1880.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/ETH%20Zuerich%201880.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/d/d9/ETH_Zuerich_1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Note: Institutional context; not an exact image of Pauli's ETH years.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

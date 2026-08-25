@@ -1,0 +1,14 @@
+ID: EP04B_PORTRAIT_002
+Episode(s): EP04B
+Title: Charles Webster Leadbeater — alternative historical photograph
+Traffic light: GREEN
+License/status: Public domain / old photograph
+Source page: https://commons.wikimedia.org/wiki/File:Charles%20Webster%20Leadbeater.005.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Webster%20Leadbeater.005.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/0/0d/Charles_Webster_Leadbeater.005.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S5
+Shot use: Variation nach Hero-Portrait; nicht zwei Portraits direkt nacheinander halten.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

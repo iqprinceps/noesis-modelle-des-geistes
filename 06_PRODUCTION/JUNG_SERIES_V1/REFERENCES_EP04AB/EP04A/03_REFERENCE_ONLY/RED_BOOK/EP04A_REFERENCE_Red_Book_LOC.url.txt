@@ -1,0 +1,8 @@
+ID=EP04A_REF_001
+EPISODES=EP04A
+TITLE=C. G. Jung, The Red Book / Liber Novus — Library of Congress exhibition reference
+TRAFFIC_LIGHT=RED
+LICENSE=Copyrighted modern publication/art reproduction; research/reference only unless separately cleared
+SOURCE_PAGE=https://www.loc.gov/exhibits/red-book-of-carl-jung/the-red-book-and-beyond.html
+DIRECT_URL=
+NOTE=

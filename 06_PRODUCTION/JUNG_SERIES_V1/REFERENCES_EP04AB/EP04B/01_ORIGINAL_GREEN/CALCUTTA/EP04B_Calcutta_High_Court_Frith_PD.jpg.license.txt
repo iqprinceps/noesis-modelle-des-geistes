@@ -1,0 +1,14 @@
+ID: EP04B_PLACE_005
+Episode(s): EP04B
+Title: High Court of Calcutta — historische Ansicht von Francis Frith
+Traffic light: GREEN
+License/status: Public domain / Francis Frith (1822–1898), term expired
+Source page: https://commons.wikimedia.org/wiki/File:High%20Court%20of%20Calcutta%20%28Third%20view%29%20by%20Francis%20Frith.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/High%20Court%20of%20Calcutta%20%28Third%20view%29%20by%20Francis%20Frith.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/2/23/High_Court_of_Calcutta_%28Third_view%29_by_Francis_Frith.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S4
+Shot use: Woodroffe/kolonialer Rechtskontext; als 19.-Jh.-Ansicht labeln, nicht exakte Woodroffe-Aufnahme.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

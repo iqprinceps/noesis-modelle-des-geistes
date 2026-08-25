@@ -1,0 +1,14 @@
+ID: SHARED_CHAKRA_002
+Episode(s): EP04A;EP04B
+Title: Traditional Hindu Diagram of Brow Chakra — The Serpent Power, early edition context
+Traffic light: GREEN
+License/status: Public domain / old work
+Source page: https://commons.wikimedia.org/wiki/File:Traditional%20Hindu%20Diagram%20of%20Brow%20Chakra.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Traditional%20Hindu%20Diagram%20of%20Brow%20Chakra.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/3/3e/Traditional_Hindu_Diagram_of_Brow_Chakra.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: EP04A S7 / EP04B S3;S6
+Shot use: Detailbeleg für historische Symbolgrammatik; 3–5 s Detailcrop.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

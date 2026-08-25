@@ -1,0 +1,8 @@
+ID=EP04B_RECON_001
+EPISODES=EP04B
+TITLE=1919 The Serpent Power first-edition title beat — typography reconstruction
+TRAFFIC_LIGHT=RED
+LICENSE=No media source by design — RECONSTRUCTION
+SOURCE_PAGE=
+DIRECT_URL=
+NOTE=

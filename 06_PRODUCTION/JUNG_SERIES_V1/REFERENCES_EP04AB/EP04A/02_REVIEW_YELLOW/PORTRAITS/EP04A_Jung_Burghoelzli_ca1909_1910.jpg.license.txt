@@ -1,0 +1,14 @@
+ID: EP04A_PORTRAIT_001
+Episode(s): EP04A
+Title: C. G. Jung vor dem Burghölzli, ca. 1909/1910
+Traffic light: YELLOW
+License/status: Public domain in the U.S.; Commons warns status may differ in Germany/Switzerland because author is unknown
+Source page: https://commons.wikimedia.org/wiki/File:Jung%201910.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Jung%201910.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_RIGHTS_JURISDICTION_REVIEW
+Script act: S2
+Shot use: Früher Jung/medizinische Identität; 3–4 s. Nicht als 1932-Portrait ausgeben.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

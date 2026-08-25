@@ -4,6 +4,9 @@
 **Referenzfolge:** EP02 Gateway V7 (`06_PRODUCTION/EP02_GATEWAY_V7/`)
 **Gilt für:** alle folgenden Episoden
 
+**Verbindliche Ergänzung für alle Zuschauerkarten und Motion-Erklärbilder:**
+[`00D_ZUSCHAUERKARTEN_STANDARD.md`](00D_ZUSCHAUERKARTEN_STANDARD.md). Jede neue Folge muss dessen Verständlichkeits-, Quellen- und Human-Editorial-Abnahme bestehen; Produktionscodes, reine Stichworttafeln und technische KI-/Dashboard-Ästhetik gehören nicht ins Zuschauerbild.
+
 ---
 
 Dieses Dokument hält fest, wie EP02 V7 gebaut wurde. Es ist kein Konzept,

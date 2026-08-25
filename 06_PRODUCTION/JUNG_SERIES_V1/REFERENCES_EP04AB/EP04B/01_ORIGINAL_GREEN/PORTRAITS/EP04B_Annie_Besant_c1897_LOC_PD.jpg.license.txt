@@ -1,0 +1,14 @@
+ID: EP04B_PORTRAIT_003
+Episode(s): EP04B
+Title: Annie Besant — Library of Congress portrait, ca. 1897
+Traffic light: GREEN
+License/status: Public domain / Library of Congress old photograph
+Source page: https://commons.wikimedia.org/wiki/File:Annie%20Besant%2C%20half-length%20portrait%2C%20seated%2C%20facing%20slightly%20right%20LCCN91786293.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Annie%20Besant%2C%20half-length%20portrait%2C%20seated%2C%20facing%20slightly%20right%20LCCN91786293.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/4/4c/Annie_Besant%2C_half-length_portrait%2C_seated%2C_facing_slightly_right_LCCN91786293.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S5
+Shot use: Zusätzlicher Theosophie-Kontext; nicht als 1927-Aufnahme ausgeben.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

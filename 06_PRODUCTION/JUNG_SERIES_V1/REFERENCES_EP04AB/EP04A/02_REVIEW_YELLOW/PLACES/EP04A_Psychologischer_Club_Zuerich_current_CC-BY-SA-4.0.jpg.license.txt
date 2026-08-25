@@ -1,0 +1,14 @@
+ID: EP04A_PLACE_001
+Episode(s): EP04A
+Title: Psychologischer Club Zürich, Gemeindestrasse 27 – heutige Außenansicht
+Traffic light: YELLOW
+License/status: CC BY-SA 4.0
+Source page: https://commons.wikimedia.org/wiki/File:Gemeindestra%C3%9Fe%2027,%20Z%C3%BCrich.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Gemeindestra%C3%9Fe%2027%2C%20Z%C3%BCrich.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_SHAREALIKE
+Script act: S1;S4
+Shot use: Heutiges Clubhaus als Ortsanker; immer als heutige Ansicht kennzeichnen, nicht als Foto des Seminars 1932.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

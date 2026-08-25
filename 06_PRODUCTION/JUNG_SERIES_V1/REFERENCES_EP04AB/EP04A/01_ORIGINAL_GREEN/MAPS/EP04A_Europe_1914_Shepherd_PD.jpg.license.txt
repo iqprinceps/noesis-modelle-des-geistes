@@ -1,0 +1,14 @@
+ID: EP04A_MAP_001
+Episode(s): EP04A
+Title: Europa 1914 – Shepherd Historical Atlas map
+Traffic light: GREEN
+License/status: Public domain / old atlas work
+Source page: https://commons.wikimedia.org/wiki/File:Europe%201914%20Shepherd.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Europe%201914%20Shepherd.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S2
+Shot use: 1914-Kriegssnap / Zeitanker; 2–3 s, nicht als Beleg für Jungs Vision.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

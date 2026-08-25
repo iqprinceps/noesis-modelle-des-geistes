@@ -1,0 +1,8 @@
+ID=EP04B_REF_003
+EPISODES=EP04B
+TITLE=Atal Bihari Ghose / Woodroffe collaboration research reference
+TRAFFIC_LIGHT=RED
+LICENSE=Research source; no verified reusable portrait found
+SOURCE_PAGE=https://soas-repository.worktribe.com/output/415744/the-creation-of-a-legendary-orientalist-sir-john-woodroffe-as-arthur-avalon-in-calcutta
+DIRECT_URL=
+NOTE=

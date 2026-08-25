@@ -1,0 +1,8 @@
+ID=EP04A_RECON_005
+EPISODES=EP04A
+TITLE=Zurich 1932 seminar room / audience — reconstruction only
+TRAFFIC_LIGHT=RED
+LICENSE=No media source by design — RECONSTRUCTION
+SOURCE_PAGE=
+DIRECT_URL=
+NOTE=

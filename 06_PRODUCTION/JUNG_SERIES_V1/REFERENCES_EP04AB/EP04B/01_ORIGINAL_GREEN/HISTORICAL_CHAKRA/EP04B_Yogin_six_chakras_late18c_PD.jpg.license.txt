@@ -1,0 +1,14 @@
+ID: EP04B_CHAKRA_008
+Episode(s): EP04B
+Title: Yogin with six chakras, Kangra/Punjab Hills, late 18th century
+Traffic light: GREEN
+License/status: Public domain / old Indian artwork
+Source page: https://commons.wikimedia.org/wiki/File:Yogin%20with%20six%20chakras,%20India,%20Punjab%20Hills,%20Kangra,%20late%2018th%20century.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Yogin%20with%20six%20chakras%2C%20India%2C%20Punjab%20Hills%2C%20Kangra%2C%20late%2018th%20century.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/a/ae/Yogin_with_six_chakras%2C_India%2C_Punjab_Hills%2C_Kangra%2C_late_18th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_LOW_RES
+Script act: S2;S3
+Shot use: Starker Six-beat / historische Fremdheit. Nur 250×498 px: kurz/mit kontrolliertem Crop.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

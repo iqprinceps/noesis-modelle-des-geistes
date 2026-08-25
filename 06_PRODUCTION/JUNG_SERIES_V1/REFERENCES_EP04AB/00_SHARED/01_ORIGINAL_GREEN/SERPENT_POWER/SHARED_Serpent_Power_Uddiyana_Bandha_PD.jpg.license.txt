@@ -1,0 +1,14 @@
+ID: SHARED_CHAKRA_003
+Episode(s): EP04A;EP04B
+Title: Uddiyana Bandha in Siddhasana — plate from The Serpent Power
+Traffic light: GREEN
+License/status: Public domain / old work
+Source page: https://commons.wikimedia.org/wiki/File:Plate%20XII.%20Uddiyana%20Bandha%20in%20Siddhasana%20%E2%80%94%202nd%20Stage.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Plate%20XII.%20Uddiyana%20Bandha%20in%20Siddhasana%20%E2%80%94%202nd%20Stage.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/d/db/Plate_XII._Uddiyana_Bandha_in_Siddhasana_%E2%80%94_2nd_Stage.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: EP04A S4 / EP04B S3
+Shot use: Historischer Praxis-/Körperkontext; nie als anatomischer Chakra-Beweis verwenden.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

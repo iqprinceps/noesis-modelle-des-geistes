@@ -1,0 +1,14 @@
+ID: EP04B_PORTRAIT_001
+Episode(s): EP04B
+Title: Charles Webster Leadbeater, ca. 1925
+Traffic light: GREEN
+License/status: Public domain / author died 1934
+Source page: https://commons.wikimedia.org/wiki/File:Charles%20Webster%20Leadbeater.001.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Webster%20Leadbeater.001.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/0/01/Charles_Webster_Leadbeater.001.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S5
+Shot use: Leadbeater-Hero-Portrait; 3–4 s.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

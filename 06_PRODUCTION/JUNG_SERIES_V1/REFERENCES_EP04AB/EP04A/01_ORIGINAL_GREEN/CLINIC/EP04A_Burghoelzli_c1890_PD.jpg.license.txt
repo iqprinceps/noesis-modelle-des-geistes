@@ -1,0 +1,14 @@
+ID: EP04A_PLACE_003
+Episode(s): EP04A
+Title: Klinik Burghölzli um 1890 – historische Darstellung
+Traffic light: GREEN
+License/status: Public domain / old work; Graphische Sammlung ZB Zürich
+Source page: https://commons.wikimedia.org/wiki/File:Burgh%C3%B6lzli%20Stich.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Burgh%C3%B6lzli%20Stich.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S2
+Shot use: Psychiatrischer Institutionsanker; langsamer Push-in 4 s.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

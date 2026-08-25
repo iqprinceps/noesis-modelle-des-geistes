@@ -1,0 +1,134 @@
+{
+  "episodes": {
+    "EP06": {
+      "passed": true,
+      "failures": [],
+      "core_stills": 40,
+      "core_resolution": "2560x1440",
+      "duplicate_groups": [],
+      "cards": 7,
+      "main_clips": 4,
+      "reserve_clips": 4,
+      "clip_details": {
+        "CLIP001_SOUL_BODY_OFFSET.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP002_REM_SIGNAL_GATE.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP003_OLD_HAG_THRESHOLD.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP004_PRESENCE_GEOMETRY.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        }
+      },
+      "queue_entries": 40,
+      "queue_bad_prefix": [],
+      "queue_missing": []
+    },
+    "EP07": {
+      "passed": true,
+      "failures": [],
+      "core_stills": 24,
+      "core_resolution": "2752x1536",
+      "duplicate_groups": [],
+      "cards": 7,
+      "main_clips": 4,
+      "reserve_clips": 6,
+      "clip_details": {
+        "CLIP001_CULTURAL_MASKS.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP002_NIGHTMARE_PRESSURE.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP004_FEEDBACK_ENTITY.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        }
+      },
+      "queue_entries": 24,
+      "queue_bad_prefix": [],
+      "queue_missing": []
+    },
+    "EP08": {
+      "passed": true,
+      "failures": [],
+      "core_stills": 40,
+      "core_resolution": "2560x1440",
+      "duplicate_groups": [],
+      "cards": 8,
+      "main_clips": 4,
+      "reserve_clips": 8,
+      "clip_details": {
+        "CLIP001_RADIO_NETWORK_ENTITY.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP002_SHADOW_DETACHES.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP003_MEMORY_RECONSTRUCTION.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP004_COLLECTIVE_IMAGE_LOOP.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        }
+      },
+      "queue_entries": 40,
+      "queue_bad_prefix": [],
+      "queue_missing": []
+    }
+  },
+  "passed": true
+}

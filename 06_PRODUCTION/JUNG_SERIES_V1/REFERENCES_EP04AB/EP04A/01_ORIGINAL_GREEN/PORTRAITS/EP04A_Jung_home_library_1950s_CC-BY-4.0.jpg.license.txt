@@ -1,0 +1,14 @@
+ID: EP04A_PORTRAIT_002
+Episode(s): EP04A
+Title: C. G. Jung in seiner Hausbibliothek in Küsnacht, 1950er
+Traffic light: GREEN
+License/status: CC BY 4.0 — Kairos Film Foundation photo
+Source page: https://commons.wikimedia.org/wiki/File:Carl_Gustav_(C.G.)_Jung_at_his_home_library_in_K%C3%BCsnacht,%20Switzerland._Kairos_Film_Foundation_photo.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Carl%20Gustav%20%28C.G.%29%20Jung%20at%20his%20home%20library%20in%20K%C3%BCsnacht%2C%20Switzerland.%20Kairos%20Film%20Foundation%20photo.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S3;S8
+Shot use: Intimer Jung-Beat; 1950er klar labeln, nicht als 1913/1932-Aufnahme verwenden.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

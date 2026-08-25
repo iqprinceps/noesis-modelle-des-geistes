@@ -9,7 +9,7 @@
 Wie EP05 Jung–Pauli gilt pro Bild ausschließlich:
 
 ```text
-EP06_IMG001_1963_BEDROOM_DOOR.png
+IMG001_1963_BEDROOM_DOOR.png
 Referenz: STYLE_CINEMATIC_EP06.png
 Prompt:
 <vollständiger eigenständiger Prompt>

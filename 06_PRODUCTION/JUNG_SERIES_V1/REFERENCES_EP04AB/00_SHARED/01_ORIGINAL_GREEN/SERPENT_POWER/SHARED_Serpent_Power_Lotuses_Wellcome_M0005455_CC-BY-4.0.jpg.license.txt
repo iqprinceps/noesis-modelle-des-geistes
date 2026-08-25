@@ -1,0 +1,14 @@
+ID: SHARED_CHAKRA_001
+Episode(s): EP04A;EP04B
+Title: The centres or Lotuses of Yoga — Serpent Power / Wellcome M0005455
+Traffic light: GREEN
+License/status: CC BY 4.0 — Wellcome Library, London, M0005455
+Source page: https://commons.wikimedia.org/wiki/File:The%20centres%20or%20Lotuses%20of%20Yoga%2C%20in%20Avalon%27s%20The%20Serpent%20Power%20Wellcome%20M0005455.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20centres%20or%20Lotuses%20of%20Yoga%2C%20in%20Avalon%27s%20The%20Serpent%20Power%20Wellcome%20M0005455.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: EP04A S1;S4;S7 / EP04B S3;S6
+Shot use: Hero-Beleg: historisches Chakra-/Lotusbild. In EP04A niemals als Jungs persönliche schwarze Schlange ausgeben.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

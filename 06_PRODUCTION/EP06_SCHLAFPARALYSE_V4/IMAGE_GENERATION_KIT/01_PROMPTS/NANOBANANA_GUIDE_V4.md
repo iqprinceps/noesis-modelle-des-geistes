@@ -9,7 +9,7 @@
 Wie EP05 Jung–Pauli gilt pro Bild ausschließlich:
 
 ```text
-EP06_IMG001_1963_BEDROOM_DOOR.png
+IMG001_1963_BEDROOM_DOOR.png
 Referenz: STYLE_CINEMATIC_EP06.png
 Prompt:
 <vollständiger eigenständiger Prompt> Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.

@@ -9,7 +9,7 @@
 Wie EP05 Jung–Pauli:
 
 ```text
-EP08_IMG001_ART_BELL_RADIO_RECON.png
+IMG001_ART_BELL_RADIO_RECON.png
 Referenz: STYLE_MEDIA_EP08.png
 Prompt:
 <vollständiger eigenständiger Prompt> Keep the image visually readable on ordinary laptop and phone screens: use lifted but natural midtones, visible shadow detail, clear subject-background separation, and at least one warm or neutral visual anchor. Reserve true black for small accents only; do not crush large regions into featureless darkness or apply a uniformly bleak or depressive grade.

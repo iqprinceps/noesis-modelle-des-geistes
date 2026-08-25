@@ -1,0 +1,8 @@
+ID=SHARED_BOOK_001
+EPISODES=EP04A;EP04B
+TITLE=Arthur Avalon / John Woodroffe — The Serpent Power, 1924 scan
+TRAFFIC_LIGHT=GREEN
+LICENSE=Internet Archive item metadata: dc.rights 'In public domain'
+SOURCE_PAGE=https://archive.org/details/in.ernet.dli.2015.283748
+DIRECT_URL=https://archive.org/download/in.ernet.dli.2015.283748/2015.283748.The-Serpent.pdf
+NOTE=

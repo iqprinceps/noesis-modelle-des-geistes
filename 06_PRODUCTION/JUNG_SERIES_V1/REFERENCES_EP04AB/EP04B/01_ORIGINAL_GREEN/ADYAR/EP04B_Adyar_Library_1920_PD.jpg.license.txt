@@ -1,0 +1,14 @@
+ID: EP04B_PLACE_002
+Episode(s): EP04B
+Title: Library building, Theosophical Society Adyar, 1920
+Traffic light: GREEN
+License/status: Public domain / 1920 publication
+Source page: https://commons.wikimedia.org/wiki/File:Library%20building%20at%20Theosophical%20Society%2C%20Adyar%20from%20Grandhalaya%20Sarvasvamu.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Library%20building%20at%20Theosophical%20Society%2C%20Adyar%20from%20Grandhalaya%20Sarvasvamu.jpg
+Resolved final URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Library_building_at_Theosophical_Society%2C_Adyar_from_Grandhalaya_Sarvasvamu.jpg/3840px-Library_building_at_Theosophical_Society%2C_Adyar_from_Grandhalaya_Sarvasvamu.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S4;S5
+Shot use: Text-/Archiv-/Vermittlungswelt; langsamer Detailpush.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

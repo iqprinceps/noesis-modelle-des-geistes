@@ -69,6 +69,8 @@ def main() -> int:
 
     counts = Counter(all_paths)
     duplicates = {k: v for k, v in counts.items() if v > 2}
+    reused_slots = sum(count - 1 for count in counts.values() if count > 1)
+    reuse_ratio = reused_slots / max(1, len(all_paths))
     adjacent = []
     for paths in act_paths:
         for a, b in zip(paths, paths[1:]):
@@ -81,6 +83,7 @@ def main() -> int:
     print(f"{args.episode} V5 coverage")
     print(f"Manifest: {manifest}")
     print(f"Media paths: {total} / target {target}")
+    print(f"Unique paths: {len(counts)}; repeated slots: {reused_slots} ({reuse_ratio:.1%})")
 
     if total < target - args.allow_shortfall:
         print(f"FAIL: coverage shortfall {target-total} exceeds allowed {args.allow_shortfall}")
@@ -112,6 +115,12 @@ def main() -> int:
         fail = True
     else:
         print("OK: no path used more than twice")
+
+    if reuse_ratio > 0.15:
+        print(f"FAIL: repeated-slot ratio {reuse_ratio:.1%} exceeds the improved 15% ceiling")
+        fail = True
+    else:
+        print("OK: repeated-slot ratio <= 15%")
 
     missing = [x for x in all_paths if not (Path(x) if Path(x).is_absolute() else ROOT / x).is_file()]
     if missing:

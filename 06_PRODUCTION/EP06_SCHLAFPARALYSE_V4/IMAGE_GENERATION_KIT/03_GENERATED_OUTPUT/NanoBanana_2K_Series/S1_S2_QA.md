@@ -1,26 +1,27 @@
-# EP06 S1–S2 — Bildauswahl und QA
+# EP06 — Finale Bildauswahl und QA
 
 **Stand:** 24.08.2026  
-**Ergebnis:** 5/8 MAIN-Motive und 1/2 RESERVE-Motive verwendbar.
+**Status:** FREIGEGEBEN  
+**Umfang:** 32 MAIN-Bilder + 8 SHOT/RESERVE-Bilder
 
-## Verwendbare Bilder
+Die frühere S1–S2-Nachbesserung ist abgeschlossen. `IMG004`, `IMG006`, `IMG008` und `SHOT02` liegen jetzt als freigegebene Endfassungen vor. Diese Datei ersetzt den früheren Hinweis auf noch fehlende Motive.
 
-| Prompt | Finale Datei | Auswahlgrund |
-|---|---|---|
-| IMG001 | `EP06_IMG001_1963_BEDROOM_DOOR.png` | Blick vom Bett, gewöhnlicher leerer Flur, keine sichtbare Kreatur |
-| IMG002 | `EP06_IMG002_FOOTSTEPS_APPROACH.png` | leerer Tür-/Flurbereich mit räumlicher Spannung, keine Person |
-| IMG003 | `EP06_IMG003_HAND_WILL_NOT_MOVE.png` | Hand schwebt vor dem Schalter und berührt ihn nicht |
-| IMG005 | `EP06_IMG005_CHEST_PRESSURE_CLOSE.png` | Druckgefühl wird nur durch Körperspannung und weichen Brustschatten vermittelt |
-| IMG007 | `EP06_IMG007_FOGO_PLACE_ANCHOR_RECON.png` | lesbarer, realistischer Fogo-Island-Ortsanker bei grauem Atlantikwetter |
-| RSV01 | `EP06_RSV01_EMPTY_HALLWAY.png` | leerer institutioneller Flur ohne übernatürliches Element |
+## Abschlussprüfung
 
-## Neu zu generieren
+- 40 von 40 erwarteten Bildern vorhanden
+- alle Dateien exakt 2560 × 1440 und horizontal 16:9
+- ausschließlich Dateinamen mit `IMGxxx_` oder `SHOTxx_`
+- keine fehlenden Promptmotive
+- keine unerlaubten konkreten Gestalten in den als leer/ambivalent definierten Frames
+- keine sichtbaren Wasserzeichen oder unbeabsichtigten Text-Overlays
+- Schattenzeichnung und Mitteltöne auf mobile Lesbarkeit geprüft
+- durchschnittliche Mean-Luma: 69,1; niedrigste Mean-Luma: 41,38
+- Admiralty Chart und Polysomnografie-Vergleiche aus den echten lokalen Quellen aufgebaut, nicht generativ neu gezeichnet
 
-| Prompt | Problem der gelieferten Varianten |
-|---|---|
-| IMG004 — `EP06_IMG004_MATTRESS_WEIGHT.png` | Beide Varianten zeigen starke Doppelbelichtungen/Geisterbilder statt einer subtilen, physikalisch plausiblen Matratzenvertiefung. |
-| IMG006 — `EP06_IMG006_MALEVOLENT_PRESENCE_NEGATIVE_SPACE.png` | Beide Varianten wurden in 9:16 ausgegeben; verlangt ist 16:9. Die negative Raumform ist außerdem nicht sauber lesbar. |
-| IMG008 — `EP06_IMG008_OLD_HAG_BEDROOM_PATTERN.png` | Beide Varianten zeigen eine zu konkrete Gestalt beziehungsweise doppelte Betten/Personen und widersprechen damit der geforderten Ambiguität. |
-| RSV02 — `EP06_RSV02_FOGO_MAP_TABLE.png` | Beide Varianten regenerieren und verändern die Geografie der echten Admiralty Chart. Eine Variante ergänzt zusätzlich erfundenen Notiztext. Das reale Kartenasset muss unverändert als zentrales Objekt eingebettet werden. |
+## Technische Nachweise
 
-Die 14 verworfenen Varianten wurden nach dem Sichtvergleich aus diesem Ordner entfernt und in den Windows-Papierkorb verschoben.
+- `EP06_SHOT_QA.json` — maschinenlesbare Einzelprüfung mit Hashes, Abmessungen, Helligkeit und Erzeugungsmethode
+- `EP06_SHOT_SEQUENCE.csv` — geordnete MAIN-/RESERVE-Shotliste
+- `QA_CONTACT_SHEETS/` — zehn beschriftete Kontaktbögen zur Sichtprüfung
+
+Nicht freigegebene Zwischenvarianten befinden sich nicht in diesem Ausgabeordner. Endfassungen wurden direkt unter ihren verbindlichen Namen abgelegt.

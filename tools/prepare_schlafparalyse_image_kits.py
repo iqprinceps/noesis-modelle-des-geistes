@@ -64,7 +64,7 @@ def split_refs(value: str) -> list[str]:
 def parse_prompt_file(path: Path) -> list[dict]:
     lines = path.read_text(encoding="utf-8").splitlines()
     out: list[dict] = []
-    output_re = re.compile(r"^(EP\d{2}_(?:IMG|RSV)\d+_.+\.png)\s*$")
+    output_re = re.compile(r"^((?:(?:EP\d{2}_)?(?:IMG|RSV)\d+|SHOT\d+)_.+\.png)\s*$")
     for i, line in enumerate(lines):
         hit = output_re.match(line)
         if not hit:
@@ -74,7 +74,7 @@ def parse_prompt_file(path: Path) -> list[dict]:
         if not ref_line:
             raise RuntimeError(f"Missing reference line after {path}:{i + 1}")
         out.append({
-            "kind": "RESERVE" if "_RSV" in output else "MAIN",
+            "kind": "RESERVE" if "_RSV" in output or output.startswith("RSV") or output.startswith("SHOT") else "MAIN",
             "output_filename": output,
             "references": split_refs(ref_line.split(":", 1)[1]),
             "prompt_source": path.name,
@@ -143,6 +143,17 @@ def friendly_asset_name(ep: str, source: Path) -> str:
     return f"{ep}_{stem}{source.suffix.lower()}"
 
 
+def friendly_output_name(ep: str, filename: str) -> str:
+    """Use editor-friendly output names without a redundant episode prefix."""
+    main_prefix = f"{ep}_IMG"
+    if filename.startswith(main_prefix):
+        return filename.removeprefix(f"{ep}_")
+    reserve = re.fullmatch(rf"{re.escape(ep)}_RSV(\d{{2}})_(.+\.png)", filename)
+    if reserve:
+        return f"SHOT{reserve.group(1)}_{reserve.group(2)}"
+    return filename
+
+
 def copy_prompt_with_names(source: Path, target: Path, name_map: dict[str, str]) -> None:
     text = source.read_text(encoding="utf-8")
     for old, new in sorted(name_map.items(), key=lambda item: len(item[0]), reverse=True):
@@ -179,6 +190,7 @@ def build_episode(ep: str, cfg: dict, manifest_rows: list[dict]) -> dict:
         path.mkdir(parents=True, exist_ok=True)
 
     prompt_files = sorted(episode.glob("NANOBANANA_PROMPTS_V4_*.md"))
+    correction_files = sorted(episode.glob("NANOBANANA_CORRECTION_BATCH_*.md"))
     guide = episode / "NANOBANANA_GUIDE_V4.md"
     queue = parse_style_masters(guide)
     for prompt_file in prompt_files:
@@ -205,8 +217,14 @@ def build_episode(ep: str, cfg: dict, manifest_rows: list[dict]) -> dict:
     if len(name_map.values()) != len(set(name_map.values())):
         raise RuntimeError(f"{ep}: friendly asset filename collision")
 
-    for source in [guide, *prompt_files, episode / "VISUAL_COVERAGE_V5.md"]:
-        copy_prompt_with_names(source, prompts_dir / source.name, name_map)
+    output_name_map = {
+        row["output_filename"]: friendly_output_name(ep, row["output_filename"])
+        for row in queue
+        if row["kind"] != "STYLE_MASTER"
+    }
+    prompt_name_map = {**name_map, **output_name_map}
+    for source in [guide, *prompt_files, *correction_files, episode / "VISUAL_COVERAGE_V5.md"]:
+        copy_prompt_with_names(source, prompts_dir / source.name, prompt_name_map)
 
     missing_required: list[str] = []
     for name in factual_refs:
@@ -235,7 +253,7 @@ def build_episode(ep: str, cfg: dict, manifest_rows: list[dict]) -> dict:
         queue_rows.append({
             "order": order,
             "kind": row["kind"],
-            "output_filename": row["output_filename"],
+            "output_filename": friendly_output_name(ep, row["output_filename"]),
             "references": "; ".join(display_refs) if display_refs else "Keine",
             "prompt_source": f"01_PROMPTS/{row['prompt_source']}",
             "prompt_line": row["prompt_line"],

@@ -1,0 +1,14 @@
+ID: EP04A_PORTRAIT_003
+Episode(s): EP04A
+Title: C. G. Jung – historisches Portrait aus Ortsmuseum-Zollikon-Kontext
+Traffic light: GREEN
+License/status: Public domain / old photograph per Commons
+Source page: https://commons.wikimedia.org/wiki/File:CGJung.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/CGJung.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK
+Script act: S1;S4
+Shot use: Allgemeines Portrait für Name-/Person-Reveal; kein exaktes Jahr behaupten.
+
+Production rule: traffic-light status does not override context/date/evidence notes.

@@ -83,9 +83,18 @@ def main() -> None:
         tl_pfad.parent.parent / "render" / "segments"
 
     werte = []
+    uebersprungen = 0
     for i, row in enumerate(rows):
         pfad = seg / f"{i + 1:03d}_{row['shot_id']}.mp4"
         if not pfad.is_file():
+            continue
+        # Bewegtbild traegt eigene Bewegung und bekommt vom Renderer gar keine
+        # Kamerafahrt (`NATIVE_CLIP_NO_EXTERNAL_CAMERA`). Gemessen wuerde hier
+        # der gewollte Schnitt innerhalb des Clips - ein Hartschnitt erzeugt
+        # genau den Ausschlag, den diese Kennzahl als Zappeln liest. Die Zahl
+        # sagt ueber solche Segmente nichts aus.
+        if row.get("motion_policy") == "NATIVE_CLIP_NO_EXTERNAL_CAMERA":
+            uebersprungen += 1
             continue
         ergebnis = messen(pfad, bool(row.get("scene_first") or row.get("scene_last")))
         if ergebnis:
@@ -93,13 +102,29 @@ def main() -> None:
 
     aussagekraeftig = [w for w in werte if w[2] >= MINDESTBEWEGUNG]
     if not aussagekraeftig:
-        raise SystemExit("Keine messbaren Segmente gefunden.")
+        # Kein Freispruch. Liegt die Bilddifferenz durchgehend unter
+        # MINDESTBEWEGUNG, bewegt sich zu wenig, als dass diese Kennzahl etwas
+        # aussagen koennte - das Encoder-Rauschen waere groesser als das Signal.
+        # Das passiert bei sehr dezenten Fahrten, besonders wenn die vier
+        # Zwischenschritte zusaetzlich Bewegungsunschaerfe erzeugen.
+        alle = np.array([w[2] for w in werte]) if werte else np.array([0.0])
+        print(f"{len(werte)} Segmente gemessen"
+              + (f"; {uebersprungen} Bewegtbild-Segmente ohne Kamerafahrt "
+                 f"uebersprungen" if uebersprungen else ""))
+        print(f"  hoechste Bilddifferenz {alle.max():.2f}, "
+              f"Median {np.median(alle):.2f} - Schwelle waere {MINDESTBEWEGUNG}")
+        print("\nNICHT BEWERTBAR: keine Fahrt bewegt sich genug fuer diese "
+              "Kennzahl.\nSichtpruefung noetig, oder Kamerawerte des Profils "
+              "anheben.")
+        raise SystemExit(2)
 
     v = np.array([w[1] for w in aussagekraeftig])
     ueber = [w for w in aussagekraeftig if w[1] > GRENZE_EINZEL]
 
     print(f"{len(werte)} Segmente gemessen, davon {len(aussagekraeftig)} mit "
-          f"Bilddifferenz ab {MINDESTBEWEGUNG}\n")
+          f"Bilddifferenz ab {MINDESTBEWEGUNG}"
+          + (f"; {uebersprungen} Bewegtbild-Segmente ohne Kamerafahrt uebersprungen"
+             if uebersprungen else "") + "\n")
     print(f"  Zappeln   Mittel {v.mean():6.3f}   Median {np.median(v):6.3f}")
     print(f"  ueber {GRENZE_EINZEL}: {len(ueber)}")
 

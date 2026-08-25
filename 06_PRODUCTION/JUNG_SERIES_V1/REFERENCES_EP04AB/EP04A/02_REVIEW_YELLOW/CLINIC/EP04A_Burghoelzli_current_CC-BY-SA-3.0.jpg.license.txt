@@ -1,0 +1,14 @@
+ID: EP04A_PLACE_004
+Episode(s): EP04A
+Title: Klinik Burghölzli – heutige Außenansicht
+Traffic light: YELLOW
+License/status: CC BY-SA 3.0 (also legacy compatible licenses on source page)
+Source page: https://commons.wikimedia.org/wiki/File:Klinik%20Burgh%C3%B6lzli.jpg
+Manifest download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Klinik%20Burgh%C3%B6lzli.jpg
+Resolved final URL: 
+Verified date: 2026-08-23
+Verification: SOURCE_OK_ORIGINAL_PRESENT_LICENSE_OK_SHAREALIKE
+Script act: S2
+Shot use: Alt/Neu-Matchcut mit historischer Klinik; heutige Ansicht labeln.
+
+Production rule: traffic-light status does not override context/date/evidence notes.
