@@ -1,0 +1,29 @@
+{
+  "episode": "EP04A",
+  "duration_seconds": 613.436,
+  "sample_rate": 48000,
+  "channels": 2,
+  "codec": "pcm_s24le",
+  "generator_seed": 40411,
+  "source": "project-owned deterministic synthesis",
+  "restrictions": [
+    "no third-party recordings",
+    "no branded phone sound",
+    "no snake hiss",
+    "no horror stingers",
+    "no battle audio",
+    "no ritual audio",
+    "no heartbeat"
+  ],
+  "files": [
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_ARCHIVE_ROOM.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_TRAIN_ABSTRACT.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_INNER_WATER.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_CAVE_RESONANCE.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_BODY_MICRO.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_PHONE_ROOM.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_PAPER_CONTACTS.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_DESCENT.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\audio\\sfx_stems\\EP04A_SFX_PAULI_HANDOFF.wav"
+  ]
+}

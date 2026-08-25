@@ -1,0 +1,38 @@
+{
+  "pre_roll_seconds": 0.35,
+  "tail_seconds": 2.4,
+  "note": "Nur natürliche Montage-Startwerte. Keine Sprache zeitlich strecken. Nach dem Rendern nach Gehör und Forced Alignment anpassen.",
+  "special_pause": {
+    "after": "EP04A_TAKE_018_ZWEI_SEKUNDEN",
+    "seconds": 2.0,
+    "reason": "Die erzählte Nicht-Handlung wird als echte Schnittpause gebaut und nicht vom TTS künstlich gespielt."
+  },
+  "gaps_after": {
+    "EP04A_TAKE_001_WARNUNG": 0.35,
+    "EP04A_TAKE_002_DAS_GELAENDE": 0.75,
+    "EP04A_TAKE_003_OKTOBER_1913": 0.30,
+    "EP04A_TAKE_004_DER_PSYCHIATER": 0.25,
+    "EP04A_TAKE_005_DER_KRIEG": 0.75,
+    "EP04A_TAKE_006_AKTIVE_IMAGINATION": 0.25,
+    "EP04A_TAKE_007_DIE_HOEHLE": 0.40,
+    "EP04A_TAKE_008_PHILEMON": 0.30,
+    "EP04A_TAKE_009_DER_BODEN": 0.85,
+    "EP04A_TAKE_010_ZURUECK_1932": 0.25,
+    "EP04A_TAKE_011_WESTLICHER_ZUGRIFF": 0.25,
+    "EP04A_TAKE_012_ZUSTAENDE": 0.70,
+    "EP04A_TAKE_013_MULADHARA": 0.25,
+    "EP04A_TAKE_014_MANIPURA": 0.25,
+    "EP04A_TAKE_015_ANAHATA": 0.20,
+    "EP04A_TAKE_016_DIE_WAHL": 0.70,
+    "EP04A_TAKE_017_DIE_NACHRICHT": 0.15,
+    "EP04A_TAKE_018_ZWEI_SEKUNDEN": 2.00,
+    "EP04A_TAKE_019_DER_IMPULS": 0.20,
+    "EP04A_TAKE_020_DAS_SYMBOL": 0.35,
+    "EP04A_TAKE_021_KARTE_ODER_SPIEGEL": 0.75,
+    "EP04A_TAKE_022_SECHS_ZENTREN": 0.30,
+    "EP04A_TAKE_023_DIE_KARTE_REIST": 0.75,
+    "EP04A_TAKE_024_ZURUECK_ZU_JUNG": 0.30,
+    "EP04A_TAKE_025_WAS_BLEIBT": 0.80
+  }
+}
+

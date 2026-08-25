@@ -1,0 +1,17 @@
+{
+  "provider": "ElevenLabs",
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.57,
+    "similarity_boost": 0.80,
+    "style": 0.10,
+    "speed": 1.03,
+    "use_speaker_boost": true
+  },
+  "seed": 24041,
+  "output_format": "mp3_44100_128",
+  "lock_note": "Unverändert aus der bestehenden EP04A-V5-Konfiguration übernommen. Nicht durch eine andere George-Stimme ersetzen."
+}
+

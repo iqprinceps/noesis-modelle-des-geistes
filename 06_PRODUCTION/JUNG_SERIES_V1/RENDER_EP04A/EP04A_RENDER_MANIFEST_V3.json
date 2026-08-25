@@ -1,0 +1,296 @@
+{
+  "episode": "EP04A",
+  "cue_count": 62,
+  "shot_count": 152,
+  "video_clip_count": 6,
+  "assets": {
+    "A001": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_052_zuerich_1932.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG001_SEMINAR_ROOM_WIDE.png"
+    ],
+    "A002": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_060_kundalini_an_der_wurzel.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S4_051_indisches_blatt_am_tisch.png"
+    ],
+    "A003": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_057_jung_am_rednerpult.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_059_zwei_zuhoerer.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG022_SEMINAR_JUNG_HAND_POINTER.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\MOTION_BASES_2K\\EP04A\\A-G02_WARNUNG_PARAPHRASE.png"
+    ],
+    "A004": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_007_die_flut.png"
+    ],
+    "A005": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG004_RED_SUN_UNDER_WATER_FLASH.png"
+    ],
+    "A006": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\video\\VE05_aufsteigende_schlange.mp4"
+    ],
+    "A007": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_102_hand_auf_der_landkarte.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG005_JUNG_BEFORE_UNKNOWN_MAP.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S4_050_pergament_wird_entrollt.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04B\\01_ORIGINAL_GREEN\\HISTORICAL_CHAKRA\\EP04B_Sapta_Chakra_1899_PD.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S4_044_mandala.png"
+    ],
+    "A008": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_001_lok_viadukt.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG006_TRAIN_1913_NORMAL.png"
+    ],
+    "A009": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_004_freud_und_jung.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\01_ORIGINAL_GREEN\\GATHERINGS\\EP04A_Clark_University_group_1909_PD.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_005_zerrissener_brief.png"
+    ],
+    "A010": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG009_JUNG_TRAIN_REACTION.png"
+    ],
+    "A011": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\video\\VE01_die_gelbe_flut.mp4"
+    ],
+    "A012": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\video\\VE02_das_meer_wird_zu_blut.mp4",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_009_meer_wird_zu_blut.png"
+    ],
+    "A013": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\01_ORIGINAL_GREEN\\CLINIC\\EP04A_Burghoelzli_c1890_PD.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_011_burghoelzli.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S2_015_feder_und_tintenfass.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\01_ORIGINAL_GREEN\\CLINIC_DOCUMENTS\\EP04A_Jung_Association_Method_1910_PD.png"
+    ],
+    "A014": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG011_BURGHOELZLI_MEMORY_ROOM.png"
+    ],
+    "A015": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_013_zeitungen_1914.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\01_ORIGINAL_GREEN\\MAPS\\EP04A_Europe_1914_Shepherd_PD.jpg"
+    ],
+    "A016": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_008_truemmer_im_wasser.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S1_006_haende_auf_den_knien.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_106_der_leere_stuhl.png"
+    ],
+    "A017": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\rework_v2\\EP04A_REWORK_FILLED_NOTEBOOK_1913_2K.png"
+    ],
+    "A018": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S2_014_arbeitszimmer_bei_nacht.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S4_046_folio_bei_kerzenlicht.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S2_026_dielen_und_schreibtischbein.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S4_042_naechtliche_notizen.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG013_WAITING_FOR_IMAGES.png"
+    ],
+    "A019": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG014_VERTICAL_FALL.png"
+    ],
+    "A020": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG015_CAVE_WIDE.png"
+    ],
+    "A021": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG017_CORPSE_DISTANT_WATER.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S2_018_der_schwarze_kaefer.png"
+    ],
+    "A022": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG019_ELIAS_SALOME_FRAGMENTS.png"
+    ],
+    "A023": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_030_schwarze_schlange_schiefer.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG018_BLACK_SNAKE_CAVE_WIDE.png"
+    ],
+    "A024": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_028_elias.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_029_salome.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_032_philemon.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_033_eisvogelgefieder.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S2_022_zwei_gestalten_gewoelbe.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG020_PHILEMON_DISTANCE.png"
+    ],
+    "A025": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\video\\IMG40_autonome_struktur_V3.mp4",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_038_vogelschwarm.png"
+    ],
+    "A026": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\02_REVIEW_YELLOW\\PLACES\\EP04A_Jung_House_Kuesnacht_CC-BY-SA-3.0.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S2_023_praxis_bei_tageslicht.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S2_024_gedeckter_tisch.png"
+    ],
+    "A027": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\EP04A_A027_DRY_BLACK_ROOM_V3.png"
+    ],
+    "A028": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\02_REVIEW_YELLOW\\PLACES\\EP04A_Zuerich_Bahnhofplatz_1930_CC-BY-SA-4.0.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_054_der_vortragssaal.png"
+    ],
+    "A029": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\02_REVIEW_YELLOW\\PORTRAITS\\EP04A_Jakob_Wilhelm_Hauer_1935_Bundesarchiv_CC-BY-SA-3.0.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_053_eingang_des_clubs.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_053_haus_gemeindestrasse.png"
+    ],
+    "A030": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_061_wirbelsaeule_und_aufstieg.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_062_hoehle_und_tafel.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_091_das_blatt_von_1577.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\MOTION_BASES_2K\\EP04A\\A-G06_HISTORISCHE_CHAKRA_QUELLE.png"
+    ],
+    "A031": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_088_gelehrte_am_palmblatt.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_068_die_tafel_wird_aufgehaengt.png"
+    ],
+    "A032": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_100_jung_mit_der_lupe.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\SHARED_BOOK_001_PLATE_I.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_108_schaufenster_am_abend.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\01_ORIGINAL_GREEN\\CLINIC_OBJECTS\\EP04A_Jung_Galvanometer_Burghoelzli_1904_1905_PD.png"
+    ],
+    "A033": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG025_INNER_GRAVITY_ROOM.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_065_kamin_im_arbeitszimmer.png"
+    ],
+    "A034": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\MOTION_BASES_2K\\EP04A\\A-G07_BODEN_AFFEKT_ABSTAND.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG024_EMPTY_VESSEL_METAPHOR.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_040_autonome_struktur.png"
+    ],
+    "A035": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_064_riss_im_boden.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S5_066_familienbild_schreibtisch.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG026_MULADHARA_GROUND.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S2_025_arztkoffer_und_muetze.png"
+    ],
+    "A036": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\video\\IMG80_offenes_fenster_V3.mp4"
+    ],
+    "A037": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S6_076_hitzeflimmern.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG028_MANIPURA_BODY_MACRO.png"
+    ],
+    "A038": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG029_CONVERSATION_BEFORE_TURN.png"
+    ],
+    "A039": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG030_CONVERSATION_AFFECT_SHIFT.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S6_075_der_streit.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG031_SUBJECTIVE_COMPRESSION.png"
+    ],
+    "A040": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG033_OBSERVER_STEP_BACK.png"
+    ],
+    "A041": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG032_ANAHATA_BREATH_OPEN.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_111_am_ufer.png"
+    ],
+    "A042": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S6_079_beobachter_vor_der_flamme.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\rework_v2\\EP04A_CARD_ABSTAND_VERSTAENDLICH.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\RESERVE\\EP04A_RSV05_FIRE_TO_AIR_ABSTRACT.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S6_080_offenes_fenster.png"
+    ],
+    "A043": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S6_081_zwei_stuehle.png"
+    ],
+    "A044": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG034_PHONE_NAME_ONLY.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\rework_v2\\EP04A_REWORK_PHONE_MESSAGE_2K.png"
+    ],
+    "A045": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG035_BODY_REACTION_SEQUENCE_STILL.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S6_071_schreibtisch_der_sorgen.png"
+    ],
+    "A046": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\rework_v2\\EP04A_REWORK_PHONE_REPLY_HOVER_2K.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG036_REPLY_FORMING_UNREADABLE.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\RESERVE\\EP04A_RSV06_PHONE_ROOM_ALT.png"
+    ],
+    "A047": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG037_TWO_SECOND_HOVER.png"
+    ],
+    "A048": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG038_RELEASE_PULLBACK.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_112_land_ohne_wege.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_034_kiesweg_im_garten.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_115_zuerichsee_bei_nacht.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S6_084_sahasrara_loest_sich_auf.png"
+    ],
+    "A049": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_109_die_augen.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\MOTION_BASES_2K\\EP04A\\A-G10_KARTE_SPIEGEL.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_094_modernes_chakra_poster.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG040_EMPTY_TRACING_LAYERS.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_095_der_esoterikladen.png"
+    ],
+    "A050": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG039_LONDON_PRINT_PROCESS_1919.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\SHARED_BOOK_001_TITLE_1924.png"
+    ],
+    "A051": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\V4.2\\video\\IMG46_folio_kerzenlicht_V3.mp4",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\MOTION_BASES_2K\\EP04A\\A-G11_1919_1924_QUELLENDISZIPLIN.png"
+    ],
+    "A052": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\SHARED_BOOK_001_TITLE_DETAIL.png"
+    ],
+    "A053": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\MOTION_BASES_2K\\EP04A\\A-G12_SECHS_SAHASRARA.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\SHARED_BOOK_001_ILLUSTRATIONS.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_093_vers_ueber_sahasrara.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\00_SHARED\\01_ORIGINAL_GREEN\\SERPENT_POWER\\SHARED_Serpent_Power_Lotuses_Wellcome_M0005455_CC-BY-4.0.jpg"
+    ],
+    "A054": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04B\\01_ORIGINAL_GREEN\\PORTRAITS\\EP04B_Leadbeater_c1925_PD.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_097_farbtherapie_apparat.png"
+    ],
+    "A055": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_087_high_court_kalkutta.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\MOTION_BASES_2K\\EP04A\\A-G13_KARTE_REIST.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_103_folio_in_der_vitrine.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_086_portraet_woodroffe.png"
+    ],
+    "A056": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\01_ORIGINAL_GREEN\\PORTRAITS\\EP04A_Jung_portrait_PD.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP04AB\\EP04A\\02_REVIEW_YELLOW\\PORTRAITS\\EP04A_Jung_Burghoelzli_ca1909_1910.jpg"
+    ],
+    "A057": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_101_ueberblendung_hoehle_tafel.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\MAIN\\EP04A_IMG043_BLACK_SNAKE_RESIDUE.png"
+    ],
+    "A058": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S6_082_ajna.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S4_041_die_schwarzen_hefte.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S4_048_farbschichten_detail.png"
+    ],
+    "A059": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\EP04A_A059_JUNG_INDIA_OPEN_COMPOSITE.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S7_087_die_richter.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_104_der_tresorraum.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_105_behandschuhte_haende.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_035_kurrentschrift.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S4_049_steinturm_am_see.png"
+    ],
+    "A060": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\FINAL_STILLS\\EP04A\\RESERVE\\EP04A_RSV08_BLACK_WATER_CLOSE.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S3_031_der_kopf_hebt_sich.png"
+    ],
+    "A061": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\REFERENCES_EP05\\EP05\\01_ORIGINAL_GREEN\\PORTRAITS\\SRC02_Wolfgang_Pauli_1945.jpg",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP04_JUNG\\visuals\\final\\EP04_S8_116_eth_zuerich.png",
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\MOTION_BASES_2K\\EP04A\\A-G14_PAULI_HANDOFF.png"
+    ],
+    "A062": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\EP04A_A062_MINIMAL_PROBLEM_LINE_V3.png"
+    ],
+    "OUTRO": [
+      "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\RENDER_EP04A\\assets\\rework_v2\\EP04A_ENDCARD_JUNG_PAULI_20S.png"
+    ]
+  },
+  "motion": "V3 restrained 8K/120fps still camera with raised travel floor; cards locked; source clips unmodified spatially",
+  "editorial_rules": {
+    "direct_duplicate_assets": 0,
+    "blank_notebook_board_paper_motifs": 0,
+    "card_camera_motion": "none",
+    "video_camera_motion": "none",
+    "reconstruction_labels": "none (editorial decision, see README)",
+    "voice_master": "unchanged from V2; cue grid and total duration identical",
+    "delivery_true_peak_dbtp": -1.0
+  }
+}

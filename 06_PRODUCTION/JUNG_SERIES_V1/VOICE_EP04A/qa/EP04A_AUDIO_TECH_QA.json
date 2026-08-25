@@ -1,0 +1,204 @@
+{
+  "episode": "EP04A",
+  "status": "PASS",
+  "checks": {
+    "stem_count": 26,
+    "all_stems_decode": true,
+    "master_lufs": -18.04,
+    "master_true_peak_db": -1.99,
+    "master_duration": 613.436,
+    "no_time_stretching": true,
+    "internal_pause_review_threshold_seconds": 1.5
+  },
+  "internal_pause_review": [],
+  "stems": [
+    {
+      "id": "EP04A_TAKE_001_WARNUNG",
+      "duration": 21.92,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_002_DAS_GELAENDE",
+      "duration": 35.109,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_003_OKTOBER_1913",
+      "duration": 28.561,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_004_DER_PSYCHIATER",
+      "duration": 21.502,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_005_DER_KRIEG",
+      "duration": 28.514,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_006_AKTIVE_IMAGINATION",
+      "duration": 23.545,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_007_DIE_HOEHLE",
+      "duration": 18.901,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_008_PHILEMON",
+      "duration": 31.347,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_009_DER_BODEN",
+      "duration": 19.783,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_010_ZURUECK_1932",
+      "duration": 32.647,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_011_WESTLICHER_ZUGRIFF",
+      "duration": 28.932,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_012_ZUSTAENDE",
+      "duration": 18.483,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_013_MULADHARA",
+      "duration": 28.653,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_014_MANIPURA",
+      "duration": 16.579,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_015_ANAHATA",
+      "duration": 23.452,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_016_DIE_WAHL",
+      "duration": 11.842,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_017_DIE_NACHRICHT",
+      "duration": 16.951,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_018_ZWEI_SEKUNDEN",
+      "duration": 11.749,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [
+        {
+          "start": 4.637,
+          "end": 5.547,
+          "duration": 0.91
+        }
+      ],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_019_DER_IMPULS",
+      "duration": 11.331,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_020_DAS_SYMBOL",
+      "duration": 20.294,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_021_KARTE_ODER_SPIEGEL",
+      "duration": 13.932,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_022_SECHS_ZENTREN",
+      "duration": 24.845,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_023_DIE_KARTE_REIST",
+      "duration": 32.554,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_024_ZURUECK_ZU_JUNG",
+      "duration": 37.431,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_025_WAS_BLEIBT",
+      "duration": 20.759,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    },
+    {
+      "id": "EP04A_TAKE_026_PAULI",
+      "duration": 18.669,
+      "decode_ok": true,
+      "silence_intervals_over_0_9s": [],
+      "internal_silence_over_1_5s": []
+    }
+  ]
+}

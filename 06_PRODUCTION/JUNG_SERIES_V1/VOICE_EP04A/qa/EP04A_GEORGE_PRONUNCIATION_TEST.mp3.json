@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\VOICE_EP04A\\qa\\EP04A_GEORGE_PRONUNCIATION_TEST.mp3",
+  "sha256": "12b822371609f409cf177b7b95206682cbd7548a6569aa5af13b6d591ccc0027",
+  "bytes": 244132,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.57,
+    "similarity_boost": 0.8,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 1.03
+  },
+  "seed": 24041,
+  "request_id": "mBDnl9rzKiIdpKCPP9WP",
+  "text_sha256": "014ef7d00725bd59476efa24defffc04a78660732c65a51f2c468c0e8b1515f4",
+  "characters": 198
+}
