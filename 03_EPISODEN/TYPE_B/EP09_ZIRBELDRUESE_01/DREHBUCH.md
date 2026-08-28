@@ -1,6 +1,6 @@
-# EP09 V5 — Zirbeldrüse I: Das Auge im Inneren
+# EP09 V6 — Zirbeldrüse I: Das Auge im Inneren
 
-**Status:** Preproduction / finaler Retention- und Voice-Rhythmus-Pass  
+**Status:** Preproduction / 8–9-Minuten-Wertpass  
 **Archetyp:** Type B — biologische Schwelle  
 **Voice:** ruhig, neugierig, intim; Staunen zuerst, Präzision an den entscheidenden Grenzen
 
@@ -90,7 +90,15 @@ Beim Menschen beginnt dieser Weg in der Netzhaut.
 
 Dort sitzen neben den klassischen Stäbchen und Zapfen auch spezialisierte lichtempfindliche Zellen, die besonders wichtig für unsere innere Uhr sind.
 
-Sie melden dem Gehirn, wie hell die Umgebung ist. Diese Information erreicht die zentrale zirkadiane Uhr im Gehirn und wird über weitere neuronale Stationen weitergegeben.
+Das ist eine überraschende Form des Sehens.
+
+Diese Zellen müssen keine Landschaft erkennen und kein Gesicht identifizieren. Für das Zeitsystem ist zunächst eine andere Frage entscheidend: Wie viel Licht ist da — und wann trifft es auf die Netzhaut?
+
+Damit besitzt dieselbe Netzhaut gewissermaßen zwei Aufgaben. Sie hilft uns, die sichtbare Welt abzubilden. Und sie liefert dem Gehirn zugleich Informationen darüber, in welcher Phase des Hell-Dunkel-Wechsels wir uns befinden.
+
+Deshalb kann Licht biologisch wirksam sein, auch wenn wir über seine Farbe, Form oder Quelle kaum nachdenken.
+
+Die spezialisierten Netzhautzellen melden dem Gehirn, wie hell die Umgebung ist. Diese Information erreicht die zentrale zirkadiane Uhr im Gehirn und wird über weitere neuronale Stationen weitergegeben.
 
 Am Ende kommt sie an der Zirbeldrüse an.
 
@@ -154,9 +162,13 @@ Licht zur biologischen Nacht kann im System noch immer wie ein verspäteter Rest
 
 Die Pinealis sieht keinen Bildschirm. Aber über Retina und Nervensystem erreicht sie ein Signal, das die Dunkelheit neu bewertet.
 
+Und damit bekommt das Wort „Umwelt“ eine ungewohnte Bedeutung.
+
+Wir denken bei Umwelt an Temperatur, Nahrung, Geräusche oder Gefahr. Doch auch die zeitliche Struktur des Lichts gehört dazu. Ein Organismus lebt nicht nur irgendwo. Er lebt auch zu einer bestimmten biologischen Zeit.
+
 Der alte Zusammenhang zwischen Licht und innerer Zeit ist also keine ferne Evolutionsgeschichte.
 
-Wir verändern ihn jeden Abend selbst.
+Wir greifen jeden Abend selbst in ihn ein.
 
 ## S7 — Wenn die Welt in uns weiterläuft
 
