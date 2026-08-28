@@ -1,6 +1,6 @@
-# EP11 V4 — Zirbeldrüse III: Wer machte sie zum dritten Auge?
+# EP11 V5 — Zirbeldrüse III: Wer machte sie zum dritten Auge?
 
-**Status:** Preproduction / finaler Retention- und Voice-Rhythmus-Pass  
+**Status:** Preproduction / 8–9-Minuten-Wertpass  
 **Archetyp:** Type B/C — historisches Detektivstück und wandernde Symbole  
 **Voice:** geheimnisvoll, historisch konkret, respektvoll; Entdeckung statt Debunking
 
@@ -96,25 +96,31 @@ Neu ist ihre Verbindung.
 
 Eine moderne Synthese beginnt, sich wie eine Erinnerung anzufühlen.
 
-## S5 — Wenn Seiten zur Brücke werden
+## S5 — Drei Seiten, drei Welten
 
-Stellt euch einen Leser im Jahr 1888 vor.
+Und genau hier lohnt sich ein historisches Experiment.
 
-Vor ihm liegt keine moderne Internetgrafik mit einem leuchtenden Punkt auf der Stirn. Er begegnet den Elementen auf Seiten, in Büchern, in Zeichnungen.
+Legt gedanklich drei Seiten nebeneinander.
 
-Ein zoologischer Bericht zeigt ein augenähnliches Organ bei Tieren. Ein anatomischer Text zeigt die Pinealis im menschlichen Gehirn. Und Blavatskys Seiten stellen daneben ein verlorenes Auge, Shiva und eine spirituelle Geschichte der Menschheit.
+Auf der ersten: eine zoologische Zeichnung eines Parietalauges. Gewebe, Nerven, Anatomie. Das Wort „Auge“ bezeichnet eine körperliche Struktur.
 
-Der Übergang geschieht nicht in einem einzigen Beweis.
+Auf der zweiten: eine Darstellung des Ajna-Zentrums. Stirnregion, Lotus, subtile Praxis. Hier beschreibt das Bild keine Drüse, sondern eine spirituelle Landkarte.
 
-Er geschieht in der Montage.
+Auf der dritten: Blavatskys Text. Dort beginnen Naturgeschichte, religiöse Symbolik und eine esoterische Menschheitsgeschichte miteinander zu sprechen.
 
-Ein reales Organ gibt der Erzählung Körper. Ein religiöses Bild gibt ihr Bedeutung. Eine evolutionäre Idee gibt ihr Vergangenheit.
+Keine dieser Seiten allein ergibt die heute vertraute Gleichung.
 
-Und genau jetzt müsste man erwarten, dass diese neue Karte sich festsetzt.
+Erst wenn sie nebeneinanderliegen, erkennt man den historischen Vorgang.
 
-Doch Jahrzehnte später verrät ein anderes Buch etwas Überraschendes:
+Nicht eine uralte anatomische Lehre wird wiederentdeckt.
 
-Die Zuordnung ist noch immer nicht stabil.
+Verschiedene Wissenswelten werden miteinander verschaltet.
+
+Das ist ein kleiner, aber entscheidender Unterschied. Denn plötzlich können wir die Nahtstelle sehen, die in späteren Darstellungen fast vollständig verschwindet.
+
+Und jetzt müsste man erwarten, dass die neue Karte feststeht.
+
+Tut sie nicht.
 
 ## S6 — 1927: Die falsche Drüse?
 
@@ -145,6 +151,10 @@ Plötzlich sehen wir die moderne spirituelle Anatomie noch in Bewegung.
 Verschiedene Autoren versuchen, subtile Zentren mit physischen Drüsen zusammenzubringen — und landen nicht am selben Ort.
 
 Die Verbindung wird ausgehandelt.
+
+Das ist historisch fast wertvoller als eine perfekte Übereinstimmung. Denn eine jahrtausendealte, unveränderte anatomische Zuordnung müsste nicht wenige Jahrzehnte später noch neu sortiert werden.
+
+Leadbeaters Karte zeigt uns die Idee während ihrer Entstehung.
 
 Und irgendwann bleibt eine Version stärker hängen als die anderen.
 
