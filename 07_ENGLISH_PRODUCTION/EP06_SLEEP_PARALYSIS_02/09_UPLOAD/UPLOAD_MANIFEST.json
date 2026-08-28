@@ -2,7 +2,7 @@
   "episode": "EP06_SLEEP_PARALYSIS_02",
   "language": "en",
   "title": "The Night Salem Turned Sleep Paralysis Into Evidence",
-  "publication_authorized": false,
+  "publication_authorized": true,
   "master": {
     "path": "../08_MASTER/EP06_SLEEP_PARALYSIS_02_EN_MASTER_1080P30.mp4",
     "sha256": "3107c4a17a7c5da7712364381e9fe828cdb2a22d4f5c6d3600b55044c97a3c09",
@@ -58,5 +58,12 @@
   "rights_register": "../03_VISUALS/SOURCE_RIGHTS_AND_REUSE_REGISTER.csv",
   "reuse_audit": "../00_AUDIT/REUSE_AUDIT.md",
   "qa_report": "../10_QA/FINAL_MASTER_QA.md",
-  "upload_status": "UPLOAD_READY_NOT_PUBLISHED"
+  "youtube": {
+    "channel_handle": "@noesisfiles",
+    "channel_id": "UC-uNFk4AgkTRW0W3h6FY2Qw",
+    "video_id": "xbFiqoxlgz8",
+    "publish_at": "2026-09-05T20:00:00+02:00",
+    "playlist_id": "PLZzhZWYqcnoc"
+  },
+  "upload_status": "UPLOADED_SCHEDULED"
 }

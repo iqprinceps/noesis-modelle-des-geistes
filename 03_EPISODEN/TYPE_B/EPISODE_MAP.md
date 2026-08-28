@@ -60,6 +60,10 @@ EP09 bis EP12 bilden eine explizite vierteilige Serie. Der gemeinsame redaktione
 
 `ZIRBELDRUESE_SERIE_V1_RETENTION_PLAN.md`
 
+Der aktuelle unabhängige Zuschauer- und Retention-Review liegt in:
+
+`ZIRBELDRUESE_SERIE_V1_VIEWER_REVIEW.md`
+
 Die Progression lautet:
 
 1. EP09: reales Parietalauge, Pinealkomplex, Licht und Melatonin;

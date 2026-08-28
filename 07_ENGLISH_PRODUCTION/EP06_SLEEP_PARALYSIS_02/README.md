@@ -2,7 +2,8 @@
 
 **Selected upload title:** `The Night Salem Turned Sleep Paralysis Into Evidence`
 
-**Production state:** upload-ready master complete; publication not authorized.
+**Production state:** uploaded and scheduled on the English NOESIS channel for
+2026-09-05 at 20:00 Europe/Berlin (`xbFiqoxlgz8`).
 
 This is the second English sleep-paralysis longform and a new viewer edit based
 primarily on German EP07. It is not a dub. Part 1 under
@@ -16,7 +17,7 @@ locked room, lay on his body and left him unable to speak or move. The film asks
 how a private, invisible experience becomes public evidence—and whether the
 story a culture gives that experience can alter the next episode itself.
 
-## Hard boundaries
+## Editorial integrity
 
 - Richard Coman is not diagnosed retrospectively.
 - His testimony was one part of a much larger prosecution; it is never framed
@@ -26,8 +27,11 @@ story a culture gives that experience can alter the next episode itself.
   traits or a proven one-way causal chain.
 - No generated portrait represents a named historical or living person.
 - Files marked `REJECTED_SOURCE_DRIFT` are permanently excluded.
-- No German final render is used as a clip source.
-- Nothing is uploaded without a new, explicit approval.
+- German final renders are not copied blindly; individually suitable,
+  rights-cleared source clips and assets may be reused after visual and timing
+  review.
+- Publication changes are verified against the bound English channel before
+  execution.
 
 ## Delivery
 

@@ -5,6 +5,8 @@ retention brief is
 [`../02_GUIDES/CHATGPT_DREHBUCH_BRIEF.md`](../02_GUIDES/CHATGPT_DREHBUCH_BRIEF.md);
 English language and localization decisions follow
 [`00_GLOBAL/ENGLISH_PRODUCTION_STANDARD.md`](00_GLOBAL/ENGLISH_PRODUCTION_STANDARD.md).
+The verified English-channel publication target and current schedule are kept
+in [`00_GLOBAL/PUBLISHING_CADENCE.md`](00_GLOBAL/PUBLISHING_CADENCE.md).
 
 An English episode is an adaptation, not a literal translation. Facts and
 source identity remain accurate; hook, syntax, dramatic order, interaction and
@@ -20,7 +22,7 @@ visual language are rebuilt for an English-speaking audience.
 | EP04A | Jung and Kundalini | `EP04A_JUNG_KUNDALINI/01_SCRIPT/VOICE_SCRIPT_EN.txt` | preproduction canon |
 | EP05 | Sleep Paralysis I | `EP05_SLEEP_PARALYSIS_01/01_SCRIPT/VOICE_SCRIPT_EN.txt` | produced / upload package |
 | EP05 Shorts | Sleep Paralysis I companion shorts | `EP05_SLEEP_PARALYSIS_01_SHORTS/` | produced / upload package |
-| EP06 | Sleep Paralysis II | `EP06_SLEEP_PARALYSIS_02/01_SCRIPT/VOICE_SCRIPT_EN.txt` | produced / final QA package |
+| EP06 | Sleep Paralysis II | `EP06_SLEEP_PARALYSIS_02/01_SCRIPT/VOICE_SCRIPT_EN.txt` | uploaded / scheduled 2026-09-05 |
 
 ## Episode contract
 

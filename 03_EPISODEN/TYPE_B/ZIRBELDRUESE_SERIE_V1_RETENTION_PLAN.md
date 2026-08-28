@@ -80,4 +80,10 @@ Die Serie soll nicht in violettem „Third-Eye“-Kitsch erstarren. Wiederkehren
 5. symbolisches inneres Licht in klar erkennbar subjektiven Sequenzen;
 6. Laborlicht und Molekül-/Gewebedarstellung im DMT-Finale.
 
-Jede Episode bekommt eigene Originalassets und eigene generierte Zustände. Keine finalen Bildexporte werden serienweit wiederverwendet.
+Die Bildsprache wird pro Episode aus Zuschauersicht neu entschieden. Eigene
+Generierungen, historische Originale, wissenschaftliche Visuals und bereits
+starke, rechtegeklärte Assets aus den deutschen Ausgangsproduktionen dürfen
+gezielt gemischt werden. Im fertigen Film dürfen keine sichtbaren Bild- oder
+Shot-Schleifen entstehen; zwischen Episoden wird Wiederverwendung vermieden,
+wenn sie die Serie erkennbar recycelt wirken lässt. Es gibt dafür keine starre
+Quote und kein Verbot sinnvoller, hochwertiger Übernahmen.
