@@ -4,6 +4,10 @@
 **Stand:** 2026-08-28  
 **Prinzip:** belegbare Biologie und Geschichte zuerst; Mystik als offene Spur, nie als erfundener Beleg
 
+## Laufzeitprinzip
+
+Es gibt **keine harte Zeit-, Wort- oder Aktvorgabe**. Jede Folge bekommt genau die Länge, die ihr stärkster erzählbarer Inhalt rechtfertigt. Hook, Entwicklung, Wendung, Payoff, Verständlichkeit und Zuschauerbindung entscheiden. Weder wird eine gute Folge künstlich gekürzt, um einen Zielwert zu treffen, noch mit Wiederholungen, Lexikonpassagen oder langsamen Holds verlängert. Historische Laufzeiten anderer NOESIS-Folgen sind nur Vergleichswerte.
+
 ## Serienversprechen
 
 Die Zirbeldrüse ist klein, real und biologisch gut genug erforscht, um nicht als leere Projektionsfläche behandelt zu werden. Gleichzeitig liegt um sie eine außergewöhnliche Ideengeschichte: Lichtwahrnehmung, biologischer Rhythmus, Descartes' Seele, westlicher Okkultismus, das „dritte Auge“ und moderne DMT-Erzählungen.
