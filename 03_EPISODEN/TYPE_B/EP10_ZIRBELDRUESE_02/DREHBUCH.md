@@ -1,6 +1,6 @@
-# EP10 V5 — Zirbeldrüse II: Der Sitz der Seele
+# EP10 V6 — Zirbeldrüse II: Der Sitz der Seele
 
-**Status:** Preproduction / finaler Retention- und Voice-Rhythmus-Pass  
+**Status:** Preproduction / 8–9-Minuten-Wertpass  
 **Archetyp:** Type B/C — Ideengeschichte mit menschlichem Konflikt  
 **Voice:** ruhig, präzise, neugierig; historische Spannung vor Philosophieerklärung
 
@@ -142,7 +142,29 @@ Und genau hier trifft Elisabeths Frage ins Zentrum:
 
 Selbst wenn man jede Bewegung dieser Maschine zeichnet — wie beginnt die erste Bewegung zwischen Geist und Materie?
 
-## S6 — Descartes antwortet
+## S6 — Das unsichtbare erste Glied
+
+Man kann Elisabeths Problem wie einen Film anhalten.
+
+Hebt einmal bewusst eure Hand.
+
+Von außen könnte man immer genauer beschreiben, was im Körper geschieht: Aktivität im Nervensystem, Signale zu Muskeln, Kontraktion, Bewegung.
+
+Und von innen kennt ihr etwas anderes: den Entschluss, die Hand zu heben.
+
+Descartes' Theorie behauptet, dass diese beiden Beschreibungen grundsätzlich verschiedenen Arten von Wirklichkeit angehören — und trotzdem muss zwischen ihnen etwas geschehen.
+
+Die Pinealis benennt einen Ort, an dem es geschehen soll.
+
+Aber stellt euch vor, wir könnten die Drüse vollständig beobachten. Jede Bewegung, jeden Strom, jede körperliche Veränderung.
+
+Dann bleibt Elisabeths Frage bestehen: Was genau lässt einen immateriellen Entschluss die erste materielle Veränderung auslösen?
+
+Das ist die Stärke ihres Einwands. Sie fragt nicht nur nach dem Ort des Kontakts.
+
+Sie fragt nach der Art des Kontakts.
+
+## S7 — Descartes antwortet
 
 Am 21. Mai 1643 schreibt Descartes zurück.
 
@@ -162,7 +184,7 @@ Doch Elisabeths Einwand hat etwas sichtbar gemacht, das eine anatomische Adresse
 
 Ein Ort erklärt noch keine Wechselwirkung.
 
-## S7 — Elisabeth gibt sich nicht zufrieden
+## S8 — Elisabeth gibt sich nicht zufrieden
 
 Elisabeth antwortet noch einmal und dreht Descartes' Problem um.
 
@@ -180,7 +202,7 @@ Doch der Briefwechsel schließt den Riss nicht.
 
 Er macht ihn nur deutlicher.
 
-## S8 — Der Mensch im eigenen System
+## S9 — Der Mensch im eigenen System
 
 Genau deshalb wird der Briefwechsel größer als die Pinealis.
 
@@ -194,7 +216,7 @@ Aber sie kann die Lücke zwischen seinen beiden Arten von Wirklichkeit nicht sch
 
 Das ist der eigentliche Riss im System.
 
-## S9 — Was von der Theorie übrig bleibt
+## S10 — Was von der Theorie übrig bleibt
 
 Descartes' konkrete Physiologie hält moderner Anatomie nicht stand.
 
@@ -214,7 +236,7 @@ Descartes suchte einen Punkt.
 
 Elisabeth zeigte, warum ein Punkt nicht genügt.
 
-## S10 — Eine Idee verlässt die Anatomie
+## S11 — Eine Idee verlässt die Anatomie
 
 Die anatomische Theorie verliert an Boden.
 
