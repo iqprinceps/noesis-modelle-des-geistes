@@ -1,4 +1,4 @@
-# EP10 — Claims Boundary V1
+# EP10 — Claims Boundary V2
 
 ## Belegt / direkt historisch attribuierbar
 
@@ -6,28 +6,37 @@
 - In seiner Physiologie spielen Hirnventrikel, Nerven und sogenannte animalische Geister eine mechanische Rolle.
 - Er verband die Einheit bewusster Wahrnehmung mit der Suche nach einer einzelnen beziehungsweise unpaaren zentralen Struktur.
 - Die Zirbeldrüse war als anatomische Struktur bereits vor Descartes bekannt; er entdeckte sie nicht.
+- Elisabeth von Böhmen fragte Descartes im Mai 1643 ausdrücklich, wie eine immaterielle Seele die körperlichen animalischen Geister so bestimmen könne, dass freiwillige Bewegung entsteht.
+- Descartes antwortete am 21. Mai 1643 unter anderem mit der Unterscheidung grundlegender Begriffe von Körper, Seele und ihrer Einheit.
+- Die Korrespondenz zeigt, dass die Geist-Körper-Wechselwirkung für Descartes selbst zu einem zentralen Erklärungsproblem wurde.
 - Seine konkrete Pinealis-Mechanik entspricht nicht moderner Neuroanatomie und Neurophysiologie.
 
 ## Nur mit genauer Zuschreibung formulieren
 
-- „Sitz der Seele“ nie als moderne anatomische Aussage formulieren, sondern als Descartes' Theorie.
-- Aussagen darüber, dass die Drüse „in der Mitte“ oder „einzigartig unpaar“ sei, nur innerhalb seines historischen Wissens- und Argumentationsrahmens verwenden; moderne anatomische Präzision darf nicht daraus abgeleitet werden.
+- „Sitz der Seele“ immer als Descartes' Theorie.
+- Aussagen zur Unpaarigkeit und Zentralität der Pinealis nur innerhalb seines historischen Argumentationsrahmens verwenden.
 - Bewegungen der Pinealis und Strömungen animalischer Geister ausschließlich als Descartes' Modell visualisieren.
+- Elisabeths Einwand paraphrasieren oder mit überprüfter Primärtext-Fundstelle kurz zitieren; keine modernisierte Pointe als angebliches Originalzitat ausgeben.
+- Descartes' Antwort nicht so darstellen, als hätte sie die Interaktionsfrage historisch endgültig gelöst.
+- Moderne Begriffe wie Integration, Binding oder Embodiment nur als heutige Resonanz verwenden, nicht als identische Fortsetzung des cartesianischen Problems.
 
 ## Nicht behaupten
 
 - Descartes habe die Zirbeldrüse entdeckt.
 - Descartes habe das moderne Konzept des „dritten Auges“ vertreten.
 - Descartes habe Chakren, Kundalini oder Ajna mit der Pinealis verbunden.
+- Elisabeth habe Descartes' gesamte Philosophie „widerlegt“.
 - Die moderne Neurowissenschaft habe einen einzelnen „Sitz des Bewusstseins“ gefunden.
-- Aus Descartes' Irrtum folge, dass Bewusstsein rein immateriell oder rein materiell sei.
+- Aus Descartes' Irrtum folge eine bestimmte metaphysische Lösung des Bewusstseinsproblems.
 
 ## Redaktionelle offene Frage
 
-Die Episode darf offenhalten, warum subjektive Erfahrung trotz verteilter neuronaler Verarbeitung als zusammenhängend erscheint. Diese offene Frage darf jedoch nicht so formuliert werden, als sei sie Beleg für Descartes' Dualismus oder für eine besondere moderne Bewusstseinsfunktion der Zirbeldrüse.
+Die Episode darf offenhalten, warum subjektive Erfahrung trotz verteilter neuronaler Verarbeitung als zusammenhängend erscheint und wie mentale Zustände und körperliche Vorgänge zusammenhängen. Diese Offenheit ist kein Beleg für Descartes' Dualismus und keine besondere moderne Bewusstseinsfunktion der Zirbeldrüse.
 
 ## Quellenpriorität vor Voice-Lock
 
-1. Descartes' eigene Texte und Briefe, insbesondere die relevanten Passagen zur Pinealis und zur Einheit der Wahrnehmung.
-2. Historisch-philosophische Fachreferenz zur Entwicklung seiner Pinealis-Theorie.
-3. Moderne Anatomie nur zur sauberen Abgrenzung seines Modells, nicht um die historische Episode in eine Neurowissenschaftsvorlesung umzubauen.
+1. Elisabeth an Descartes, Mai 1643, mit verifizierter Edition/Fundstelle.
+2. Descartes an Elisabeth, 21. Mai 1643, mit verifizierter Edition/Fundstelle.
+3. Descartes' eigene Texte zur Pinealis und Einheit der Wahrnehmung, besonders *Les Passions de l'âme* sowie einschlägige Briefe/physiologische Texte.
+4. Historisch-philosophische Fachreferenzen zur Entwicklung seiner Pinealis-Theorie und Elisabeths Kritik.
+5. Moderne Anatomie nur zur sauberen Abgrenzung seines Modells.
