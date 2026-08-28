@@ -1,4 +1,4 @@
-# EP11 V5 — Zirbeldrüse III: Wer machte sie zum dritten Auge?
+# EP11 V6 — Zirbeldrüse III: Wer machte sie zum dritten Auge?
 
 **Status:** Preproduction / 8–9-Minuten-Wertpass  
 **Archetyp:** Type B/C — historisches Detektivstück und wandernde Symbole  
@@ -96,6 +96,18 @@ Neu ist ihre Verbindung.
 
 Eine moderne Synthese beginnt, sich wie eine Erinnerung anzufühlen.
 
+Und diese Verschaltung ist nicht bloß eine moderne Zusammenfassung ihres Buches.
+
+Im zweiten Band steht ein eigener Abschnitt über Menschenrassen mit einem „dritten Auge“. Im selben Kapitelzusammenhang führt der Text von augenähnlichen Organen und zeitgenössischer Naturforschung zur Pinealis und zum „Auge Shivas“.
+
+Für einen Leser des Jahres 1888 liegen damit Dinge nebeneinander, die zuvor aus verschiedenen Welten kamen: Präparationstisch, religiöses Symbol und verlorene Menschheitsgeschichte.
+
+Genau deshalb ist das Originaldokument so stark. Man sieht die Verbindung nicht erst in einer späteren Behauptung. Man kann verfolgen, wie die Begriffe auf den Seiten zueinander gezogen werden.
+
+Aus einer anatomischen Möglichkeit wird ein spiritueller Vorfahr. Aus einem Symbol wird die Erinnerung an ein Organ. Und aus der Pinealis wird der stille Rest einer verlorenen Wahrnehmung.
+
+Der eigentliche Wendepunkt liegt sichtbar im Buch: Eine neue Verbindung erhält durch das gedruckte Original die Autorität einer Entdeckung und kann von dort weiterwandern.
+
 ## S5 — Drei Seiten, drei Welten
 
 Und genau hier lohnt sich ein historisches Experiment.
@@ -108,13 +120,9 @@ Auf der zweiten: eine Darstellung des Ajna-Zentrums. Stirnregion, Lotus, subtile
 
 Auf der dritten: Blavatskys Text. Dort beginnen Naturgeschichte, religiöse Symbolik und eine esoterische Menschheitsgeschichte miteinander zu sprechen.
 
-Keine dieser Seiten allein ergibt die heute vertraute Gleichung.
+Erst die Montage dieser Seiten ergibt die heute vertraute Gleichung.
 
-Erst wenn sie nebeneinanderliegen, erkennt man den historischen Vorgang.
-
-Nicht eine uralte anatomische Lehre wird wiederentdeckt.
-
-Verschiedene Wissenswelten werden miteinander verschaltet.
+Wenn sie nebeneinanderliegen, wird der historische Vorgang sichtbar: Verschiedene Wissenswelten finden zu einer neuen gemeinsamen Karte.
 
 Das ist ein kleiner, aber entscheidender Unterschied. Denn plötzlich können wir die Nahtstelle sehen, die in späteren Darstellungen fast vollständig verschwindet.
 

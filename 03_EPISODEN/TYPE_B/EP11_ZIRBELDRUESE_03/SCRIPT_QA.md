@@ -1,14 +1,14 @@
-# EP11 — Script QA V4
+# EP11 — Script QA V6
 
 ## Gesamturteil
 
-**Finaler Mid-Retention- und Voice-Rhythmus-Pass abgeschlossen. Nach Source-Lock Voice-Lock-fähig.**
+**Neuer Vollcheck abgeschlossen. Die zuvor übersehene Laufzeitlücke ist inhaltlich geschlossen; nach Source-Lock Voice-Lock-fähig.**
 
-V4 beseitigt die letzte erkennbare Wiederholung in der Serienmitte. Die Kernidee `alte Bestandteile + neue Verbindung` wird nicht mehr in drei aufeinanderfolgenden Blöcken abstrakt erklärt.
+V6 beseitigt die letzte erkennbare Wiederholung in der Serienmitte und ergänzt einen konkreten Originaldokument-Reveal. Die Kernidee `alte Bestandteile + neue Verbindung` wird nicht nur abstrakt erklärt, sondern am Kapitelzusammenhang der Originalausgabe von 1888 sichtbar.
 
 Neue Funktionsteilung:
 
-- S4 zeigt Blavatskys konkrete Synthese.
+- S4 zeigt Blavatskys konkrete Synthese und führt den Zuschauer direkt in den dokumentierten Kapitelzusammenhang.
 - S5 macht die Synthese als Leser-/Dokumentmontage erfahrbar und öffnet sofort die Gegenprobe.
 - S6 liefert mit Leadbeater 1927 den nächsten konkreten Dokument-Reveal.
 
@@ -27,6 +27,12 @@ Damit entsteht in der Mitte wieder Vorwärtsbewegung statt Meta-Erklärung.
 
 ## Voice
 
+- 1.142 gesprochene Wörter.
+- Rechnerisch etwa 8:09–8:39 Minuten bei 140–132 WPM; damit besitzt auch die zügigste Zielsprechweise einen kleinen Sicherheitsabstand über acht Minuten.
+- Keine Zeitdehnung und keine langen Dokument-Standbilder zur Laufzeitgewinnung.
+
+## Voice
+
 Erklärpassagen fließen natürlicher; kurze Fragmente bleiben nur dort dominant, wo sie Dokumente, Kontraste oder Reveals markieren. Keine generische Trailer-Kadenz über die gesamte Folge.
 
 ## Source-Lock vor Voice-Lock
@@ -39,4 +45,4 @@ Erklärpassagen fließen natürlicher; kurze Fragmente bleiben nur dort dominant
 
 ## Status
 
-**GO für Source-/Originalasset-/Visual-Preproduction. Kein weiterer struktureller Retention-Umbau geplant.**
+**GO für Source-/Originalasset-/Visual-Preproduction. Der neue Dokumentbeat muss mit echten, vollständig lesbaren Seiten und präzisen Hervorhebungen umgesetzt werden.**

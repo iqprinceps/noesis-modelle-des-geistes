@@ -1,12 +1,12 @@
-# EP12 — Script QA V4
+# EP12 — Script QA V6
 
 ## Gesamturteil
 
-**Strukturell gelockt. V4 ist ein reiner Voice-Rhythmus-Pass; nach vollständigem Source-Lock Voice-Lock-fähig.**
+**Neuer Vollcheck abgeschlossen. Nach vollständigem Source-Lock Voice-Lock-fähig.**
 
-Die experimentelle Dramaturgie bleibt unverändert stark: populäre Todesbehauptung → Pinealektomie → DMT bleibt messbar → Messmethode → Herzstillstand → DMT-Anstieg im Rattenkortex → menschliche Evidenzgrenze → Serienpayoff.
+Die experimentelle Dramaturgie bleibt stark: Todesbehauptung → Pinealektomie → DMT bleibt messbar → Messmethode → Herzstillstand → DMT-Anstieg im Rattenkortex → offene menschliche Messfrage → Serienpayoff.
 
-V4 verbindet unnötige Fragmentketten in Erklärpassagen zu natürlicherer gesprochener Sprache. Die entscheidenden Reveal-Fragmente bleiben erhalten, insbesondere `Die Drüse ist weg. DMT ist noch da.` und `Vielleicht war die Pinealis nie das Tor. Vielleicht war sie die Leinwand.`
+V6 ersetzt abwertend wirkende Widerlegungsformulierungen durch eine offene Forschungsbewegung. Die Daten verkleinern das Mysterium nicht; sie verlagern die Suche von einer einzelnen Drüse zur verteilten Chemie eines Gehirns im Ausnahmezustand. Die entscheidenden Reveal-Fragmente bleiben erhalten, insbesondere `Die Drüse ist weg. DMT ist noch da.` und `Vielleicht war die Pinealis nie das Tor. Vielleicht war sie die Leinwand.`
 
 ## Retention
 
@@ -16,6 +16,12 @@ V4 verbindet unnötige Fragmentketten in Erklärpassagen zu natürlicherer gespr
 - zweiter Turn: kortikales DMT steigt nach experimentellem Herzstillstand im konkreten Rattenexperiment.
 - Humanebene bleibt klar von Tiermessungen getrennt.
 - Finale verschiebt das Rätsel von Punkt → Prozess.
+
+## Voice
+
+- 1.237 gesprochene Wörter.
+- Rechnerisch etwa 8:50–9:22 Minuten bei 140–132 WPM; reale Dauer erst nach Voice-Master und Forced Alignment.
+- S8 als gedankliches Zukunftsexperiment sprechen, nicht als methodischen Korrekturvortrag.
 
 ## Visuelle Prioritäten
 
@@ -36,4 +42,4 @@ V4 verbindet unnötige Fragmentketten in Erklärpassagen zu natürlicherer gespr
 
 ## Status
 
-**GO für Source-/Originalasset-/Visual-Preproduction. Kein weiterer struktureller Script-Pass vorgesehen.**
+**GO für Source-/Originalasset-/Visual-Preproduction. Laufzeitreserve ist vorhanden; der Mystery-Ton darf in der Produktion nicht durch technische Karten abgeflacht werden.**

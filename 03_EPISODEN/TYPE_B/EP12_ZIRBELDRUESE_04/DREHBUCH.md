@@ -1,4 +1,4 @@
-# EP12 V5 — Zirbeldrüse IV: DMT an der Grenze
+# EP12 V6 — Zirbeldrüse IV: DMT an der Grenze
 
 **Status:** Preproduction / 8–9-Minuten-Wertpass  
 **Archetyp:** Type B — Labor-Mystery und Evidenzgrenze  
@@ -154,39 +154,35 @@ Und jetzt wird die Kontrolle entscheidend:
 
 Der berichtete Anstieg zeigt sich unabhängig davon, ob die Pinealis intakt ist.
 
-Damit bleibt ein reales neurochemisches Ereignis — nur ohne den einfachen geheimen Schalter, den die Legende verspricht.
+Damit bleibt ein reales neurochemisches Ereignis — und die Suche nach seiner Quelle öffnet sich über eine einzelne Drüse hinaus.
 
 Die Quelle und Bedeutung des Signals werden dadurch breiter und offener.
 
 ## S8 — Was müsste beim Menschen passieren?
 
-Hier lohnt sich eine ungewöhnliche Frage: Was würden wir eigentlich messen wollen, damit aus der populären Erzählung ein belastbarer menschlicher Befund wird?
+Stellt euch vor, morgen gäbe es den ersten überzeugenden menschlichen Nachweis. Was müsste darin zu sehen sein?
 
-Es würde nicht reichen, DMT irgendwo im menschlichen Körper nachzuweisen. Das wissen wir grundsätzlich bereits.
+Nicht nur DMT irgendwo im Körper. Entscheidend wäre eine Messung, die den Übergang selbst begleitet: vor, während und nach einem extremen Grenzzustand — zeitlich passend, an einem relevanten Ort und in einer Konzentration, die biologisch etwas verändern könnte.
 
-Wir müssten zeigen, dass sich DMT in der relevanten Situation verändert — zeitlich passend, an einem relevanten Ort und in einer Größenordnung, die biologisch Bedeutung haben könnte.
+Und wenn die Pinealis im Zentrum der Behauptung steht, müsste sich auch ihre besondere Rolle in den Daten zeigen.
 
-Und wenn die Behauptung speziell die Pinealis betrifft, müsste zusätzlich gezeigt werden, dass gerade diese Drüse die entscheidende Quelle ist.
-
-Das sind mehrere Behauptungen, die im Internet oft zu einem einzigen Satz zusammenschmelzen:
+Damit trennen sich vier Rätsel, die oft wie ein einziger Satz klingen:
 
 DMT existiert im Körper.
 
-Die Pinealis produziert es.
+Wo entsteht es?
 
-Beim Tod wird viel davon freigesetzt.
+Wann verändert es sich?
 
-Dieser Schub verursacht die Erfahrung.
+Und kann diese Veränderung eine Erfahrung prägen?
 
-Doch wissenschaftlich ist jeder Pfeil zwischen diesen Sätzen eine eigene Frage.
-
-Genau deshalb ist das Rattenexperiment so aufschlussreich: Es prüft einen dieser Pfeile direkt — die Sonderrolle der Pinealis — und macht die einfache Version unwahrscheinlicher.
+Das Rattenexperiment öffnet einen dieser Wege. DMT bleibt auch ohne Pinealis messbar, und der Herzstillstand verändert das Signal. Die nächste Spur führt deshalb über eine einzelne Drüse hinaus — in die verteilte Chemie eines Gehirns im Ausnahmezustand.
 
 ## S9 — Und der Mensch?
 
 Das Herzstillstands-Experiment wurde an Ratten durchgeführt.
 
-Für Menschen besitzen wir keinen direkten Nachweis, dass die Zirbeldrüse im Moment des Todes einen massiven psychedelischen DMT-Schub freisetzt.
+Beim Menschen ist ein solcher DMT-Verlauf im Moment des Todes bislang nicht direkt vermessen worden.
 
 Auf der einen Seite stehen also Messungen aus Tiermodellen, Gewebe- und Enzymbefunde. Auf der anderen Seite stehen menschliche Grenzerfahrungen.
 
@@ -194,9 +190,7 @@ Menschen berichten nach Nahtoderlebnissen von Licht, verändertem Zeitgefühl, A
 
 Auch DMT kann radikal veränderte Welten und Selbstzustände hervorrufen. Studien haben phänomenologische Überschneidungen zwischen DMT-Erfahrungen und Nahtoderlebnissen beschrieben.
 
-Das macht den Vergleich interessant.
-
-Es macht ihn noch nicht zu einem Nachweis derselben Ursache.
+Das macht den Vergleich interessant und öffnet eine konkrete Forschungsrichtung. Die ursächliche Brücke zwischen Molekül und Erlebnis ist noch nicht vermessen.
 
 Und genau dort liegt die schwierige Frage:
 
@@ -236,9 +230,9 @@ DMT ist endogen nachgewiesen. Im untersuchten Rattengehirn ist es auch ohne Pine
 
 Was diese Biologie funktionell bedeutet — und wie weit sie etwas über menschliche Grenzerfahrungen erklärt — bleibt offen.
 
-Das ist weniger endgültig als die Legende.
+Die bekannte Erzählung gibt darauf eine endgültige Antwort.
 
-Aber es ist das bessere Rätsel.
+Die Daten öffnen ein größeres Rätsel.
 
 ## Endcard
 

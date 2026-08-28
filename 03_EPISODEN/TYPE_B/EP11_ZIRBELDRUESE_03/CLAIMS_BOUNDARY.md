@@ -4,6 +4,7 @@
 
 - Helena P. Blavatskys *The Secret Doctrine* erschien 1888.
 - Blavatsky diskutiert darin ein früheres „third eye“, die Pinealis und das „Eye of Siva“ innerhalb ihrer esoterischen Evolutionsgeschichte.
+- Band II enthält im Kapitelzusammenhang auf den Originalseiten 289–306 einen Abschnitt zu den „Races with the Third Eye“ und verschaltet dort naturkundliche Third-Eye-Diskussion, Pinealis und „Eye of Siva“.
 - Im 19. Jahrhundert wurden Pineal-/Parietalorgane verschiedener Wirbeltiere intensiv vergleichend-anatomisch untersucht und als „third eye“ beziehungsweise augenähnliche Organe diskutiert.
 - Ältere tantrische Ajna-Beschreibungen behandeln ein subtiles Zentrum im Stirnbereich mit eigener Symbolik; die moderne anatomische Formel `Ajna = Zirbeldrüse` darf daraus nicht rückwirkend als wörtliche Anatomie abgeleitet werden.
 - C. W. Leadbeaters *The Chakras* (1927) zeigt, dass westlich-esoterische Drüsen-/Chakra-Zuordnungen selbst im frühen 20. Jahrhundert nicht einheitlich waren: sein sechstes Zentrum wird mit der Hypophyse, sein siebtes mit der Pinealis verbunden.
@@ -32,7 +33,7 @@ Ein altes Symbol + eine alte spirituelle Praxis + ein reales Organ + eine reale 
 
 ## Quellenpriorität vor Voice-Lock
 
-1. Blavatsky, *The Secret Doctrine*, Originalausgabe 1888, relevante Seiten zu third eye / pineal / Eye of Siva.
+1. Blavatsky, [*The Secret Doctrine*, Band II, Originalausgabe 1888](https://www.theosociety.org/pasadena/sd-pdf/SecretDoctrineVol2_eBook.pdf), insbesondere Originalseiten 289–306 zu third eye / pineal / Eye of Siva.
 2. Historische bzw. fachhistorische Forschung zur Pinealis-Rezeption und Blavatskys Verbindung.
 3. Konkrete Primär-/kritische Edition eines älteren Ajna-Textes, bevorzugt *Ṣaṭ-cakra-nirūpaṇa* / seriöse Übersetzung mit Datierungskontext.
 4. C. W. Leadbeater, *The Chakras* (1927), konkrete Passagen zu sixth/seventh centre und pituitary/pineal.

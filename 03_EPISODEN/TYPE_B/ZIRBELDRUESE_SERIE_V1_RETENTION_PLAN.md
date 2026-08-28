@@ -11,12 +11,15 @@ Es gibt **keine harte Zeit-, Wort- oder Aktvorgabe**. Jede Folge bekommt genau d
 ### Monetarisierungsbewusster Zielkorridor
 
 YouTube ermöglicht Mid-Roll-Werbung bei monetarisierten Videos ab einer
-fertigen Laufzeit von acht Minuten. Deshalb wird für diese Serie ein Master von
-ungefähr **8:10 bis 8:30 Minuten** angestrebt, wenn die Episode dafür einen
-echten zusätzlichen Spannungs-, Beleg- oder Erlebnisbeat besitzt. Die Schwelle
-rechtfertigt niemals Fülltext, Wiederholung oder verlangsamte Bildholds. Sollte
-eine Folge trotz optimaler Voice und Bilddramaturgie organisch kürzer bleiben,
-hat Zuschauerzufriedenheit Vorrang vor dem zusätzlichen Werbeplatz.
+fertigen Laufzeit von acht Minuten. Deshalb soll ein Master die Schwelle mit
+kleinem Sicherheitsabstand überschreiten, wenn die Episode dafür einen echten
+zusätzlichen Spannungs-, Beleg- oder Erlebnisbeat besitzt. **Acht Minuten sind
+dabei eine wirtschaftlich relevante Schwelle, aber weder kreatives Mindestmaß
+noch gewünschte Maximallänge.** Die aktuellen Skripte ergeben rechnerisch etwa
+8:09 bis 9:28 Minuten bei 140–132 WPM. Die Schwelle rechtfertigt niemals
+Fülltext, Wiederholung oder verlangsamte Bildholds. Sollte eine Folge trotz
+optimaler Voice und Bilddramaturgie organisch kürzer bleiben, hat
+Zuschauerzufriedenheit Vorrang vor dem zusätzlichen Werbeplatz.
 
 Ein möglicher Mid-Roll-Punkt wird je Episode an einem natürlichen Kapitel- oder
 Gedankenwechsel geplant. Er wird erst am fertigen Master gesetzt und nie mitten
@@ -58,19 +61,19 @@ Die Serie folgt deshalb keiner Schablone „Wissenschaft gegen Esoterik“. Jede
 
 **Fokus:** Historische Genealogie der modernen Gleichsetzung Pinealis ↔ „third eye“ ↔ esoterische Wahrnehmung; westlicher Okkultismus/Theosophie und spätere Chakra-Rezeption.
 
-**Hook:** Die heute vertraute Gleichung „Ajna = Zirbeldrüse = drittes Auge“ wirkt uralt. Historisch ist ihre moderne Form deutlich jünger.
+**Hook:** 1888 behauptet ein reales Buch, der Mensch habe einst ein drittes Auge besessen und dessen Überrest liege als Zirbeldrüse noch immer im Gehirn.
 
-**Payoff:** Die Mystik wird nicht entwertet, sondern datiert: verschiedene Traditionslinien wurden in der Neuzeit miteinander verschaltet.
+**Payoff:** Das Originaldokument macht sichtbar, wie Naturgeschichte, religiöse Symbolik und esoterische Menschheitsgeschichte zu einer neuen gemeinsamen Karte verbunden wurden.
 
 **Serienübergang:** Im 20./21. Jahrhundert wechselt die Sprache von Seele und Okkultismus zur Neurochemie.
 
 ### EP12 — DMT: Was geschieht an der Grenze?
 
-**Fokus:** endogenes DMT, Synthesewege im Gehirn, Pinealis-Hypothese, Tierdaten, Nahtod-Erzählungen und harte Evidenzgrenzen.
+**Fokus:** endogenes DMT, Synthesewege im Gehirn, Pinealis-Hypothese, Tierdaten, Nahtod-Erzählungen und offene Evidenzfragen.
 
-**Hook:** Einer der populärsten Sätze über die Zirbeldrüse lautet, sie schütte beim Tod DMT aus. Genau dieser Satz ist viel sicherer formuliert als die Datenlage.
+**Hook:** 2019 steigt in einem Rattenexperiment nach Herzstillstand das gemessene DMT-Signal — selbst bei Tieren, deren Zirbeldrüse zuvor entfernt wurde.
 
-**Payoff:** Endogenes DMT ist wissenschaftlich real; eine massive menschliche Pinealis-Ausschüttung beim Tod ist nicht belegt. Die offene Frage verschiebt sich von einer einzelnen Drüse auf Synthese und Funktion im Gehirn.
+**Payoff:** Endogenes DMT und der gemessene Anstieg im tierischen Ausnahmezustand öffnen eine größere Frage: Welche verteilte Chemie könnte an biologischen Grenzzuständen beteiligt sein, und wie ließe sich diese Spur beim Menschen überhaupt vermessen?
 
 ## Serienweite Schutzgeländer
 

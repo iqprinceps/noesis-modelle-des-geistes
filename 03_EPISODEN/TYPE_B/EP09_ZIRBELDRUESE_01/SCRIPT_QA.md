@@ -1,10 +1,10 @@
-# EP09 — Script QA V5
+# EP09 — Script QA V6
 
 ## Gesamturteil
 
-**Finaler struktureller Retention- und Voice-Rhythmus-Pass abgeschlossen. Nach Source-Lock Voice-Lock-fähig.**
+**Neuer Vollcheck abgeschlossen. Nach Source-Lock Voice-Lock-fähig.**
 
-V5 bewahrt den starken zoologischen Hook und den modernen Abendlicht-Reality-Beat. Der frühere Restpunkt in S7 wurde verdichtet: Die Folge erklärt die Tag-/Nacht-Kopplung dort nicht erneut ausführlich, sondern führt direkt zur kulturellen Anziehungskraft der Pinealis.
+V6 bewahrt den starken zoologischen Hook und den modernen Abendlicht-Reality-Beat. Der zusätzliche Retina-Beat erklärt als persönliche Entdeckung, dass dieselbe Netzhaut Bildwelt und Zeitinformation verarbeitet. Der Umwelt-Beat über die zeitliche Struktur des Lichts schafft heutige Relevanz, ohne den Melatonin-Block zu wiederholen.
 
 Zusätzlich wurden unnötige Fragmentketten in Erklärpassagen zu natürlicher gesprochener Sprache verbunden. Die starken Fragmentmomente in Hook, Turns und Payoffs bleiben bewusst erhalten.
 
@@ -17,6 +17,9 @@ Zusätzlich wurden unnötige Fragmentketten in Erklärpassagen zu natürlicher g
 - Schluss: Descartes/Elisabeth öffnen EP10 als menschlichen Konflikt.
 
 ## Voice
+
+- 1.223 gesprochene Wörter.
+- Rechnerisch etwa 8:44–9:16 Minuten bei 140–132 WPM; reale Dauer erst nach Voice-Master und Forced Alignment.
 
 - `zirkadian` bzw. `innere Uhr`, nicht englisch `circadian` sprechen.
 - Fachbegriffe wie `Pinealkomplex` und `Parietalauge` ruhig und nicht überbetont.
@@ -32,4 +35,4 @@ Zusätzlich wurden unnötige Fragmentketten in Erklärpassagen zu natürlicher g
 
 ## Status
 
-**GO für Source-/Originalasset-/Visual-Preproduction. Kein weiterer struktureller Script-Pass vorgesehen.**
+**GO für Source-/Originalasset-/Visual-Preproduction. Laufzeitreserve ist vorhanden; nichts zur Monetarisierung ergänzen.**

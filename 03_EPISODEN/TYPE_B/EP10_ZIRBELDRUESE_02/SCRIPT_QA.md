@@ -1,10 +1,10 @@
-# EP10 — Script QA V5
+# EP10 — Script QA V7
 
 ## Gesamturteil
 
-**Finaler Retention- und Voice-Rhythmus-Pass abgeschlossen. Nach Primärquellen-Lock Voice-Lock-fähig.**
+**Neuer Vollcheck abgeschlossen. Nach Primärquellen-Lock Voice-Lock-fähig.**
 
-Elisabeth von Böhmen bleibt der menschliche Konfliktmotor. V5 entdoppelt S7/S8 weiter: Elisabeths zweiter Einwand trägt die historische Körper-Geist-Kritik; S8 übersetzt sie nur noch knapp in unmittelbare Zuschauererfahrung.
+Elisabeth von Böhmen bleibt der menschliche Konfliktmotor. V7 besitzt mit dem bewussten Handheben einen nicht redundanten Zuschauerbeat: Der Konflikt wird körperlich erfahrbar, bevor Descartes antwortet. Elisabeths zweiter Einwand trägt danach die historische Körper-Geist-Kritik.
 
 Erklärpassagen wurden sprachlich geglättet, während Hook, Dokument-Reveals und zentrale Turns ihre kurzen Akzente behalten.
 
@@ -16,6 +16,11 @@ Erklärpassagen wurden sprachlich geglättet, während Hook, Dokument-Reveals un
 - Zentraler Turn: `Ein Ort erklärt noch keine Wechselwirkung.`
 - S7/S8 wiederholen Krankheit/Schmerz/Körper-Geist-Kopplung nicht mehr ausführlich doppelt.
 - Payoff: `Descartes suchte einen Punkt. Elisabeth zeigte, warum ein Punkt nicht genügt.`
+
+## Voice
+
+- 1.249 gesprochene Wörter.
+- Rechnerisch etwa 8:55–9:28 Minuten bei 140–132 WPM; reale Dauer erst nach Voice-Master und Forced Alignment.
 
 ## Visuelle Prioritäten
 
@@ -35,4 +40,4 @@ Erklärpassagen wurden sprachlich geglättet, während Hook, Dokument-Reveals un
 
 ## Status
 
-**GO für Source-/Originalasset-/Visual-Preproduction. Kein weiterer struktureller Script-Pass vorgesehen.**
+**GO für Source-/Originalasset-/Visual-Preproduction. Laufzeitreserve ist vorhanden; nichts zur Monetarisierung ergänzen.**

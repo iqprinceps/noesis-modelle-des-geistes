@@ -1,4 +1,4 @@
-# EP10 V6 — Zirbeldrüse II: Der Sitz der Seele
+# EP10 V7 — Zirbeldrüse II: Der Sitz der Seele
 
 **Status:** Preproduction / 8–9-Minuten-Wertpass  
 **Archetyp:** Type B/C — Ideengeschichte mit menschlichem Konflikt  
@@ -218,7 +218,7 @@ Das ist der eigentliche Riss im System.
 
 ## S10 — Was von der Theorie übrig bleibt
 
-Descartes' konkrete Physiologie hält moderner Anatomie nicht stand.
+Die moderne Anatomie hat Descartes' konkrete Physiologie längst ersetzt.
 
 Die Pinealis ist kein beweglicher Verteiler animalischer Geister, und Bewusstsein lässt sich nicht auf diesen einen Punkt reduzieren.
 
