@@ -1,75 +1,60 @@
-# EP12 — Script QA V1
+# EP12 — Script QA V2
 
 ## Gesamturteil
 
-**GO für Quellen-, Originalasset- und Visual-Preproduction. Noch kein Voice-Lock.**
+**Retention-Pass abgeschlossen. Nach vollständigem Source-Lock nahezu produktionsreif.**
 
-EP12 hat einen anderen Motor als die ersten drei Folgen: Die Mystik wird nicht historisch verfolgt, sondern in einem konkreten Experiment unter Druck gesetzt. Entscheidend ist, dass die Folge den Zuschauer nicht mit „Mythos falsch“ bezahlt. Der stärkste Reveal lautet: DMT bleibt biologisch interessant, nachdem die Pinealis als notwendige Quelle aus dem Zentrum fällt.
+EP12 bleibt die experimentell stärkste Folge der Serie: Pinealektomie und Herzstillstand liefern zwei echte Wendungen. V2 benennt die Spezies und Messsituation konsequenter, reduziert die Wiederholung von `Drüse weg / DMT bleibt` und schließt mit einer symmetrischeren Zuschauerfrage.
 
 ## Zuschauercheck
 
 ### Hook
 
-**Sehr stark:** Todesmoment + DMT + Pinealis sind sofort verständlich und besitzen hohe Such-/Mystery-Energie. Der 2019er Kontrollversuch wird schon im Hook geöffnet, aber nicht vollständig erklärt.
+Tod + DMT + Pinealis + reales Rattenexperiment + Kontrollbedingung. Caveats erst nach dem Experimentversprechen.
 
-**Risiko:** Nicht zu viele Caveats in die ersten 60 Sekunden. Erst Erwartung und Experiment, dann Grenzen.
+### Erster Turn
 
-### DMT-Grundlage
+Im 2019er Rattenexperiment wird extrazelluläres DMT in der visuellen Rinde bei pinealis-intakten und pinealektomierten Tieren gemessen. Der Befund wird als Rattenbefund erzählt, nicht auf Menschen übertragen.
 
-**Stark:** „Das Molekül war nie nur eine Droge“ macht aus dem populären Psychedelikum ein biologisches Objekt.
+### Zweiter Turn
 
-**Risiko:** Biosynthese auf Tryptamin + INMT begrenzen. Keine Enzymvorlesung.
+Nach experimentell ausgelöstem Herzstillstand steigt das gemessene kortikale DMT bei Ratten an. Der berichtete Anstieg hängt in den Vergleichen nicht von einer intakten Pinealis ab.
 
-### Pinealis-Hypothese
+Das ist der Mystery-Höhepunkt. Keine Formulierung `menschlicher Todes-DMT-Flood` daraus ableiten.
 
-**Stark:** EP09–EP11 werden in wenigen Bildern reaktiviert, sodass die kulturelle Attraktivität der Hypothese verständlich wird.
+### Menschliche Ebene
 
-**Risiko:** Rick Strassman nicht zum Erfinder aller Pinealis-DMT-Ideen erklären. Seine Aussagen exakt attribuieren und Primärquelle prüfen.
+Nahtoderfahrungen bringen Gesichter und subjektive Erfahrung zurück zwischen Laborblöcken. Phänomenologische Ähnlichkeiten mit DMT-Erfahrungen dürfen Hypothesen öffnen, aber keine gemeinsame chemische Ursache behaupten.
 
-### Erster großer Turn — Pinealektomie
+### Serienpayoff
 
-**Sehr stark:** Die Frage „Was müsste verschwinden, wenn die Drüse die Quelle wäre?“ lädt den Zuschauer zum eigenen Urteil ein. Ergebnis erst danach zeigen.
+`Vielleicht war sie nie das Tor. Vielleicht war sie die Leinwand.` bleibt die redaktionelle Metapher.
 
-**Visual:** Tier mit/ohne Pinealis nicht als grausame OP inszenieren. Anatomische Rekonstruktion + Messsignal reicht.
+Der Serienbogen endet Punkt → Prozess, ohne jede Vorfolge erneut ausführlich zu widerlegen.
 
-### Zweiter großer Turn — Herzstillstand
+### Endfrage
 
-**Sehr stark, aber claim-sensitiv:** Der DMT-Anstieg im Rattenexperiment darf als echter Mystery-Moment stehen. Unmittelbar danach Spezies und Versuchsbedingung sauber nennen.
+`Macht dieses Ergebnis die letzte Vision für euch weniger mysteriös — oder noch mysteriöser?`
 
-**Risiko:** Wörter wie „Todes-DMT“, „Flood“, „letzte Vision“ nie als gemessenen Humanbefund verwenden.
+Sie hält beide Antwortmöglichkeiten auf derselben Ebene und lädt eher zu echter Diskussion ein.
 
-### NDE-Block
+## Visuelle Prioritäten
 
-**Stark:** Er bringt Menschen und subjektive Erfahrung zurück, nachdem die Mitte laborlastig war.
+- Labor und Messung nie zu lange allein stehen lassen;
+- menschliche Gesichter, Schlaf-/Grenzräume und subjektive abstrakte Räume als Kontrast;
+- Rattenversuch sachlich, nicht sensationalistisch/grafisch;
+- Pinealektomie über Anatomie/Versuchsdesign, nicht OP-Bilder;
+- Messkurven nur mit klarer Zuschauerfrage zeigen.
 
-**Risiko:** Nicht in eine Liste spektakulärer Nahtoderlebnisse abgleiten. Ein bis zwei konkrete Erlebnisdimensionen plus seriöser Vergleich reichen.
+## Source-Lock vor Voice-Lock
 
-### Payoff
+1. Dean et al. 2019: Tierzahl, Pinealektomie, visuelle Rinde, Baseline, Herzstillstand, Statistik, Wortlaut.
+2. Human-/Rattengewebe bei INMT/AADC sauber auseinanderhalten.
+3. ältere endogene-DMT-Nachweise und methodische Grenzen.
+4. Strassmans konkrete Pinealis-/Geburt-/Tod-Spekulationen aus Originalquelle.
+5. NDE-DMT-Vergleichsstudie auf tatsächliche Aussage prüfen.
+6. keine psychedelisch wirksame endogene Konzentration behaupten, wenn nicht belegt.
 
-**Sehr stark:** Die Serie endet mit dem wiederkehrenden Muster „Punkt → Prozess / Organ → Netzwerk“. Das verbindet EP09 (Lichtnetzwerk), EP10 (kein einzelner Sitz), EP11 (kulturelle Montage) und EP12 (DMT außerhalb der Pinealis).
+## Status
 
-Der Satz **„Vielleicht war sie nie das Tor. Vielleicht war sie die Leinwand.“** ist emotional stark, darf aber nur als redaktionelle Metapher stehen, nicht als wissenschaftlicher Claim.
-
-## Negativformulierungen / Ton
-
-EP12 ist naturgemäß evidenzsensitiv. Trotzdem Grenzen bevorzugt als positive Verschiebung formulieren:
-
-- statt „Die Pinealis macht es nicht“ → „DMT bleibt auch ohne Pinealis messbar“;
-- statt „NDEs sind nicht DMT“ → „Ähnlichkeit öffnet eine Hypothese, identifiziert aber noch keine Ursache“;
-- statt „Wir wissen nichts“ → „Wir wissen A und B; offen bleiben C und D“.
-
-So bleibt die Folge neugierig statt defensiv.
-
-## Fachliche Checks vor Voice-Lock
-
-1. Dean et al. 2019 komplett gegen das Skript prüfen: Tierzahl, Pinealektomie, Messregion, Baseline, Herzstillstand, Statistik und Wortwahl der Autoren.
-2. Prüfen, welche Humanproben in der Arbeit für INMT/AADC beziehungsweise verwandte Syntheseaussagen verwendet wurden; keine Rattenbefunde auf Menschen übertragen.
-3. Ältere Nachweise endogenen DMTs und methodische Grenzen über Review/Primärliteratur absichern.
-4. Strassmans konkrete Pinealis-/Geburt-/Traum-/Tod-Hypothesen aus Originaltext verifizieren.
-5. NDE-DMT-Vergleichsstudie(n) auf Studiendesign und tatsächliche Aussage prüfen.
-6. Prüfen, ob „visuelle Rinde“ im deutschen Voice-Kontext präziser als „Hirnrinde“ stehen muss.
-7. Keine Aussage über psychedelisch wirksame endogene Konzentrationen ohne belastbare Konzentrations-/Rezeptorargumentation.
-
-## V1-Urteil
-
-Die Folge besitzt bereits einen klaren Hook, zwei echte experimentelle Wendungen und einen Serienpayoff. Vor Voice-Lock braucht sie vor allem **Source Lock**, nicht künstliche Verlängerung. Wenn die Primärdaten einzelne Formulierungen enger machen, wird die Voice angepasst, ohne den Mystery-Motor zu verlieren.
+**GO für Source-/Originalasset-/Visual-Preproduction. Nach Source-Lock nur noch Voice-Master-Feinschliff.**
