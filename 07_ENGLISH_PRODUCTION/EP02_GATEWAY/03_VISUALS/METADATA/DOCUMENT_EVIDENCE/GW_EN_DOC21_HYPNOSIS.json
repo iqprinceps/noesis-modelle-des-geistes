@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 3,
+  "phrase": "Hypnosis",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    92.5,
+    612.0,
+    792.0
+  ],
+  "highlight_rects": [
+    [
+      92.16,
+      147.53,
+      134.37,
+      156.25
+    ],
+    [
+      68.61,
+      229.77,
+      110.84,
+      239.66
+    ],
+    [
+      334.56,
+      238.53,
+      377.52,
+      248.2
+    ],
+    [
+      188.15,
+      633.74,
+      231.03,
+      643.17
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

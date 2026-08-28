@@ -1,0 +1,18 @@
+{
+  "created_utc": "2026-08-26T21:11:10.182418+00:00",
+  "reviewer": "Vertex Gemini full-stream auditory review",
+  "model": "gemini-2.5-flash",
+  "audio_file": "05_QA/FULL_MIX_LISTENING/EP01_EN_KOZYREV_FULL_MIX_48K.opus",
+  "duration_seconds": 434.632,
+  "verdict": {
+    "listened_complete_stream": true,
+    "overall_verdict": "PASS",
+    "naturalness_and_pronunciation": "The narrator's voice is clear, articulate, and maintains a consistent, appropriate tone. Pronunciation of names like Kozyrev, Kaznacheev, and Trofimov is clear and consistent. No unnatural inflections or mispronunciations were noted.",
+    "pace_hook_and_retention": "The opening question effectively hooks the listener. The pacing is deliberate and well-suited for a documentary, allowing complex information to be absorbed. The narrative structure, moving from historical context to scientific claims and potential tests, maintains listener retention throughout.",
+    "score_sfx_voice_balance": "The background score is atmospheric and effectively supports the mysterious tone without ever overpowering the narration. The voice-to-music balance is excellent, ensuring clarity of speech at all times.",
+    "edit_joins_artifacts_dropouts": "The audio is clean with no noticeable edit joins, artifacts, clicks, pops, or dropouts. Transitions are smooth and seamless.",
+    "closing_impulse": "The ending provides a strong closing impulse by hinting at future developments and a continuation of the story, creating an effective cliffhanger for the next segment.",
+    "localized_issues": [],
+    "pickup_or_remix_decision": "No pickup or remix is required as the audio quality and performance are excellent."
+  }
+}

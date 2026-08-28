@@ -1,0 +1,52 @@
+{
+  "package": "EP05_SLEEP_PARALYSIS_01_SHORTS",
+  "language": "en",
+  "status": "READY_NOT_UPLOADED",
+  "upload_authorized": false,
+  "timezone": "Europe/Berlin",
+  "longform": {
+    "title": "Sleep Paralysis: Why You Feel Someone in the Room",
+    "video_id": "dXwqAWc74Ts",
+    "url": "https://youtu.be/dXwqAWc74Ts",
+    "scheduled_publish_at": "2026-09-05T20:00:00+02:00"
+  },
+  "shorts": [
+    {
+      "id": "S01_HUFFORD_OLD_HAG",
+      "title": "The Old Hag Came Before the Name | Sleep Paralysis",
+      "master": "S01_HUFFORD_OLD_HAG/05_OUTPUT/EP05_EN_SHORT_S01_MASTER_1080x1920_30.mp4",
+      "captions": "S01_HUFFORD_OLD_HAG/05_OUTPUT/EP05_EN_SHORT_S01.srt",
+      "cover": "S01_HUFFORD_OLD_HAG/05_OUTPUT/COVER_FRAME_9x16.png",
+      "metadata": "S01_HUFFORD_OLD_HAG/05_OUTPUT/YOUTUBE_METADATA.md",
+      "related_video_id": "dXwqAWc74Ts",
+      "related_video_set_timing": "after longform becomes public and before Short publishes; requires YouTube advanced feature access",
+      "recommended_publish_at": "2026-09-06T18:00:00+02:00",
+      "publication_relation": "22 hours after longform",
+      "status": "READY_NOT_UPLOADED",
+      "verified_duration_seconds": 43.8,
+      "verified_integrated_lufs": -14.4,
+      "verified_true_peak_dbtp": -1.0,
+      "master_sha256": "30fa3584cda689303956cdb9000f87663d67b9a530f7332e60028b197c1f4757",
+      "final_qa_status": "PASS"
+    },
+    {
+      "id": "S02_TAKEUCHI_LAB",
+      "title": "Researchers Recorded Six Sleep Paralysis Episodes",
+      "master": "S02_TAKEUCHI_LAB/05_OUTPUT/EP05_EN_SHORT_S02_MASTER_1080x1920_30.mp4",
+      "captions": "S02_TAKEUCHI_LAB/05_OUTPUT/EP05_EN_SHORT_S02.srt",
+      "cover": "S02_TAKEUCHI_LAB/05_OUTPUT/COVER_FRAME_9x16.png",
+      "metadata": "S02_TAKEUCHI_LAB/05_OUTPUT/YOUTUBE_METADATA.md",
+      "related_video_id": "dXwqAWc74Ts",
+      "related_video_set_timing": "during Short setup if longform is public and advanced feature access is enabled",
+      "recommended_publish_at": "2026-09-08T18:30:00+02:00",
+      "publication_relation": "70.5 hours after longform",
+      "status": "READY_NOT_UPLOADED",
+      "verified_duration_seconds": 48.633,
+      "verified_integrated_lufs": -14.0,
+      "verified_true_peak_dbtp": -1.0,
+      "master_sha256": "18ba0dbc0e83bf4910b5bdd6e582ccd466e4a4a9d035336b5bb1e2471986e35a",
+      "final_qa_status": "PASS"
+    }
+  ],
+  "final_qa_status": "PASS"
+}

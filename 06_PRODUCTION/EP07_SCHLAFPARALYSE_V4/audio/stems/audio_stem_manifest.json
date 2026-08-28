@@ -1,0 +1,31 @@
+{
+  "episode": "EP07",
+  "duration_seconds": 660.843,
+  "sample_rate": 48000,
+  "channels": 2,
+  "subtype": "PCM_24",
+  "source_timing": "06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\VOICE_EP07\\master\\stem_report.json",
+  "generator_seed": 7072402,
+  "source": "project-owned deterministic synthesis",
+  "mix_note": "VO remains foreground; final bed about -30 LUFS, deliver at -14 LUFS +/-0.5 and <=-0.8 dBTP.",
+  "restrictions": [
+    "no third-party recordings",
+    "no jump scares",
+    "no trailer booms",
+    "no occult drones",
+    "no branded interface sounds",
+    "no sound that asserts a supernatural entity as fact"
+  ],
+  "files": [
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_MX_LOW.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_MX_HARMONIC.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_MX_NOISE.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_MX_MASTER.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_SFX_SALEM_ROOMTONE.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_SFX_PAPER_INK.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_SFX_WOOD_BED.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_SFX_COURT_MURMUR.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_SFX_MAP_MOTION.wav",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_SFX_MEDIA_HANDOFF.wav"
+  ]
+}

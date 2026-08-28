@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 1,
+  "phrase": "DEPARTMENT OF THE ARMY",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    23.5,
+    612.0,
+    265.5
+  ],
+  "highlight_rects": [
+    [
+      221.69,
+      44.08,
+      304.54,
+      59.73
+    ],
+    [
+      309.51,
+      42.5,
+      327.35,
+      58.15
+    ],
+    [
+      330.64,
+      42.12,
+      356.6,
+      57.77
+    ],
+    [
+      360.4,
+      41.59,
+      389.93,
+      57.24
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_STILL05_THREE_OBSERVERS_V2",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Wide conceptual documentary tableau of three anonymous adult observers in three separate but visually connected early-1980s rooms, each seated at a plain desk with headphones and a closed blank report folder. The full frame contains zero words, letters, numbers, captions, explanatory copy, labels, title blocks, interface text, or logos. No split-screen border. Subtle differences in practical light and clock-shadow direction distinguish present, immediate past, and immediate future without readable clocks or fantasy effects. Target remains hidden. All three bodies anatomically correct and clearly separate.",
+  "prompt_sha256": "b12a51dbfe1330a0407e04efce35d18957a98433d63d2b1d68f4fa0a786bcd59",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_STILL05_THREE_OBSERVERS_V2_PREVIEW.png",
+  "output_sha256": "e74800442158a3fb177fb044305bc648100d77c00eb2efa4bf6cfc60659b001e",
+  "seconds": 47.503,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

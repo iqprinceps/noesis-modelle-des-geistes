@@ -1,0 +1,13 @@
+{
+  "asset": "GW_EN_CLIP02_ARCHIVE_CHAIN.mp4",
+  "provider": "deterministic Python/Pillow + FFmpeg",
+  "duration": 7.0,
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "audio": false,
+  "visible_mode_badge": false,
+  "use": "Army authorship to CIA archive custody"
+}

@@ -1,0 +1,58 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,62,&H00F5F2EB,&H00F5F2EB,&H00101014,&H8C000000,-1,0,0,0,100,100,0,0,1,5,2,2,105,210,420,1
+Style: Hook,Arial Black,92,&H00F5F2EB,&H00F5F2EB,&H00101014,&HA0000000,-1,0,0,0,100,100,0,0,3,6,0,8,70,70,168,1
+Style: Badge,Segoe UI Semibold,34,&H00BEBAAE,&H00BEBAAE,&H00101014,&H60000000,0,0,0,0,100,100,3,0,1,3,0,8,70,70,64,1
+Style: CtaHead,Arial Black,52,&H00F5F2EB,&H00F5F2EB,&H00101014,&HA8000000,-1,0,0,0,100,100,0,0,3,6,0,2,90,90,486,1
+Style: CtaSub,Segoe UI Semibold,42,&H00C9C08C,&H00C9C08C,&H00101014,&HA8000000,-1,0,0,0,100,100,0,0,3,5,0,2,90,90,414,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:46.13,Badge,,0,0,0,,SCHLAFPARALYSE  ·  6/6
+Dialogue: 4,0:00:00.00,0:00:02.60,Hook,,0,0,0,,{\fad(160,260)}EINE PERSON\NAUS DEM NICHTS
+Dialogue: 0,0:00:00.34,0:00:02.06,Caption,,0,0,0,,2006 sind Forscher
+Dialogue: 0,0:00:02.14,0:00:02.94,Caption,,0,0,0,,zufällig auf eine
+Dialogue: 0,0:00:03.00,0:00:04.54,Caption,,0,0,0,,unsichtbare Person\Ngestoßen.
+Dialogue: 0,0:00:05.48,0:00:06.36,Caption,,0,0,0,,Sie stimulierten bei
+Dialogue: 0,0:00:06.42,0:00:07.38,Caption,,0,0,0,,einer Patientin eine
+Dialogue: 0,0:00:07.50,0:00:08.34,Caption,,0,0,0,,Stelle im Gehirn,
+Dialogue: 0,0:00:08.80,0:00:10.48,Caption,,0,0,0,,die linke\Ntemporoparietale
+Dialogue: 0,0:00:10.56,0:00:11.12,Caption,,0,0,0,,Verbindung.
+Dialogue: 0,0:00:11.76,0:00:12.62,Caption,,0,0,0,,Sie spürte sofort
+Dialogue: 0,0:00:12.66,0:00:13.64,Caption,,0,0,0,,jemanden hinter sich.
+Dialogue: 0,0:00:14.14,0:00:15.00,Caption,,0,0,0,,Und diese Gestalt
+Dialogue: 0,0:00:15.08,0:00:16.22,Caption,,0,0,0,,machte ihre\NKörperhaltung
+Dialogue: 0,0:00:16.26,0:00:16.58,Caption,,0,0,0,,nach.
+Dialogue: 0,0:00:16.94,0:00:17.72,Caption,,0,0,0,,Wie ein Spiegel.
+Dialogue: 0,0:00:18.40,0:00:19.60,Caption,,0,0,0,,Diese Region sortiert,
+Dialogue: 0,0:00:19.78,0:00:20.34,Caption,,0,0,0,,was zu deinem
+Dialogue: 0,0:00:20.42,0:00:21.26,Caption,,0,0,0,,Körper gehört und
+Dialogue: 0,0:00:21.30,0:00:21.88,Caption,,0,0,0,,was nicht.
+Dialogue: 0,0:00:22.70,0:00:23.64,Caption,,0,0,0,,Laufen die Signale
+Dialogue: 0,0:00:23.68,0:00:25.04,Caption,,0,0,0,,auseinander, entsteht\Nein
+Dialogue: 0,0:00:25.10,0:00:26.18,Caption,,0,0,0,,zweites Körpermodell.
+Dialogue: 0,0:00:26.64,0:00:27.80,Caption,,0,0,0,,Kein sichtbarer Mensch.
+Dialogue: 0,0:00:28.40,0:00:29.38,Caption,,0,0,0,,Aber eine Präsenz.
+Dialogue: 0,0:00:30.26,0:00:31.44,Caption,,0,0,0,,Mit Position, mit
+Dialogue: 0,0:00:31.54,0:00:31.86,Caption,,0,0,0,,Nähe.
+Dialogue: 0,0:00:32.24,0:00:33.16,Caption,,0,0,0,,Das beweist keinen
+Dialogue: 0,0:00:33.24,0:00:33.74,Caption,,0,0,0,,Hat Man.
+Dialogue: 0,0:00:34.22,0:00:34.68,Caption,,0,0,0,,Und es macht
+Dialogue: 0,0:00:34.70,0:00:35.66,Caption,,0,0,0,,deine Erfahrung nicht
+Dialogue: 0,0:00:35.72,0:00:36.86,Caption,,0,0,0,,ungültig.
+Dialogue: 0,0:00:36.92,0:00:37.72,Caption,,0,0,0,,Es zeigt etwas
+Dialogue: 0,0:00:37.80,0:00:38.64,Caption,,0,0,0,,Unheimlicheres:
+Dialogue: 0,0:00:39.28,0:00:40.06,Caption,,0,0,0,,Dein Gehirn hat
+Dialogue: 0,0:00:40.10,0:00:41.30,Caption,,0,0,0,,alle Bauteile, um
+Dialogue: 0,0:00:41.34,0:00:42.02,Caption,,0,0,0,,dich selbst als
+Dialogue: 0,0:00:42.08,0:00:42.88,Caption,,0,0,0,,jemand anderen zu
+Dialogue: 0,0:00:42.92,0:00:43.36,Caption,,0,0,0,,erleben.
+Dialogue: 2,0:00:44.03,0:00:46.13,CtaHead,,0,0,0,,{\fad(280,0)}GANZE FOLGE IM KANAL
+Dialogue: 2,0:00:44.17,0:00:46.13,CtaSub,,0,0,0,,{\fad(380,0)}Shadow People: Warum viele den Hat Man sehen

@@ -1,0 +1,117 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "183504621": {
+          "pageid": 183504621,
+          "ns": 6,
+          "title": "File:Bridget Bishop Executed, June 10, 1692.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1766654,
+              "width": 792,
+              "height": 1098,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bridget_Bishop_Executed%2C_June_10%2C_1692.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bridget_Bishop_Executed,_June_10,_1692.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=183504621",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-02-08 16:23:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Bridget Bishop Executed, June 10, 1692",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Bridget Bishop|PD US expired|Template Unknown (author)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "“SWP No. 013: Bridget Bishop Executed, June 10, 1692,” Salem Witch Trials Documentary Archive and Transcription Project, University of Virginia Library",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1692-06-10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Salem Witch Trials Documentary Archive and Transcription Project, University of Virginia Library,",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_BISHOP_EXECUTION_RECORD",
+    "title": "File:Bridget Bishop Executed, June 10, 1692.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bridget_Bishop_Executed,_June_10,_1692.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bridget_Bishop_Executed%2C_June_10%2C_1692.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "date": "1692-06-10",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_BISHOP_EXECUTION_RECORD.png",
+    "sha256": "1165ff504cc43852141e2c29080e508e07cb803549faa8cf7a23293901aaa213",
+    "width": "792",
+    "height": "1098",
+    "voice_beat": "In June, she was tried, convicted, and hanged for witchcraft.",
+    "picture_function": "Public-domain Salem record",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

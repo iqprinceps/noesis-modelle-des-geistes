@@ -1,0 +1,300 @@
+{
+  "status": "PASS",
+  "failures": [],
+  "master": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\05_OUTPUT\\EP05_EN_SHORT_S01_MASTER_1080x1920_30.mp4",
+  "sha256": "30fa3584cda689303956cdb9000f87663d67b9a530f7332e60028b197c1f4757",
+  "file_size_bytes": 13898664,
+  "media": {
+    "duration_seconds": 43.8,
+    "video_codec": "h264",
+    "resolution": "1080x1920",
+    "pixel_format": "yuv420p",
+    "frame_rate": "30/1",
+    "r_frame_rate": "30/1",
+    "decoded_frames": 1314,
+    "color_range": "tv",
+    "color_space": "bt709",
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "audio_layout": "stereo"
+  },
+  "loudness": {
+    "integrated_lufs": -14.4,
+    "true_peak_dbtp": -1.0,
+    "target_lufs": -14.0,
+    "target_tolerance_lu": 0.5,
+    "true_peak_ceiling_dbtp": -0.8
+  },
+  "retained_audio_stems": {
+    "music_bed": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bytes": 2,
+      "frames": 2102056
+    },
+    "sfx": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bytes": 2,
+      "frames": 2102056
+    },
+    "final_mix": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bytes": 3,
+      "frames": 2102056
+    }
+  },
+  "checks": {
+    "decode_complete": true,
+    "resolution_1080x1920": true,
+    "constant_30_fps": true,
+    "frame_count_matches_duration": true,
+    "yuv420p": true,
+    "audio_48k_stereo": true,
+    "retained_stems_48k_stereo": true,
+    "loudness_target": true,
+    "true_peak_ceiling": true,
+    "no_black_events": true,
+    "captions_valid": true,
+    "sidecar_srt_present": true,
+    "cover_1080x1920": true,
+    "metadata_within_platform_limits": true,
+    "unique_timeline_assets": true,
+    "native_vertical_assets": true,
+    "smooth_motion_cadence": true,
+    "six_events_exact": true,
+    "burned_captions_visual_review": true,
+    "mobile_safe_visual_review": true,
+    "hook_retention_end_visual_review": true,
+    "identity_claim_tone_editorial_review": true
+  },
+  "captions": {
+    "cue_count": 34,
+    "overlaps": [],
+    "max_characters_per_cue": 29,
+    "max_words_per_cue": 4,
+    "last_end_seconds": 43.61,
+    "ends_within_master": true
+  },
+  "assets": {
+    "timeline_visuals": 18,
+    "distinct_visual_paths": 18,
+    "exact_duplicate_groups": [],
+    "all_native_portrait": true,
+    "dimensions": {
+      "A01_DOOR_EYE.png": [
+        941,
+        1672
+      ],
+      "A02_FOOTSTEPS.png": [
+        1080,
+        1920
+      ],
+      "A03_FAILED_HAND.png": [
+        941,
+        1672
+      ],
+      "A04_MATTRESS.png": [
+        941,
+        1672
+      ],
+      "A05_HUFFORD_IDENTITY.png": [
+        1080,
+        1920
+      ],
+      "A06_FOGO_COAST.png": [
+        1080,
+        1920
+      ],
+      "A07_ORAL_HISTORY.png": [
+        1080,
+        1920
+      ],
+      "A08_NAME_BEFORE.png": [
+        941,
+        1672
+      ],
+      "A09_OLD_HAG_REVEAL.png": [
+        1080,
+        1920
+      ],
+      "A10_REM_ATONIA.png": [
+        1080,
+        1920
+      ],
+      "A11_INTENTION.png": [
+        941,
+        1672
+      ],
+      "A11B_FOOTSTEPS_QUESTION.png": [
+        1080,
+        1920
+      ],
+      "A11C_WEIGHT_QUESTION.png": [
+        1080,
+        1920
+      ],
+      "A11D_INTENTION_QUESTION.png": [
+        1080,
+        1920
+      ],
+      "A12_FOLKLORE_MASK.png": [
+        1080,
+        1920
+      ],
+      "A13_ENCOUNTER_LOOP.png": [
+        1080,
+        1920
+      ],
+      "A14_LONGFORM_BRIDGE.png": [
+        1080,
+        1920
+      ],
+      "A15_LEGEND_OR_ENCOUNTER.png": [
+        1080,
+        1920
+      ]
+    }
+  },
+  "motion_cadence": {
+    "definition": "Central-60% cadence analysis of every eased moving-still segment; intentional static evidence and choice cards excluded.",
+    "shots_checked": 9,
+    "failures": [],
+    "shots": [
+      {
+        "status": "PASS",
+        "frames_checked": 35,
+        "central_median_adjacent_difference": 0.143455,
+        "central_jerk_over_median": 0.5363,
+        "central_p95_over_median": 1.9355,
+        "central_low_motion_ratio": 0.0476,
+        "shot": 1,
+        "anchor": "The door opens"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 55,
+        "central_median_adjacent_difference": 0.220833,
+        "central_jerk_over_median": 0.329,
+        "central_p95_over_median": 1.621,
+        "central_low_motion_ratio": 0.0,
+        "shot": 2,
+        "anchor": "Footsteps cross"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 75,
+        "central_median_adjacent_difference": 0.181753,
+        "central_jerk_over_median": 0.3143,
+        "central_p95_over_median": 1.4772,
+        "central_low_motion_ratio": 0.0,
+        "shot": 3,
+        "anchor": "You try to move"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 65,
+        "central_median_adjacent_difference": 0.221337,
+        "central_jerk_over_median": 0.2197,
+        "central_p95_over_median": 1.4166,
+        "central_low_motion_ratio": 0.0,
+        "shot": 4,
+        "anchor": "Then the mattress sinks"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 47,
+        "central_median_adjacent_difference": 0.470104,
+        "central_jerk_over_median": 0.1593,
+        "central_p95_over_median": 1.2029,
+        "central_low_motion_ratio": 0.0,
+        "shot": 6,
+        "anchor": "Years later"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 68,
+        "central_median_adjacent_difference": 0.354757,
+        "central_jerk_over_median": 0.2392,
+        "central_p95_over_median": 1.5333,
+        "central_low_motion_ratio": 0.0,
+        "shot": 7,
+        "anchor": "strangers described"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 82,
+        "central_median_adjacent_difference": 0.468958,
+        "central_jerk_over_median": 0.1965,
+        "central_p95_over_median": 1.3796,
+        "central_low_motion_ratio": 0.0,
+        "shot": 8,
+        "anchor": "gave the visitor a name"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 77,
+        "central_median_adjacent_difference": 0.116024,
+        "central_jerk_over_median": 0.3335,
+        "central_p95_over_median": 1.5191,
+        "central_low_motion_ratio": 0.3556,
+        "shot": 11,
+        "anchor": "But Hufford's puzzle"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 122,
+        "central_median_adjacent_difference": 0.102491,
+        "central_jerk_over_median": 0.4081,
+        "central_p95_over_median": 1.5701,
+        "central_low_motion_ratio": 0.4722,
+        "shot": 14,
+        "anchor": "the certainty"
+      }
+    ]
+  },
+  "six_event_signal_times_seconds": [],
+  "freeze_diagnostic": [
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 7.666667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 8.666667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 8.666667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.066667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 9.733333",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 19.1",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.6",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 20.7",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 20.7",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.5",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 22.2",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 26.866667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.133333",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 28",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 32.733333",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.066667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 33.8",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 35.1",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.3",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 36.4",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 36.4",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.066667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 37.466667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 38.533333",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.2",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 39.733333",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 40.666667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.2",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 41.866667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_start: 41.866667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_duration: 1.766667",
+    "[Parsed_freezedetect_0 @ 00000228b0ad5780] lavfi.freezedetect.freeze_end: 43.633333"
+  ],
+  "visual_proofs": {
+    "contact_sheet": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\05_OUTPUT\\FINAL_CONTACT_SHEET.jpg",
+    "hook_and_end": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\05_OUTPUT\\HOOK_END_PROOF.jpg",
+    "six_event_progression": null,
+    "cover": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\05_OUTPUT\\COVER_FRAME_9x16.png"
+  }
+}

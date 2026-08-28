@@ -1,0 +1,149 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\MASTER\\raw_stems\\GW_EN_TAKE_01.mp3",
+    "sha256": "a6bfd46a650209ae0c72fa7002bbb9b89bbc7489b2027d451ef429fb5f40a9de",
+    "bytes": 1110979,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 260802,
+    "request_id": "HVkPBTl0FfSDtBOq8Kll",
+    "text_sha256": "c8b96a1e02ac5247485df786957e919fbfba76aa3315eda80afbe4cacbe3c8a1",
+    "characters": 1157,
+    "stem_id": "GW_EN_TAKE_01"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\MASTER\\raw_stems\\GW_EN_TAKE_02.mp3",
+    "sha256": "f047a5f1db89004fcae0d50c7fbb00207949ef7e650ccefabeba97dcfdc399d8",
+    "bytes": 1146088,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 260802,
+    "request_id": "ZFeuF6uoPOThrfM4ujTZ",
+    "text_sha256": "7c1deb67c18bdbae91c6c7892f2b46ce460695ab6cfa1a9c270a5e8abda16f39",
+    "characters": 1174,
+    "stem_id": "GW_EN_TAKE_02"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\MASTER\\raw_stems\\GW_EN_TAKE_03.mp3",
+    "sha256": "a2469f1bca9fa6663405256f15f89d98c128becbd6dd3c357d237fd5c6501023",
+    "bytes": 1166986,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 260802,
+    "request_id": "qU5wZGmEcPqOaMLZZVgB",
+    "text_sha256": "09151cde6ec6f4c4c56995ccccd05d5c69fecc10589ae8eef1b060cefcb1d11f",
+    "characters": 1190,
+    "stem_id": "GW_EN_TAKE_03"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\MASTER\\raw_stems\\GW_EN_TAKE_04.mp3",
+    "sha256": "e01bc36d8387fdb76dc9b79d680b75b3d2de302cf451803ef484520183bac4c8",
+    "bytes": 1151939,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 260802,
+    "request_id": "BCARzrL41b9FG2OUT6jC",
+    "text_sha256": "7ad57e81db822136678aab23c2657b83fdb76bab5c97f29074b9bc71bba71ca5",
+    "characters": 1142,
+    "stem_id": "GW_EN_TAKE_04"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\MASTER\\raw_stems\\GW_EN_TAKE_05.mp3",
+    "sha256": "b296e70cb3091446e13a07ad21b227aed638404e1e37d93793f238037d1f3786",
+    "bytes": 1126862,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 260802,
+    "request_id": "DnQvK2WazHnsFdtz42yl",
+    "text_sha256": "8b1709003b42e81de12928aa65c375000ab31580a78e030b26ac609ad4d3ff35",
+    "characters": 1188,
+    "stem_id": "GW_EN_TAKE_05"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\MASTER\\raw_stems\\GW_EN_TAKE_06.mp3",
+    "sha256": "c62a3e9dbab9cebb1116c053536165bd453d055b0bd9dc73568ad01186ce5db0",
+    "bytes": 1136475,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 260802,
+    "request_id": "xxcyKWlsEvygFcWWro7Z",
+    "text_sha256": "c03845cf7ae9e1dbc88f50ee045518b0b16c9f3edb3bd397c63d6592fda45e9d",
+    "characters": 1157,
+    "stem_id": "GW_EN_TAKE_06"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\MASTER\\raw_stems\\GW_EN_TAKE_07.mp3",
+    "sha256": "dd9d563d79fd68bcfa61ce539bb2ff755da4635123fc07fe7717977507f2131b",
+    "bytes": 824259,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.06
+    },
+    "seed": 260802,
+    "request_id": "WvGlYRxWOqEKPzCSwssQ",
+    "text_sha256": "573e15adf395183d65193301eb1c5ee06ccfe27b54162522579870bfe2ee3827",
+    "characters": 825,
+    "stem_id": "GW_EN_TAKE_07"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "source": "project-owned deterministic EP07 music/SFX retimed proportionally to the George forced-aligned English arc",
+  "ratio": 1.6001423762856315,
+  "voice_authority": "George / ElevenLabs JBFqnCBsd6RMkjVDRZzb",
+  "voice": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\34f1\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP06_SLEEP_PARALYSIS_02\\02_VOICE\\MASTER\\EP06_EN_VO_MASTER.wav",
+  "music": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_MX_MASTER.wav",
+  "sfx": [
+    "EP07_SFX_SALEM_ROOMTONE.wav",
+    "EP07_SFX_PAPER_INK.wav",
+    "EP07_SFX_COURT_MURMUR.wav",
+    "EP07_SFX_MAP_MOTION.wav",
+    "EP07_SFX_MEDIA_HANDOFF.wav"
+  ],
+  "ducking": {
+    "method": "voice-keyed sidechain compression",
+    "threshold": 0.02,
+    "ratio": 6,
+    "attack_ms": 15,
+    "release_ms": 450
+  },
+  "delivery_trim_seconds": 413.0,
+  "final_calibration_db": 0.97,
+  "duration": 412.990125,
+  "sha256": "b0dad63dba8e357510be4ed874af668fceda46236b375f6d0eafd342f02beb29"
+}

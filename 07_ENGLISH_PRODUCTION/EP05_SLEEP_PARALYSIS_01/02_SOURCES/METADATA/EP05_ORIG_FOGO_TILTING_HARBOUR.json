@@ -1,0 +1,134 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "94622363": {
+          "pageid": 94622363,
+          "ns": 6,
+          "title": "File:Tilting from Tilting Harbour (33936280235).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14334370,
+              "width": 6000,
+              "height": 4000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tilting_from_Tilting_Harbour_%2833936280235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tilting_from_Tilting_Harbour_(33936280235).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94622363",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-09-30 18:56:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tilting from Tilting Harbour (33936280235)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Tilting, Newfoundland and Labrador|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|March 2017 in Newfoundland and Labrador",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "49.709852",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-54.063514",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tilting from Tilting Harbour",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-03-16 15:34",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pauljill/33936280235/\">Tilting from Tilting Harbour</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39136124@N00\">Paul Asman and Jill Lenoble</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_FOGO_TILTING_HARBOUR",
+    "title": "File:Tilting from Tilting Harbour (33936280235).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tilting_from_Tilting_Harbour_(33936280235).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tilting_from_Tilting_Harbour_%2833936280235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39136124@N00\">Paul Asman and Jill Lenoble</a>",
+    "date": "2017-03-16 15:34",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_FOGO_TILTING_HARBOUR.jpg",
+    "sha256": "509392f7a31a359d9f71453ebfcffb6fbc2fdd196d2f1f428862505c52955179",
+    "width": "6000",
+    "height": "4000",
+    "voice_beat": "On Fogo Island, he encountered an expression that sounded local and ancient.",
+    "picture_function": "Contemporary Tilting harbour / Fogo place texture",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

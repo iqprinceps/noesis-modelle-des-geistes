@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\US3605725A_BENTOV_CONTROLLED_MOTION.pdf",
+  "page": 1,
+  "phrase": "BENTOV",
+  "match_count": 1,
+  "page_rect": [
+    0.0,
+    0.0,
+    556.8,
+    817.92
+  ],
+  "crop_rect": [
+    0.0,
+    56.5,
+    556.8,
+    111.0
+  ],
+  "highlight_rects": [
+    [
+      280.56,
+      74.67,
+      327.36,
+      92.76
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

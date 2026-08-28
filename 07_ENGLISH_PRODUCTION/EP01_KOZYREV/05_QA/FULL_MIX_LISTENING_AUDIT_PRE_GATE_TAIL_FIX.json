@@ -1,0 +1,49 @@
+{
+  "created_utc": "2026-08-26T21:03:34.989589+00:00",
+  "reviewer": "Vertex Gemini full-stream auditory review",
+  "model": "gemini-2.5-flash",
+  "audio_file": "05_QA/FULL_MIX_LISTENING/EP01_EN_KOZYREV_FULL_MIX_48K.opus",
+  "duration_seconds": 434.632,
+  "verdict": {
+    "listened_complete_stream": true,
+    "overall_verdict": "PASS_WITH_FIX",
+    "naturalness_and_pronunciation": "The narrator's voice is clear and natural. Names like Kozyrev, Kaznacheev, and Trofimov are pronounced correctly. No issues with naturalness.",
+    "pace_hook_and_retention": "The pacing is well-maintained, keeping the listener engaged. Strategic questions act as effective hooks, and the narrative structure aids retention.",
+    "score_sfx_voice_balance": "The background score is atmospheric and perfectly balanced with the narration, enhancing the mysterious tone without obscuring the voice. No noticeable SFX.",
+    "edit_joins_artifacts_dropouts": "There are very subtle clicks/pops at the beginning and consistent, though not overly loud, breath noises throughout the narration. No significant dropouts or harsh edits.",
+    "closing_impulse": "The narration ends somewhat abruptly, and the music fades out quickly thereafter, leading to a weak closing impulse that lacks a sense of finality.",
+    "localized_issues": [
+      {
+        "timestamp": "0:20",
+        "issue": "Audible breath noise",
+        "required_action": "Audio cleanup/de-breathing"
+      },
+      {
+        "timestamp": "1:05",
+        "issue": "Audible breath noise",
+        "required_action": "Audio cleanup/de-breathing"
+      },
+      {
+        "timestamp": "2:30",
+        "issue": "Audible breath noise",
+        "required_action": "Audio cleanup/de-breathing"
+      },
+      {
+        "timestamp": "4:10",
+        "issue": "Audible breath noise",
+        "required_action": "Audio cleanup/de-breathing"
+      },
+      {
+        "timestamp": "6:00",
+        "issue": "Audible breath noise",
+        "required_action": "Audio cleanup/de-breathing"
+      },
+      {
+        "timestamp": "7:13",
+        "issue": "Abrupt ending of narration, music fades quickly after last word.",
+        "required_action": "Adjust music fade-out to provide a more conclusive closing impulse."
+      }
+    ],
+    "pickup_or_remix_decision": "remix"
+  }
+}

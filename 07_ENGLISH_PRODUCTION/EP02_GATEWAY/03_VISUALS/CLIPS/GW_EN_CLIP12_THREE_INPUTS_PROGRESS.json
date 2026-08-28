@@ -1,0 +1,11 @@
+{
+  "provider": "code-native controlled motion",
+  "source": "03_VISUALS/GENERATED/STILLS/GW_EN_FILMIC24_THREE_INPUTS_NATIVE.png",
+  "source_sha256": "631f7c28be2c08a140bcd5a7300e0f144fa3446f37c123125bc4dd13c194568f",
+  "duration_seconds": 8,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "motion_arc": "audio deck illuminates and reels turn; target/response field illuminates; physiological recorder illuminates and blank scan line advances",
+  "visible_mode_badge": false,
+  "series_usage": "EP02_ONLY"
+}

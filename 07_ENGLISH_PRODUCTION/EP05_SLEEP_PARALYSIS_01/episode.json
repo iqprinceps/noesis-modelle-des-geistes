@@ -1,0 +1,17 @@
+{
+  "episode_id": "EP05_EN",
+  "series": "sleep_paralysis",
+  "series_part": 1,
+  "slug": "sleep_paralysis_presence",
+  "language": "en",
+  "status": "blocked_storage_c_drive_full_prevoice_gate_passed",
+  "canonical_script": "01_SCRIPT/VOICE_SCRIPT_EN.txt",
+  "editorial_map": "01_SCRIPT/EDITORIAL_MAP.md",
+  "claims_boundary": "01_SCRIPT/CLAIMS_BOUNDARY.md",
+  "visual_retention_plan": "03_VISUALS/VISUAL_RETENTION_PLAN.md",
+  "viewer_interaction": "PRESSURE / SOUND / PRESENCE",
+  "motion_quantity_rule": "episode-specific; generate only clips that add transformation, embodiment, or otherwise unavailable action",
+  "picture_rule": "linear forward progression; zero non-contiguous returns of any underlying still, document, card, or clip state",
+  "german_source_script": "../../03_EPISODEN/TYPE_B/EP06_SCHLAFPARALYSE_01/DREHBUCH.md",
+  "german_reference_master": "../../06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/render/final/EP06_SCHLAFPARALYSE_V4_FINAL.mp4"
+}

@@ -73,10 +73,11 @@ EPISODES = {
 # `position` ist der Index in der Shotliste des Takes.
 FILLS: dict[str, list[tuple[int, str]]] = {
     # Episodenauftakt: der Plan startet mit 3,4 s pro Bild, der Lock verlangt
-    # einen ersten Schnitt unter 2,5 s. Zwei schnelle Makros vorn und in der
-    # Mitte bringen den Take auf Tempo.
+    # einen ersten Schnitt unter 2,5 s. Der vorhandene Hat-Man-Shot setzt einen
+    # kurzen visuellen Promise-of-payoff, danach fuehren zwei schnelle Makros
+    # in die Radioszene.
     "EP08_TAKE_001": [
-        (0, "SHOT01_RADIO_MICROPHONE_MACRO"),
+        (0, "IMG017_HAT_MAN_FOOT_OF_BED"),
         (5, "SHOT04_INTERVIEW_TAPE_MACRO"),
     ],
     # Schlussabsatz: 25 s Text auf nur zwei Bildern (12,5 s je Bild). Der Take
@@ -108,10 +109,12 @@ MAX_STILL_SECONDS = 9.0
 SUBSTITUTES = {
     "SRC_MISSING_DPH_MEDICAL_SOURCE_FULL": "SRC053_DPH_MEDICAL_STATEMENT",
     "SRC_MISSING_ANON_HAT_FORUM": "SRC055_HAT_REPORTS_EVIDENCE_STATUS",
-    "SRC_MISSING_WEB_ARCHIVE_RESULTS_FULL": "SRC056_WEB_ARCHIVE_STATUS",
-    "SRC_MISSING_PERIOD_FORUM_CAPTURE": "SRC057_PERIOD_FORUM_STATUS",
+    # Fuer reine Verbreitungs-/Medienuebergaenge tragen vorhandene Bildfolgen
+    # die Aussage besser als eine weitere Textkarte.
+    "SRC_MISSING_WEB_ARCHIVE_RESULTS_FULL": "EDIT017_SEARCH_SEQUENCE",
+    "SRC_MISSING_PERIOD_FORUM_CAPTURE": "SRC036_SHARP_FAX_MODEM_FULL",
     "SRC_MISSING_NIGHTMARE_LICENSED_KEYART": "SRC058_NIGHTMARE_BIBLIOGRAPHY",
-    "SRC_MISSING_MCNALLY_CLANCY_PAPER_PAGE": "SRC052_MCNALLY_CLANCY_BIBLIOGRAPHY",
+    "SRC_MISSING_MCNALLY_CLANCY_PAPER_PAGE": "IMG015_SUGGESTIVE_INTERVIEW_BASE",
     "EDIT011_HARVARD_RESEARCH_TITLE": "SRC051_HARVARD_RESEARCH_TITLE",
 }
 
@@ -123,6 +126,30 @@ SUBSTITUTES = {
 # EDIT-Sequenzen speisten. Diese Cues tragen keine eigene Behauptung und
 # bekommen deshalb ein Bild.
 CUE_OVERRIDES = {
+    # Im EP06-Hook ersetzt ein leeres Schlafzimmer die fruehe Quellenkarte.
+    # Die Karte bleibt im spaeteren Fogo-Kontext erhalten, wo die Einordnung
+    # nicht mehr die Spannung der ersten Sekunden unterbricht.
+    ("EP06", "PLANNED/ORIG024_1960S_DORM_CONTEXT.jpg"): "SHOT04_EMPTY_BEDROOM_SHADOWS",
+    # Zwei Erklaerkarten direkt hintereinander bremsen den Laborabschnitt. Der
+    # Ablauf bleibt auf CARD010 sichtbar; CARD003 faellt auf den unmittelbar
+    # davor gezeigten Wecker zurueck und wird dadurch dedupliziert.
+    ("EP06", "CARD003_TAKEUCHI_1992"): "IMG018_SLEEP_INTERRUPTION_CLOCK",
+    # Vor der Endcard tragen Originalakte und Handoff-Bild die Salem-Bruecke
+    # bereits. Eine zweite Textkarte waere nur ein vorgezogener Abspann.
+    ("EP06", "CARD014_PRIVATE_NIGHT_PUBLIC_RECORD"): "SHOT08_DAWN_AFTER_PARALYSIS",
+
+    # EP07: Quellenkarten nur dort zeigen, wo sie selbst eine neue Aussage
+    # tragen. Wiederholte Werk-, Methoden- und Zitationskarten werden durch die
+    # schon vorhandenen, semantisch passenden Bilder im selben Take ersetzt.
+    ("EP07", "ORIG_ORIG_HUFFORD_PORTRAIT_LICENSED_portrait"): "IMG013_BODY_TO_STORY_FLOW_BASE",
+    ("EP07", "ORIG_ORIG_HUFFORD_TERROR_BOOK_COVER_LICENSED_title_detail"): "IMG060_WORD_LAYERS_CTA_BG",
+    ("EP07", "ORIG_ORIG_JALAL_HINTON_EGYPT_DENMARK_PAPER_title_authors"): "CARD004_AEGYPTEN_DAENEMARK",
+    ("EP07", "ORIG_ORIG_JALAL_HINTON_EGYPT_DENMARK_PAPER_methods_detail"): "CARD004_AEGYPTEN_DAENEMARK",
+    ("EP07", "ORIG_ORIG_EGYPT_SLEEP_PARALYSIS_SOURCE_source_detail"): "ORIG_ORIG_EGYPT_MAP_PD_full_map",
+    ("EP07", "ORIG_ORIG_DENMARK_SLEEP_PARALYSIS_SOURCE_source_detail"): "ORIG_ORIG_DENMARK_MAP_PD_full_map",
+    ("EP07", "ORIG_ORIG_JALAL_HINTON_EGYPT_DENMARK_PAPER_results_detail"): "SRC_EP07_REM_Polysomnography_30sec_rem_segment_detail",
+    ("EP07", "ORIG_ORIG_JALAL_HINTON_EGYPT_DENMARK_PAPER_citation_block"): "IMG046_RAW_MATERIAL_TO_FORM",
+    ("EP07", "ORIG_ORIG_HUFFORD_TERROR_BOOK_COVER_LICENSED_cover_return"): "IMG047_CULTURE_FEEDBACK_BRAID",
     # "medizinisch dokumentiert" - die Aussage steht schon auf SRC053 bei V080.
     # Hier genuegt ein klinischer Anker aus dem Originalbestand.
     ("EP08", "SRC_MISSING_DPH_MEDICAL_SOURCE_DETAIL"): "SRC030_EEG_CAP_DETAIL",
@@ -139,13 +166,69 @@ CUE_OVERRIDES = {
     # Startframe des jeweiligen Clips vorgesehen war - also genau das Motiv,
     # das der Satz an dieser Stelle braucht.
     ("EP06", "PLANNED/CLIP006_THREE_FAMILIES.mp4"): "SHOT37_ERLEBNISFAMILIEN",
-    ("EP06", "PLANNED/CLIP007_INTERRUPTION_CYCLE.mp4"): "IMG040_INTERRUPTION_PROTOCOL_OBJECTS",
+    # Nicht IMG040: das steht im selben Take bereits zwei Shots davor. Der
+    # Satz nennt "Sensoren zeichnen Hirnaktivitaet und Muskeltonus auf" - dafuer
+    # ist die echte CC0-EEG-Aufzeichnung der praezisere Beleg.
+    ("EP06", "PLANNED/CLIP007_INTERRUPTION_CYCLE.mp4"): "ORIG020_EEG_62_CHANNEL_CC0",
     ("EP06", "PLANNED/CLIP010_SHADOW_COMPLETION.mp4"): "SHOT28_SCHATTEN_WIRD_SCHULTER",
     # CLIP009 wurde verworfen: die erzeugte Fassung zeigte eine erfundene
     # EKG-artige Kurve mit lesbaren Achsenzahlen - eine fabrizierte
     # Messaufzeichnung. Eine Neuerzeugung scheiterte an derselben
     # Dienstueberlastung.
     ("EP06", "PLANNED/CLIP009_REALNESS_CAUSE_SPLIT.mp4"): "IMG043_PRESENCE_BEFORE_IMAGE",
+}
+
+# Einzelne Wiederholungen nur an ihrem zweiten Einsatz ersetzen. Globale
+# CUE_OVERRIDES waeren hier zu grob: dieselbe Quelle ist an ihrer ersten Stelle
+# oft genau richtig, wirkt wenige Sekunden spaeter aber wie Recycling.
+TAKE_ASSET_OVERRIDES = {
+    # Im Schluss von EP08 lag dasselbe Kreislaufmotiv in TAKE 025 und TAKE 026
+    # nur rund 24 Sekunden auseinander. TAKE 026 behaelt die explizite
+    # Gehirn-Erfahrung-Geschichte-Erwartung-Grafik; TAKE 025 zeigt stattdessen
+    # die Weitergabe von Deutungen ueber Bild und Forum. Das ist inhaltlich
+    # genauer und verhindert einen sichtbaren Doppel-Einsatz im Finale.
+    ("EP08", "EP08_TAKE_025", "IMG030_BRAIN_EXPERIENCE_STORY_EXPECTATION_BASE.png"):
+        "IMG026_FORUM_TO_IMAGE_TO_EXPECTATION",
+    # Fogo: Dorfansicht und Orts-Rekonstruktion standen in zwei benachbarten
+    # Takes erneut. Der zweite Einsatz wird durch Feldarbeit und Archivkarte
+    # ersetzt, ohne den Ortsbezug zu verlieren.
+    ("EP06", "EP06_TAKE_004_FOGO_ISLAND",
+     "EP06_Fogo_Island_Newfoundland_fishing_village_2002.jpg"):
+        "IMG061_FOGO_FIELDWORK_INTERVIEW_RECON",
+    ("EP06", "EP06_TAKE_004_FOGO_ISLAND",
+     "IMG007_FOGO_PLACE_ANCHOR_RECON.png"): "SHOT35_FOGO_ARCHIVANKER",
+
+    # Aegypten/Daenemark: keine Karten zweimal direkt hintereinander. Nach den
+    # Interviewraeumen zeigen diese beiden Bilder die inhaltliche Pointe.
+    ("EP07", "EP07_TAKE_019",
+     "ORIG_ORIG_EGYPT_SLEEP_PARALYSIS_SOURCE_source_detail.png"):
+        "IMG044_SAME_BODY_TWO_INTERPRETATIONS",
+    ("EP07", "EP07_TAKE_019",
+     "ORIG_ORIG_DENMARK_SLEEP_PARALYSIS_SOURCE_source_detail.png"):
+        "IMG045_EXPECTATION_ENTERS_BODY",
+    # Der historische Jinn-Ausschnitt ist nur 567x264 Pixel gross und wurde im
+    # Vollbild sichtbar pixelig. Die Aussage des Takes ist die gemeinsame
+    # koerperliche Grundlage; dieses vorhandene Motiv zeigt sie ohne eine
+    # schlechte Quelle kuenstlich aufzublasen.
+    ("EP07", "EP07_TAKE_008",
+     "SRC_EP07_Jinn_from_Ali_manuscript_figure_detail.png"):
+        "IMG061_ONE_BODY_THREE_STORIES",
+
+    # EP08-Hook: Vollbild und Ausschnitt desselben Art-Bell-Fotos direkt
+    # hintereinander werden durch ein eigenes Radiomotiv aufgeloest.
+    ("EP08", "EP08_TAKE_001",
+     "SRC002_ART_BELL_PORTRAIT_DETAIL.png"): "SHOT01_RADIO_MICROPHONE_MACRO",
+    # Der Detailausschnitt des BBS-Screens folgt ebenfalls direkt auf seine
+    # Vollansicht. Das Erinnerungsmotiv transportiert stattdessen, wie eine
+    # gelesene Vorlage spaeter Teil des inneren Bildmaterials wird.
+    ("EP08", "EP08_TAKE_005",
+     "SRC012_BBS_SCREEN_DETAIL.png"): "IMG014_MEMORY_RECONSTRUCTION_LAYERS",
+    # Der EEG-Ausschnitt stammt aus einer 289x423-Pixel-Vorlage. Fuer den
+    # klinischen Kontext steht eine echte, deutlich hoeher aufgeloeste
+    # Polysomnographie-Aufnahme im lizenzierten Bestand bereit.
+    ("EP08", "EP08_TAKE_016",
+     "SRC_MISSING_DPH_MEDICAL_SOURCE_DETAIL.png"):
+        "EP08_Polysomnography_model_side",
 }
 
 
@@ -237,7 +320,11 @@ def process(ep: str) -> None:
         group = grouped[take]
         paths: list[str] = []
         for row in group:
-            q = resolve(row[cfg["asset_col"]], index, ep)
+            raw_asset = row[cfg["asset_col"]]
+            raw_key = raw_asset.strip()
+            replacement = (TAKE_ASSET_OVERRIDES.get((ep, take, raw_key)) or
+                           TAKE_ASSET_OVERRIDES.get((ep, take, Path(raw_key).name)))
+            q = resolve(replacement or raw_asset, index, ep)
             if q is None:
                 unresolved.append(f"{take}: {row[cfg['asset_col']]}")
                 continue

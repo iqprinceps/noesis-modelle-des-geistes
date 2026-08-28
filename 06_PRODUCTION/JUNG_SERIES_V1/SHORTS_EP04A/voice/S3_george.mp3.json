@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\JUNG_SERIES_V1\\SHORTS_EP04A\\voice\\S3_george.mp3",
+  "sha256": "a7d4242fdcad54e6dbadf23b7800e2b0b21aece70e672774496ac7b8c797427a",
+  "bytes": 631162,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.57,
+    "similarity_boost": 0.8,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 1.03
+  },
+  "seed": 24041,
+  "request_id": "9Tsr1BhRUtRATNK8PY7z",
+  "text_sha256": "81efa805ceaa9d68a8d0bc618a89e0c6fb56d23ec683f20cfd8444459979c5fc",
+  "characters": 550
+}

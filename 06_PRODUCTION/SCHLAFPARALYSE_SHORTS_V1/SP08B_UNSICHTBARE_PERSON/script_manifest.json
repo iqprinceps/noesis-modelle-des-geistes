@@ -1,0 +1,37 @@
+{
+  "topic": "Die 2006 durch Hirnstimulation ausgelöste Illusion einer unsichtbaren, körpernahen Person",
+  "channel_type": "explainer",
+  "style": "Editorial Motion Graphics — deep crimson",
+  "through_line": {"name": "zweite Körperkontur", "asset": "P06_DOUBLE_OUTLINE", "progression": "kleiner Versatz hinter dem Körper → vollständige spiegelnde Kontur → Kontur faltet sich in ein Körper-Selbst-Modell zurück", "resolution": "Die fremde Präsenz wird als fehlzugeordnete zweite Körperkontur sichtbar, ohne persönliche Erfahrungen pauschal zu erklären."},
+  "arc": {"hook": 1, "build": [], "turn": 2, "payoff": 3},
+  "blocks": [
+    {
+      "n": 1,
+      "arc_role": "hook",
+      "vo_line": "Forscher erzeugten einmal eine unsichtbare Person. Durch elektrische Stimulation an der linken temporoparietalen Verbindung spürte eine Patientin jemanden direkt hinter sich — und diese Gestalt kopierte sogar wie ein Spiegel ihre Körperhaltung.",
+      "location": "L11_BODY_SELF_LAB_STAGE",
+      "through_line_state": "Eine kleine versetzte Kontur erscheint unmittelbar hinter dem Körper-Cutout.",
+      "shots": ["FULL-SPREAD WIDE: a clinical collage stage opens around one seated patient cutout", "HIGH CU: a stimulation marker snaps onto the left side of a brain card", "LATERAL MEDIUM: a second outline rises directly behind the patient", "ECU: the patient lifts an arm and the outline mirrors it one beat later", "LOW MEDIUM: both figures settle with the second outline visibly offset"],
+      "assets_used": ["L11_BODY_SELF_LAB_STAGE", "CHAR_PATIENT", "P06_DOUBLE_OUTLINE"]
+    },
+    {
+      "n": 2,
+      "arc_role": "turn",
+      "vo_line": "Dieser Hirnbereich verbindet Signale über Körper, Raum und Selbst. Geraten sie auseinander, kann ein zweites Körpermodell mit scheinbarer Absicht entstehen: kein sichtbarer Mensch, aber eine Präsenz mit Position, Nähe und Bewegung.",
+      "location": "L12_BRAIN_MAP_STAGE",
+      "through_line_state": "Die zweite Kontur wird vollständig und folgt drei versetzten Körper-Signalen.",
+      "shots": ["TOP-DOWN WIDE: body, space and self symbols arrive one by one around a brain map", "MACRO: three signal ribbons converge at one junction", "LATERAL CU: one ribbon slips out of alignment and stamps a second body outline", "HIGH MEDIUM: the outline tracks the patient token across the stage", "FRONT CU: proximity rings settle around the outline as if it occupied real space"],
+      "assets_used": ["L12_BRAIN_MAP_STAGE", "CHAR_PATIENT", "P06_DOUBLE_OUTLINE"]
+    },
+    {
+      "n": 3,
+      "arc_role": "payoff",
+      "vo_line": "Das beweist keinen Hat Man und widerlegt keine persönliche Erfahrung. Es zeigt etwas Unheimlicheres: Das Gehirn besitzt offenbar genügend Bauteile, sodass dein eigenes Körpersignal wie ein fremder Begleiter erscheinen kann.",
+      "location": "L11_BODY_SELF_LAB_STAGE_COVERAGE",
+      "through_line_state": "Die zweite Kontur faltet sich zurück in das Körper-Selbst-Modell; ein kleiner Restversatz bleibt als Beleggrenze sichtbar.",
+      "shots": ["MEDIUM HIGH: the patient and second outline face opposite directions", "ECU LOW: a deep-crimson cross rejects a Hat Man cutout as a universal conclusion", "TOP-DOWN WIDE: the second outline folds inward toward the body-model card", "LATERAL CU: the two contours align but leave one thin offset edge", "FULL-SPREAD FRONT: the model settles beside an open question symbol while the patient remains intact"],
+      "assets_used": ["L11_BODY_SELF_LAB_STAGE_COVERAGE", "CHAR_PATIENT", "P06_DOUBLE_OUTLINE"]
+    }
+  ],
+  "sources": ["https://www.nature.com/articles/443287a", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10299622/", "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2017.00092/pdf?isPublishedV2=false"]
+}

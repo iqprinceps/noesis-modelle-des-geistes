@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_FILMIC06_MONROE_RADIO_STUDIO",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Late-1950s American radio control room at night. An anonymous broadcasting executive is seen only from behind, one hand on a large rotary console control while reel-to-reel tape machines and a studio microphone sit beyond glass. No face or asserted likeness. Warm vacuum-tube glow against blue-black shadows, tactile knobs and braided cable, cinematic 35mm realism, one decisive human action, all dials too oblique to read.",
+  "prompt_sha256": "e12db54a49f9aaac24c3dd28e52e265ae56010bb7b4eb400ca490dff90be25b1",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_FILMIC06_MONROE_RADIO_STUDIO_PREVIEW.png",
+  "output_sha256": "fa55e9434153b328420901d35f6e63e609ffe84c57488fdc0143d69be5b89443",
+  "seconds": 19.297,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

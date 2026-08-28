@@ -1,0 +1,13 @@
+{
+  "asset": "GW_EN_CLIP10_ZERO_ONE_HANDOFF.mp4",
+  "provider": "deterministic Python/Pillow + FFmpeg",
+  "duration": 7.0,
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "audio": false,
+  "visible_mode_badge": false,
+  "use": "Gateway digits to PEAR binary stream"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "veo-3.1-generate-001",
+  "clips": {
+    "EP05_VEO_01_HOOK_ACTION": {
+      "operation": "projects/project-453dce68-02cd-498d-86d/locations/global/publishers/google/models/veo-3.1-generate-001/operations/2db113a9-0d42-487a-808d-c1539599f9ae",
+      "submitted": "2026-08-27T21:30:55.894655+00:00",
+      "status": "REJECTED_QA",
+      "start": "EP05_GEN_HOOK_DOOR_OPEN.png",
+      "filename": "EP05_VEO_01_HOOK_ACTION.mp4",
+      "completed": "2026-08-27T21:49:57.778715+00:00",
+      "bytes": 3368670,
+      "qa_note": "Door closes rather than advancing the approach; final mattress geometry deforms into a flat block. Retained only for provenance and excluded from timeline."
+    }
+  }
+}

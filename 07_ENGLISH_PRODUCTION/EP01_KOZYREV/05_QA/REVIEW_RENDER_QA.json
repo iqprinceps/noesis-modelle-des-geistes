@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-08-27T07:25:39.922077+00:00",
+  "status": "PASS",
+  "render_file": "07_REVIEW/EP01_EN_KOZYREV_INTERNAL_REVIEW_1080p.mp4",
+  "sha256": "9210805e769fbc957654aab9cbc0413df3cbed9d917a8b47f28e0014e7769665",
+  "duration_seconds": 434.64,
+  "event_count": 111,
+  "event_midpoints_visually_sampled": 111,
+  "contact_sheets": [
+    "05_QA/REVIEW_RENDER_CONTACT_SHEETS/review_render_contact_01.jpg",
+    "05_QA/REVIEW_RENDER_CONTACT_SHEETS/review_render_contact_02.jpg",
+    "05_QA/REVIEW_RENDER_CONTACT_SHEETS/review_render_contact_03.jpg",
+    "05_QA/REVIEW_RENDER_CONTACT_SHEETS/review_render_contact_04.jpg",
+    "05_QA/REVIEW_RENDER_CONTACT_SHEETS/review_render_contact_05.jpg",
+    "05_QA/REVIEW_RENDER_CONTACT_SHEETS/review_render_contact_06.jpg"
+  ],
+  "motion_review_basis": "Every selected progressive clip separately checked at start/middle/end; final render checked at every EDL event midpoint.",
+  "audio_review_basis": "Complete muxed audio stream scanned end-to-end for silence/dropouts, duration, loudness and peak; narration performance inherits the prior full listening audit.",
+  "black_events": [],
+  "silence_events_below_minus_48db_over_0_8s": [],
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "avg_frame_rate": "25/1",
+    "duration": "434.640000"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "channel_layout": "stereo",
+    "duration": "434.564000"
+  },
+  "subtitle_stream_count": 1,
+  "viewer_review": {
+    "status": "PASS_VIEWER_LED",
+    "review_scope": "All 111 final-render event midpoints in chronological order; all 12 progressive clips at start, middle and end; complete 7:14.632 final mix reviewed end-to-end by the retained full-stream auditory audit and rechecked for full decode, silence, loudness and peak after the final picture conform.",
+    "hook": "PASS — the moving chamber opens immediately, the 1996 filing anchor appears at 2.8 seconds, and Kozyrev's authentic portrait plus the 1983/1996 contradiction arrive before the apparatus mythology can blur authorship.",
+    "micro_hooks": "PASS — geometry, three competing explanations, participant isolation, the viewer target choice, missing replication, patent-authority trap and Fort Meade handoff each create a new question rather than restart an earlier image.",
+    "visual_development": "PASS — 111 unique states progress from people and chronology through metal and geometry, human trial, subjective perception, hypothesis separation, blind-test design, evidentiary absence and the final handoff. No exact export returns.",
+    "document_review": "PASS — nine selected document states are static. Every highlighted phrase was verified against the original page; KZ_DOC_028 and KZ_DOC_029 use reordered original raster line fragments solely to keep complete sentences mobile-readable, without invented text.",
+    "mode_cluster_judgment": "PASS — the three diagnostic clusters are short causal progressions. No unbroken document/graphic chain dominates the viewer experience after the experiential upgrade.",
+    "historical_identity_and_rights": "PASS — Kozyrev, Kaznacheev and Trofimov are visible at their named beats using cleared or reviewed documentary sources; rights-unclear research references KZ-SRC-010 through 014 remain excluded.",
+    "motion": "PASS — filmic stills use restrained eased moves; documents, maps and explanatory cards remain static; every clip was decoded and sampled at start, middle and end.",
+    "audio": "PASS — -14.0 LUFS integrated, -0.9 dBFS true peak, no detected blackout or audio dropout, clear names, no justified pickup or remix.",
+    "remaining_corrections": []
+  }
+}

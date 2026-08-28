@@ -1,0 +1,37 @@
+{
+  "topic": "Spectral evidence in Salem und die Grenze zwischen privatem Nachterlebnis und öffentlichem Beweis",
+  "channel_type": "explainer",
+  "style": "Editorial Motion Graphics — deep crimson",
+  "through_line": {"name": "Wachssiegel", "asset": "P04_WAX_SEAL", "progression": "ungestempeltes Siegel am privaten Bericht → rissiges Siegel auf der Gerichtsakte → zerbrochenes Siegel trennt Erlebnis und Beweis", "resolution": "Das Siegel bricht, sobald private Gewissheit nicht mehr als öffentliche Tatsache behandelt wird."},
+  "arc": {"hook": 1, "build": [], "turn": 2, "payoff": 3},
+  "blocks": [
+    {
+      "n": 1,
+      "arc_role": "hook",
+      "vo_line": "Der gefährlichste Zeuge in Salem war unsichtbar. Menschen sagten aus, der Geist einer Angeklagten habe sie nachts mitten im eigenen Schlafzimmer bedrängt, obwohl Türen verschlossen waren und niemand den Angriff beobachten konnte.",
+      "location": "L07_SALEM_BED_STAGE",
+      "through_line_state": "Ein ungestempeltes Wachssiegel liegt neben einem privaten Bericht am Bett.",
+      "shots": ["HIGH WIDE: a locked-door bedroom stage unfolds and a witness cutout jolts upright", "LATERAL CU: the door bolt snaps into place while a translucent figure passes behind it", "MACRO: the blank wax seal slides beside a pinned report card", "LOW MEDIUM: the unseen figure shadow presses across the bed without touching the witness", "TOP-DOWN CU: the witness points as the blank seal begins to soften"],
+      "assets_used": ["L07_SALEM_BED_STAGE", "CHAR_COLONIAL_WITNESS", "P04_WAX_SEAL"]
+    },
+    {
+      "n": 2,
+      "arc_role": "turn",
+      "vo_line": "Solche Aussagen hießen spectral evidence: Erlebnis statt sichtbarer Tat. Bei Bridget Bishop wurden nächtliche Erscheinungen vor einem kolonialen Gericht Teil eines größeren Beweisbündels, nicht der einzige Grund für Verhör und Verurteilung.",
+      "location": "L08_SALEM_COURT_STAGE",
+      "through_line_state": "Das Siegel wird auf eine Aktenkarte gedrückt und bekommt dabei einen sichtbaren Riss.",
+      "shots": ["FULL-SPREAD WIDE: court cutouts arrive staggered around a blank evidence table", "TOP-DOWN CU: the bedroom report card slides into a stack of other cards", "LATERAL MEDIUM: a giant hand presses the wax seal onto the stack", "MACRO LOW: a crack shoots across the seal at impact", "HIGH MEDIUM: the sealed stack rises above the witness while other evidence cards remain visible"],
+      "assets_used": ["L08_SALEM_COURT_STAGE", "CHAR_COLONIAL_WITNESS", "P04_WAX_SEAL"]
+    },
+    {
+      "n": 3,
+      "arc_role": "payoff",
+      "vo_line": "Die Wendung: Selbst damals galt diese Beweisform für wenige entscheidende Monate als problematisch. Salem wurde nicht irrational, weil Menschen träumten, sondern durch ein Gericht, das private Gewissheit kurzzeitig wie öffentliche Tatsache behandelte.",
+      "location": "L08_SALEM_COURT_STAGE_COVERAGE",
+      "through_line_state": "Das rissige Siegel zerbricht und trennt die Berichtskarte von der Beweisablage.",
+      "shots": ["MEDIUM LOW: the cracked seal hangs between a bedroom card and a court file", "ECU HIGH: the crack widens with a dry paper snap", "TOP-DOWN WIDE: the seal breaks and the two cards slide apart", "LATERAL CU: a balance scale steadies only after the private report moves off the fact tray", "FULL-SPREAD MEDIUM: the court stage settles with the broken seal visible between experience and proof"],
+      "assets_used": ["L08_SALEM_COURT_STAGE_COVERAGE", "CHAR_COLONIAL_WITNESS", "P04_WAX_SEAL"]
+    }
+  ],
+  "sources": ["https://salem.lib.virginia.edu/n13.html", "https://www.mass.gov/news/witchcraft-law-up-to-the-salem-witchcraft-trials-of-1692", "https://salem.lib.virginia.edu/people/bishop_court.html"]
+}

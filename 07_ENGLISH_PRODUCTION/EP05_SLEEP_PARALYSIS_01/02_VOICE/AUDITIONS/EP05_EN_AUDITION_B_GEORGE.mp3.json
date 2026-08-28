@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\AUDITIONS\\EP05_EN_AUDITION_B_GEORGE.mp3",
+  "sha256": "4afbf796bc722c4bb6533d9c9270a3a4d64ca11266e0021d542d1eb9f66b9f64",
+  "bytes": 591038,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.54,
+    "similarity_boost": 0.8,
+    "style": 0.11,
+    "use_speaker_boost": true,
+    "speed": 0.97
+  },
+  "seed": 260828,
+  "request_id": "SXqE92WVhW8hsruP4fi2",
+  "text_sha256": "eeb198bb199c491f05bec9d3066892321e7317ce7d669cb980827bc75921f000",
+  "characters": 605
+}

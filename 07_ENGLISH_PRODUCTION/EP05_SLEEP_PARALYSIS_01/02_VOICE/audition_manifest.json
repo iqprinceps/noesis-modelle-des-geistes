@@ -1,0 +1,26 @@
+{
+  "episode": "EP05_EN",
+  "rule": "two short auditions with identical words; select before full master",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model": "eleven_multilingual_v2",
+  "excerpt": "audition_excerpt.txt",
+  "candidates": {
+    "A": {
+      "intent": "intimate, natural, restrained unease",
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "speed": 1.0,
+      "seed": 260827
+    },
+    "B": {
+      "intent": "closer nocturnal tension, slightly slower",
+      "stability": 0.54,
+      "similarity_boost": 0.8,
+      "style": 0.11,
+      "speed": 0.97,
+      "seed": 260828
+    }
+  }
+}

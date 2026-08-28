@@ -1,0 +1,33 @@
+short,asset_id,path,asset_class,rights_basis,semantic_limit
+S01,A01,03_ASSETS/GENERATED/A01_DOOR_EYE.png,new_imagegen,OpenAI ImageGen channel production asset,anonymous dramatization
+S01,A02,03_ASSETS/VERTICAL/A02_FOOTSTEPS.png,channel_owned_recomposition,EP05 generated still recomposed for 9x16,subjective footsteps only
+S01,A03,03_ASSETS/GENERATED/A03_FAILED_HAND.png,new_imagegen,OpenAI ImageGen channel production asset,anonymous dramatization
+S01,A04,03_ASSETS/GENERATED/A04_MATTRESS.png,new_imagegen,OpenAI ImageGen channel production asset,anonymous dramatization
+S01,A05,03_ASSETS/VERTICAL/A05_HUFFORD_IDENTITY.png,authentic_identity,David Hufford official-site photograph editorial use,two-person context retained
+S01,A06,03_ASSETS/VERTICAL/A06_FOGO_COAST.png,licensed_source,Paul Asman and Jill Lenoble CC BY 2.0,contemporary Fogo place texture
+S01,A07,03_ASSETS/VERTICAL/A07_ORAL_HISTORY.png,channel_owned_recomposition,German-series channel-owned reconstruction,not documentary footage
+S01,A08,03_ASSETS/GENERATED/A08_NAME_BEFORE.png,new_imagegen,OpenAI ImageGen channel production asset,folklore concept
+S01,A09,03_ASSETS/VERTICAL/A09_OLD_HAG_REVEAL.png,public_domain_composite,Fuseli 1781 and Abildgaard c1800 public domain,historical iconography
+S01,A10,03_ASSETS/VERTICAL/A10_REM_ATONIA.png,public_domain_science_composite,REM PSG plus EEG cap public domain,general physiology context
+S01,A11,03_ASSETS/GENERATED/A11_INTENTION.png,new_imagegen,OpenAI ImageGen channel production asset,subjective anonymous reconstruction
+S01,A11B,03_ASSETS/VERTICAL/A11B_FOOTSTEPS_QUESTION.png,channel_owned_recomposition,EP05 generated still,subjective question state
+S01,A11C,03_ASSETS/VERTICAL/A11C_WEIGHT_QUESTION.png,channel_owned_recomposition,EP05 generated still,subjective question state
+S01,A11D,03_ASSETS/VERTICAL/A11D_INTENTION_QUESTION.png,channel_owned_recomposition,EP05 edited composite,subjective question state
+S01,A12,03_ASSETS/VERTICAL/A12_FOLKLORE_MASK.png,channel_owned_recomposition,German-series channel-owned reconstruction,folklore process only
+S01,A13,03_ASSETS/VERTICAL/A13_ENCOUNTER_LOOP.png,new_editorial_card,channel-authored graphic,conceptual loop
+S01,A14,03_ASSETS/VERTICAL/A14_LONGFORM_BRIDGE.png,authentic_source_card,Penn Press Hufford book cover editorial use,source bridge only
+S01,A15,03_ASSETS/VERTICAL/A15_LEGEND_OR_ENCOUNTER.png,new_editorial_card,channel-authored graphic,viewer choice
+S02,B01,03_ASSETS/GENERATED/B01_INTERRUPTION_ACTION.png,new_imagegen,OpenAI ImageGen channel production asset,modern reconstruction not 1992 footage
+S02,B02,03_ASSETS/VERTICAL/B02_SIXTEEN.png,new_editorial_card,channel-authored graphic,exactly sixteen participant icons
+S02,B03,03_ASSETS/VERTICAL/B03_SIX_EPISODES_BASE.png,new_progressive_card,channel-authored graphic,exactly six progressive signals
+S02,B04,03_ASSETS/GENERATED/B04_SLEEP_SENSORS.png,new_imagegen,OpenAI ImageGen channel production asset,modern anonymous reconstruction not 1992 footage
+S02,B05,03_ASSETS/GENERATED/B05_SELECTED_AWAKENING.png,new_imagegen,OpenAI ImageGen channel production asset,modern reconstruction not 1992 footage
+S02,B06,03_ASSETS/VERTICAL/B06_SIXTY_MINUTES.png,new_editorial_card,channel-authored graphic,one-hour interval
+S02,B07,03_ASSETS/VERTICAL/B07_RETURN_TO_BED.png,new_editorial_card,channel-authored graphic,return-to-bed protocol step
+S02,B08,03_ASSETS/VERTICAL/B08_PROTOCOL_BOUNDARY.png,new_editorial_card,channel-authored graphic,four-night protocol boundary
+S02,B09,03_ASSETS/GENERATED/B09_AWARE_IMMOBILE.png,new_imagegen,OpenAI ImageGen channel production asset,anonymous lab reconstruction
+S02,B10,03_ASSETS/GENERATED/B10_AV_DISTURBANCE.png,new_imagegen,OpenAI ImageGen channel production asset,subjective reported experience
+S02,B11,03_ASSETS/VERTICAL/B11_AWARENESS_ATONIA.png,authentic_source_card,Takeuchi et al 1992 PubMed record,publication identity and supported result
+S02,B12,03_ASSETS/GENERATED/B12_MEASURABLE_THRESHOLD.png,new_imagegen,OpenAI ImageGen channel production asset,open conceptual payoff
+S02,B13,03_ASSETS/VERTICAL/B13_LONGFORM_BRIDGE.png,channel_owned_recomposition,EP05 longform thumbnail recomposed for 9x16,linked film only
+S02,B14,03_ASSETS/VERTICAL/B14_VIEWER_CHOICE.png,new_editorial_card,channel-authored graphic,viewer choice

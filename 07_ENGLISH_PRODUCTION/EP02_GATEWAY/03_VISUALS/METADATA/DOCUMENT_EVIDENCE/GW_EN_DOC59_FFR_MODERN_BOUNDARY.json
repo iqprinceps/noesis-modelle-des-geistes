@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 7,
+  "phrase": "frequency",
+  "match_count": 10,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    72.0,
+    612.0,
+    792.0
+  ],
+  "highlight_rects": [
+    [
+      69.09,
+      124.23,
+      117.87,
+      133.55
+    ],
+    [
+      461.28,
+      130.26,
+      510.25,
+      139.82
+    ],
+    [
+      45.09,
+      159.61,
+      94.12,
+      169.17
+    ],
+    [
+      323.27,
+      167.52,
+      372.09,
+      177.07
+    ],
+    [
+      438.76,
+      237.63,
+      488.15,
+      247.2
+    ],
+    [
+      451.68,
+      285.47,
+      500.5,
+      294.79
+    ],
+    [
+      343.43,
+      298.24,
+      392.1,
+      308.26
+    ],
+    [
+      331.43,
+      323.22,
+      378.92,
+      332.29
+    ],
+    [
+      290.13,
+      408.0,
+      338.94,
+      417.56
+    ],
+    [
+      401.04,
+      584.27,
+      449.42,
+      593.73
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

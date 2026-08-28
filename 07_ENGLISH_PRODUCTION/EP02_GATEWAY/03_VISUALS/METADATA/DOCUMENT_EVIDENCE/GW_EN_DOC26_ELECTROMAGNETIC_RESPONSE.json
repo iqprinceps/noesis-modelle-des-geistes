@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 8,
+  "phrase": "An electromagnetic pulse is then generated",
+  "match_count": 6,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    183.0,
+    612.0,
+    324.0
+  ],
+  "highlight_rects": [
+    [
+      515.52,
+      237.77,
+      529.37,
+      247.04
+    ],
+    [
+      44.62,
+      254.49,
+      135.19,
+      264.69
+    ],
+    [
+      141.1,
+      254.05,
+      172.57,
+      263.53
+    ],
+    [
+      178.3,
+      253.82,
+      191.13,
+      263.08
+    ],
+    [
+      196.07,
+      253.46,
+      221.0,
+      262.87
+    ],
+    [
+      226.31,
+      252.81,
+      275.49,
+      262.51
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

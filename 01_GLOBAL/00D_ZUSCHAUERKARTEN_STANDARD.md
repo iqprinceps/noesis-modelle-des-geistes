@@ -1,6 +1,10 @@
-# Verbindlicher Standard für Zuschauerkarten
+# Adaptiver Qualitätsstandard für Zuschauerkarten
 
-Dieser Standard gilt ab EP04 für alle nachfolgenden Serien und Folgen. Eine Zuschauerkarten-Grafik ist kein Produktionsboard und keine Sammlung von Stichworten. Sie muss auch ohne Kenntnis des Prompts verständlich machen, **welche Beziehung, Entwicklung oder Unterscheidung** gerade erklärt wird.
+Dieser Standard prüft nur Karten, die eine konkrete Episode tatsächlich benötigt.
+Er erzwingt weder Karten noch eine Kartenanzahl. Eine Zuschauerkarten-Grafik ist
+kein Produktionsboard und keine Sammlung von Stichworten. Sie soll auch ohne
+Promptkenntnis verständlich machen, **welche Beziehung, Entwicklung oder
+Unterscheidung** gerade erklärt wird.
 
 ## 1. Aussage vor Gestaltung
 
@@ -14,7 +18,8 @@ Kann dieser Satz nicht eindeutig beendet werden, wird die Karte nicht gebaut. Pr
 
 - Kurze, natürliche Überschrift statt Produktions- oder Fachcode.
 - Ein erklärender Satz, wenn das Bild allein die Aussage nicht trägt.
-- Keine Produktionscodes, Promptbegriffe, Regiehinweise, Dateinamen oder technischen Statuswörter im Zuschauerbild.
+- Keine Produktionscodes, Promptbegriffe, Regiehinweise, Dateinamen oder technischen
+  Statuswörter im Zuschauerbild; insbesondere keine dauerhaften Moduslabels.
 - Fachbegriffe nur, wenn sie im Voice-Text eingeführt oder unmittelbar erklärt werden.
 - Keine bloßen Stichwortsammlungen. Begriffe müssen durch räumliche Anordnung, zeitliche Veränderung oder einen klaren Satz miteinander verbunden sein.
 
@@ -43,7 +48,8 @@ Kann dieser Satz nicht eindeutig beendet werden, wird die Karte nicht gebaut. Pr
 
 ## 6. Abnahmefragen
 
-Eine Karte wird erst freigegeben, wenn alle Antworten **Ja** lauten:
+Diese Fragen dienen als Zuschauercheck. Eine begründete episodenspezifische
+Ausnahme ist möglich, wenn sie Verständlichkeit oder Wirkung verbessert:
 
 1. Versteht ein Zuschauer die Hauptaussage ohne Produktionswissen?
 2. Zeigt das Bild die erklärte Beziehung – statt sie nur als Stichworte aufzuzählen?

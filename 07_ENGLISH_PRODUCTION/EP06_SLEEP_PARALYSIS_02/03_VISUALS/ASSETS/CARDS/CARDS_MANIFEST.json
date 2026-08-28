@@ -1,0 +1,92 @@
+{
+  "episode": "EP06_EN",
+  "canvas": "1920x1080",
+  "mobile_qa": "246x138",
+  "cards": [
+    {
+      "file": "CARD_STUDY_SCOPE.png",
+      "sha256": "c78c6cfd17db77412d2181b58d65474422785ecd4bdd05b6454c8b92593e1a18",
+      "visible_text": [
+        "A CROSS-CULTURAL COMPARISON",
+        "EGYPT and DENMARK",
+        "Specific samples.",
+        "Not portraits of entire countries."
+      ]
+    },
+    {
+      "file": "CARD_STUDY_RESULTS.png",
+      "sha256": "b613c48b248e4121a297c787042657225e061489895b7f6d59d12a2a09a9791f",
+      "visible_text": [
+        "44% Egyptian sample 207 of 470",
+        "25% Danish sample 56 of 223",
+        "19.4 vs 6.0 mean lifetime episodes"
+      ]
+    },
+    {
+      "file": "CARD_STUDY_ASSOCIATION.png",
+      "sha256": "8d57b93945e591332f649bda65c1aa268557c7e12b6082504cc326f5a4089af0",
+      "visible_text": [
+        "WITHIN THE EGYPTIAN SAMPLE",
+        "SUPERNATURAL ATTRIBUTION",
+        "GREATER FEAR",
+        "LONGER IMMOBILITY",
+        "ASSOCIATED IN THE DATA",
+        "Direction remains unresolved."
+      ]
+    },
+    {
+      "file": "CARD_EXPERIENCE_OR_STORY.png",
+      "sha256": "4de968fca1b2070cba03674a20819c2f3a323053712f7c86c1b7b08e7fe2b15e",
+      "visible_text": [
+        "WHAT CARRIES MORE POWER INTO THE NEXT NIGHT?",
+        "EXPERIENCE",
+        "or",
+        "STORY",
+        "Leave one word below."
+      ]
+    },
+    {
+      "file": "CARD_DAVID_HUFFORD_WORK.png",
+      "sha256": "9403e5032f6b7931536f3bbcc88413ee2a21cf00b1f4e50b488a48a7a78c60b1",
+      "visible_text": [
+        "DAVID J. HUFFORD",
+        "THE TERROR THAT COMES IN THE NIGHT",
+        "University of Pennsylvania Press \u00b7 1982"
+      ]
+    },
+    {
+      "file": "CARD_JALAL_HINTON_PAPER.png",
+      "sha256": "1c7810b94b336ceda82076dac03b56c17d623f8e83ecbf87cdcc80228b1aba72",
+      "visible_text": [
+        "BALAND JALAL",
+        "DEVON E. HINTON",
+        "RATES AND CHARACTERISTICS OF SLEEP PARALYSIS IN DENMARK AND EGYPT",
+        "2013"
+      ]
+    },
+    {
+      "file": "EVIDENCE_COMAN_FULL_CONTEXT.png",
+      "sha256": "0386a878abf1d3f45a20d5a6bd985a9cd2d9acd7d73ff0da7ad403bab2d70bf1",
+      "visible_text": [
+        "RICHARD COMAN TESTIMONY",
+        "Salem \u00b7 2 June 1692 \u00b7 full manuscript context"
+      ]
+    },
+    {
+      "file": "EVIDENCE_COMAN_PRESSURE.png",
+      "sha256": "f42443808324be2fa1eb7503163a880bc58e2d38a4a6dd014d75f21265789452",
+      "visible_text": [
+        "\u201clay upon my breast or body\u201d",
+        "Richard Coman testimony \u00b7 2 June 1692"
+      ]
+    },
+    {
+      "file": "EVIDENCE_COMAN_SPEAK_STIR.png",
+      "sha256": "5d0ddb62a43c9ad29d99d8b53d6a4a385e02c420766d05c3632de408c5f0bb21",
+      "visible_text": [
+        "\u201ccould not speak nor stir\u201d",
+        "Transcription of Richard Coman testimony \u00b7 2 June 1692"
+      ]
+    }
+  ]
+}

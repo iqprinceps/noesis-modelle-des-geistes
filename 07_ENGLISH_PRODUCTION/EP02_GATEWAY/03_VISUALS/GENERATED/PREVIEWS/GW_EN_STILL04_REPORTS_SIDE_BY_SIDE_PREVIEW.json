@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_STILL04_REPORTS_SIDE_BY_SIDE",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Top-down evidence-table photograph: three independent handwritten observer reports lie side by side with different sketch shapes and blank ruled fields, while a sealed target card remains face down above them. All writing is deliberately unreadable pencil texture; editor overlays exact comparison marks later. Cool institutional desk light, one amber reflection, rigorous chain-of-custody feeling, no hands.",
+  "prompt_sha256": "bfc57ea9ddd663731127d5ee720f2adabcd206cffee058ddb53d81025ed7453a",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_STILL04_REPORTS_SIDE_BY_SIDE_PREVIEW.png",
+  "output_sha256": "ca370d20a4bd1cfabc363bee2f85473d4e7e19d6041ca4076f9fe4ab46d95c3a",
+  "seconds": 80.863,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

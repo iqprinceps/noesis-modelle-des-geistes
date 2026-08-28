@@ -1,0 +1,105 @@
+{
+  "status": "PASS",
+  "clips": [
+    {
+      "asset": "GW_EN_CLIP01_THREE_TIMES_RECOMMENDATION_H.mp4",
+      "duration_seconds": 10.5,
+      "decoded_frames": 315,
+      "mean_adjacent_frame_difference": 0.00696,
+      "p05_adjacent_frame_difference": 0.0,
+      "p95_adjacent_frame_difference": 0.01557,
+      "longest_near_frozen_run_seconds": 3.433,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP02_ARCHIVE_CHAIN.mp4",
+      "duration_seconds": 7.0,
+      "decoded_frames": 210,
+      "mean_adjacent_frame_difference": 0.76645,
+      "p05_adjacent_frame_difference": 0.0,
+      "p95_adjacent_frame_difference": 3.83587,
+      "longest_near_frozen_run_seconds": 3.767,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP09_NONPHYSICAL_PRESENCE_SAFE.mp4",
+      "duration_seconds": 6.0,
+      "decoded_frames": 180,
+      "mean_adjacent_frame_difference": 0.13323,
+      "p05_adjacent_frame_difference": 0.04501,
+      "p95_adjacent_frame_difference": 0.1887,
+      "longest_near_frozen_run_seconds": 0.5,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP03_MONROE_EXIT.mp4",
+      "duration_seconds": 6.0,
+      "decoded_frames": 144,
+      "mean_adjacent_frame_difference": 1.86599,
+      "p05_adjacent_frame_difference": 1.2058,
+      "p95_adjacent_frame_difference": 2.36634,
+      "longest_near_frozen_run_seconds": 0.0,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP04_BEAT_RESONANCE.mp4",
+      "duration_seconds": 8.0,
+      "decoded_frames": 240,
+      "mean_adjacent_frame_difference": 2.22907,
+      "p05_adjacent_frame_difference": 0.27893,
+      "p95_adjacent_frame_difference": 3.52833,
+      "longest_near_frozen_run_seconds": 0.0,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP05_CROSSING.mp4",
+      "duration_seconds": 6.0,
+      "decoded_frames": 144,
+      "mean_adjacent_frame_difference": 14.22544,
+      "p05_adjacent_frame_difference": 1.42235,
+      "p95_adjacent_frame_difference": 23.96305,
+      "longest_near_frozen_run_seconds": 0.0,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP06_FOCUS_WHEEL.mp4",
+      "duration_seconds": 6.0,
+      "decoded_frames": 144,
+      "mean_adjacent_frame_difference": 5.32287,
+      "p05_adjacent_frame_difference": 4.31283,
+      "p95_adjacent_frame_difference": 6.04304,
+      "longest_near_frozen_run_seconds": 0.0,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP07_TEN_DIGITS.mp4",
+      "duration_seconds": 9.0,
+      "decoded_frames": 270,
+      "mean_adjacent_frame_difference": 0.02168,
+      "p05_adjacent_frame_difference": 0.0,
+      "p95_adjacent_frame_difference": 0.0072,
+      "longest_near_frozen_run_seconds": 1.633,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP12_THREE_INPUTS_PROGRESS.mp4",
+      "duration_seconds": 8.0,
+      "decoded_frames": 240,
+      "mean_adjacent_frame_difference": 0.08076,
+      "p05_adjacent_frame_difference": 0.02987,
+      "p95_adjacent_frame_difference": 0.15564,
+      "longest_near_frozen_run_seconds": 0.967,
+      "full_decode_pass": true
+    },
+    {
+      "asset": "GW_EN_CLIP10_ZERO_ONE_HANDOFF.mp4",
+      "duration_seconds": 7.0,
+      "decoded_frames": 210,
+      "mean_adjacent_frame_difference": 0.29724,
+      "p05_adjacent_frame_difference": 0.0,
+      "p95_adjacent_frame_difference": 3.43456,
+      "longest_near_frozen_run_seconds": 1.567,
+      "full_decode_pass": true
+    }
+  ]
+}

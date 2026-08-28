@@ -1,0 +1,122 @@
+{
+  "status": "READY",
+  "episode": "EP01_KOZYREV",
+  "series_usage": "EP01_ONLY",
+  "files": [
+    {
+      "file": "EP01_EN_ASSET_MANIFEST.csv",
+      "bytes": 59522,
+      "sha256": "423c4c99ae782b817dbb53dcab14f8820335da121eeb350bb82bf7a6062ae275"
+    },
+    {
+      "file": "EP01_EN_CREDITS_AND_SOURCES.txt",
+      "bytes": 4959,
+      "sha256": "7d18855e8214d75db43aa82af8add915bbb8c0c4ed7c7a4c3cb56ef13fcb1101"
+    },
+    {
+      "file": "EP01_EN_KOZYREV.srt",
+      "bytes": 11796,
+      "sha256": "e5b750b9d54e4777056a261e70d36bf2b124eb66966c0b64dd0bdc79930ce09b"
+    },
+    {
+      "file": "EP01_EN_KOZYREV.vtt",
+      "bytes": 11269,
+      "sha256": "efade6a5499deeff3e1052739c0de409e41c80044b84ffd7ef0a6b47e13990b4"
+    },
+    {
+      "file": "EP01_EN_KOZYREV_MASTER_1080P.mp4",
+      "bytes": 86510193,
+      "sha256": "bccf5f837ed4790fc9814f2b580d9b38df186232d96c7abc7bd27e55168201d6"
+    },
+    {
+      "file": "EP01_EN_KOZYREV_THUMBNAIL_1280x720.jpg",
+      "bytes": 201023,
+      "sha256": "faf6e9df0c591cb162a5f2b27c48b8bfff34b85f724f2d82c9250592d07e2e0a"
+    },
+    {
+      "file": "EP01_EN_SOURCES_AND_LICENSES.csv",
+      "bytes": 8737,
+      "sha256": "666d5e3d7ebc0b70f26e677179c97471536f3c20edff1d35a6b1620d9c4b3639"
+    },
+    {
+      "file": "EP01_EN_UPLOAD_DESCRIPTION.txt",
+      "bytes": 678,
+      "sha256": "e41f6925b26ffa806163fd32aac808c982ae1b47438b3d0cfec94b4b0b028072"
+    },
+    {
+      "file": "EP01_EN_UPLOAD_METADATA.json",
+      "bytes": 478,
+      "sha256": "69d227d2f70db51910116c4888bf87be9601d456d5d8937d4e2a5eb0e47c71e4"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_CAMERA_MOTION_SMOOTHNESS_QA.json",
+      "bytes": 17260,
+      "sha256": "2f22ef6832f2914b5430cd2620c965642e0ad8568af594702a6358d49a0e6fc1"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_DOCUMENT_DECISION_MATRIX.md",
+      "bytes": 6144,
+      "sha256": "b01b7870416ddcdeeeda7bcc184c696af4121ef5967d8fbc9c06e7008b71f972"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_DOCUMENT_RESOLUTION_REPORT.md",
+      "bytes": 4143,
+      "sha256": "3b14f76726c4dc44fed8a35b82ca2d67775419a8f983d1bc32b2661a9adc092d"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_FINAL_EDL.csv",
+      "bytes": 35148,
+      "sha256": "6075ffe95005e4c6bd4615bfbf34773eb7f4095c203658120231944a9f17d430"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_FINAL_READINESS_MATRIX.md",
+      "bytes": 2427,
+      "sha256": "af44d140ee310c00ab27e8249e80da589a9a43968c80614cb2c45db5abaed87a"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_FINAL_VISUAL_QA_REPORT.md",
+      "bytes": 3796,
+      "sha256": "d350639e11bb60b6101a15ca2bd6af63079bc6b0fc286992074300cf16637ed0"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_KOZYREV_alignment.json",
+      "bytes": 1072883,
+      "sha256": "c4a1ee22db49c8724fd8bd62b19b33c865b7048fcebf36f825d5374102cdf4b6"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_KOZYREV_VO_MASTER.wav",
+      "bytes": 125174154,
+      "sha256": "3f3d5b309f82e32970fe87e9647ce57e72cd957a74a0d185a6d356d155229a10"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_PRE_RENDER_QA.json",
+      "bytes": 5380,
+      "sha256": "39557d78dfe7d82c55720c7c85512182f3e5994c4fbac0684864db7b20ed4665"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_REQUIRED_ASSET_SET.json",
+      "bytes": 106898,
+      "sha256": "507d31d1f2e6c66a05365c271ddf46ca86a9a5d09d2d0c411abf7e6c4ed95d7e"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_REVIEW_RENDER_QA.json",
+      "bytes": 3803,
+      "sha256": "6430a18722e8054bba1c20cc28f3eb0eb89ed4d11d975add1dbcb5e09e78f228"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_VISUAL_CUE_SHEET.csv",
+      "bytes": 62894,
+      "sha256": "2d9343f43807d80674b3a559b9a3a8bdcf95572c4dd57b9f687734a9d7bc6653"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_VOICE_MASTER_AUDIT.md",
+      "bytes": 1740,
+      "sha256": "53ba67c4e2cd3735e9799ea232272accf398e3088aa7e64f192f31b1f9bec45c"
+    },
+    {
+      "file": "PRODUCTION_ARCHIVE/EP01_EN_VOICE_SCRIPT.txt",
+      "bytes": 7003,
+      "sha256": "737e8fe6765955a1ddf42945f02e114e1b5206a0aea037bd803a794b9994d26d"
+    }
+  ]
+}

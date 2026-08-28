@@ -1,0 +1,48 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,64,&H00F5F2EA,&H000000FF,&H0010151A,&HC510151A,-1,0,0,0,100,100,0,0,3,4,0,2,125,125,385,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:01.16,Default,,0,0,0,,Everyone calls this a
+Dialogue: 0,0:00:01.08,0:00:02.02,Default,,0,0,0,,Kozyrev Mirror.
+Dialogue: 0,0:00:02.44,0:00:03.64,Default,,0,0,0,,But Kozyrev never built
+Dialogue: 0,0:00:03.58,0:00:03.80,Default,,0,0,0,,it.
+Dialogue: 0,0:00:04.34,0:00:05.78,Default,,0,0,0,,Nikolai Kozyrev died in
+Dialogue: 0,0:00:05.72,0:00:06.64,Default,,0,0,0,,1983.
+Dialogue: 0,0:00:06.88,0:00:07.72,Default,,0,0,0,,The patent for this
+Dialogue: 0,0:00:07.70,0:00:09.56,Default,,0,0,0,,rotating aluminum chamber was
+Dialogue: 0,0:00:09.50,0:00:11.02,Default,,0,0,0,,filed thirteen years later
+Dialogue: 0,0:00:11.18,0:00:11.30,Default,,0,0,0,,—
+Dialogue: 0,0:00:11.24,0:00:12.66,Default,,0,0,0,,by two other researchers.
+Dialogue: 0,0:00:13.10,0:00:14.74,Default,,0,0,0,,It describes curved panels.
+Dialogue: 0,0:00:15.14,0:00:16.84,Default,,0,0,0,,A clockwise or counterclockwise
+Dialogue: 0,0:00:16.80,0:00:17.72,Default,,0,0,0,,spiral.
+Dialogue: 0,0:00:17.66,0:00:19.06,Default,,0,0,0,,Even a motorized platform.
+Dialogue: 0,0:00:19.24,0:00:20.30,Default,,0,0,0,,And it links sessions
+Dialogue: 0,0:00:20.22,0:00:21.02,Default,,0,0,0,,to the moon and
+Dialogue: 0,0:00:20.96,0:00:22.24,Default,,0,0,0,,geomagnetic storms.
+Dialogue: 0,0:00:22.76,0:00:24.04,Default,,0,0,0,,The design is documented.
+Dialogue: 0,0:00:24.30,0:00:25.72,Default,,0,0,0,,What happened inside remains
+Dialogue: 0,0:00:25.64,0:00:26.58,Default,,0,0,0,,an open question.
+Dialogue: 0,0:00:26.98,0:00:27.72,Default,,0,0,0,,And that makes the
+Dialogue: 0,0:00:27.66,0:00:29.50,Default,,0,0,0,,legend stranger: the patent
+Dialogue: 0,0:00:29.42,0:00:30.36,Default,,0,0,0,,is real, but it
+Dialogue: 0,0:00:30.30,0:00:31.24,Default,,0,0,0,,carries the names of
+Dialogue: 0,0:00:31.16,0:00:32.32,Default,,0,0,0,,two other researchers.
+Dialogue: 0,0:00:32.78,0:00:33.42,Default,,0,0,0,,So what would you
+Dialogue: 0,0:00:33.36,0:00:34.74,Default,,0,0,0,,test inside it —
+Dialogue: 0,0:00:34.68,0:00:36.48,Default,,0,0,0,,altered perception, or information
+Dialogue: 0,0:00:36.40,0:00:37.30,Default,,0,0,0,,from another time?
+Dialogue: 0,0:00:37.76,0:00:39.00,Default,,0,0,0,,The full evidence trail
+Dialogue: 0,0:00:38.92,0:00:39.84,Default,,0,0,0,,is in the Kozyrev
+Dialogue: 0,0:00:39.80,0:00:40.38,Default,,0,0,0,,episode.
+Dialogue: 0,0:00:40.90,0:00:41.92,Default,,0,0,0,,Follow NOESIS for the
+Dialogue: 0,0:00:41.84,0:00:42.58,Default,,0,0,0,,next file.

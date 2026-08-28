@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 1,
+  "phrase": "You tasked me",
+  "match_count": 3,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    256.0,
+    612.0,
+    371.0
+  ],
+  "highlight_rects": [
+    [
+      83.26,
+      279.24,
+      102.84,
+      288.5
+    ],
+    [
+      108.23,
+      278.9,
+      145.25,
+      288.3
+    ],
+    [
+      150.21,
+      278.79,
+      159.05,
+      287.97
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

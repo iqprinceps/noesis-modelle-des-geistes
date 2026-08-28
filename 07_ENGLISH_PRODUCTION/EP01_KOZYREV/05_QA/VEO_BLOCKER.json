@@ -1,0 +1,11 @@
+{
+  "status": "BLOCKED",
+  "provider_stage": "scene_analysis",
+  "error_class": "fetch_failed",
+  "analysis_calls_attempted": 3,
+  "paid_generation_jobs_started": 0,
+  "retries_after_confirmed_blocker": 0,
+  "fallback_status": "READY",
+  "fallback": "Five locally rendered progressive H.264 clips were selected and reviewed at start, middle and end.",
+  "viewer_asset_gap": false
+}

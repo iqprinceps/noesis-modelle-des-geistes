@@ -1,0 +1,120 @@
+{
+  "api": {
+    "continue": {
+      "iistart": "2005-12-09T16:31:17Z",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "453205": {
+          "pageid": 453205,
+          "ns": 6,
+          "title": "File:Sleep EEG REM.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 68481,
+              "width": 821,
+              "height": 601,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleep_EEG_REM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sleep_EEG_REM.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=453205",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-09-17 02:03:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Sleep EEG REM",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-user|Sleep stages",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "This is a screenshot of a <a href=\"https://en.wikipedia.org/wiki/polysomnographic\" class=\"extiw\" title=\"en:polysomnographic\">polysomnographic</a> record (30 seconds) representing Rapid Eye Movement Sleep.\n<a href=\"https://en.wikipedia.org/wiki/EEG\" class=\"extiw\" title=\"en:EEG\">EEG</a> highlighted by red box. Eye movements highlighted by red line.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "19 September 2005 (original upload date)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/User:MrSandman\" class=\"extiw\" title=\"wikipedia:User:MrSandman\">MrSandman</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_REM_PSG",
+    "title": "File:Sleep EEG REM.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sleep_EEG_REM.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleep_EEG_REM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<a href=\"https://en.wikipedia.org/wiki/User:MrSandman\" class=\"extiw\" title=\"wikipedia:User:MrSandman\">MrSandman</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+    "date": "19 September 2005 (original upload date)",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_REM_PSG.png",
+    "sha256": "fb0195de6ae1f85a5acf9c30fe14e6db6e8a3e2aaedeeb40876352f282a50cbf",
+    "width": "821",
+    "height": "601",
+    "voice_beat": "Every night during REM sleep...",
+    "picture_function": "Real REM polysomnography trace",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

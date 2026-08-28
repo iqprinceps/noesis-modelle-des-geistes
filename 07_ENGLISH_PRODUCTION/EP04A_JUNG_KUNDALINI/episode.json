@@ -1,0 +1,14 @@
+{
+  "episode_id": "EP04A_EN",
+  "slug": "jung_kundalini",
+  "language": "en",
+  "status": "preproduction_lock_complete_assets_and_voice_not_started",
+  "canonical_script": "01_SCRIPT/VOICE_SCRIPT_EN.txt",
+  "editorial_map": "01_SCRIPT/EDITORIAL_MAP.md",
+  "visual_retention_plan": "03_VISUALS/VISUAL_RETENTION_PLAN.md",
+  "preproduction_visual_lock": "03_VISUALS/PREPRODUCTION_VISUAL_LOCK.md",
+  "candidate_motion_concepts": 10,
+  "motion_count_is_quota": false,
+  "german_source_script": "../../PRODUCTION_SUMMARY/EP04A_JUNG_KUNDALINI_V5/07_VOICE_SCRIPT_CLEAN_V5.txt",
+  "german_reference_master": "../../06_PRODUCTION/JUNG_SERIES_V1/RENDER_EP04A/final/EP04A_JUNG_KUNDALINI_FINAL_V3.mp4"
+}

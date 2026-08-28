@@ -75,14 +75,58 @@
 # Fertige Renderordner
 06_PRODUCTION/**/RENDERED/
 
+# Lokal neu erzeugte Renderzustände (aus Skripten reproduzierbar)
+06_PRODUCTION/**/segment_cache.json
+06_PRODUCTION/**/.render_signature
+06_PRODUCTION/**/*.ok
+06_PRODUCTION/**/*concat*.txt
+
 # Lokale, aus dem kanonischen Downloadbaum kopierte flache Prompt-Assetordner
 06_PRODUCTION/**/IMAGE_GENERATION_KIT/02_ASSETS/
+
+# -----------------------------------------------------------------------------
+# 07_ENGLISH_PRODUCTION: Drehbücher, Prompts, Metadaten, Timelines, QA und
+# Pipeline-Code tracken; erzeugte Medien und lokale Renderzustände nicht.
+# -----------------------------------------------------------------------------
+07_ENGLISH_PRODUCTION/**/*.mp4
+07_ENGLISH_PRODUCTION/**/*.mov
+07_ENGLISH_PRODUCTION/**/*.m4v
+07_ENGLISH_PRODUCTION/**/*.mkv
+07_ENGLISH_PRODUCTION/**/*.avi
+07_ENGLISH_PRODUCTION/**/*.webm
+07_ENGLISH_PRODUCTION/**/*.wav
+07_ENGLISH_PRODUCTION/**/*.aac
+07_ENGLISH_PRODUCTION/**/*.mp3
+07_ENGLISH_PRODUCTION/**/*.m4a
+07_ENGLISH_PRODUCTION/**/*.flac
+07_ENGLISH_PRODUCTION/**/*.ogg
+07_ENGLISH_PRODUCTION/**/*.opus
+07_ENGLISH_PRODUCTION/**/*.png
+07_ENGLISH_PRODUCTION/**/*.jpg
+07_ENGLISH_PRODUCTION/**/*.jpeg
+07_ENGLISH_PRODUCTION/**/*.webp
+07_ENGLISH_PRODUCTION/**/*.gif
+07_ENGLISH_PRODUCTION/**/*.tif
+07_ENGLISH_PRODUCTION/**/*.tiff
+07_ENGLISH_PRODUCTION/**/*.pdf
+07_ENGLISH_PRODUCTION/**/*.zip
+07_ENGLISH_PRODUCTION/**/*.7z
+07_ENGLISH_PRODUCTION/**/*.rar
+07_ENGLISH_PRODUCTION/**/*.geojson
+07_ENGLISH_PRODUCTION/**/*.pyc
+07_ENGLISH_PRODUCTION/**/.render_signature
+07_ENGLISH_PRODUCTION/**/.ok
+07_ENGLISH_PRODUCTION/**/.gitkeep
+07_ENGLISH_PRODUCTION/**/segment_cache.json
+07_ENGLISH_PRODUCTION/**/*concat*.txt
 
 # Research (PDFs, HTML)
 research/
 
 # Temporäre Dateien
 tmp/
+ROOT/
+ROOT\ /
 *.tmp
 *.bak
 *.swp

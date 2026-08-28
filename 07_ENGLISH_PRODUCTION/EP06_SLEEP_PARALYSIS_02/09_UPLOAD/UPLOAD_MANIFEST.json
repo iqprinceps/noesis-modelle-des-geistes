@@ -1,0 +1,62 @@
+{
+  "episode": "EP06_SLEEP_PARALYSIS_02",
+  "language": "en",
+  "title": "The Night Salem Turned Sleep Paralysis Into Evidence",
+  "publication_authorized": false,
+  "master": {
+    "path": "../08_MASTER/EP06_SLEEP_PARALYSIS_02_EN_MASTER_1080P30.mp4",
+    "sha256": "3107c4a17a7c5da7712364381e9fe828cdb2a22d4f5c6d3600b55044c97a3c09",
+    "bytes": 265588554,
+    "duration_seconds": 413.0,
+    "video": "H.264 1920x1080 progressive 30 fps yuv420p",
+    "audio": "AAC 48 kHz stereo 320 kb/s; -14.01 LUFS; -2.74 dBTP",
+    "voice_authority": "George / ElevenLabs JBFqnCBsd6RMkjVDRZzb / one canonical 6382-character request"
+  },
+  "voice": {
+    "path": "../02_VOICE/MASTER/EP06_EN_VO_MASTER.wav",
+    "sha256": "342cffcb4cef66a1bed7bccec18d1ca56bd74fe4f6c6f3fb2e5f6d1ae34ea2a2",
+    "duration_seconds": 412.99,
+    "sent_characters": 6382,
+    "generation_requests": 1,
+    "pickups": 0
+  },
+  "edit": {
+    "visual_edl_sha256": "12fde0132b675dea8ea6b6eb1f735f73ac82875888592180c63f13d24445a357",
+    "cue_sheet_sha256": "04a53fcac04d8674461c3203617d843355591415cf884726e6c3084054e33b4b",
+    "shot_count": 81,
+    "unique_asset_paths": 81,
+    "max_hold_seconds": 7.56
+  },
+  "audio_mix": {
+    "path": "../05_AUDIO/EP06_EN_MIX_MASTER.wav",
+    "sha256": "b0dad63dba8e357510be4ed874af668fceda46236b375f6d0eafd342f02beb29",
+    "ducking": "voice-keyed sidechain compression"
+  },
+  "captions": [
+    {
+      "path": "../07_SUBTITLES/EP06_EN.srt",
+      "sha256": "71b29049b4efb81abe4cffcb5abadd80f49669d6a51ed438e0f61e3e4fa14c60",
+      "language": "en"
+    },
+    {
+      "path": "../07_SUBTITLES/EP06_EN.vtt",
+      "sha256": "5f29799d066d8d7115b0a5f9a2e1ab83ec546011d1749d5f8f149853f6058cb6",
+      "language": "en"
+    }
+  ],
+  "thumbnail_default": {
+    "path": "THUMBNAILS/THUMB_B_SAME_VISITOR_RETURNS.jpg",
+    "sha256": "8b24f7b5f9292b3e6fe107301b542748fe62af0442251d611a15fc9520cc2cc5",
+    "size": "1280x720"
+  },
+  "thumbnail_alternates": [
+    "THUMBNAILS/THUMB_A_NIGHT_BECAME_EVIDENCE.jpg",
+    "THUMBNAILS/THUMB_C_STORY_CHANGES_BODY.jpg"
+  ],
+  "metadata": "YOUTUBE_METADATA.md",
+  "claims_sources": "../01_SCRIPT/CLAIMS_AND_SOURCES.md",
+  "rights_register": "../03_VISUALS/SOURCE_RIGHTS_AND_REUSE_REGISTER.csv",
+  "reuse_audit": "../00_AUDIT/REUSE_AUDIT.md",
+  "qa_report": "../10_QA/FINAL_MASTER_QA.md",
+  "upload_status": "UPLOAD_READY_NOT_PUBLISHED"
+}

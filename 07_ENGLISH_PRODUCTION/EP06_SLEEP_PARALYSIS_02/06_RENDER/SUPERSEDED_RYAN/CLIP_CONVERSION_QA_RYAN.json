@@ -1,0 +1,29 @@
+{
+  "method": "motion-compensated 24 fps to 30 fps; two-frame interpolation headroom; no freeze padding",
+  "clips": [
+    {
+      "shot_id": "SP2_012",
+      "status": "reused",
+      "frames": 138,
+      "sha256": "dc3514f4a83283a338dcbc71db6d7e028b0109e3f3d880bceb4f5fbaf4086463"
+    },
+    {
+      "shot_id": "SP2_022",
+      "status": "rendered",
+      "frames": 194,
+      "sha256": "72179450511e09535ac03f8e3ee3279586533e8b9bc12396a8c8569442bd8f81"
+    },
+    {
+      "shot_id": "SP2_046",
+      "status": "rendered",
+      "frames": 158,
+      "sha256": "7d95d554e8a7c181d8bae9406140fc660fd38a1ade3e0be013e6a4c4d1e9b493"
+    },
+    {
+      "shot_id": "SP2_065",
+      "status": "reused",
+      "frames": 121,
+      "sha256": "0ef7ee162b05afc186bd1a17ad5e1d7f2401857d2a2550b25e0e10f9ddd06a4b"
+    }
+  ]
+}

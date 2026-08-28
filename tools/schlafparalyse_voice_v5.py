@@ -33,9 +33,11 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 CLI_TOOLS = Path(r"C:\Users\iQPrinceps\Documents\Codex\NOESIS Channel\tools")
 
-# Vorlauf, Pause zwischen den Takes, Nachlauf. Identisch zu EP01-EP05, damit
-# die Serie im Schnitt gleich atmet.
-PRE, GAP, TAIL = 0.35, 0.65, 2.2
+# Vorlauf, Pause zwischen den Takes, Nachlauf. Jeder normalisierte Take bekommt
+# zusaetzlich einen kurzen digitalen Ruheauslauf. Dadurch endet kein Wort direkt
+# an einer Dateigrenze (einige ElevenLabs-MP3s hatten nur 10-50 ms Reserve).
+# Die sichtbare Gesamttpause bleibt 0,65 s: 0,12 s im Take plus 0,53 s Gap.
+PRE, BOUNDARY_PAD, GAP, TAIL = 0.35, 0.12, 0.53, 2.2
 
 EPISODES = {
     "EP06": dict(dir="EP06_SCHLAFPARALYSE_V4", voice="VOICE_EP06",
@@ -79,7 +81,7 @@ def normalize(src: Path, dst: Path, i: float = -18.0, tp: float = -2.0) -> None:
          "-af", (f"loudnorm=I={i}:TP={tp}:LRA=7:measured_I={st['input_i']}:"
                  f"measured_TP={st['input_tp']}:measured_LRA={st['input_lra']}:"
                  f"measured_thresh={st['input_thresh']}:offset={st['target_offset']}:"
-                 f"linear=true"),
+                 f"linear=true,apad=pad_dur={BOUNDARY_PAD}"),
          "-ac", "1", "-ar", "48000", "-c:a", "pcm_s24le", str(dst)])
 
 

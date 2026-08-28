@@ -1,0 +1,6 @@
+{
+  "source": "U.S. Census Bureau TIGERweb State and County service",
+  "endpoint": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/0/query?where=STUSAB%3D%27MD%27&outFields=STATE%2CSTUSAB%2CNAME&returnGeometry=true&geometryPrecision=4&outSR=4326&f=geojson",
+  "retrieved": "2026-08-26",
+  "rights": "U.S. federal government data; public domain in the United States"
+}

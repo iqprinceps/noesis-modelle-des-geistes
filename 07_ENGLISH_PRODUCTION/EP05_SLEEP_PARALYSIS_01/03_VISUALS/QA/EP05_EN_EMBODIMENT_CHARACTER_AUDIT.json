@@ -1,0 +1,232 @@
+{
+  "gate": "PASS",
+  "existing": [
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_HOOK_DOOR_OPEN.png",
+      "decision": "KEEP-AS-BUILDUP",
+      "motif": "ROOM/OBJECT",
+      "required_successor": "waking face before; embodied reaction after"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_HOOK_FOOTSTEPS_FLOOR.png",
+      "decision": "KEEP-AS-BUILDUP",
+      "motif": "ROOM/TRACE",
+      "required_successor": "gaze/face carries emotion around it"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_HOOK_FAILED_HAND.png",
+      "decision": "KEEP-AS-BUILDUP",
+      "motif": "BODY DETAIL",
+      "required_successor": "eye/face before; pressure peak after"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_HOOK_MATTRESS_DEPRESSION.png",
+      "decision": "AUGMENT",
+      "motif": "TRACE",
+      "required_successor": "face/chest/presence successor"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_HOOK_CHEST_PRESSURE_FABRIC.png",
+      "decision": "REPLACE",
+      "motif": "ABSTRACT",
+      "required_successor": "embodied pressure peak required"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_RELEASE_ORDINARY_ROOM.png",
+      "decision": "KEEP-AS-BUILDUP",
+      "motif": "ROOM",
+      "required_successor": "only after human release"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_REM_COMMAND_INTERRUPTED.png",
+      "decision": "AUGMENT",
+      "motif": "MECHANISM",
+      "required_successor": "wired face/eye first; hand landing"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CHEYNE_INTRUDER_SPACE.png",
+      "decision": "AUGMENT",
+      "motif": "ROOM",
+      "required_successor": "victim face + humanoid intruder"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CHEYNE_INCUBUS_PRESSURE.png",
+      "decision": "REPLACE",
+      "motif": "ABSTRACT",
+      "required_successor": "visible body/face + pressing presence"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CHEYNE_BODY_WITHOUT_BORDERS.png",
+      "decision": "AUGMENT",
+      "motif": "ABSTRACT",
+      "required_successor": "recognizable person + lifted double"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_TAKEUCHI_LAB_AWARENESS_POV.png",
+      "decision": "AUGMENT",
+      "motif": "BODY/POV",
+      "required_successor": "wired participant face and observer"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_TAKEUCHI_VISUAL_AUDITORY_DISTURBANCE.png",
+      "decision": "KEEP-AS-BUILDUP",
+      "motif": "LAB/SUBJECTIVE",
+      "required_successor": "between face and PSG return"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_VIEWER_CLOSED_DOOR_SOUND.png",
+      "decision": "AUGMENT",
+      "motif": "ROOM/TRACE",
+      "required_successor": "eye/mirror reaction + forming figure"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_AGENCY_SEARCH_OBJECTS.png",
+      "decision": "KEEP-AS-BUILDUP",
+      "motif": "OBJECT/MECHANISM",
+      "required_successor": "observer gaze + figure payoff"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_PRESENCE_BEFORE_FORM.png",
+      "decision": "KEEP-AS-BUILDUP",
+      "motif": "EMPTY/DIRECTION",
+      "required_successor": "face reacts; form arrives later"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_PRESENCE_DIRECTED_PROXIMITY.png",
+      "decision": "AUGMENT",
+      "motif": "PARTIAL FORM",
+      "required_successor": "observer + shadow-person successor"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_SALEM_BEDROOM_TO_RECORD.png",
+      "decision": "AUGMENT",
+      "motif": "TRANSITION",
+      "required_successor": "human witness/court consequence"
+    }
+  ],
+  "planned": [
+    {
+      "label": "01 HOOK FACE",
+      "description": "close waking eye/face; controlled paralysis fear",
+      "coverage": "HUMAN FACE"
+    },
+    {
+      "label": "02 EMBODIED PRESSURE",
+      "description": "face, breath and torso; incomplete presence bears down",
+      "coverage": "FACE + BODY + FIGURE"
+    },
+    {
+      "label": "03 FOGO OLD HAG",
+      "description": "witness/villager; restrained older female hag-like form",
+      "coverage": "FACE + FOLKLORE FIGURE"
+    },
+    {
+      "label": "04 INTRUDER",
+      "description": "foreground victim gaze; readable peripheral shadow person",
+      "coverage": "FACE + FIGURE"
+    },
+    {
+      "label": "05 INCUBUS",
+      "description": "visible body and breathing face under partial pressing presence",
+      "coverage": "FACE + BODY + FIGURE"
+    },
+    {
+      "label": "06 BODY DOUBLE",
+      "description": "recognizable adult; transparent second body rises/looks back",
+      "coverage": "FACE + BODY + DOUBLE"
+    },
+    {
+      "label": "07 REM FACE / PATHWAY",
+      "description": "electrodes and eye; plausible brainstem-motor inhibition",
+      "coverage": "FACE + MECHANISM"
+    },
+    {
+      "label": "08 TAKEUCHI HUMAN LAB",
+      "description": "wired participant, open eyes, still hand; observer context",
+      "coverage": "FACE + BODY + SCIENCE"
+    },
+    {
+      "label": "09 VIEWER REACTION",
+      "description": "eye/mirror/gaze searches toward sound and pressure",
+      "coverage": "FACE + SUBJECTIVE"
+    },
+    {
+      "label": "10 FORM SUCCESSOR",
+      "description": "observer reacts first; incomplete shoulder/head forms after",
+      "coverage": "FACE + PARTIAL FIGURE"
+    },
+    {
+      "label": "11 SALEM SOCIAL",
+      "description": "non-identifying witness/court faces; fear becomes accusation",
+      "coverage": "FACES + HISTORY"
+    }
+  ],
+  "corrective": [
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_HOOK_WAKING_FACE.png",
+      "label": "HOOK FACE",
+      "coverage": "FACE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_HOOK_EMBODIED_PRESSURE.png",
+      "label": "EMBODIED PRESSURE",
+      "coverage": "FACE + BODY + FIGURE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_FOGO_OLD_HAG.png",
+      "label": "FOGO OLD HAG",
+      "coverage": "FACE + FOLKLORE FIGURE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_CHEYNE_INTRUDER.png",
+      "label": "INTRUDER",
+      "coverage": "FACE + FIGURE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_CHEYNE_INCUBUS.png",
+      "label": "INCUBUS",
+      "coverage": "FACE + BODY + FIGURE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_CHEYNE_BODY_DOUBLE.png",
+      "label": "BODY DOUBLE",
+      "coverage": "FACE + BODY + DOUBLE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_REM_HUMAN_PATHWAY.png",
+      "label": "REM FACE / PATHWAY",
+      "coverage": "FACE + MECHANISM",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_TAKEUCHI_HUMAN_LAB.png",
+      "label": "TAKEUCHI HUMAN LAB",
+      "coverage": "FACE + BODY + SCIENCE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_VIEWER_REACTION.png",
+      "label": "VIEWER REACTION",
+      "coverage": "FACE + SUBJECTIVE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_PRESENCE_FORMING.png",
+      "label": "FORM SUCCESSOR",
+      "coverage": "FACE + PARTIAL FIGURE",
+      "verdict": "PASS"
+    },
+    {
+      "asset": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\GENERATED_STILLS\\EP05_GEN_CORR_SALEM_SOCIAL_CONSEQUENCE.png",
+      "label": "SALEM SOCIAL",
+      "coverage": "FACES + HISTORY",
+      "verdict": "PASS"
+    }
+  ]
+}

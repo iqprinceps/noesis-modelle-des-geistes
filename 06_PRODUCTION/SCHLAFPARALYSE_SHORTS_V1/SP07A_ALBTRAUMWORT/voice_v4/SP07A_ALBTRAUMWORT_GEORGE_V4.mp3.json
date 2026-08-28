@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP07A_ALBTRAUMWORT\\voice_v4\\SP07A_ALBTRAUMWORT_GEORGE_V4.mp3",
+  "sha256": "d6957ad58eeb2a818de5c86b636c9bda1e13251221a229a4ced7c6e79559c1b7",
+  "bytes": 642447,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.52,
+    "similarity_boost": 0.8,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 1.02
+  },
+  "seed": 2404,
+  "request_id": "yc2MnB1yCuGtvIrBNis5",
+  "text_sha256": "ccdc87211b9c5b1d9e4b28f7f35659b3a3a92da1b6c48be8977dad733b9a8bb0",
+  "characters": 601
+}

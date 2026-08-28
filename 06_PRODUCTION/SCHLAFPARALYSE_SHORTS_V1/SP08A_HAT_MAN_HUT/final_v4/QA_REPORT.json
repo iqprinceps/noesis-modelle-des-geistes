@@ -1,0 +1,207 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP08A_HAT_MAN_HUT\\final_v4\\SP08A_HAT_MAN_HUT_FINAL_V4.mp4",
+  "duration": 42.583,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "shots": 15,
+  "shot_min": 1.719,
+  "shot_max": 3.659,
+  "shot_mean": 2.834,
+  "distinct_assets": 15,
+  "kenburns": "3x supersampled zoompan, travel scaled with shot length",
+  "hook": "WARUM DER HUT?",
+  "cta": "GANZE FOLGE IM KANAL / Shadow People: Warum viele den Hat Man sehen",
+  "tail_seconds": 2.4,
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_take": "V4 (re-recorded for the rewritten script)",
+  "blackdetect_events": [],
+  "loudness": {
+    "integrated_lufs": -14.8,
+    "lra": 2.3,
+    "true_peak_dbtp": -1.5
+  },
+  "contact_sheet": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP08A_HAT_MAN_HUT\\final_v4\\SP08A_HAT_MAN_HUT_CONTACT_SHEET.jpg",
+  "plan": [
+    {
+      "index": 1,
+      "asset": "SHOT01.png",
+      "start": 0.0,
+      "seconds": 2.219,
+      "framing": "wide",
+      "direction": "push",
+      "zoom": [
+        1.006,
+        1.055
+      ]
+    },
+    {
+      "index": 2,
+      "asset": "SHOT02.png",
+      "start": 2.219,
+      "seconds": 2.62,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.198,
+        1.124
+      ]
+    },
+    {
+      "index": 3,
+      "asset": "SHOT03.png",
+      "start": 4.839,
+      "seconds": 3.48,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.22,
+        1.34
+      ]
+    },
+    {
+      "index": 4,
+      "asset": "SHOT04.png",
+      "start": 8.319,
+      "seconds": 3.04,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.205,
+        1.119
+      ]
+    },
+    {
+      "index": 5,
+      "asset": "SHOT05.png",
+      "start": 11.359,
+      "seconds": 2.881,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.24,
+        1.34
+      ]
+    },
+    {
+      "index": 6,
+      "asset": "SHOT06.png",
+      "start": 14.24,
+      "seconds": 3.239,
+      "framing": "wide",
+      "direction": "pull",
+      "zoom": [
+        1.073,
+        1.0
+      ]
+    },
+    {
+      "index": 7,
+      "asset": "SHOT07.png",
+      "start": 17.479,
+      "seconds": 2.941,
+      "framing": "mid",
+      "direction": "push",
+      "zoom": [
+        1.12,
+        1.203
+      ]
+    },
+    {
+      "index": 8,
+      "asset": "SHOT09.png",
+      "start": 20.42,
+      "seconds": 3.659,
+      "framing": "tight",
+      "direction": "pull",
+      "zoom": [
+        1.34,
+        1.215
+      ]
+    },
+    {
+      "index": 9,
+      "asset": "SHOT10.png",
+      "start": 24.079,
+      "seconds": 2.48,
+      "framing": "wide",
+      "direction": "push",
+      "zoom": [
+        1.003,
+        1.058
+      ]
+    },
+    {
+      "index": 10,
+      "asset": "SHOT11.png",
+      "start": 26.559,
+      "seconds": 3.36,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.209,
+        1.114
+      ]
+    },
+    {
+      "index": 11,
+      "asset": "SHOT12.png",
+      "start": 29.919,
+      "seconds": 2.401,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.249,
+        1.333
+      ]
+    },
+    {
+      "index": 12,
+      "asset": "SHOT13.png",
+      "start": 32.32,
+      "seconds": 1.719,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.185,
+        1.136
+      ]
+    },
+    {
+      "index": 13,
+      "asset": "SHOT14.png",
+      "start": 34.039,
+      "seconds": 2.961,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.237,
+        1.34
+      ]
+    },
+    {
+      "index": 14,
+      "asset": "SHOT15.png",
+      "start": 37.0,
+      "seconds": 2.512,
+      "framing": "wide",
+      "direction": "pull",
+      "zoom": [
+        1.059,
+        1.003
+      ]
+    },
+    {
+      "index": 15,
+      "asset": "SHOT16.png",
+      "start": 39.512,
+      "seconds": 3.0,
+      "framing": "mid",
+      "direction": "push",
+      "zoom": [
+        1.119,
+        1.204
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,62,&H00F5F2EB,&H00F5F2EB,&H00101014,&H8C000000,-1,0,0,0,100,100,0,0,1,5,2,2,105,210,420,1
+Style: Hook,Arial Black,58,&H00F5F2EB,&H00F5F2EB,&H00101014,&H98000000,-1,0,0,0,100,100,0,0,3,4,0,8,64,64,105,1
+Style: CTA,Segoe UI Semibold,42,&H00C7C28D,&H00C7C28D,&H00101014,&H9A000000,-1,0,0,0,100,100,0,0,1,4,1,8,80,210,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:01.75,Hook,,0,0,0,,WARUM DER HUT?
+Dialogue: 0,0:00:00.34,0:00:01.02,Caption,,0,0,0,,Warum trägt der
+Dialogue: 0,0:00:01.08,0:00:01.70,Caption,,0,0,0,,Hat Man einen
+Dialogue: 0,0:00:01.78,0:00:02.02,Caption,,0,0,0,,Hut?
+Dialogue: 0,0:00:02.70,0:00:03.50,Caption,,0,0,0,,Ehrliche Antwort:
+Dialogue: 0,0:00:03.82,0:00:04.34,Caption,,0,0,0,,Wir wissen es
+Dialogue: 0,0:00:04.40,0:00:04.66,Caption,,0,0,0,,nicht.
+Dialogue: 0,0:00:05.54,0:00:06.28,Caption,,0,0,0,,Es gibt Forschung
+Dialogue: 0,0:00:06.38,0:00:07.40,Caption,,0,0,0,,zu Schattenfiguren und
+Dialogue: 0,0:00:07.46,0:00:09.14,Caption,,0,0,0,,Präsenzgefühlen, aber\Nkeine
+Dialogue: 0,0:00:09.28,0:00:10.80,Caption,,0,0,0,,Studie erklärt\Nausgerechnet
+Dialogue: 0,0:00:10.86,0:00:11.98,Caption,,0,0,0,,diese markante Krempe
+Dialogue: 0,0:00:12.28,0:00:13.62,Caption,,0,0,0,,wissenschaftlich\Nüberzeugend.
+Dialogue: 0,0:00:14.20,0:00:15.08,Caption,,0,0,0,,Plausibel ist nur
+Dialogue: 0,0:00:15.12,0:00:16.32,Caption,,0,0,0,,eine Arbeitshypothese.
+Dialogue: 0,0:00:16.90,0:00:17.92,Caption,,0,0,0,,In Dunkelheit genügt
+Dialogue: 0,0:00:17.96,0:00:18.76,Caption,,0,0,0,,dem Gehirn eine
+Dialogue: 0,0:00:18.82,0:00:19.64,Caption,,0,0,0,,klare Kontur.
+Dialogue: 0,0:00:20.12,0:00:20.82,Caption,,0,0,0,,Ein Hut macht
+Dialogue: 0,0:00:20.86,0:00:21.80,Caption,,0,0,0,,aus einer formlosen
+Dialogue: 0,0:00:21.90,0:00:23.04,Caption,,0,0,0,,Säule sofort eine
+Dialogue: 0,0:00:23.10,0:00:24.38,Caption,,0,0,0,,erwachsene, beobachtende
+Dialogue: 0,0:00:24.44,0:00:25.72,Caption,,0,0,0,,Person mit Richtung
+Dialogue: 0,0:00:25.76,0:00:27.00,Caption,,0,0,0,,und scheinbarer Absicht.
+Dialogue: 0,0:00:27.74,0:00:28.78,Caption,,0,0,0,,Dann beginnt Kultur
+Dialogue: 0,0:00:28.82,0:00:29.64,Caption,,0,0,0,,in unseren Köpfen
+Dialogue: 0,0:00:29.68,0:00:30.48,Caption,,0,0,0,,mitzuschneiden.
+Dialogue: 0,0:00:31.04,0:00:32.20,Caption,,0,0,0,,Bilder, Podcasts und
+Dialogue: 0,0:00:32.30,0:00:33.62,Caption,,0,0,0,,Foren liefern dieselbe
+Dialogue: 0,0:00:33.72,0:00:34.80,Caption,,0,0,0,,Silhouette immer wieder.
+Dialogue: 0,0:00:35.44,0:00:36.12,Caption,,0,0,0,,Der Hut könnte
+Dialogue: 0,0:00:36.16,0:00:37.46,Caption,,0,0,0,,deshalb weniger\NBotschaft
+Dialogue: 0,0:00:37.48,0:00:38.70,Caption,,0,0,0,,des Besuchers sein
+Dialogue: 0,0:00:38.76,0:00:39.66,Caption,,0,0,0,,als das stabilste
+Dialogue: 0,0:00:39.72,0:00:41.00,Caption,,0,0,0,,Erkennungszeichen\Nunserer
+Dialogue: 0,0:00:41.04,0:00:41.58,Caption,,0,0,0,,Erzählung.
+Dialogue: 1,0:00:39.31,0:00:42.11,CTA,,0,0,0,,Mehr: Schlafparalyse EP08

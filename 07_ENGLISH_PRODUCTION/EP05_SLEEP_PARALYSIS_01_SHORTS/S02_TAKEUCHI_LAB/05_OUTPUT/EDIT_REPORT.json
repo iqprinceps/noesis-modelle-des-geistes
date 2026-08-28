@@ -1,0 +1,157 @@
+{
+  "stem": "EP05_EN_SHORT_S02",
+  "duration": 48.633008,
+  "voice": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\02_VOICE\\raw\\EP05_EN_SHORT_S02.mp3",
+  "mix": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_AUDIO\\EP05_EN_SHORT_S02_FINAL_MIX_48K_STEREO.wav",
+  "master": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\05_OUTPUT\\EP05_EN_SHORT_S02_MASTER_1080x1920_30.mp4",
+  "shots": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 1.879,
+      "duration": 1.879,
+      "anchor": "Researchers interrupted",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\GENERATED\\B01_INTERRUPTION_ACTION.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\00.mp4"
+    },
+    {
+      "index": 2,
+      "start": 1.879,
+      "end": 3.659,
+      "duration": 1.78,
+      "anchor": "sixteen healthy people",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\VERTICAL\\B02_SIXTEEN.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\01.mp4"
+    },
+    {
+      "index": 3,
+      "start": 3.659,
+      "end": 10.599,
+      "duration": 6.94,
+      "anchor": "Six isolated",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\VERTICAL\\B03_SIX_EPISODES_BASE.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\02.mp4"
+    },
+    {
+      "index": 4,
+      "start": 10.599,
+      "end": 11.5,
+      "duration": 0.901,
+      "anchor": "They slept",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\GENERATED\\B04_SLEEP_SENSORS.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\03.mp4"
+    },
+    {
+      "index": 5,
+      "start": 11.5,
+      "end": 13.359,
+      "duration": 1.859,
+      "anchor": "were awakened",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\GENERATED\\B05_SELECTED_AWAKENING.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\04.mp4"
+    },
+    {
+      "index": 6,
+      "start": 13.359,
+      "end": 14.639,
+      "duration": 1.28,
+      "anchor": "stayed awake for an hour",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\VERTICAL\\B06_SIXTY_MINUTES.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\05.mp4"
+    },
+    {
+      "index": 7,
+      "start": 14.639,
+      "end": 17.52,
+      "duration": 2.881,
+      "anchor": "then returned to bed",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\VERTICAL\\B07_RETURN_TO_BED.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\06.mp4"
+    },
+    {
+      "index": 8,
+      "start": 17.52,
+      "end": 24.399,
+      "duration": 6.879,
+      "anchor": "Across four nights",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\VERTICAL\\B08_PROTOCOL_BOUNDARY.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\07.mp4"
+    },
+    {
+      "index": 9,
+      "start": 24.399,
+      "end": 28.619,
+      "duration": 4.22,
+      "anchor": "When they occurred",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\GENERATED\\B09_AWARE_IMMOBILE.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\08.mp4"
+    },
+    {
+      "index": 10,
+      "start": 28.619,
+      "end": 33.419,
+      "duration": 4.8,
+      "anchor": "All but one",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\GENERATED\\B10_AV_DISTURBANCE.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\09.mp4"
+    },
+    {
+      "index": 11,
+      "start": 33.419,
+      "end": 38.639,
+      "duration": 5.22,
+      "anchor": "The recordings caught",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\VERTICAL\\B11_AWARENESS_ATONIA.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\10.mp4"
+    },
+    {
+      "index": 12,
+      "start": 38.639,
+      "end": 43.159,
+      "duration": 4.52,
+      "anchor": "The doorway was measurable",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\GENERATED\\B12_MEASURABLE_THRESHOLD.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\11.mp4"
+    },
+    {
+      "index": 13,
+      "start": 43.159,
+      "end": 45.479,
+      "duration": 2.32,
+      "anchor": "The full experiment",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\VERTICAL\\B13_LONGFORM_BRIDGE.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\12.mp4"
+    },
+    {
+      "index": 14,
+      "start": 45.479,
+      "end": 48.623,
+      "duration": 3.144,
+      "anchor": "BODY, BRAIN",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\03_ASSETS\\VERTICAL\\B14_VIEWER_CHOICE.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\04_EDIT\\segments\\13.mp4"
+    }
+  ],
+  "count_signal_times": [
+    7.039,
+    7.419,
+    7.94,
+    8.5,
+    9.0,
+    9.579
+  ]
+}

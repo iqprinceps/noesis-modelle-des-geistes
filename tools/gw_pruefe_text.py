@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Prueft eine Reinschrift gegen den Produktionsstandard.
+"""Erstellt einen beratenden Retention-/Sprachbericht fuer eine Reinschrift.
 
     python tools/gw_pruefe_text.py 06_PRODUCTION/EP0X_.../07_VOICE_SCRIPT_CLEAN.txt
+    python tools/gw_pruefe_text.py --legacy-strict <datei>  # historische EP02-QA
 
 Meldet die beiden verbotenen Sprachmuster aus
 `01_GLOBAL/00_PRODUKTIONSSTANDARD.md` § 2, dazu Umfang, Fragen und
@@ -14,6 +15,11 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 # § 2: "X nicht A. X B." — die Antithese
 #
@@ -65,7 +71,12 @@ def main() -> int:
     if len(sys.argv) < 2:
         print(__doc__)
         return 2
-    p = Path(sys.argv[1])
+    legacy_strict = "--legacy-strict" in sys.argv
+    paths = [arg for arg in sys.argv[1:] if not arg.startswith("--")]
+    if len(paths) != 1:
+        print(__doc__)
+        return 2
+    p = Path(paths[0])
     text = p.read_text(encoding="utf-8").strip()
     ss = saetze(text)
     woerter = len(text.split())
@@ -106,22 +117,24 @@ def main() -> int:
     print(f"  → {treffer} Treffer" + ("  ✓" if treffer == 0 else "  ← streichen"))
     befunde += treffer
 
-    print("\n— Interaktion (§ 1) —")
+    print("\n— Interaktion (episodenspezifische Diagnose) —")
     fragen = sum(1 for s in ss if s.endswith("?"))
     cta = bool(re.search(r"[Kk]ommentar|[Ss]chreib (?:mir|es)", text))
-    print(f"  Fragen: {fragen}" + ("  ✓" if fragen >= 7 else "  ← Ziel ≥ 7"))
-    print(f"  CTA im Text: {'ja  ✓' if cta else 'nein  ← fehlt'}")
-    if fragen < 7:
-        befunde += 1
-    if not cta:
-        befunde += 1
+    print(f"  Fragen: {fragen}  (keine Mindestmenge)")
+    print(f"  expliziter Kommentar-CTA: {'ja' if cta else 'nein'}  (kein Pflicht-CTA)")
+    if legacy_strict:
+        befunde += int(fragen < 7) + int(not cta)
 
-    print("\n— Umfang (§ 1) —")
+    print("\n— Umfang (historischer EP02-Vergleich) —")
     ok = 1300 <= woerter <= 1450
-    print(f"  {woerter} Wörter" + ("  ✓" if ok else "  ← Ziel 1.300–1.450"))
+    print(f"  {woerter} Wörter; EP02-V7-Referenz 1.300–1.450, keine neue Vorgabe")
 
-    print(f"\n{'BESTANDEN' if befunde == 0 else str(befunde) + ' Punkte offen'}")
-    return 0 if befunde == 0 else 1
+    if legacy_strict:
+        print(f"\nLEGACY-STRICT: {'BESTANDEN' if befunde == 0 else str(befunde) + ' Punkte offen'}")
+        return 0 if befunde == 0 else 1
+
+    print(f"\nADVISORY: {befunde} sprachliche Prüfsignale; individuelle Zuschauerprüfung entscheidet.")
+    return 0
 
 
 if __name__ == "__main__":

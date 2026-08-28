@@ -1,0 +1,198 @@
+{
+  "episode": "EP07",
+  "duration": 640.843,
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model": "eleven_flash_v2_5",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "stems": [
+    {
+      "id": "EP07_TAKE_001_COMANS_NACHT",
+      "section": "S1",
+      "start": 0.35,
+      "end": 16.074,
+      "duration": 15.724
+    },
+    {
+      "id": "EP07_TAKE_002_LAEHMUNG_UND_MUSTER",
+      "section": "S1",
+      "start": 16.604,
+      "end": 40.501,
+      "duration": 23.897
+    },
+    {
+      "id": "EP07_TAKE_003_VOM_ZIMMER_INS_GERICHT",
+      "section": "S1",
+      "start": 41.031,
+      "end": 70.919,
+      "duration": 29.888
+    },
+    {
+      "id": "EP07_TAKE_004_FUESSLIS_NACHTMAHR",
+      "section": "S2",
+      "start": 71.449,
+      "end": 92.003,
+      "duration": 20.554
+    },
+    {
+      "id": "EP07_TAKE_005_EIN_BILD_FUER_DAS_GEFUEHL",
+      "section": "S2",
+      "start": 92.533,
+      "end": 125.578,
+      "duration": 33.046
+    },
+    {
+      "id": "EP07_TAKE_006_VIELE_URSPRUENGE",
+      "section": "S2",
+      "start": 126.108,
+      "end": 148.102,
+      "duration": 21.993
+    },
+    {
+      "id": "EP07_TAKE_007_MAHR_INCUBUS_KANASHIBARI",
+      "section": "S3",
+      "start": 148.632,
+      "end": 176.198,
+      "duration": 27.566
+    },
+    {
+      "id": "EP07_TAKE_008_JINN_CHINA_OLD_HAG",
+      "section": "S3",
+      "start": 176.728,
+      "end": 207.266,
+      "duration": 30.538
+    },
+    {
+      "id": "EP07_TAKE_009_DER_KOERPER_VOR_DEM_MYTHOS",
+      "section": "S3",
+      "start": 207.796,
+      "end": 228.767,
+      "duration": 20.972
+    },
+    {
+      "id": "EP07_TAKE_010_EINE_WELT_VOLLER_URSACHEN",
+      "section": "S4",
+      "start": 229.297,
+      "end": 256.585,
+      "duration": 27.287
+    },
+    {
+      "id": "EP07_TAKE_011_WAS_MENSCHEN_DAGEGEN_TUN",
+      "section": "S4",
+      "start": 257.115,
+      "end": 283.195,
+      "duration": 26.08
+    },
+    {
+      "id": "EP07_TAKE_012_WENN_EINE_NACHT_OEFFENTLICH_WIRD",
+      "section": "S4",
+      "start": 283.725,
+      "end": 310.037,
+      "duration": 26.312
+    },
+    {
+      "id": "EP07_TAKE_013_HUFFORD_HOERT_ZU",
+      "section": "S5",
+      "start": 310.567,
+      "end": 334.882,
+      "duration": 24.315
+    },
+    {
+      "id": "EP07_TAKE_014_ERFAHRUNG_VOR_ERZAEHLUNG",
+      "section": "S5",
+      "start": 335.412,
+      "end": 358.752,
+      "duration": 23.34
+    },
+    {
+      "id": "EP07_TAKE_015_UND_WAS_PASSIERT_DANACH",
+      "section": "S5",
+      "start": 359.282,
+      "end": 384.479,
+      "duration": 25.198
+    },
+    {
+      "id": "EP07_TAKE_016_ZWEI_MENSCHEN_DIESELBE_NACHT",
+      "section": "S6",
+      "start": 385.009,
+      "end": 407.885,
+      "duration": 22.876
+    },
+    {
+      "id": "EP07_TAKE_017_CTA",
+      "section": "S6",
+      "start": 408.415,
+      "end": 430.594,
+      "duration": 22.179
+    },
+    {
+      "id": "EP07_TAKE_018_AEGYPTEN_UND_DAENEMARK",
+      "section": "S7",
+      "start": 431.124,
+      "end": 447.962,
+      "duration": 16.838
+    },
+    {
+      "id": "EP07_TAKE_019_ZWEI_DEUTUNGSRAUME",
+      "section": "S7",
+      "start": 448.492,
+      "end": 470.346,
+      "duration": 21.854
+    },
+    {
+      "id": "EP07_TAKE_020_WENN_ANGST_DIE_NACHT_VERLAENGERT",
+      "section": "S7",
+      "start": 470.876,
+      "end": 498.024,
+      "duration": 27.148
+    },
+    {
+      "id": "EP07_TAKE_021_DIE_RUECKKOPPLUNG",
+      "section": "S7",
+      "start": 498.554,
+      "end": 525.749,
+      "duration": 27.194
+    },
+    {
+      "id": "EP07_TAKE_022_ZURUECK_NACH_SALEM",
+      "section": "S8",
+      "start": 526.279,
+      "end": 553.009,
+      "duration": 26.73
+    },
+    {
+      "id": "EP07_TAKE_023_KOERPER_KULTUR_KOERPER",
+      "section": "S8",
+      "start": 553.539,
+      "end": 578.504,
+      "duration": 24.965
+    },
+    {
+      "id": "EP07_TAKE_024_WIE_EIN_NACHTGEIST_REIST",
+      "section": "S8",
+      "start": 579.034,
+      "end": 603.071,
+      "duration": 24.037
+    },
+    {
+      "id": "EP07_TAKE_025_DER_SCHATTEN_IM_RADIO",
+      "section": "S8",
+      "start": 603.601,
+      "end": 627.405,
+      "duration": 23.804
+    },
+    {
+      "id": "EP07_TAKE_026_ENDCARD",
+      "section": "END",
+      "start": 627.935,
+      "end": 638.643,
+      "duration": 10.708
+    }
+  ]
+}

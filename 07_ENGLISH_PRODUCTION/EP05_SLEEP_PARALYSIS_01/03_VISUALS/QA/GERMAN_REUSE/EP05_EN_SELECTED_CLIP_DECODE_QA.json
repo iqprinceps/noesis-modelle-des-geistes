@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "CLIP002_REM_SIGNAL_GATE.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 5.933
+  },
+  {
+    "Name": "CLIP002_SLEEP_LAB_SENSOR_MACRO.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 5.933
+  },
+  {
+    "Name": "CLIP003_CAUSE_SHADOW_ASSEMBLY.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 5.933
+  },
+  {
+    "Name": "CLIP003_OLD_HAG_THRESHOLD.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 5.933
+  },
+  {
+    "Name": "CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 5.933
+  },
+  {
+    "Name": "CLIP004_DAWN_AFTER_PARALYSIS.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 5.933
+  },
+  {
+    "Name": "CLIP004_FEEDBACK_ENTITY.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 5.933
+  },
+  {
+    "Name": "CLIP008_SIX_EPISODES_SIGNAL.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 5.933
+  },
+  {
+    "Name": "EDIT007_BLANK_SKETCH_TO_SHADOW.mp4",
+    "Decode": "PASS",
+    "Size": "1920x1080",
+    "FPS": "30/1",
+    "Pixel": "yuv420p",
+    "Seconds": 3.433
+  }
+]

@@ -97,8 +97,9 @@ Jede Folge trennt sichtbar vier Ebenen:
 | **VERMUTET** | Interpretation, Theorie oder mögliche Verbindung | „Daraus entstand später die Vermutung …“ |
 | **OFFEN** | Quellen reichen für eine Entscheidung nicht aus | „Dafür haben wir bislang keinen belastbaren Nachweis.“ |
 
-Diese Ebenen müssen nicht ständig als Texteinblendung erscheinen. Bei besonders
-heiklen Passagen können sie aber als visuelles System genutzt werden.
+Diese Ebenen sind primär interne Redaktionslogik. Sie erscheinen nicht als
+dauerhafte oder wiederkehrende Produktionslabels. Bei heiklen Passagen wird die
+Einordnung bevorzugt durch Formulierung, Originalquelle und Montage verständlich.
 
 **Wichtig:** „Unbewiesen“ bedeutet nicht automatisch „widerlegt“. „Dokumentiert“
 bedeutet nicht automatisch „bewiesen“.
@@ -253,7 +254,7 @@ Keine generischen Hooks wie „Alles, was du weißt, ist falsch“.
 | **Diagramme** | Chakren, Ebenen, Bewusstseinsmodelle, Resonanz, Versuchsabläufe |
 | **Originaldokumente** | Glaubwürdigkeit und Mystery zugleich |
 | **Archivporträts** | Jung, Pauli, Kozyrev, Sheldrake, Forscher und Beteiligte |
-| **Generierte Szenen** | Atmosphärische Rekonstruktion, klar gekennzeichnet |
+| **Generierte Szenen** | Atmosphärische Rekonstruktion, durch Bildsprache klar unterscheidbar |
 | **Objekte** | Spiegel, Apparaturen, Tonbänder, Diagramme, Bücher, Labore |
 
 Look: tiefes Blauschwarz, Papier/Archiv als warme Gegenwelt, einzelne geometrische

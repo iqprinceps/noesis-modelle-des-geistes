@@ -1,6 +1,6 @@
 {
   "episode": "EP08",
-  "duration": 638.169,
+  "duration": 637.035,
   "voice": "JBFqnCBsd6RMkjVDRZzb",
   "voice_name": "George",
   "model": "eleven_multilingual_v2",
@@ -16,190 +16,190 @@
       "id": "EP08_TAKE_001_DIE_NACHTSENDUNG",
       "section": "S1",
       "start": 0.35,
-      "end": 19.251,
-      "duration": 18.901
+      "end": 19.371,
+      "duration": 19.021
     },
     {
       "id": "EP08_TAKE_002_NUR_SILHOUETTEN",
       "section": "S1",
       "start": 19.901,
-      "end": 36.109,
-      "duration": 16.208
+      "end": 36.229,
+      "duration": 16.328
     },
     {
       "id": "EP08_TAKE_003_VIERTAUSENDFUENFHUNDERT",
       "section": "S1",
       "start": 36.759,
-      "end": 54.638,
-      "duration": 17.879
+      "end": 54.758,
+      "duration": 17.999
     },
     {
       "id": "EP08_TAKE_004_DAS_GESICHT_VOR_DEM_ERLEBNIS",
       "section": "S1",
       "start": 55.288,
-      "end": 77.161,
-      "duration": 21.873
+      "end": 77.281,
+      "duration": 21.993
     },
     {
       "id": "EP08_TAKE_005_SHADOW_PEOPLE",
       "section": "S2",
       "start": 77.811,
-      "end": 98.013,
-      "duration": 20.201
+      "end": 98.133,
+      "duration": 20.321
     },
     {
       "id": "EP08_TAKE_006_DER_INTRUDER",
       "section": "S2",
       "start": 98.663,
-      "end": 120.025,
-      "duration": 21.362
+      "end": 120.145,
+      "duration": 21.482
     },
     {
       "id": "EP08_TAKE_007_DIE_UMGEKEHRTE_REIHENFOLGE",
       "section": "S2",
       "start": 120.675,
-      "end": 142.78,
-      "duration": 22.105
+      "end": 142.9,
+      "duration": 22.225
     },
     {
       "id": "EP08_TAKE_008_EINE_MODERNE_MASKE",
       "section": "S3",
       "start": 143.43,
-      "end": 168.322,
-      "duration": 24.892
+      "end": 168.442,
+      "duration": 25.012
     },
     {
       "id": "EP08_TAKE_009_DIE_BAUSTEINE",
       "section": "S3",
       "start": 168.972,
-      "end": 194.143,
-      "duration": 25.17
+      "end": 194.263,
+      "duration": 25.29
     },
     {
       "id": "EP08_TAKE_010_WAS_HEISST_REAL",
       "section": "S3",
       "start": 194.793,
-      "end": 221.96,
-      "duration": 27.167
+      "end": 222.08,
+      "duration": 27.287
     },
     {
       "id": "EP08_TAKE_011_JOHN_MACK",
       "section": "S4",
       "start": 222.61,
-      "end": 240.025,
-      "duration": 17.415
+      "end": 240.145,
+      "duration": 17.535
     },
     {
       "id": "EP08_TAKE_012_DER_ANDERE_WEG",
       "section": "S4",
       "start": 240.675,
-      "end": 263.523,
-      "duration": 22.848
+      "end": 263.643,
+      "duration": 22.968
     },
     {
       "id": "EP08_TAKE_013_ERINNERUNG_IST_KEINE_DATEI",
       "section": "S4",
       "start": 264.173,
-      "end": 288.183,
-      "duration": 24.009
+      "end": 288.303,
+      "duration": 24.129
     },
     {
       "id": "EP08_TAKE_014_LUEGE_ODER_RAUMSCHIFF",
       "section": "S4",
       "start": 288.833,
-      "end": 308.152,
-      "duration": 19.319
+      "end": 308.272,
+      "duration": 19.439
     },
     {
       "id": "EP08_TAKE_015_DER_HUTRAND",
       "section": "S5",
       "start": 308.802,
-      "end": 331.046,
-      "duration": 22.245
+      "end": 331.166,
+      "duration": 22.365
     },
     {
       "id": "EP08_TAKE_016_EIN_ZWEITER_KONTEXT",
       "section": "S5",
       "start": 331.696,
-      "end": 351.805,
-      "duration": 20.108
+      "end": 350.671,
+      "duration": 18.975
     },
     {
       "id": "EP08_TAKE_017_WAS_NICHT_BELEGT_IST",
       "section": "S5",
-      "start": 352.455,
-      "end": 371.356,
-      "duration": 18.901
+      "start": 351.201,
+      "end": 370.222,
+      "duration": 19.021
     },
     {
       "id": "EP08_TAKE_018_WENIG_INFORMATION",
       "section": "S5",
-      "start": 372.006,
-      "end": 391.836,
-      "duration": 19.83
+      "start": 370.752,
+      "end": 390.702,
+      "duration": 19.95
     },
     {
       "id": "EP08_TAKE_019_MUSTER_ODER_MEME",
       "section": "S6",
-      "start": 392.486,
-      "end": 415.102,
-      "duration": 22.616
+      "start": 391.232,
+      "end": 413.968,
+      "duration": 22.736
     },
     {
       "id": "EP08_TAKE_020_DIE_FALLE",
       "section": "S6",
-      "start": 415.752,
-      "end": 442.734,
-      "duration": 26.982
+      "start": 414.498,
+      "end": 441.6,
+      "duration": 27.102
     },
     {
       "id": "EP08_TAKE_021_DAS_NETZ_ZEIGT_MIT",
       "section": "S7",
-      "start": 443.384,
-      "end": 469.483,
-      "duration": 26.099
+      "start": 442.13,
+      "end": 468.349,
+      "duration": 26.219
     },
     {
       "id": "EP08_TAKE_022_DIE_SCHNELLE_SCHLEIFE",
       "section": "S7",
-      "start": 470.133,
-      "end": 501.433,
-      "duration": 31.3
+      "start": 468.879,
+      "end": 500.3,
+      "duration": 31.421
     },
     {
       "id": "EP08_TAKE_023_GLOBALES_VISUELLES_GEDAECHTNIS",
       "section": "S7",
-      "start": 502.083,
-      "end": 534.034,
-      "duration": 31.951
+      "start": 500.83,
+      "end": 532.9,
+      "duration": 32.071
     },
     {
       "id": "EP08_TAKE_024_DREI_FOLGEN",
       "section": "S8",
-      "start": 534.684,
-      "end": 565.381,
-      "duration": 30.697
+      "start": 533.43,
+      "end": 564.247,
+      "duration": 30.817
     },
     {
       "id": "EP08_TAKE_025_DER_KREIS",
       "section": "S8",
-      "start": 566.031,
-      "end": 596.913,
-      "duration": 30.883
+      "start": 564.777,
+      "end": 595.78,
+      "duration": 31.003
     },
     {
       "id": "EP08_TAKE_026_DER_KREIS",
       "section": "S8",
-      "start": 597.563,
-      "end": 620.18,
-      "duration": 22.616
+      "start": 596.31,
+      "end": 619.046,
+      "duration": 22.736
     },
     {
       "id": "EP08_TAKE_027_EIN_UPLOAD",
       "section": "S8",
-      "start": 620.83,
-      "end": 635.969,
-      "duration": 15.139
+      "start": 619.576,
+      "end": 634.835,
+      "duration": 15.259
     }
   ]
 }

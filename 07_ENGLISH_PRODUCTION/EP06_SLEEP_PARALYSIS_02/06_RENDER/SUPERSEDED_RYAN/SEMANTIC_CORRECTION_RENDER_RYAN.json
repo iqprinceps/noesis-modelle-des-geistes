@@ -1,0 +1,174 @@
+{
+  "reason": "final semantic QA: align Fuseli progression, identify named scholars bibliographically, strengthen final media-state callback",
+  "recoverability": "all overwritten files are deterministic derivatives and can be rerendered from the EDL",
+  "results": [
+    {
+      "shot_id": "SP2_013",
+      "status": "rendered",
+      "frames": 168,
+      "sha256": "3d7585105f3b05e6ab3aa29a58e507cba34953efb2e6ac29946ee1393c7ebe2b"
+    },
+    {
+      "shot_id": "SP2_016",
+      "status": "rendered",
+      "frames": 180,
+      "sha256": "a78f55a9eb68dfee6990271e0dd37d0c4f122c56bda0d9e863c60621350d8d95"
+    },
+    {
+      "shot_id": "SP2_017",
+      "status": "rendered",
+      "frames": 203,
+      "sha256": "6ee9ac48b67e04c98f228eac8aa4eed6f6d7c5858814d4cf2c6c3bf8371109b5"
+    },
+    {
+      "shot_id": "SP2_018",
+      "status": "rendered",
+      "frames": 188,
+      "sha256": "b3c20b11b6fcd88b7f0b101228562dc226f6d2bbb701cd1fa3f56d9f24ef72df"
+    },
+    {
+      "shot_id": "SP2_019",
+      "status": "rendered",
+      "frames": 179,
+      "sha256": "26876277ad8a2241b4347c033a5cb0ea4a4e7172f20cc58744aaeb0061557205"
+    },
+    {
+      "shot_id": "SP2_020",
+      "status": "rendered",
+      "frames": 203,
+      "sha256": "0dfb1d08a4c25cba7fcbc4404908cc23817a8417011cea43f24abfba30bd48ea"
+    },
+    {
+      "shot_id": "SP2_021",
+      "status": "rendered",
+      "frames": 189,
+      "sha256": "fd5bd54013e30a5c6f68a0d6e556413f410c7d81fce39bed87eef476bdf0131b"
+    },
+    {
+      "shot_id": "SP2_022",
+      "status": "rendered",
+      "frames": 194,
+      "sha256": "1a072fab2f0effd02d851368fa775a641fa71f662049bc84f52cd5ecc9ad4b32"
+    },
+    {
+      "shot_id": "SP2_023",
+      "status": "rendered",
+      "frames": 196,
+      "sha256": "1b4eb895e328b3ffe8dc0306644feb6ee057da5e6a8cfd9a4f73c5480a3db000"
+    },
+    {
+      "shot_id": "SP2_024",
+      "status": "rendered",
+      "frames": 177,
+      "sha256": "ba57f8a590cf3fcda3519e89e4a7b6779a5c1f943c71a802123bb3069b06c1bb"
+    },
+    {
+      "shot_id": "SP2_025",
+      "status": "rendered",
+      "frames": 189,
+      "sha256": "a8d47834df05fee09b867976eae5ccc34a4948b03f6d29a4eaf31caabe72c57c"
+    },
+    {
+      "shot_id": "SP2_026",
+      "status": "rendered",
+      "frames": 190,
+      "sha256": "b127abb31a71b6da67fb49d61ed7323f71bfb4565e1bd223840c05d08e37248d"
+    },
+    {
+      "shot_id": "SP2_027",
+      "status": "rendered",
+      "frames": 189,
+      "sha256": "ea94a4e60f59a1aad6405a8460bc5ba737fea1534597213672aea0f7470d1c8c"
+    },
+    {
+      "shot_id": "SP2_028",
+      "status": "rendered",
+      "frames": 197,
+      "sha256": "c7193fd4efecd4eeea8bae41177f2e771cadd76ec563c36575b8c98f723b5802"
+    },
+    {
+      "shot_id": "SP2_029",
+      "status": "rendered",
+      "frames": 187,
+      "sha256": "0930fdea1f0611672a99870c1dd4b48a9c6d0221f445f03d9a0e6c0d9c360488"
+    },
+    {
+      "shot_id": "SP2_030",
+      "status": "rendered",
+      "frames": 167,
+      "sha256": "86c64627f0caf38f3485239ed4fe9c96b501ae30de331938a2816d2b58032f34"
+    },
+    {
+      "shot_id": "SP2_031",
+      "status": "rendered",
+      "frames": 181,
+      "sha256": "6adff159e4515665621dd3304d0c9d3f1455db06471421d500ce716edaa7619c"
+    },
+    {
+      "shot_id": "SP2_032",
+      "status": "rendered",
+      "frames": 138,
+      "sha256": "a0627cd8d0f53f5034029320896c13bfe8747b521341b79612610949b4c0128f"
+    },
+    {
+      "shot_id": "SP2_033",
+      "status": "rendered",
+      "frames": 165,
+      "sha256": "919560d046ba45818e4690a3827cb1be73df039072ea8558d70bb07ddfd320cf"
+    },
+    {
+      "shot_id": "SP2_034",
+      "status": "rendered",
+      "frames": 157,
+      "sha256": "5765ae37726b4e03e5c520509ea030fd0aac04c43890a6c33713b412bcf5dc10"
+    },
+    {
+      "shot_id": "SP2_035",
+      "status": "rendered",
+      "frames": 162,
+      "sha256": "172f025239122936cfef1bbcc1b21c8d17be7a8e933d02e54ed95f64b319e59c"
+    },
+    {
+      "shot_id": "SP2_036",
+      "status": "rendered",
+      "frames": 176,
+      "sha256": "462af668ca7127d86c7ddefc9b1c3f837d3b29fd6136cc2c5a76e8ec67726047"
+    },
+    {
+      "shot_id": "SP2_037",
+      "status": "rendered",
+      "frames": 153,
+      "sha256": "080f0d3fa39f76c6a187422f928c3d2114400c3718bcf33d3bc476ce5b0569b1"
+    },
+    {
+      "shot_id": "SP2_038",
+      "status": "rendered",
+      "frames": 161,
+      "sha256": "e0dc8e5b36839f4a278580226cf80304aa6b854f5d73ed63cb55fe3ccf07589f"
+    },
+    {
+      "shot_id": "SP2_039",
+      "status": "rendered",
+      "frames": 163,
+      "sha256": "71391e210755fc66bad988617feb556ddb76f254631d1eb139ed3c49e48354f1"
+    },
+    {
+      "shot_id": "SP2_041",
+      "status": "rendered",
+      "frames": 164,
+      "sha256": "2d1338fa2a499795341b45632f0678c7e1772cdb33abe8067c0e27e9db417a13"
+    },
+    {
+      "shot_id": "SP2_053",
+      "status": "rendered",
+      "frames": 148,
+      "sha256": "c8c38d537bc38c82c25a3512891683b8d6e2cf8870bf52435ec05ee96369075d"
+    },
+    {
+      "shot_id": "SP2_081",
+      "status": "rendered",
+      "frames": 107,
+      "sha256": "22f4fffb75c6ce68eb40f338d2a153a175f1850a2116c9f9a0ea106babb5dd70"
+    }
+  ]
+}

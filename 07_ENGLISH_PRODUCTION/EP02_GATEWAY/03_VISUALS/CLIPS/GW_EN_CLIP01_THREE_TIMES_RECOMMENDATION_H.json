@@ -1,0 +1,13 @@
+{
+  "asset": "GW_EN_CLIP01_THREE_TIMES_RECOMMENDATION_H.mp4",
+  "provider": "deterministic Python/Pillow + FFmpeg",
+  "duration": 10.5,
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "audio": false,
+  "visible_mode_badge": false,
+  "use": "three observer candidate + Recommendation H geometry"
+}

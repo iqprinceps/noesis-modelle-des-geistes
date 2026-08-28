@@ -1,0 +1,18 @@
+{
+  "episode_id": "EP02_EN",
+  "slug": "gateway_process",
+  "language": "en",
+  "status": "timeline_ready_editorial_rights_review_required_for_restricted_archive_portraits",
+  "canonical_script": "01_SCRIPT/VOICE_SCRIPT_EN.txt",
+  "editorial_map": "01_SCRIPT/EDITORIAL_MAP.md",
+  "visual_retention_plan": "03_VISUALS/VISUAL_RETENTION_PLAN.md",
+  "preproduction_visual_lock": "03_VISUALS/PREPRODUCTION_VISUAL_LOCK.md",
+  "viewer_label_policy": "mode_labels_internal_only; optional 1.5-2.0s contextual line at first reconstruction-block entry",
+  "motion_concept_candidates": 10,
+  "selected_motion_assets": 9,
+  "motion_quantity_rule": "no quota; merge or remove after selected-master alignment and cue-sheet audit",
+  "picture_lock": "linear_no_repeat_passed; 124 runs; asset_returns=0; exact_near_repeats=0; current_cross_episode_collisions=0",
+  "voice_candidate_rule": "two short identical-excerpt auditions; one full master plus targeted pickups",
+  "german_source_script": "../../PRODUCTION_SUMMARY/EP02_GATEWAY_V7/07_VOICE_SCRIPT_CLEAN_V7.txt",
+  "german_reference_master": "../../06_PRODUCTION/EP02_GATEWAY_V7/render/final/EP02_GATEWAY_V7_FINAL_1080p.mp4"
+}

@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 8,
+  "phrase": "coherent oscillator",
+  "match_count": 2,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    600.0,
+    612.0,
+    746.0
+  ],
+  "highlight_rects": [
+    [
+      381.6,
+      620.13,
+      429.77,
+      629.58
+    ],
+    [
+      436.09,
+      619.4,
+      490.46,
+      628.92
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 25,
+  "phrase": "none have ever succeeded",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    647.0,
+    612.0,
+    746.5
+  ],
+  "highlight_rects": [
+    [
+      342.94,
+      703.59,
+      366.71,
+      713.03
+    ],
+    [
+      372.97,
+      703.16,
+      397.56,
+      712.61
+    ],
+    [
+      403.67,
+      702.74,
+      427.49,
+      712.18
+    ],
+    [
+      433.93,
+      701.98,
+      482.24,
+      711.76
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

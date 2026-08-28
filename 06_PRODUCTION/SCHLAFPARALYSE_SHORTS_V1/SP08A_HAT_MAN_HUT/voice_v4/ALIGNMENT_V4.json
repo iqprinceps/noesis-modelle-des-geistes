@@ -1,0 +1,589 @@
+{
+  "job": "SP08A_HAT_MAN_HUT",
+  "purpose": "V4 forced alignment for beat-driven Shorts editing",
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "expected_words": 96,
+  "heard_words": 96,
+  "transcription": {
+    "words": [
+      {
+        "text": "Warum",
+        "start": 0.119,
+        "end": 0.379,
+        "type": "word"
+      },
+      {
+        "text": "trägt",
+        "start": 0.459,
+        "end": 0.699,
+        "type": "word"
+      },
+      {
+        "text": "der",
+        "start": 0.719,
+        "end": 0.819,
+        "type": "word"
+      },
+      {
+        "text": "Hat",
+        "start": 0.859,
+        "end": 1.019,
+        "type": "word"
+      },
+      {
+        "text": "Man",
+        "start": 1.039,
+        "end": 1.299,
+        "type": "word"
+      },
+      {
+        "text": "einen",
+        "start": 1.339,
+        "end": 1.5,
+        "type": "word"
+      },
+      {
+        "text": "Hut?",
+        "start": 1.599,
+        "end": 1.899,
+        "type": "word"
+      },
+      {
+        "text": "Ehrliche",
+        "start": 2.559,
+        "end": 2.859,
+        "type": "word"
+      },
+      {
+        "text": "Antwort:",
+        "start": 2.96,
+        "end": 3.339,
+        "type": "word"
+      },
+      {
+        "text": "Das",
+        "start": 3.659,
+        "end": 3.779,
+        "type": "word"
+      },
+      {
+        "text": "weiß",
+        "start": 3.839,
+        "end": 4.059,
+        "type": "word"
+      },
+      {
+        "text": "niemand.",
+        "start": 4.119,
+        "end": 4.519,
+        "type": "word"
+      },
+      {
+        "text": "Es",
+        "start": 5.159,
+        "end": 5.259,
+        "type": "word"
+      },
+      {
+        "text": "gibt",
+        "start": 5.319,
+        "end": 5.48,
+        "type": "word"
+      },
+      {
+        "text": "Forschung",
+        "start": 5.579,
+        "end": 5.98,
+        "type": "word"
+      },
+      {
+        "text": "zu",
+        "start": 6.039,
+        "end": 6.099,
+        "type": "word"
+      },
+      {
+        "text": "Schattenfiguren",
+        "start": 6.179,
+        "end": 6.94,
+        "type": "word"
+      },
+      {
+        "text": "und",
+        "start": 7.179,
+        "end": 7.279,
+        "type": "word"
+      },
+      {
+        "text": "zu",
+        "start": 7.299,
+        "end": 7.399,
+        "type": "word"
+      },
+      {
+        "text": "diesem",
+        "start": 7.44,
+        "end": 7.659,
+        "type": "word"
+      },
+      {
+        "text": "Gefühl,",
+        "start": 7.719,
+        "end": 8.059,
+        "type": "word"
+      },
+      {
+        "text": "beobachtet",
+        "start": 8.139,
+        "end": 8.74,
+        "type": "word"
+      },
+      {
+        "text": "zu",
+        "start": 8.8,
+        "end": 8.86,
+        "type": "word"
+      },
+      {
+        "text": "werden.",
+        "start": 8.939,
+        "end": 9.239,
+        "type": "word"
+      },
+      {
+        "text": "Zum",
+        "start": 9.859,
+        "end": 9.979,
+        "type": "word"
+      },
+      {
+        "text": "Hut",
+        "start": 10.059,
+        "end": 10.239,
+        "type": "word"
+      },
+      {
+        "text": "gibt",
+        "start": 10.279,
+        "end": 10.42,
+        "type": "word"
+      },
+      {
+        "text": "es",
+        "start": 10.479,
+        "end": 10.579,
+        "type": "word"
+      },
+      {
+        "text": "nichts.",
+        "start": 10.679,
+        "end": 11.039,
+        "type": "word"
+      },
+      {
+        "text": "Was",
+        "start": 11.759,
+        "end": 11.88,
+        "type": "word"
+      },
+      {
+        "text": "es",
+        "start": 11.939,
+        "end": 12.019,
+        "type": "word"
+      },
+      {
+        "text": "gibt,",
+        "start": 12.099,
+        "end": 12.3,
+        "type": "word"
+      },
+      {
+        "text": "ist",
+        "start": 12.439,
+        "end": 12.559,
+        "type": "word"
+      },
+      {
+        "text": "eine",
+        "start": 12.599,
+        "end": 12.759,
+        "type": "word"
+      },
+      {
+        "text": "plausible",
+        "start": 12.819,
+        "end": 13.259,
+        "type": "word"
+      },
+      {
+        "text": "Vermutung.",
+        "start": 13.359,
+        "end": 13.92,
+        "type": "word"
+      },
+      {
+        "text": "Im",
+        "start": 14.539,
+        "end": 14.599,
+        "type": "word"
+      },
+      {
+        "text": "Dunkeln",
+        "start": 14.699,
+        "end": 15.039,
+        "type": "word"
+      },
+      {
+        "text": "bekommt",
+        "start": 15.099,
+        "end": 15.399,
+        "type": "word"
+      },
+      {
+        "text": "dein",
+        "start": 15.439,
+        "end": 15.599,
+        "type": "word"
+      },
+      {
+        "text": "Gehirn",
+        "start": 15.639,
+        "end": 16.02,
+        "type": "word"
+      },
+      {
+        "text": "kaum",
+        "start": 16.1,
+        "end": 16.319,
+        "type": "word"
+      },
+      {
+        "text": "Information.",
+        "start": 16.379,
+        "end": 17.159,
+        "type": "word"
+      },
+      {
+        "text": "Es",
+        "start": 17.6,
+        "end": 17.699,
+        "type": "word"
+      },
+      {
+        "text": "braucht",
+        "start": 17.76,
+        "end": 18.02,
+        "type": "word"
+      },
+      {
+        "text": "eine",
+        "start": 18.059,
+        "end": 18.18,
+        "type": "word"
+      },
+      {
+        "text": "Kontur,",
+        "start": 18.279,
+        "end": 18.779,
+        "type": "word"
+      },
+      {
+        "text": "an",
+        "start": 18.92,
+        "end": 18.979,
+        "type": "word"
+      },
+      {
+        "text": "der",
+        "start": 19.02,
+        "end": 19.119,
+        "type": "word"
+      },
+      {
+        "text": "es",
+        "start": 19.159,
+        "end": 19.279,
+        "type": "word"
+      },
+      {
+        "text": "andocken",
+        "start": 19.34,
+        "end": 19.759,
+        "type": "word"
+      },
+      {
+        "text": "kann.",
+        "start": 19.84,
+        "end": 20.1,
+        "type": "word"
+      },
+      {
+        "text": "Und",
+        "start": 20.6,
+        "end": 20.68,
+        "type": "word"
+      },
+      {
+        "text": "eine",
+        "start": 20.739,
+        "end": 20.899,
+        "type": "word"
+      },
+      {
+        "text": "Krempe",
+        "start": 20.979,
+        "end": 21.279,
+        "type": "word"
+      },
+      {
+        "text": "macht",
+        "start": 21.34,
+        "end": 21.52,
+        "type": "word"
+      },
+      {
+        "text": "aus",
+        "start": 21.539,
+        "end": 21.659,
+        "type": "word"
+      },
+      {
+        "text": "einem",
+        "start": 21.699,
+        "end": 21.859,
+        "type": "word"
+      },
+      {
+        "text": "formlosen",
+        "start": 21.979,
+        "end": 22.439,
+        "type": "word"
+      },
+      {
+        "text": "Schatten",
+        "start": 22.539,
+        "end": 22.799,
+        "type": "word"
+      },
+      {
+        "text": "sofort",
+        "start": 22.859,
+        "end": 23.199,
+        "type": "word"
+      },
+      {
+        "text": "jemanden.",
+        "start": 23.239,
+        "end": 23.759,
+        "type": "word"
+      },
+      {
+        "text": "Einen",
+        "start": 24.199,
+        "end": 24.379,
+        "type": "word"
+      },
+      {
+        "text": "Erwachsenen.",
+        "start": 24.439,
+        "end": 25.079,
+        "type": "word"
+      },
+      {
+        "text": "Mit",
+        "start": 25.42,
+        "end": 25.519,
+        "type": "word"
+      },
+      {
+        "text": "Blickrichtung.",
+        "start": 25.599,
+        "end": 26.239,
+        "type": "word"
+      },
+      {
+        "text": "Mit",
+        "start": 26.879,
+        "end": 26.979,
+        "type": "word"
+      },
+      {
+        "text": "Absicht.",
+        "start": 27.059,
+        "end": 27.539,
+        "type": "word"
+      },
+      {
+        "text": "Und",
+        "start": 28.139,
+        "end": 28.26,
+        "type": "word"
+      },
+      {
+        "text": "dann",
+        "start": 28.319,
+        "end": 28.479,
+        "type": "word"
+      },
+      {
+        "text": "übernimmt",
+        "start": 28.539,
+        "end": 28.879,
+        "type": "word"
+      },
+      {
+        "text": "die",
+        "start": 28.92,
+        "end": 29.0,
+        "type": "word"
+      },
+      {
+        "text": "Kultur.",
+        "start": 29.059,
+        "end": 29.599,
+        "type": "word"
+      },
+      {
+        "text": "Bilder,",
+        "start": 30.239,
+        "end": 30.659,
+        "type": "word"
+      },
+      {
+        "text": "Podcasts,",
+        "start": 30.739,
+        "end": 31.479,
+        "type": "word"
+      },
+      {
+        "text": "Foren,",
+        "start": 31.559,
+        "end": 32.0,
+        "type": "word"
+      },
+      {
+        "text": "überall",
+        "start": 32.319,
+        "end": 32.659,
+        "type": "word"
+      },
+      {
+        "text": "dieselbe",
+        "start": 32.719,
+        "end": 33.079,
+        "type": "word"
+      },
+      {
+        "text": "Silhouette.",
+        "start": 33.18,
+        "end": 33.719,
+        "type": "word"
+      },
+      {
+        "text": "Vielleicht",
+        "start": 34.579,
+        "end": 34.9,
+        "type": "word"
+      },
+      {
+        "text": "ist",
+        "start": 34.939,
+        "end": 35.04,
+        "type": "word"
+      },
+      {
+        "text": "der",
+        "start": 35.079,
+        "end": 35.18,
+        "type": "word"
+      },
+      {
+        "text": "Hut",
+        "start": 35.239,
+        "end": 35.419,
+        "type": "word"
+      },
+      {
+        "text": "also",
+        "start": 35.5,
+        "end": 35.68,
+        "type": "word"
+      },
+      {
+        "text": "gar",
+        "start": 35.719,
+        "end": 35.84,
+        "type": "word"
+      },
+      {
+        "text": "keine",
+        "start": 35.899,
+        "end": 36.079,
+        "type": "word"
+      },
+      {
+        "text": "Botschaft.",
+        "start": 36.139,
+        "end": 36.68,
+        "type": "word"
+      },
+      {
+        "text": "Vielleicht",
+        "start": 37.219,
+        "end": 37.54,
+        "type": "word"
+      },
+      {
+        "text": "ist",
+        "start": 37.599,
+        "end": 37.68,
+        "type": "word"
+      },
+      {
+        "text": "er",
+        "start": 37.739,
+        "end": 37.819,
+        "type": "word"
+      },
+      {
+        "text": "nur",
+        "start": 37.86,
+        "end": 37.979,
+        "type": "word"
+      },
+      {
+        "text": "das,",
+        "start": 38.02,
+        "end": 38.339,
+        "type": "word"
+      },
+      {
+        "text": "woran",
+        "start": 38.379,
+        "end": 38.579,
+        "type": "word"
+      },
+      {
+        "text": "wir",
+        "start": 38.639,
+        "end": 38.72,
+        "type": "word"
+      },
+      {
+        "text": "ihn",
+        "start": 38.759,
+        "end": 38.879,
+        "type": "word"
+      },
+      {
+        "text": "wiedererkennen.",
+        "start": 38.919,
+        "end": 39.619,
+        "type": "word"
+      }
+    ],
+    "text": "Warum trägt der Hat Man einen Hut? Ehrliche Antwort: Das weiß niemand. Es gibt Forschung zu Schattenfiguren und zu diesem Gefühl, beobachtet zu werden. Zum Hut gibt es nichts. Was es gibt, ist eine plausible Vermutung. Im Dunkeln bekommt dein Gehirn kaum Information. Es braucht eine Kontur, an der es andocken kann. Und eine Krempe macht aus einem formlosen Schatten sofort jemanden. Einen Erwachsenen. Mit Blickrichtung. Mit Absicht. Und dann übernimmt die Kultur. Bilder, Podcasts, Foren, überall dieselbe Silhouette. Vielleicht ist der Hut also gar keine Botschaft. Vielleicht ist er nur das, woran wir ihn wiedererkennen."
+  }
+}

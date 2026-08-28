@@ -1,0 +1,134 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "94622709": {
+          "pageid": 94622709,
+          "ns": 6,
+          "title": "File:Walk near Fogo Island Inn (29992837636).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12742008,
+              "width": 6000,
+              "height": 4000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Walk_near_Fogo_Island_Inn_%2829992837636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Walk_near_Fogo_Island_Inn_(29992837636).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94622709",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-09-30 19:01:34",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Walk near Fogo Island Inn (29992837636)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Fogo Island|Coasts of Newfoundland and Labrador|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Canada photographs taken on 2016-06-10|June 2016 in Newfoundland and Labrador",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "49.729396",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-54.180815",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "walk near Fogo Island Inn",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-06-10 13:31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pauljill/29992837636/\">walk near Fogo Island Inn</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39136124@N00\">Paul Asman and Jill Lenoble</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_FOGO_INN_WALK",
+    "title": "File:Walk near Fogo Island Inn (29992837636).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Walk_near_Fogo_Island_Inn_(29992837636).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Walk_near_Fogo_Island_Inn_%2829992837636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39136124@N00\">Paul Asman and Jill Lenoble</a>",
+    "date": "2016-06-10 13:31",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_FOGO_INN_WALK.jpg",
+    "sha256": "c53c8b77b5f0f8665627b98947487e1d6357c6adcc2fb398a6b4444a8b7c6c4c",
+    "width": "6000",
+    "height": "4000",
+    "voice_beat": "The phrase carried folklore inside it.",
+    "picture_function": "Contemporary Fogo coast and material landscape",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

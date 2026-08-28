@@ -33,9 +33,9 @@ wenn genau dieser Nachweis nicht existiert.
 
 ---
 
-## Vier Evidenzstufen im Schnitt
+## Vier interne Evidenzstufen
 
-Diese vier Begriffe können als kleine wiederkehrende Einblendung dienen:
+Diese vier Begriffe steuern Recherche, Text und Cue-Sheet intern:
 
 - **BELEGT** — Primärquelle, Originaldokument, veröffentlichte Arbeit, Brief,
   Protokoll oder unmittelbar dokumentierter Vorgang.
@@ -45,12 +45,17 @@ Diese vier Begriffe können als kleine wiederkehrende Einblendung dienen:
 - **OFFEN** — Quellenlage unvollständig, Replikation ungeklärt oder Aussage nicht
   hinreichend verifiziert.
 
-Die Kennzeichnung darf klein sein. Sie soll den Erzählfluss nicht in eine
-Vorlesung verwandeln.
+Sie sind keine wiederkehrenden oder dauerhaften Einblendungen. Der Zuschauer
+erkennt den Wechsel möglichst durch Quelle, Formulierung, Montage und Bildsprache.
+Nur wenn eine heikle Einzelstelle sonst irreführend wäre, darf eine knappe
+sachliche Quellenzeile erscheinen.
 
 ---
 
-## Longform — grobe Anlage, 10 bis 16 Minuten
+## Longform — mögliche Anlage, keine Laufzeitvorgabe
+
+Die Tabelle zeigt einen denkbaren Spannungsverlauf. Laufzeit, Abschnittszahl und
+Zeitanteile entstehen für jede Folge neu aus Thema, Voice und Zuschauerwirkung.
 
 | Abschnitt | Länge | Was passiert |
 |---|---:|---|
@@ -157,13 +162,14 @@ Der Zuschauer muss sich selbst darin wiederfinden können.
 | **Originaldokumente / Bücher / Briefe** | ~25 % | Glaubwürdigkeitsanker. Datum, Aktennummer, Seitenausschnitt sichtbar machen. |
 | **Archivfotos / reale Orte / Personen** | ~20 % | Jung, Pauli, Labore, Institute, Forscher, historische Gebäude. |
 | **Generierte atmosphärische Szenen** | ~20 % | Das Unsichtbare visualisieren, ohne es als Beweis auszugeben. |
-| **Typografie / Zitate / Statusmarker** | ~5 % | BELEGT / BEHAUPTET / VERMUTET / OFFEN. |
+| **Typografie / Zitate** | nach Bedarf | Konkrete Aussage oder Quelle, keine dauerhaften Statusmarker. |
 
 ### Generierte Bilder
 
 Keine erfundenen „Archivbilder“ oder Fake-Dokumente erzeugen. Generierte Szenen
-müssen visuell als Rekonstruktion/Illustration funktionieren und bei realistischer
-Darstellung entsprechend den Plattformanforderungen gekennzeichnet werden.
+müssen visuell als Rekonstruktion/Illustration funktionieren. Notwendige
+Plattformoffenlegung erfolgt nach den jeweils aktuellen Vorgaben, aber nicht
+automatisch als dauerhaftes Produktionslabel im Bild.
 
 ---
 

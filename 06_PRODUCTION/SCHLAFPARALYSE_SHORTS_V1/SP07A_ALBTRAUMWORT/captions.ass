@@ -1,0 +1,54 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,62,&H00F5F2EB,&H00F5F2EB,&H00101014,&H8C000000,-1,0,0,0,100,100,0,0,1,5,2,2,105,210,420,1
+Style: Hook,Arial Black,58,&H00F5F2EB,&H00F5F2EB,&H00101014,&H98000000,-1,0,0,0,100,100,0,0,3,4,0,8,64,64,105,1
+Style: CTA,Segoe UI Semibold,42,&H00C7C28D,&H00C7C28D,&H00101014,&H9A000000,-1,0,0,0,100,100,0,0,1,4,1,8,80,210,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:01.75,Hook,,0,0,0,,ALBTRAUM WAR EIN WESEN
+Dialogue: 0,0:00:00.34,0:00:01.38,Caption,,0,0,0,,Das Wort Albtraum
+Dialogue: 0,0:00:01.44,0:00:02.70,Caption,,0,0,0,,meinte ursprünglich\Nkeinen
+Dialogue: 0,0:00:02.74,0:00:03.48,Caption,,0,0,0,,schlechten Traum.
+Dialogue: 0,0:00:04.18,0:00:04.88,Caption,,0,0,0,,Die alte Märe
+Dialogue: 0,0:00:04.96,0:00:05.76,Caption,,0,0,0,,war ein nächtliches
+Dialogue: 0,0:00:05.84,0:00:06.90,Caption,,0,0,0,,Wesen, das Menschen
+Dialogue: 0,0:00:06.98,0:00:07.54,Caption,,0,0,0,,bedrängte.
+Dialogue: 0,0:00:08.16,0:00:09.06,Caption,,0,0,0,,Der Schrecken bekam
+Dialogue: 0,0:00:09.14,0:00:09.86,Caption,,0,0,0,,also erst einen
+Dialogue: 0,0:00:09.96,0:00:11.04,Caption,,0,0,0,,Körper und wurde
+Dialogue: 0,0:00:11.08,0:00:11.92,Caption,,0,0,0,,erst viel später
+Dialogue: 0,0:00:12.04,0:00:13.44,Caption,,0,0,0,,zur allgemeinen\NBezeichnung
+Dialogue: 0,0:00:13.50,0:00:14.16,Caption,,0,0,0,,für einen schlimmen
+Dialogue: 0,0:00:14.26,0:00:14.60,Caption,,0,0,0,,Traum.
+Dialogue: 0,0:00:15.32,0:00:16.50,Caption,,0,0,0,,Verwandte Namen tauchen
+Dialogue: 0,0:00:16.54,0:00:17.60,Caption,,0,0,0,,quer durch germanische
+Dialogue: 0,0:00:17.68,0:00:18.40,Caption,,0,0,0,,Sprachen auf:
+Dialogue: 0,0:00:18.90,0:00:21.06,Caption,,0,0,0,,Mara, Mare, Mahr.
+Dialogue: 0,0:00:21.14,0:00:21.80,Caption,,0,0,0,,Gemeint war kein
+Dialogue: 0,0:00:21.92,0:00:22.96,Caption,,0,0,0,,Pferd, sondern ein
+Dialogue: 0,0:00:23.02,0:00:24.34,Caption,,0,0,0,,unsichtbarer Besucher im
+Dialogue: 0,0:00:24.42,0:00:25.58,Caption,,0,0,0,,eigenen Bett, auf
+Dialogue: 0,0:00:25.64,0:00:26.82,Caption,,0,0,0,,der Brust sitzend
+Dialogue: 0,0:00:26.88,0:00:27.70,Caption,,0,0,0,,und den Schlafenden
+Dialogue: 0,0:00:27.78,0:00:28.26,Caption,,0,0,0,,lähmend.
+Dialogue: 0,0:00:28.92,0:00:30.34,Caption,,0,0,0,,Heute bezeichnet\NNightmare
+Dialogue: 0,0:00:30.40,0:00:31.28,Caption,,0,0,0,,fast jeden schlimmen
+Dialogue: 0,0:00:31.36,0:00:31.70,Caption,,0,0,0,,Traum.
+Dialogue: 0,0:00:32.16,0:00:32.70,Caption,,0,0,0,,Doch im Wort
+Dialogue: 0,0:00:32.78,0:00:33.32,Caption,,0,0,0,,steckt noch die
+Dialogue: 0,0:00:33.40,0:00:34.26,Caption,,0,0,0,,ältere Szene:
+Dialogue: 0,0:00:34.76,0:00:36.30,Caption,,0,0,0,,Wachheit, Brustdruck und
+Dialogue: 0,0:00:36.36,0:00:37.96,Caption,,0,0,0,,ein nächtlicher\NVerursacher,
+Dialogue: 0,0:00:38.00,0:00:38.68,Caption,,0,0,0,,den die eigene
+Dialogue: 0,0:00:38.74,0:00:39.84,Caption,,0,0,0,,Kultur bereits lange
+Dialogue: 0,0:00:39.90,0:00:41.04,Caption,,0,0,0,,vor jeder medizinischen
+Dialogue: 0,0:00:41.10,0:00:42.30,Caption,,0,0,0,,Erklärung benannt hatte.
+Dialogue: 1,0:00:40.10,0:00:42.90,CTA,,0,0,0,,Mehr: Schlafparalyse EP07

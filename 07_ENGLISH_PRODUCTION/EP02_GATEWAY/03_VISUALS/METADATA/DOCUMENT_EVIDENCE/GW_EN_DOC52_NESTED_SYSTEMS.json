@@ -1,0 +1,114 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 13,
+  "phrase": "various intervening dimensions to which human consciousness in altered states of being may gain access",
+  "match_count": 15,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    408.5,
+    612.0,
+    587.5
+  ],
+  "highlight_rects": [
+    [
+      54.19,
+      528.56,
+      96.48,
+      539.23
+    ],
+    [
+      102.96,
+      525.43,
+      169.16,
+      537.13
+    ],
+    [
+      175.17,
+      522.59,
+      235.12,
+      534.02
+    ],
+    [
+      241.55,
+      521.74,
+      254.81,
+      531.16
+    ],
+    [
+      259.39,
+      520.2,
+      290.54,
+      530.4
+    ],
+    [
+      295.57,
+      518.65,
+      326.61,
+      528.84
+    ],
+    [
+      332.34,
+      515.05,
+      410.36,
+      527.26
+    ],
+    [
+      417.0,
+      514.18,
+      430.5,
+      523.61
+    ],
+    [
+      435.06,
+      512.15,
+      477.72,
+      522.83
+    ],
+    [
+      483.24,
+      510.37,
+      519.03,
+      520.76
+    ],
+    [
+      524.99,
+      509.55,
+      537.96,
+      518.96
+    ],
+    [
+      54.43,
+      541.49,
+      85.93,
+      551.47
+    ],
+    [
+      90.1,
+      540.47,
+      109.67,
+      549.93
+    ],
+    [
+      114.9,
+      539.13,
+      140.92,
+      548.86
+    ],
+    [
+      145.57,
+      537.61,
+      176.13,
+      547.54
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

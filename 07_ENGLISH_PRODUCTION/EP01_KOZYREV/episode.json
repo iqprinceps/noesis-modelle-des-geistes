@@ -1,0 +1,13 @@
+{
+  "episode_id": "EP01_EN",
+  "slug": "kozyrev_mirrors",
+  "language": "en",
+  "status": "preproduction_lock_complete_assets_and_voice_not_started",
+  "canonical_script": "01_SCRIPT/VOICE_SCRIPT_EN.txt",
+  "editorial_map": "01_SCRIPT/EDITORIAL_MAP.md",
+  "visual_retention_plan": "03_VISUALS/VISUAL_RETENTION_PLAN.md",
+  "preproduction_visual_lock": "03_VISUALS/PREPRODUCTION_VISUAL_LOCK.md",
+  "planned_motion_clips": 9,
+  "german_source_script": "../../PRODUCTION_SUMMARY/EP01_KOZYREV/VOICE_SCRIPT_CLEAN.txt",
+  "german_reference_master": "../../06_PRODUCTION/EP01_KOZYREV/render/final/EP01_KOZYREV_FINAL_1080p.mp4"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "PASS_MANUAL_VISUAL_REVIEW",
+  "playback_size": "480x270",
+  "asset_count": 11,
+  "sheets": [
+    "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\05_QA\\DOCUMENT_EVIDENCE\\MOBILE\\MOBILE_DOCUMENT_PROOF_01.png",
+    "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\05_QA\\DOCUMENT_EVIDENCE\\MOBILE\\MOBILE_DOCUMENT_PROOF_02.png",
+    "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\05_QA\\DOCUMENT_EVIDENCE\\MOBILE\\MOBILE_DOCUMENT_PROOF_03.png"
+  ],
+  "policy": "Document shots remain static; no pan or zoom permitted.",
+  "reviewed_assets": [
+    "KZ_DOC_002",
+    "KZ_DOC_005",
+    "KZ_DOC_009",
+    "KZ_DOC_013",
+    "KZ_DOC_014",
+    "KZ_DOC_016",
+    "KZ_DOC_019B",
+    "KZ_DOC_019C",
+    "KZ_DOC_019D",
+    "KZ_DOC_021",
+    "KZ_DOC_025"
+  ],
+  "review_note": "All accepted crops were visually inspected at native 480x270 playback size. Exact highlighted phrases remain readable; full relevant source lines or abstract blocks remain visible; no sentence edge is clipped."
+}

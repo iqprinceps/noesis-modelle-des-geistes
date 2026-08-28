@@ -3,11 +3,11 @@
     "EP06": {
       "passed": true,
       "failures": [],
-      "core_stills": 40,
+      "core_stills": 70,
       "core_resolution": "2560x1440",
       "duplicate_groups": [],
-      "cards": 7,
-      "main_clips": 4,
+      "cards": 14,
+      "main_clips": 7,
       "reserve_clips": 4,
       "clip_details": {
         "CLIP001_SOUL_BODY_OFFSET.mp4": {
@@ -37,6 +37,27 @@
           "fps": "24/1",
           "duration": 6.0,
           "has_audio": false
+        },
+        "CLIP005_MOTOR_FREEZE.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP007_INTERRUPTION_CYCLE.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
+        },
+        "CLIP008_SIX_EPISODES_SIGNAL.mp4": {
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "duration": 6.0,
+          "has_audio": false
         }
       },
       "queue_entries": 40,
@@ -46,7 +67,7 @@
     "EP07": {
       "passed": true,
       "failures": [],
-      "core_stills": 24,
+      "core_stills": 62,
       "core_resolution": "2752x1536",
       "duplicate_groups": [],
       "cards": 7,
@@ -89,7 +110,7 @@
     "EP08": {
       "passed": true,
       "failures": [],
-      "core_stills": 40,
+      "core_stills": 42,
       "core_resolution": "2560x1440",
       "duplicate_groups": [],
       "cards": 8,

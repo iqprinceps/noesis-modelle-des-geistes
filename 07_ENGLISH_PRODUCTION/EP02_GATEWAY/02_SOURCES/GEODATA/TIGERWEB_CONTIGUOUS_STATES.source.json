@@ -1,0 +1,6 @@
+{
+  "source": "U.S. Census Bureau TIGERweb State and County service",
+  "endpoint": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/0/query?where=STATE+NOT+IN+%28%2702%27%2C%2715%27%2C%2760%27%2C%2766%27%2C%2769%27%2C%2772%27%2C%2778%27%29&outFields=STATE%2CSTUSAB%2CNAME&returnGeometry=true&geometryPrecision=2&outSR=4326&f=geojson",
+  "retrieved": "2026-08-26",
+  "rights": "U.S. federal government data; public domain in the United States"
+}

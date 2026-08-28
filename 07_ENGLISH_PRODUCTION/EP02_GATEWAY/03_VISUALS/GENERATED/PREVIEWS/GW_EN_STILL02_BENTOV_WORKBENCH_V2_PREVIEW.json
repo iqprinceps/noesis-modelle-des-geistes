@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_STILL02_BENTOV_WORKBENCH_V2",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Late-1970s inventor's mechanical workbench. Tight over-the-shoulder view from directly behind: only the back of a middle-aged man's head, shoulders, and two natural hands are visible, no face, profile, reflection, or identity detail. He safely adjusts a pendulum-and-spring apparatus beside analog measuring instruments. Bentov's authentic portrait is shown separately at introduction. Worn wood and brass; all papers blank with zero letters or numbers; practical task lighting; one coherent action.",
+  "prompt_sha256": "90518789da44b67cb5d875d75a3181b31f5de3c346715f029f197223641d9648",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_STILL02_BENTOV_WORKBENCH_V2_PREVIEW.png",
+  "output_sha256": "0d8cc8d8f67dcae6d43bdd856c0680bd67424830669e7b61992ba48904b62078",
+  "seconds": 9.217,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

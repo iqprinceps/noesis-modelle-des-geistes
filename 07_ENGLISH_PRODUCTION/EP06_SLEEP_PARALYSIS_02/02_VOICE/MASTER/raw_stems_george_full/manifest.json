@@ -1,0 +1,23 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\34f1\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP06_SLEEP_PARALYSIS_02\\02_VOICE\\MASTER\\raw_stems_george_full\\EP06_EN_GEORGE_FULL.mp3",
+    "sha256": "ecfa18a473ee29167218b6493b5c22a4af6bacdaca235de82fad8eda9a62f54f",
+    "bytes": 6608814,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "8AaHdOqvW3l3D1CLrP6n",
+    "text_sha256": "82697fa869b52b3ebdb7fcdf6562bcf2be193c51ed9e7fb7e3d0a020b62a6545",
+    "characters": 6382,
+    "stem_id": "EP06_EN_GEORGE_FULL"
+  }
+]

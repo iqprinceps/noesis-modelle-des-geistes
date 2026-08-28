@@ -1,0 +1,1287 @@
+{
+  "job": "SP06A_ATEM",
+  "purpose": "independent speech-to-text content and transition QA",
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model": "scribe_v2",
+  "expected_words": 92,
+  "heard_words": 92,
+  "sequence_similarity": 1.0,
+  "issues": [],
+  "transcription": {
+    "language_code": "deu",
+    "language_probability": 1.0,
+    "text": "Du erstickst bei typischer Schlafparalyse nicht, obwohl dein Brustkorb bei vollem Bewusstsein Alarm schreit. Die Lähmung betrifft willkürliche Muskeln, während dein Zwerchfell weiterarbeitet. Genau dieser Widerspruch macht das Gefühl so überzeugend. Im REM-Schlaf verlieren besonders Haltungs- und Hilfsmuskeln spürbar ihren Tonus. Das Zwerchfell bleibt vergleichsweise aktiv. Doch flachere Brustbewegung plus Panik kann aus normaler Atmung subjektiv eine täuschend schwere Last machen. Darum hilft Wissen mehr als Kraft. Langsam ausatmen, den Blick ruhig auf einen kleinen Muskel richten und die Episode abklingen lassen. Häufige Anfälle oder starke Tagesmüdigkeit gehören trotzdem ärztlich abgeklärt.",
+    "words": [
+      {
+        "text": "Du",
+        "start": 0.119,
+        "end": 0.179,
+        "type": "word",
+        "logprob": -1.6927575416048057e-05
+      },
+      {
+        "text": " ",
+        "start": 0.179,
+        "end": 0.219,
+        "type": "spacing",
+        "logprob": -0.002763621276244521
+      },
+      {
+        "text": "erstickst",
+        "start": 0.219,
+        "end": 0.699,
+        "type": "word",
+        "logprob": -0.001201728228908097
+      },
+      {
+        "text": " ",
+        "start": 0.699,
+        "end": 0.74,
+        "type": "spacing",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": "bei",
+        "start": 0.74,
+        "end": 0.899,
+        "type": "word",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": " ",
+        "start": 0.899,
+        "end": 0.939,
+        "type": "spacing",
+        "logprob": -8.106198947643861e-06
+      },
+      {
+        "text": "typischer",
+        "start": 0.939,
+        "end": 1.319,
+        "type": "word",
+        "logprob": -3.4173216742298487e-06
+      },
+      {
+        "text": " ",
+        "start": 1.319,
+        "end": 1.399,
+        "type": "spacing",
+        "logprob": -4.207999518257566e-05
+      },
+      {
+        "text": "Schlafparalyse",
+        "start": 1.399,
+        "end": 2.22,
+        "type": "word",
+        "logprob": -0.00019441010226728395
+      },
+      {
+        "text": " ",
+        "start": 2.22,
+        "end": 2.259,
+        "type": "spacing",
+        "logprob": -2.145764938177308e-06
+      },
+      {
+        "text": "nicht,",
+        "start": 2.259,
+        "end": 2.5,
+        "type": "word",
+        "logprob": -2.0662922300592377e-06
+      },
+      {
+        "text": " ",
+        "start": 2.5,
+        "end": 2.819,
+        "type": "spacing",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": "obwohl",
+        "start": 2.819,
+        "end": 3.059,
+        "type": "word",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": " ",
+        "start": 3.059,
+        "end": 3.099,
+        "type": "spacing",
+        "logprob": -3.6954811548639555e-06
+      },
+      {
+        "text": "dein",
+        "start": 3.099,
+        "end": 3.259,
+        "type": "word",
+        "logprob": -3.6954811548639555e-06
+      },
+      {
+        "text": " ",
+        "start": 3.259,
+        "end": 3.319,
+        "type": "spacing",
+        "logprob": -1.966933996300213e-05
+      },
+      {
+        "text": "Brustkorb",
+        "start": 3.319,
+        "end": 3.839,
+        "type": "word",
+        "logprob": -1.676861534684172e-05
+      },
+      {
+        "text": " ",
+        "start": 3.839,
+        "end": 3.879,
+        "type": "spacing",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": "bei",
+        "start": 3.879,
+        "end": 4.039,
+        "type": "word",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": " ",
+        "start": 4.039,
+        "end": 4.099,
+        "type": "spacing",
+        "logprob": -0.00018714107864070684
+      },
+      {
+        "text": "vollem",
+        "start": 4.099,
+        "end": 4.339,
+        "type": "word",
+        "logprob": -0.000133623256260762
+      },
+      {
+        "text": " ",
+        "start": 4.339,
+        "end": 4.379,
+        "type": "spacing",
+        "logprob": -2.90866428258596e-05
+      },
+      {
+        "text": "Bewusstsein",
+        "start": 4.38,
+        "end": 4.92,
+        "type": "word",
+        "logprob": -1.0186856591396712e-05
+      },
+      {
+        "text": " ",
+        "start": 4.92,
+        "end": 5.039,
+        "type": "spacing",
+        "logprob": -0.0007714632665738463
+      },
+      {
+        "text": "Alarm",
+        "start": 5.039,
+        "end": 5.279,
+        "type": "word",
+        "logprob": -0.0007714632665738463
+      },
+      {
+        "text": " ",
+        "start": 5.279,
+        "end": 5.359,
+        "type": "spacing",
+        "logprob": -0.03043845295906067
+      },
+      {
+        "text": "schreit.",
+        "start": 5.359,
+        "end": 5.719,
+        "type": "word",
+        "logprob": -0.019024301320197168
+      },
+      {
+        "text": " ",
+        "start": 5.719,
+        "end": 6.46,
+        "type": "spacing",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": "Die",
+        "start": 6.46,
+        "end": 6.519,
+        "type": "word",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": " ",
+        "start": 6.519,
+        "end": 6.619,
+        "type": "spacing",
+        "logprob": -0.00019298121333122253
+      },
+      {
+        "text": "Lähmung",
+        "start": 6.619,
+        "end": 6.92,
+        "type": "word",
+        "logprob": -5.5512147030510407e-05
+      },
+      {
+        "text": " ",
+        "start": 6.92,
+        "end": 6.98,
+        "type": "spacing",
+        "logprob": -1.3112935448589269e-05
+      },
+      {
+        "text": "betrifft",
+        "start": 6.98,
+        "end": 7.379,
+        "type": "word",
+        "logprob": -3.1440853831554705e-05
+      },
+      {
+        "text": " ",
+        "start": 7.379,
+        "end": 7.459,
+        "type": "spacing",
+        "logprob": -5.8412379075889476e-06
+      },
+      {
+        "text": "willkürliche",
+        "start": 7.46,
+        "end": 8.039,
+        "type": "word",
+        "logprob": -2.834041939732875e-05
+      },
+      {
+        "text": " ",
+        "start": 8.039,
+        "end": 8.139,
+        "type": "spacing",
+        "logprob": -9.059865078597795e-06
+      },
+      {
+        "text": "Muskeln,",
+        "start": 8.139,
+        "end": 8.539,
+        "type": "word",
+        "logprob": -7.06311942622051e-06
+      },
+      {
+        "text": " ",
+        "start": 8.539,
+        "end": 8.88,
+        "type": "spacing",
+        "logprob": -1.0371154530730564e-05
+      },
+      {
+        "text": "während",
+        "start": 8.88,
+        "end": 9.099,
+        "type": "word",
+        "logprob": -1.0371154530730564e-05
+      },
+      {
+        "text": " ",
+        "start": 9.099,
+        "end": 9.159,
+        "type": "spacing",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": "dein",
+        "start": 9.159,
+        "end": 9.3,
+        "type": "word",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": " ",
+        "start": 9.3,
+        "end": 9.399,
+        "type": "spacing",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "Zwerchfell",
+        "start": 9.399,
+        "end": 9.92,
+        "type": "word",
+        "logprob": -4.8348429618272346e-05
+      },
+      {
+        "text": " ",
+        "start": 9.92,
+        "end": 9.979,
+        "type": "spacing",
+        "logprob": -1.0132738680113107e-05
+      },
+      {
+        "text": "weiterarbeitet.",
+        "start": 9.979,
+        "end": 10.8,
+        "type": "word",
+        "logprob": -0.0006031326124987875
+      },
+      {
+        "text": " ",
+        "start": 10.8,
+        "end": 11.519,
+        "type": "spacing",
+        "logprob": -1.7881377516459906e-06
+      },
+      {
+        "text": "Genau",
+        "start": 11.519,
+        "end": 11.739,
+        "type": "word",
+        "logprob": -1.7881377516459906e-06
+      },
+      {
+        "text": " ",
+        "start": 11.739,
+        "end": 11.819,
+        "type": "spacing",
+        "logprob": -5.364403477869928e-06
+      },
+      {
+        "text": "dieser",
+        "start": 11.819,
+        "end": 12.02,
+        "type": "word",
+        "logprob": -5.364403477869928e-06
+      },
+      {
+        "text": " ",
+        "start": 12.02,
+        "end": 12.079,
+        "type": "spacing",
+        "logprob": -8.725739462533966e-05
+      },
+      {
+        "text": "Widerspruch",
+        "start": 12.079,
+        "end": 12.659,
+        "type": "word",
+        "logprob": -4.824517454628883e-05
+      },
+      {
+        "text": " ",
+        "start": 12.659,
+        "end": 12.719,
+        "type": "spacing",
+        "logprob": -3.3378546504536644e-06
+      },
+      {
+        "text": "macht",
+        "start": 12.719,
+        "end": 12.88,
+        "type": "word",
+        "logprob": -3.3378546504536644e-06
+      },
+      {
+        "text": " ",
+        "start": 12.88,
+        "end": 12.92,
+        "type": "spacing",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": "das",
+        "start": 12.92,
+        "end": 13.039,
+        "type": "word",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": " ",
+        "start": 13.039,
+        "end": 13.099,
+        "type": "spacing",
+        "logprob": -0.0007103541865944862
+      },
+      {
+        "text": "Gefühl",
+        "start": 13.099,
+        "end": 13.42,
+        "type": "word",
+        "logprob": -0.0007103541865944862
+      },
+      {
+        "text": " ",
+        "start": 13.42,
+        "end": 13.519,
+        "type": "spacing",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": "so",
+        "start": 13.519,
+        "end": 13.599,
+        "type": "word",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": " ",
+        "start": 13.599,
+        "end": 13.659,
+        "type": "spacing",
+        "logprob": -5.960446742392378e-06
+      },
+      {
+        "text": "überzeugend.",
+        "start": 13.659,
+        "end": 14.299,
+        "type": "word",
+        "logprob": -3.1589141296232505e-05
+      },
+      {
+        "text": " ",
+        "start": 14.299,
+        "end": 15.019,
+        "type": "spacing",
+        "logprob": -2.3841830625315197e-06
+      },
+      {
+        "text": "Im",
+        "start": 15.019,
+        "end": 15.099,
+        "type": "word",
+        "logprob": -2.3841830625315197e-06
+      },
+      {
+        "text": " ",
+        "start": 15.099,
+        "end": 15.159,
+        "type": "spacing",
+        "logprob": -0.00014780859055463225
+      },
+      {
+        "text": "REM-Schlaf",
+        "start": 15.159,
+        "end": 15.839,
+        "type": "word",
+        "logprob": -0.00017510277024257448
+      },
+      {
+        "text": " ",
+        "start": 15.839,
+        "end": 15.939,
+        "type": "spacing",
+        "logprob": -8.821448318485636e-06
+      },
+      {
+        "text": "verlieren",
+        "start": 15.939,
+        "end": 16.26,
+        "type": "word",
+        "logprob": -8.821448318485636e-06
+      },
+      {
+        "text": " ",
+        "start": 16.26,
+        "end": 16.319,
+        "type": "spacing",
+        "logprob": -8.821448318485636e-06
+      },
+      {
+        "text": "besonders",
+        "start": 16.319,
+        "end": 16.759,
+        "type": "word",
+        "logprob": -8.821448318485636e-06
+      },
+      {
+        "text": " ",
+        "start": 16.759,
+        "end": 16.819,
+        "type": "spacing",
+        "logprob": -0.0009257083875127137
+      },
+      {
+        "text": "Haltungs-",
+        "start": 16.819,
+        "end": 17.199,
+        "type": "word",
+        "logprob": -0.0010277018299120755
+      },
+      {
+        "text": " ",
+        "start": 17.199,
+        "end": 17.26,
+        "type": "spacing",
+        "logprob": -6.9141146923357155e-06
+      },
+      {
+        "text": "und",
+        "start": 17.26,
+        "end": 17.36,
+        "type": "word",
+        "logprob": -6.9141146923357155e-06
+      },
+      {
+        "text": " ",
+        "start": 17.36,
+        "end": 17.44,
+        "type": "spacing",
+        "logprob": -0.00032050241134129465
+      },
+      {
+        "text": "Hilfsmuskeln",
+        "start": 17.44,
+        "end": 18.139,
+        "type": "word",
+        "logprob": -0.0005818806158591391
+      },
+      {
+        "text": " ",
+        "start": 18.139,
+        "end": 18.199,
+        "type": "spacing",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": "spürbar",
+        "start": 18.199,
+        "end": 18.6,
+        "type": "word",
+        "logprob": -3.586274186367129e-05
+      },
+      {
+        "text": " ",
+        "start": 18.6,
+        "end": 18.659,
+        "type": "spacing",
+        "logprob": -3.6954195820726454e-05
+      },
+      {
+        "text": "ihren",
+        "start": 18.659,
+        "end": 18.84,
+        "type": "word",
+        "logprob": -3.6954195820726454e-05
+      },
+      {
+        "text": " ",
+        "start": 18.84,
+        "end": 18.939,
+        "type": "spacing",
+        "logprob": -4.9828242481453344e-05
+      },
+      {
+        "text": "Tonus.",
+        "start": 18.939,
+        "end": 19.379,
+        "type": "word",
+        "logprob": -2.499359409095329e-05
+      },
+      {
+        "text": " ",
+        "start": 19.379,
+        "end": 20.0,
+        "type": "spacing",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": "Das",
+        "start": 20.0,
+        "end": 20.12,
+        "type": "word",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": " ",
+        "start": 20.12,
+        "end": 20.199,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "Zwerchfell",
+        "start": 20.199,
+        "end": 20.719,
+        "type": "word",
+        "logprob": -3.16607675273417e-05
+      },
+      {
+        "text": " ",
+        "start": 20.719,
+        "end": 20.76,
+        "type": "spacing",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": "bleibt",
+        "start": 20.76,
+        "end": 21.0,
+        "type": "word",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": " ",
+        "start": 21.0,
+        "end": 21.059,
+        "type": "spacing",
+        "logprob": -1.5258672647178173e-05
+      },
+      {
+        "text": "vergleichsweise",
+        "start": 21.059,
+        "end": 21.68,
+        "type": "word",
+        "logprob": -1.2739411310273378e-05
+      },
+      {
+        "text": " ",
+        "start": 21.68,
+        "end": 21.76,
+        "type": "spacing",
+        "logprob": -7.1403817855753e-05
+      },
+      {
+        "text": "aktiv.",
+        "start": 21.76,
+        "end": 22.219,
+        "type": "word",
+        "logprob": -6.808602969006945e-05
+      },
+      {
+        "text": " ",
+        "start": 22.219,
+        "end": 22.799,
+        "type": "spacing",
+        "logprob": -2.682172998902388e-05
+      },
+      {
+        "text": "Doch",
+        "start": 22.799,
+        "end": 22.92,
+        "type": "word",
+        "logprob": -2.682172998902388e-05
+      },
+      {
+        "text": " ",
+        "start": 22.92,
+        "end": 23.019,
+        "type": "spacing",
+        "logprob": -0.001293775625526905
+      },
+      {
+        "text": "flachere",
+        "start": 23.019,
+        "end": 23.399,
+        "type": "word",
+        "logprob": -0.0007242652930870008
+      },
+      {
+        "text": " ",
+        "start": 23.399,
+        "end": 23.5,
+        "type": "spacing",
+        "logprob": -4.017272294731811e-05
+      },
+      {
+        "text": "Brustbewegung",
+        "start": 23.5,
+        "end": 24.299,
+        "type": "word",
+        "logprob": -0.004762385876137369
+      },
+      {
+        "text": " ",
+        "start": 24.299,
+        "end": 24.359,
+        "type": "spacing",
+        "logprob": -8.34461570775602e-06
+      },
+      {
+        "text": "plus",
+        "start": 24.359,
+        "end": 24.519,
+        "type": "word",
+        "logprob": -8.34461570775602e-06
+      },
+      {
+        "text": " ",
+        "start": 24.519,
+        "end": 24.639,
+        "type": "spacing",
+        "logprob": -1.5497195136049413e-06
+      },
+      {
+        "text": "Panik",
+        "start": 24.639,
+        "end": 25.219,
+        "type": "word",
+        "logprob": -9.298317081629648e-07
+      },
+      {
+        "text": " ",
+        "start": 25.219,
+        "end": 25.279,
+        "type": "spacing",
+        "logprob": -7.152531907195225e-06
+      },
+      {
+        "text": "kann",
+        "start": 25.279,
+        "end": 25.399,
+        "type": "word",
+        "logprob": -7.152531907195225e-06
+      },
+      {
+        "text": " ",
+        "start": 25.399,
+        "end": 25.439,
+        "type": "spacing",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": "aus",
+        "start": 25.439,
+        "end": 25.559,
+        "type": "word",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": " ",
+        "start": 25.559,
+        "end": 25.619,
+        "type": "spacing",
+        "logprob": -0.00012420836719684303
+      },
+      {
+        "text": "normaler",
+        "start": 25.619,
+        "end": 26.019,
+        "type": "word",
+        "logprob": -9.315627539763227e-05
+      },
+      {
+        "text": " ",
+        "start": 26.019,
+        "end": 26.119,
+        "type": "spacing",
+        "logprob": -0.000188332938705571
+      },
+      {
+        "text": "Atmung",
+        "start": 26.119,
+        "end": 26.479,
+        "type": "word",
+        "logprob": -9.41664693527855e-05
+      },
+      {
+        "text": " ",
+        "start": 26.479,
+        "end": 26.559,
+        "type": "spacing",
+        "logprob": -1.597391747054644e-05
+      },
+      {
+        "text": "subjektiv",
+        "start": 26.559,
+        "end": 27.159,
+        "type": "word",
+        "logprob": -1.2450648984301753e-05
+      },
+      {
+        "text": " ",
+        "start": 27.159,
+        "end": 27.219,
+        "type": "spacing",
+        "logprob": -7.867782187531702e-06
+      },
+      {
+        "text": "eine",
+        "start": 27.219,
+        "end": 27.399,
+        "type": "word",
+        "logprob": -7.867782187531702e-06
+      },
+      {
+        "text": " ",
+        "start": 27.399,
+        "end": 27.459,
+        "type": "spacing",
+        "logprob": -0.00018380382971372455
+      },
+      {
+        "text": "täuschend",
+        "start": 27.459,
+        "end": 27.819,
+        "type": "word",
+        "logprob": -0.00010391720691889834
+      },
+      {
+        "text": " ",
+        "start": 27.819,
+        "end": 27.859,
+        "type": "spacing",
+        "logprob": -5.006777428206988e-06
+      },
+      {
+        "text": "schwere",
+        "start": 27.859,
+        "end": 28.119,
+        "type": "word",
+        "logprob": -4.393703940357747e-06
+      },
+      {
+        "text": " ",
+        "start": 28.119,
+        "end": 28.179,
+        "type": "spacing",
+        "logprob": -2.264974000354414e-06
+      },
+      {
+        "text": "Last",
+        "start": 28.18,
+        "end": 28.42,
+        "type": "word",
+        "logprob": -2.264974000354414e-06
+      },
+      {
+        "text": " ",
+        "start": 28.42,
+        "end": 28.479,
+        "type": "spacing",
+        "logprob": -3.2186455882765586e-06
+      },
+      {
+        "text": "machen.",
+        "start": 28.479,
+        "end": 28.779,
+        "type": "word",
+        "logprob": -2.7588390756656215e-06
+      },
+      {
+        "text": " ",
+        "start": 28.779,
+        "end": 29.579,
+        "type": "spacing",
+        "logprob": -2.0146166207268834e-05
+      },
+      {
+        "text": "Darum",
+        "start": 29.579,
+        "end": 29.859,
+        "type": "word",
+        "logprob": -1.2183067144633242e-05
+      },
+      {
+        "text": " ",
+        "start": 29.859,
+        "end": 29.919,
+        "type": "spacing",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": "hilft",
+        "start": 29.92,
+        "end": 30.139,
+        "type": "word",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": " ",
+        "start": 30.139,
+        "end": 30.199,
+        "type": "spacing",
+        "logprob": -8.535020606359467e-05
+      },
+      {
+        "text": "Wissen",
+        "start": 30.199,
+        "end": 30.499,
+        "type": "word",
+        "logprob": -8.535020606359467e-05
+      },
+      {
+        "text": " ",
+        "start": 30.499,
+        "end": 30.539,
+        "type": "spacing",
+        "logprob": -0.18803612887859344
+      },
+      {
+        "text": "mehr",
+        "start": 30.539,
+        "end": 30.699,
+        "type": "word",
+        "logprob": -0.18803612887859344
+      },
+      {
+        "text": " ",
+        "start": 30.699,
+        "end": 30.759,
+        "type": "spacing",
+        "logprob": -7.152555099310121e-07
+      },
+      {
+        "text": "als",
+        "start": 30.76,
+        "end": 30.919,
+        "type": "word",
+        "logprob": -7.152555099310121e-07
+      },
+      {
+        "text": " ",
+        "start": 30.919,
+        "end": 30.979,
+        "type": "spacing",
+        "logprob": -5.3165931603871286e-05
+      },
+      {
+        "text": "Kraft.",
+        "start": 30.979,
+        "end": 31.319,
+        "type": "word",
+        "logprob": -4.7086469749046955e-05
+      },
+      {
+        "text": " ",
+        "start": 31.319,
+        "end": 31.939,
+        "type": "spacing",
+        "logprob": -0.00014995403762441128
+      },
+      {
+        "text": "Langsam",
+        "start": 31.939,
+        "end": 32.279,
+        "type": "word",
+        "logprob": -8.757833614124268e-05
+      },
+      {
+        "text": " ",
+        "start": 32.279,
+        "end": 32.36,
+        "type": "spacing",
+        "logprob": -0.00018749863374978304
+      },
+      {
+        "text": "ausatmen,",
+        "start": 32.36,
+        "end": 32.979,
+        "type": "word",
+        "logprob": -6.338699009155057e-05
+      },
+      {
+        "text": " ",
+        "start": 32.979,
+        "end": 33.239,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "den",
+        "start": 33.239,
+        "end": 33.34,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 33.34,
+        "end": 33.399,
+        "type": "spacing",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": "Blick",
+        "start": 33.399,
+        "end": 33.599,
+        "type": "word",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": " ",
+        "start": 33.599,
+        "end": 33.68,
+        "type": "spacing",
+        "logprob": -3.4570634852570947e-06
+      },
+      {
+        "text": "ruhig",
+        "start": 33.68,
+        "end": 33.939,
+        "type": "word",
+        "logprob": -3.4570634852570947e-06
+      },
+      {
+        "text": " ",
+        "start": 33.939,
+        "end": 33.979,
+        "type": "spacing",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "auf",
+        "start": 33.979,
+        "end": 34.079,
+        "type": "word",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": " ",
+        "start": 34.079,
+        "end": 34.119,
+        "type": "spacing",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": "einen",
+        "start": 34.119,
+        "end": 34.319,
+        "type": "word",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": " ",
+        "start": 34.319,
+        "end": 34.38,
+        "type": "spacing",
+        "logprob": -1.9192511899746023e-05
+      },
+      {
+        "text": "kleinen",
+        "start": 34.38,
+        "end": 34.68,
+        "type": "word",
+        "logprob": -1.9192511899746023e-05
+      },
+      {
+        "text": " ",
+        "start": 34.68,
+        "end": 34.779,
+        "type": "spacing",
+        "logprob": -3.814689989667386e-06
+      },
+      {
+        "text": "Muskel",
+        "start": 34.779,
+        "end": 35.099,
+        "type": "word",
+        "logprob": -3.814689989667386e-06
+      },
+      {
+        "text": " ",
+        "start": 35.099,
+        "end": 35.159,
+        "type": "spacing",
+        "logprob": -5.4834770708112046e-05
+      },
+      {
+        "text": "richten",
+        "start": 35.159,
+        "end": 35.819,
+        "type": "word",
+        "logprob": -5.4834770708112046e-05
+      },
+      {
+        "text": " ",
+        "start": 35.819,
+        "end": 35.88,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "und",
+        "start": 35.88,
+        "end": 35.979,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 35.979,
+        "end": 36.02,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "die",
+        "start": 36.02,
+        "end": 36.099,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 36.099,
+        "end": 36.159,
+        "type": "spacing",
+        "logprob": -5.8053239627042785e-05
+      },
+      {
+        "text": "Episode",
+        "start": 36.159,
+        "end": 36.659,
+        "type": "word",
+        "logprob": -5.8053239627042785e-05
+      },
+      {
+        "text": " ",
+        "start": 36.659,
+        "end": 36.719,
+        "type": "spacing",
+        "logprob": -0.001566017628647387
+      },
+      {
+        "text": "abklingen",
+        "start": 36.719,
+        "end": 37.159,
+        "type": "word",
+        "logprob": -0.0004500922706130142
+      },
+      {
+        "text": " ",
+        "start": 37.159,
+        "end": 37.2,
+        "type": "spacing",
+        "logprob": -6.6756979322235566e-06
+      },
+      {
+        "text": "lassen.",
+        "start": 37.2,
+        "end": 37.559,
+        "type": "word",
+        "logprob": -5.722026799048763e-06
+      },
+      {
+        "text": " ",
+        "start": 37.559,
+        "end": 38.279,
+        "type": "spacing",
+        "logprob": -2.861018856492592e-06
+      },
+      {
+        "text": "Häufige",
+        "start": 38.279,
+        "end": 38.7,
+        "type": "word",
+        "logprob": -5.975487342015283e-05
+      },
+      {
+        "text": " ",
+        "start": 38.7,
+        "end": 38.779,
+        "type": "spacing",
+        "logprob": -9.7508447652217e-05
+      },
+      {
+        "text": "Anfälle",
+        "start": 38.779,
+        "end": 39.239,
+        "type": "word",
+        "logprob": -2.8285303812936036e-05
+      },
+      {
+        "text": " ",
+        "start": 39.239,
+        "end": 39.299,
+        "type": "spacing",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": "oder",
+        "start": 39.299,
+        "end": 39.479,
+        "type": "word",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": " ",
+        "start": 39.479,
+        "end": 39.559,
+        "type": "spacing",
+        "logprob": -1.1920858014491387e-05
+      },
+      {
+        "text": "starke",
+        "start": 39.559,
+        "end": 39.86,
+        "type": "word",
+        "logprob": -1.1920858014491387e-05
+      },
+      {
+        "text": " ",
+        "start": 39.86,
+        "end": 39.959,
+        "type": "spacing",
+        "logprob": -0.00014876213390380144
+      },
+      {
+        "text": "Tagesmüdigkeit",
+        "start": 39.959,
+        "end": 41.119,
+        "type": "word",
+        "logprob": -0.0053346410085493646
+      },
+      {
+        "text": " ",
+        "start": 41.119,
+        "end": 41.18,
+        "type": "spacing",
+        "logprob": -6.437280717364047e-06
+      },
+      {
+        "text": "gehören",
+        "start": 41.18,
+        "end": 41.5,
+        "type": "word",
+        "logprob": -6.437280717364047e-06
+      },
+      {
+        "text": " ",
+        "start": 41.5,
+        "end": 41.559,
+        "type": "spacing",
+        "logprob": -8.702239938429557e-06
+      },
+      {
+        "text": "trotzdem",
+        "start": 41.559,
+        "end": 42.0,
+        "type": "word",
+        "logprob": -8.702239938429557e-06
+      },
+      {
+        "text": " ",
+        "start": 42.0,
+        "end": 42.079,
+        "type": "spacing",
+        "logprob": -0.00025197668583132327
+      },
+      {
+        "text": "ärztlich",
+        "start": 42.079,
+        "end": 42.52,
+        "type": "word",
+        "logprob": -7.375257791863987e-05
+      },
+      {
+        "text": " ",
+        "start": 42.52,
+        "end": 42.579,
+        "type": "spacing",
+        "logprob": -1.0847986231965479e-05
+      },
+      {
+        "text": "abgeklärt.",
+        "start": 42.579,
+        "end": 43.159,
+        "type": "word",
+        "logprob": -0.008925901928159874
+      }
+    ],
+    "transcription_id": "PBls0BSUEwEQD3GJCgbH",
+    "audio_duration_secs": 43.46775
+  }
+}

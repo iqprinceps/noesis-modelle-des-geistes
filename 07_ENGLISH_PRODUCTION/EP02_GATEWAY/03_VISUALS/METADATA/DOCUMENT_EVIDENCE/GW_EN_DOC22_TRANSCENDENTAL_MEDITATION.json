@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 3,
+  "phrase": "Transcendental Meditation",
+  "match_count": 6,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    95.5,
+    612.0,
+    792.0
+  ],
+  "highlight_rects": [
+    [
+      152.65,
+      146.14,
+      236.65,
+      155.41
+    ],
+    [
+      242.65,
+      145.27,
+      296.74,
+      154.15
+    ],
+    [
+      74.15,
+      670.79,
+      158.63,
+      680.06
+    ],
+    [
+      164.64,
+      670.01,
+      218.7,
+      678.88
+    ],
+    [
+      358.1,
+      667.1,
+      442.1,
+      676.37
+    ],
+    [
+      448.1,
+      666.3,
+      503.36,
+      675.2
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

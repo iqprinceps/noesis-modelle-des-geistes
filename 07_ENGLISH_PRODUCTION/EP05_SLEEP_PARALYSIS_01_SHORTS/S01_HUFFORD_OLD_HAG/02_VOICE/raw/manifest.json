@@ -1,0 +1,23 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\02_VOICE\\raw\\EP05_EN_SHORT_S01.mp3",
+    "sha256": "6cd1c03d11ce34bcaccfaabed9d112f5cae4573b3f138197d6a024f3e71a4734",
+    "bytes": 701797,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.59,
+      "similarity_boost": 0.82,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.08
+    },
+    "seed": 260905,
+    "request_id": "V5bVsZiMVijxCeaxzw2f",
+    "text_sha256": "8fa7a6b1800e9bb733d141e1c78a175b03836133d6556cba5f1bdf6ebd25e67a",
+    "characters": 710,
+    "stem_id": "EP05_EN_SHORT_S01"
+  }
+]

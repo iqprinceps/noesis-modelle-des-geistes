@@ -46,8 +46,13 @@
 
 ## Produktionsstandard
 
-Der verbindliche Produktionsstandard für alle Episoden liegt unter:
-`01_GLOBAL/00_PRODUKTIONSSTANDARD.md` (518 Zeilen)
+Der maßgebliche adaptive Produktionsstandard liegt unter:
+`01_GLOBAL/00A_PRODUKTIONS_INDIVIDUALITAET.md`.
+Der Repo-weite Abgleich steht in
+`01_GLOBAL/00B_REGEL_AUDIT_RETENTION_2026-08-26.md`.
+
+`01_GLOBAL/00_PRODUKTIONSSTANDARD.md` dokumentiert historische EP02-V7-Werte
+und ist keine Mengen-, Timing- oder Kennzeichnungsschablone für neue Folgen.
 
 ## Nächste Schritte für EP03 PEAR V2
 

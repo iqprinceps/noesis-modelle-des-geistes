@@ -1,0 +1,23 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\02_VOICE\\raw\\EP05_EN_SHORT_S02.mp3",
+    "sha256": "eeefcb91f17a67c5cbcbe63be2ea6165608d71b2d05d0ba9542b9b64ff049a8b",
+    "bytes": 779119,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.59,
+      "similarity_boost": 0.82,
+      "style": 0.08,
+      "use_speaker_boost": true,
+      "speed": 1.1
+    },
+    "seed": 260906,
+    "request_id": "hjV12zIGZDltdMLmsUlW",
+    "text_sha256": "b17ad4474d9121b65a0454b9256747e74ceeeb0fc90b12eb812f8b08f1f01683",
+    "characters": 769,
+    "stem_id": "EP05_EN_SHORT_S02"
+  }
+]

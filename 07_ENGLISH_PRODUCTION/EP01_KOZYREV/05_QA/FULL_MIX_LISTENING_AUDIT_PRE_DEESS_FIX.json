@@ -1,0 +1,49 @@
+{
+  "created_utc": "2026-08-26T21:08:02.661725+00:00",
+  "reviewer": "Vertex Gemini full-stream auditory review",
+  "model": "gemini-2.5-flash",
+  "audio_file": "05_QA/FULL_MIX_LISTENING/EP01_EN_KOZYREV_FULL_MIX_48K.opus",
+  "duration_seconds": 434.632,
+  "verdict": {
+    "listened_complete_stream": true,
+    "overall_verdict": "PASS_WITH_FIX",
+    "naturalness_and_pronunciation": "The narrator's voice is clear, articulate, and well-suited for a documentary. Pronunciation of names like Kozyrev, Kaznacheev, and Trofimov is consistent and clear. The overall naturalness is good, avoiding overly robotic or dramatic delivery.",
+    "pace_hook_and_retention": "The pacing is generally strong, maintaining listener engagement throughout. The opening hook is effective, and the narrative structure helps to sustain interest and prevent listener fatigue. The story unfolds logically, guiding the listener through complex ideas without feeling rushed or slow.",
+    "score_sfx_voice_balance": "The background music and sound design are excellently balanced with the narration. The mysterious and slightly unsettling atmosphere created by the score supports the content without ever masking the voice. The subtle hum/drone elements are effective in enhancing the mood.",
+    "edit_joins_artifacts_dropouts": "There is a very minor, almost imperceptible click/pop at the beginning. The most notable issue is a consistent and prominent sibilance ('s' and 'sh' sounds) throughout the entire narration. While not an isolated artifact, it is a pervasive characteristic of the voice recording that detracts slightly from the overall polish.",
+    "closing_impulse": "The ending provides a strong closing impulse for this segment, transitioning into a new thought about the 'next file' and 'Fort Meade'. This acts as an effective cliffhanger, encouraging the listener to seek out the continuation of the story. The music swells and fades appropriately, giving a sense of conclusion while hinting at more to come.",
+    "localized_issues": [
+      {
+        "timestamp": "0:07",
+        "issue": "A very slight, almost imperceptible, click/pop sound is present.",
+        "required_action": "Remix to remove the audio artifact."
+      },
+      {
+        "timestamp": "0:20",
+        "issue": "Prominent sibilance on the word 'panels'. This is representative of a pervasive sibilance issue present throughout the entire narration.",
+        "required_action": "Remix with a de-esser applied to the narration track to reduce sibilance."
+      },
+      {
+        "timestamp": "1:15",
+        "issue": "Prominent sibilance on the word 'storms'.",
+        "required_action": "Remix with a de-esser applied to the narration track to reduce sibilance."
+      },
+      {
+        "timestamp": "4:15",
+        "issue": "Prominent sibilance on the word 'effects'.",
+        "required_action": "Remix with a de-esser applied to the narration track to reduce sibilance."
+      },
+      {
+        "timestamp": "6:25",
+        "issue": "Prominent sibilance on the word 'test'.",
+        "required_action": "Remix with a de-esser applied to the narration track to reduce sibilance."
+      },
+      {
+        "timestamp": "7:10",
+        "issue": "Prominent sibilance on the word 'choose'.",
+        "required_action": "Remix with a de-esser applied to the narration track to reduce sibilance."
+      }
+    ],
+    "pickup_or_remix_decision": "A remix is required to address the pervasive sibilance throughout the narration by applying a de-esser. The minor click/pop at the beginning should also be removed during the remix. No pickups are needed as the narration performance itself is excellent."
+  }
+}

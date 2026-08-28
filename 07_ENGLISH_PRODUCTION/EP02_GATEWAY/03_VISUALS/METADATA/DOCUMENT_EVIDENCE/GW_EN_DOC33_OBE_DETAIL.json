@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 16,
+  "phrase": "Out-of-Body Experience",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    345.5,
+    612.0,
+    792.0
+  ],
+  "highlight_rects": [
+    [
+      177.34,
+      356.37,
+      243.74,
+      366.47
+    ],
+    [
+      249.83,
+      355.46,
+      303.93,
+      365.38
+    ],
+    [
+      230.17,
+      654.23,
+      296.66,
+      664.34
+    ],
+    [
+      302.65,
+      653.32,
+      357.56,
+      663.25
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

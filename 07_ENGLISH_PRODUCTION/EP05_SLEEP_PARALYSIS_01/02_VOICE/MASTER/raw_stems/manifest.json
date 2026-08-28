@@ -1,0 +1,170 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\MASTER\\raw_stems\\EP05_EN_TAKE_01.mp3",
+    "sha256": "850ceaa422c5dedee4d7e94135b38cacbcfb68e0e9dbd7a46624a09bdf7bccff",
+    "bytes": 1099276,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "KtcaxyKGWm59XNfTyK06",
+    "text_sha256": "ce121e2dc6f8ca6ce0e53488f55917758887a5137ac30ce82f6b20cd496965d0",
+    "characters": 1108,
+    "stem_id": "EP05_EN_TAKE_01"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\MASTER\\raw_stems\\EP05_EN_TAKE_02.mp3",
+    "sha256": "dfc3a21b48b085f07d36f601f4f52fb1a42ab6690180a9befda8c7684747c3e2",
+    "bytes": 1134803,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "w6tcnYa5HIgWm1uQfv0T",
+    "text_sha256": "d2fd73f8e87f65751f3eaa03aab631a3e215b4739f6a3fad05482a579b838ffa",
+    "characters": 1102,
+    "stem_id": "EP05_EN_TAKE_02"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\MASTER\\raw_stems\\EP05_EN_TAKE_03.mp3",
+    "sha256": "a1dddd207837deb16d27501637f1f1276bc510baf8e61616e2fb4d6e34eb7be9",
+    "bytes": 1133549,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "zOlQP7jNVKSmXeIHpQOM",
+    "text_sha256": "7135ee41479d72d86a2743a73f4bcc8e5220e19098f916e62e06c6d2f1debce5",
+    "characters": 1078,
+    "stem_id": "EP05_EN_TAKE_03"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\MASTER\\raw_stems\\EP05_EN_TAKE_04.mp3",
+    "sha256": "b7e20d2281ce72f80d3eb05082fb106a6b5af1893ebd8057e5ebf1566e3baa9e",
+    "bytes": 1110979,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "43aYug9MZfrnJzRRPCHt",
+    "text_sha256": "4e6b252af51389cc5a97b9823fb9a317e9bfde048f2d0f6c4d2ea63e705fc79e",
+    "characters": 1099,
+    "stem_id": "EP05_EN_TAKE_04"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\MASTER\\raw_stems\\EP05_EN_TAKE_05.mp3",
+    "sha256": "1739edf037c3d93464b18338cb89cc62321116b0b3dd349fe573dedf2ce86e1f",
+    "bytes": 1131877,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "l0NTn94QlyiNlR0zJUlO",
+    "text_sha256": "e8f11054f6ee1bda632d2658b9a427245f475a3e104bbb6ed6cebbe92a7d41b7",
+    "characters": 1093,
+    "stem_id": "EP05_EN_TAKE_05"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\MASTER\\raw_stems\\EP05_EN_TAKE_06.mp3",
+    "sha256": "892b1b3b1b03b3dd7d5ba77f2b00a95d88afe9ef9a336911683121d5cce5f464",
+    "bytes": 1108889,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "QFfb3dxTtRAxH2eD3rIC",
+    "text_sha256": "29627771a74e3bb867569751e870c03cf8497bc4db7261c5b13b022ac380bd6c",
+    "characters": 1097,
+    "stem_id": "EP05_EN_TAKE_06"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\MASTER\\raw_stems\\EP05_EN_TAKE_07.mp3",
+    "sha256": "b4d997a463fdf92d64944d633b0e1423f9f8c4f2e26a74fdd7a761f11adf8114",
+    "bytes": 1115577,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "J0oo5PmSiu0UesJoVwJ9",
+    "text_sha256": "2e84d3a75b9b6321e8d5fd656aea5aebb1cb705081d4de16bcee2c8cc8ec54aa",
+    "characters": 1099,
+    "stem_id": "EP05_EN_TAKE_07"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_VOICE\\MASTER\\raw_stems\\EP05_EN_TAKE_08.mp3",
+    "sha256": "d0d8f19d3a66fee058e31ee319eda0fbd72b3508da2b359e9759d69ef2bacf81",
+    "bytes": 27211,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "spUruAGL8TQx0uO6p4xu",
+    "text_sha256": "8cb7787afc8518fd15a3a56468cf1b1152a16ef9a211c030549dc296db768ecd",
+    "characters": 23,
+    "stem_id": "EP05_EN_TAKE_08"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\US3884218A_MONROE_1975.pdf",
+  "page": 1,
+  "phrase": "Robert A. Monroe",
+  "match_count": 1,
+  "page_rect": [
+    0.0,
+    0.0,
+    556.8,
+    817.92
+  ],
+  "crop_rect": [
+    0.0,
+    93.0,
+    556.8,
+    177.0
+  ],
+  "highlight_rects": [
+    [
+      136.08,
+      146.91,
+      205.75,
+      162.19
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

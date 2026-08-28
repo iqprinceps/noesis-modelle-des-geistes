@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_STILL05_THREE_OBSERVERS",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Wide conceptual documentary tableau of three anonymous adult observers in three separate but visually connected early-1980s rooms, each seated at a plain desk with headphones and a closed report folder. No split-screen border. Subtle differences in practical light and clock-shadow direction distinguish present, immediate past, and immediate future without readable clocks or fantasy effects. Target remains hidden. All three bodies anatomically correct and clearly separate.",
+  "prompt_sha256": "5ffb6a0bef73e3adafeb9a9ca87c86513fe49b393f8b5c565ab62f55c5be4ab4",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_STILL05_THREE_OBSERVERS_PREVIEW.png",
+  "output_sha256": "4343e62ca2cfd03a38aa5d5d847c2bee0f80c1bb89980b0593ea8d3055db6390",
+  "seconds": 48.855,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

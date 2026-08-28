@@ -1,0 +1,42 @@
+[
+  {
+    "id": "EP01_EN_01_HOOK",
+    "characters": 1135,
+    "words": 183
+  },
+  {
+    "id": "EP01_EN_02_KOZYREV",
+    "characters": 723,
+    "words": 105
+  },
+  {
+    "id": "EP01_EN_03_MACHINE",
+    "characters": 867,
+    "words": 130
+  },
+  {
+    "id": "EP01_EN_04_ESCALATION",
+    "characters": 290,
+    "words": 41
+  },
+  {
+    "id": "EP01_EN_05_THREE_THEORIES",
+    "characters": 1043,
+    "words": 161
+  },
+  {
+    "id": "EP01_EN_06_BLIND_TARGET",
+    "characters": 1031,
+    "words": 160
+  },
+  {
+    "id": "EP01_EN_07_MISSING_RESULT",
+    "characters": 1069,
+    "words": 157
+  },
+  {
+    "id": "EP01_EN_08_RESIDUE_HANDOFF",
+    "characters": 830,
+    "words": 133
+  }
+]

@@ -1,0 +1,273 @@
+{
+  "status": "PASS",
+  "failures": [],
+  "master": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\05_OUTPUT\\EP05_EN_SHORT_S02_MASTER_1080x1920_30.mp4",
+  "sha256": "18ba0dbc0e83bf4910b5bdd6e582ccd466e4a4a9d035336b5bb1e2471986e35a",
+  "file_size_bytes": 11400009,
+  "media": {
+    "duration_seconds": 48.633,
+    "video_codec": "h264",
+    "resolution": "1080x1920",
+    "pixel_format": "yuv420p",
+    "frame_rate": "30/1",
+    "r_frame_rate": "30/1",
+    "decoded_frames": 1459,
+    "color_range": "tv",
+    "color_space": "bt709",
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "audio_layout": "stereo"
+  },
+  "loudness": {
+    "integrated_lufs": -14.0,
+    "true_peak_dbtp": -1.0,
+    "target_lufs": -14.0,
+    "target_tolerance_lu": 0.5,
+    "true_peak_ceiling_dbtp": -0.8
+  },
+  "retained_audio_stems": {
+    "music_bed": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bytes": 2,
+      "frames": 2333884
+    },
+    "sfx": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bytes": 2,
+      "frames": 2333884
+    },
+    "final_mix": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width_bytes": 3,
+      "frames": 2333884
+    }
+  },
+  "checks": {
+    "decode_complete": true,
+    "resolution_1080x1920": true,
+    "constant_30_fps": true,
+    "frame_count_matches_duration": true,
+    "yuv420p": true,
+    "audio_48k_stereo": true,
+    "retained_stems_48k_stereo": true,
+    "loudness_target": true,
+    "true_peak_ceiling": true,
+    "no_black_events": true,
+    "captions_valid": true,
+    "sidecar_srt_present": true,
+    "cover_1080x1920": true,
+    "metadata_within_platform_limits": true,
+    "unique_timeline_assets": true,
+    "native_vertical_assets": true,
+    "smooth_motion_cadence": true,
+    "six_events_exact": true,
+    "burned_captions_visual_review": true,
+    "mobile_safe_visual_review": true,
+    "hook_retention_end_visual_review": true,
+    "identity_claim_tone_editorial_review": true
+  },
+  "captions": {
+    "cue_count": 34,
+    "overlaps": [],
+    "max_characters_per_cue": 37,
+    "max_words_per_cue": 4,
+    "last_end_seconds": 48.43,
+    "ends_within_master": true
+  },
+  "assets": {
+    "timeline_visuals": 14,
+    "distinct_visual_paths": 14,
+    "exact_duplicate_groups": [],
+    "all_native_portrait": true,
+    "dimensions": {
+      "B01_INTERRUPTION_ACTION.png": [
+        941,
+        1672
+      ],
+      "B02_SIXTEEN.png": [
+        1080,
+        1920
+      ],
+      "B03_SIX_EPISODES_BASE.png": [
+        1080,
+        1920
+      ],
+      "B04_SLEEP_SENSORS.png": [
+        941,
+        1672
+      ],
+      "B05_SELECTED_AWAKENING.png": [
+        941,
+        1672
+      ],
+      "B06_SIXTY_MINUTES.png": [
+        1080,
+        1920
+      ],
+      "B07_RETURN_TO_BED.png": [
+        1080,
+        1920
+      ],
+      "B08_PROTOCOL_BOUNDARY.png": [
+        1080,
+        1920
+      ],
+      "B09_AWARE_IMMOBILE.png": [
+        941,
+        1672
+      ],
+      "B10_AV_DISTURBANCE.png": [
+        941,
+        1672
+      ],
+      "B11_AWARENESS_ATONIA.png": [
+        1080,
+        1920
+      ],
+      "B12_MEASURABLE_THRESHOLD.png": [
+        941,
+        1672
+      ],
+      "B13_LONGFORM_BRIDGE.png": [
+        1080,
+        1920
+      ],
+      "B14_VIEWER_CHOICE.png": [
+        1080,
+        1920
+      ]
+    }
+  },
+  "motion_cadence": {
+    "definition": "Central-60% cadence analysis of every eased moving-still segment; intentional static evidence and choice cards excluded.",
+    "shots_checked": 6,
+    "failures": [],
+    "shots": [
+      {
+        "status": "PASS",
+        "frames_checked": 56,
+        "central_median_adjacent_difference": 0.395451,
+        "central_jerk_over_median": 0.1979,
+        "central_p95_over_median": 1.3849,
+        "central_low_motion_ratio": 0.0,
+        "shot": 1,
+        "anchor": "Researchers interrupted"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 27,
+        "central_median_adjacent_difference": 0.532552,
+        "central_jerk_over_median": 0.1028,
+        "central_p95_over_median": 1.2323,
+        "central_low_motion_ratio": 0.0,
+        "shot": 4,
+        "anchor": "They slept"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 56,
+        "central_median_adjacent_difference": 0.411302,
+        "central_jerk_over_median": 0.2437,
+        "central_p95_over_median": 1.4483,
+        "central_low_motion_ratio": 0.0,
+        "shot": 5,
+        "anchor": "were awakened"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 127,
+        "central_median_adjacent_difference": 0.282153,
+        "central_jerk_over_median": 0.266,
+        "central_p95_over_median": 1.4473,
+        "central_low_motion_ratio": 0.0,
+        "shot": 9,
+        "anchor": "When they occurred"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 144,
+        "central_median_adjacent_difference": 0.215877,
+        "central_jerk_over_median": 0.3046,
+        "central_p95_over_median": 1.5354,
+        "central_low_motion_ratio": 0.0,
+        "shot": 10,
+        "anchor": "All but one"
+      },
+      {
+        "status": "PASS",
+        "frames_checked": 136,
+        "central_median_adjacent_difference": 0.267274,
+        "central_jerk_over_median": 0.2551,
+        "central_p95_over_median": 1.3934,
+        "central_low_motion_ratio": 0.0,
+        "shot": 12,
+        "anchor": "The doorway was measurable"
+      }
+    ]
+  },
+  "six_event_signal_times_seconds": [
+    7.039,
+    7.419,
+    7.94,
+    8.5,
+    9.0,
+    9.579
+  ],
+  "freeze_diagnostic": [
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 1.866667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.233333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 3.1",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 3.7",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 2.233333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 5.933333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 15.6",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.3",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 16.9",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 17.5",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.166667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 18.666667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 18.666667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.3",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 19.966667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 19.966667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.533333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 21.5",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 21.5",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.3",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 22.8",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 22.8",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 23.8",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 33.4",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.066667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 34.466667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 35.533333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.466667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 37",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 37.033333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.133333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 38.166667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 43.166667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.133333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 44.3",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 44.3",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.166667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 45.466667",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 45.5",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.833333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 47.333333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_start: 47.333333",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_duration: 1.1",
+    "[Parsed_freezedetect_0 @ 000002af0397d280] lavfi.freezedetect.freeze_end: 48.433333"
+  ],
+  "visual_proofs": {
+    "contact_sheet": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\05_OUTPUT\\FINAL_CONTACT_SHEET.jpg",
+    "hook_and_end": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\05_OUTPUT\\HOOK_END_PROOF.jpg",
+    "six_event_progression": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\05_OUTPUT\\SIX_EVENT_PROOF.jpg",
+    "cover": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\05_OUTPUT\\COVER_FRAME_9x16.png"
+  }
+}

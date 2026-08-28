@@ -1,0 +1,11 @@
+{
+  "tts_provider": "Microsoft Edge neural TTS (credit-free fallback after preflight stop)",
+  "voice": "en-GB-RyanNeural",
+  "rate": "-5%",
+  "pitch": "-2Hz",
+  "script_sha256": "d820befadd86eb6febacd3e4049d70c446a5e561e1f86ef21396cbadfb1ddd32",
+  "raw_sha256": "539d892f479f9a813c471c4fe779291fd3634d994689e29d0b8ee43d3f307a1a",
+  "master_sha256": "a328f1a3ba53a338730834ac94ae9532d02876d8cdebb4b86526a219e49d68b0",
+  "duration_seconds": 454.008,
+  "word_count": 1069
+}

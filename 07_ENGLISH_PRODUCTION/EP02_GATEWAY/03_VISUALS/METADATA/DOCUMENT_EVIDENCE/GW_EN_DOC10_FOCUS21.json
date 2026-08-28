@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 24,
+  "phrase": "Focus 21: The Future",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    309.0,
+    612.0,
+    414.5
+  ],
+  "highlight_rects": [
+    [
+      102.2,
+      332.62,
+      132.25,
+      341.89
+    ],
+    [
+      138.94,
+      332.31,
+      156.04,
+      341.41
+    ],
+    [
+      168.7,
+      331.91,
+      187.22,
+      341.02
+    ],
+    [
+      192.69,
+      331.44,
+      223.08,
+      340.71
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

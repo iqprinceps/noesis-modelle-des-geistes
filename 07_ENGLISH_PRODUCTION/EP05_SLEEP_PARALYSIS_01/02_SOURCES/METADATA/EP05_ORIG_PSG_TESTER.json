@@ -1,0 +1,134 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "58305846": {
+          "pageid": 58305846,
+          "ns": 6,
+          "title": "File:Polysomnography tester.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 817606,
+              "width": 2312,
+              "height": 2036,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Polysomnography_tester.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Polysomnography_tester.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58305846",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-04-25 09:15:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Polysomnography tester",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Polysomnography|Self-published work|Files with coordinates missing SDC location of creation",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "25.147886",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "121.708206",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "​多項生理睡眠檢查的受試者，以及全身所黏貼的感應器",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-04-24 22:21:06",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kuyohong\" title=\"User:Kuyohong\">邱鈺鋒</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_PSG_TESTER",
+    "title": "File:Polysomnography tester.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_tester.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Polysomnography_tester.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<a href=\"//commons.wikimedia.org/wiki/User:Kuyohong\" title=\"User:Kuyohong\">邱鈺鋒</a>",
+    "date": "2017-04-24 22:21:06",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_PSG_TESTER.jpg",
+    "sha256": "b01dfbcc4672923ab9a9da9aeef51414d9ecd14a6e5b5cb68c8d29cb42e0b040",
+    "width": "2312",
+    "height": "2036",
+    "voice_beat": "Researchers can make the paralysis more likely and see its traces on a monitor.",
+    "picture_function": "Real polysomnography testing equipment and subject",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

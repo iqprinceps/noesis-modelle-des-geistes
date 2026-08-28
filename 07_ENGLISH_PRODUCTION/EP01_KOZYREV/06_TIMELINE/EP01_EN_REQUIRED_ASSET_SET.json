@@ -1,0 +1,2280 @@
+{
+  "KZ_CLIP_ROTATION_HOOK": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Open on the physical rotation question; 2.02-second concrete motion beat"
+    ],
+    "first_start_seconds": 0.46,
+    "last_end_seconds": 2.48,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-001",
+        "state_id": "KZ_CLIP_ROTATION_HOOK",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 0.46,
+        "end_seconds": 2.48,
+        "visual_action": "Use the concrete reconstruction state KZ_CLIP_ROTATION_HOOK; preserve chamber geometry and change framing or action",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_ROTATION_HOOK.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "da67bd0c27f4d550d5b602a5b8ec3e85a506d1cb6cb1704f7be97f29cc737aa6"
+      }
+    ]
+  },
+  "KZ_SEQ_PATENT_HOOK": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "DATA_SOURCE_ANCHOR",
+      "ORIGINAL_DOCUMENT",
+      "EXPLANATORY_MODEL"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Verified 1996 filing anchor before the legend expands",
+      "Reveal the clinical title as an exact document crop",
+      "Make the medical-device versus time-machine escalation legible"
+    ],
+    "first_start_seconds": 3.12,
+    "last_end_seconds": 20.54,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-002",
+        "state_id": "KZ_DATA_PATENT_FILING_ANCHOR",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 3.12,
+        "end_seconds": 8.91,
+        "visual_action": "Ground the hook in verified filing data while the preceding physical chamber remains in memory; no pseudo-document text.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/FINAL_DOCUMENT_TIMELINE/KZ_DATA_PATENT_FILING_ANCHOR.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "7d63a232eaf618dc98526a6a89c562a7e106a871ae7679d7203b065b0479e47f"
+      },
+      {
+        "cue_id": "KZ-CUE-003",
+        "state_id": "KZ_DOC_002",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 9.5,
+        "end_seconds": 15.29,
+        "visual_action": "Hold the complete verified clinical-title block statically with its genuine phrase highlighted.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_002.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "89517dfd9a1298a10f362dcc4f4863d99b518f91b59ddd1d815c7926f0a4bcbe"
+      },
+      {
+        "cue_id": "KZ-CUE-004",
+        "state_id": "KZ_CARD_MEDICAL_TO_TIME_MACHINE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 15.98,
+        "end_seconds": 20.54,
+        "visual_action": "Progressively reveal state KZ_CARD_MEDICAL_TO_TIME_MACHINE; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_MEDICAL_TO_TIME_MACHINE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "0b6c12cd989355e30d3be513009a39e169b3d0ec4872fca0570a462401d04eb2"
+      }
+    ]
+  },
+  "KZ_SEQ_1983_1996_CONTRADICTION": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "ARCHIVE",
+      "EXPLANATORY_MODEL"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Show Kozyrev at the death-date biography beat",
+      "Show Kaznacheev and Trofimov when the later filing is named",
+      "Resolve the thirteen-year contradiction without implying Kozyrev built the device"
+    ],
+    "first_start_seconds": 21.2,
+    "last_end_seconds": 35.44,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-005",
+        "state_id": "KZ_SRC_KOZYREV_PORTRAIT_1983",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 21.2,
+        "end_seconds": 23.58,
+        "visual_action": "Use authenticated identity material for state KZ_SRC_KOZYREV_PORTRAIT_1983; restrained crop/parallax only",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_SRC_KOZYREV_PORTRAIT_1983.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "4f43445f3b7fc933e38cff6eee3c81a99b8fc1d1712784033f3764139fc686ce"
+      },
+      {
+        "cue_id": "KZ-CUE-006",
+        "state_id": "KZ_SRC_INVENTOR_PAIR_1996",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 24.2,
+        "end_seconds": 29.26,
+        "visual_action": "Use authenticated identity material for state KZ_SRC_INVENTOR_PAIR_1996; restrained crop/parallax only",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_SRC_INVENTOR_PAIR_1996.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "0bf8697e03f8d939a2ef94226f66ac440569e2d73af3b0516e3ccf00c9b0c850"
+      },
+      {
+        "cue_id": "KZ-CUE-007",
+        "state_id": "KZ_CARD_1983_1996_CONTRADICTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 30.18,
+        "end_seconds": 33.58,
+        "visual_action": "Progressively reveal state KZ_CARD_1983_1996_CONTRADICTION; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_1983_1996_CONTRADICTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e5fef4249ae658a8d6b695f58226b7fa806e59de18b53a837b535933f3fdb27f"
+      },
+      {
+        "cue_id": "KZ-CUE-008",
+        "state_id": "KZ_CARD_1983_1996_CONTRADICTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 34.04,
+        "end_seconds": 35.44,
+        "visual_action": "Progressively reveal state KZ_CARD_1983_1996_CONTRADICTION; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_1983_1996_CONTRADICTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e5fef4249ae658a8d6b695f58226b7fa806e59de18b53a837b535933f3fdb27f"
+      }
+    ]
+  },
+  "KZ_EN_HERO01": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Return once to the accepted chamber geometry for the second contradiction"
+    ],
+    "first_start_seconds": 35.96,
+    "last_end_seconds": 37.56,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-009",
+        "state_id": "KZ_EN_HERO01",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 35.96,
+        "end_seconds": 37.56,
+        "visual_action": "Use the concrete reconstruction state KZ_EN_HERO01; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NANO_BANANA_PRO/KZ_EN_HERO01.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a34dcae75ee781aab27da71697ad57b37d2b48aef3805a3f34bc9ed741d8e81b"
+      }
+    ]
+  },
+  "KZ_SEQ_PATENT_CONFIGURATIONS": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "ORIGINAL_TECHNICAL_FIGURE",
+      "EXPLANATORY_MODEL"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Match the cylinder configuration claim to the patent figure",
+      "Match clockwise spiral wording to the patent geometry",
+      "Mirror the verified geometry as an explicitly explanatory counterclockwise state",
+      "Show the motorized patent configuration at the rotation claim"
+    ],
+    "first_start_seconds": 37.92,
+    "last_end_seconds": 46.9,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-010",
+        "state_id": "KZ_FIG_PATENT_CYLINDER",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 37.92,
+        "end_seconds": 39.42,
+        "visual_action": "Show the correct patent page and enlarged Figure 2 as a technical illustration, not a textual quote.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/FINAL_DOCUMENT_TIMELINE/KZ_FIG_PATENT_CYLINDER.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "6f55d3a9add93d5d1be073274c48eb3049ea4e5cbe9c9d205320b369a51f7620"
+      },
+      {
+        "cue_id": "KZ-CUE-011",
+        "state_id": "KZ_MODEL_CLOCKWISE_SPIRAL",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 39.86,
+        "end_seconds": 40.9,
+        "visual_action": "Translate clockwise direction into a unique clean geometry state because the original figure does not encode direction.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/FINAL_DOCUMENT_TIMELINE/KZ_MODEL_CLOCKWISE_SPIRAL.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "0da30ec18c29a9b7894d5cf3af2b476627ff96a7bc0983592c2ca083ac80ed45"
+      },
+      {
+        "cue_id": "KZ-CUE-012",
+        "state_id": "KZ_MODEL_PATENT_FIG3_CCW",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 41.35,
+        "end_seconds": 42.82,
+        "visual_action": "Progressively reveal state KZ_MODEL_PATENT_FIG3_CCW; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_MODEL_PATENT_FIG3_CCW.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "879d947a975df85c6f0cb1d9776977ce2b1cf9e077fa20bdba430491be03102f"
+      },
+      {
+        "cue_id": "KZ-CUE-013",
+        "state_id": "KZ_FIG_PATENT_MOTORIZED_PLATFORM",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 43.58,
+        "end_seconds": 46.9,
+        "visual_action": "Show authentic patent Figure 4 at the motorized-platform statement; this avoids a repeated abstract-page visual mode.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/FINAL_DOCUMENT_TIMELINE/KZ_FIG_PATENT_MOTORIZED_PLATFORM.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "b582631d60f553ffe96c065ef4c0d68e46778275fad40d744d3eb96770cc569e"
+      }
+    ]
+  },
+  "KZ_EN_REC01_ENTERING": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Human scale and entry, with no meditation or effect claim"
+    ],
+    "first_start_seconds": 47.26,
+    "last_end_seconds": 48.61,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-014",
+        "state_id": "KZ_EN_REC01_ENTERING",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 47.26,
+        "end_seconds": 48.61,
+        "visual_action": "Use the concrete reconstruction state KZ_EN_REC01_ENTERING; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NANO_BANANA_PRO/KZ_EN_REC01_ENTERING.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "ab388b8b6259cd86d6c0d6a02450635774e7ac3e553ba7fb5f913dfab05df057"
+      }
+    ]
+  },
+  "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "CLAIM_VISUALIZATION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Attribute moon and storm conditions to the patent text"
+    ],
+    "first_start_seconds": 49.089,
+    "last_end_seconds": 55.29,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-015",
+        "state_id": "KZ_FILM_LUNAR_STORM_SESSION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 49.089,
+        "end_seconds": 55.29,
+        "visual_action": "Visualize the explicitly attributed lunar/storm operating claim as an ambiguous physical night session, not an unreadable scan.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/FINAL_DOCUMENT_REPAIR/KZ_FILM_LUNAR_STORM_SESSION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a78c1c18fd0c9febf9b6997051cb9298aca11665d0c347a71b441bf1a8d3f98b"
+      }
+    ]
+  },
+  "KZ_SEQ_THREE_THEORIES_INTRO": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL",
+      "INNER_HYPOTHESIS",
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Open the three-way interpretive fork",
+      "First competing explanation: isolation",
+      "Second competing explanation: ordinary physical change",
+      "Third competing explanation: information access"
+    ],
+    "first_start_seconds": 56.08,
+    "last_end_seconds": 65.19,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-016",
+        "state_id": "KZ_CARD_THREE_THEORIES_OPEN",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 56.08,
+        "end_seconds": 57.89,
+        "visual_action": "Progressively reveal state KZ_CARD_THREE_THEORIES_OPEN; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_THREE_THEORIES_OPEN.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3b5fce60a226f6cb2d862ec68158944780452c746a07dd2f597325764fc2ddc5"
+      },
+      {
+        "cue_id": "KZ-CUE-017",
+        "state_id": "KZ_MYSTIC_THEORY_ISOLATION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 58.34,
+        "end_seconds": 60.42,
+        "visual_action": "Replace the first theory card with an empty, physically real chamber whose bodily trace implies isolation without depicting an entity.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_THEORY_ISOLATION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a53677750c63207bec3ae5e2a369004db4dbdbe39f456d487b88b90c6cbecdfd"
+      },
+      {
+        "cue_id": "KZ-CUE-018",
+        "state_id": "KZ_PHYSICAL_THEORY_BODY_BOUNDARY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 60.46,
+        "end_seconds": 62.46,
+        "visual_action": "Make the ordinary physical hypothesis tactile through skin response, a real sensor and opaque aluminum.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_PHYSICAL_THEORY_BODY_BOUNDARY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e2b16b22c6e24e055b3b65c966737c231ca6300cbef58e266ef5c13c0db8973b"
+      },
+      {
+        "cue_id": "KZ-CUE-019",
+        "state_id": "KZ_MYSTIC_THEORY_INFORMATION_REFLECTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 62.88,
+        "end_seconds": 65.19,
+        "visual_action": "Turn the information hypothesis into a restrained reflection that seems spatially ahead of its source.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_THEORY_INFORMATION_REFLECTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "b9ea6f467527b86fc5971193b24c4d74f86dd09cecb89516d49be3b982f23716"
+      }
+    ]
+  },
+  "KZ_SEQ_KOZYREV_BIO_IDEA": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "ARCHIVE",
+      "INNER_HYPOTHESIS"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Use a genuinely different authenticated Kozyrev image from the earlier death-date block",
+      "Move from the second portrait to a different authenticated astronomy context; no long portrait hold",
+      "Shift from person to the specific speculative idea"
+    ],
+    "first_start_seconds": 65.88,
+    "last_end_seconds": 77.58,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-020",
+        "state_id": "KZ_HISTORY_PULKOVO_OBSERVATORY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 65.88,
+        "end_seconds": 69.65,
+        "visual_action": "Move from Kozyrev's portrait into the public-domain observatory world that grounds his profession.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_HISTORY_PULKOVO_OBSERVATORY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "2d5955ae5676fa905c0d77beca1c41d1c7a87e9765659dd41b561ed3a107e33e"
+      },
+      {
+        "cue_id": "KZ-CUE-021",
+        "state_id": "KZ_HISTORY_PULKOVO_REFRACTOR",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 71.06,
+        "end_seconds": 75.38,
+        "visual_action": "Show a distinct public-domain Pulkovo refractor when Kozyrev's astronomical work is named.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_HISTORY_PULKOVO_REFRACTOR.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3ea88a52ac71fb1d04a70151a9c72d8a6f21627ddd44656782aa86376d83481c"
+      },
+      {
+        "cue_id": "KZ-CUE-022",
+        "state_id": "KZ_MYSTIC_TIME_ACTIVE_AFTERIMAGE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 76.0,
+        "end_seconds": 77.58,
+        "visual_action": "Carry Kozyrev's idea forward as delayed light bands inside a materially real chamber.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_TIME_ACTIVE_AFTERIMAGE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "ba46fc39d59875ef7fd757791a21f04ac8ad0a9e04ecf83b684dda95f0af2613"
+      }
+    ]
+  },
+  "KZ_INNER01_INTERNAL_TIME": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "INNER_HYPOTHESIS"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "One continuously evolving internal-time sequence; never restart or recycle it"
+    ],
+    "first_start_seconds": 78.26,
+    "last_end_seconds": 88.98,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-023",
+        "state_id": "KZ_CLIP_INTERNAL_TIME_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 78.26,
+        "end_seconds": 82.68,
+        "visual_action": "Progress to subjective state KZ_CLIP_INTERNAL_TIME_CONTINUOUS; no visible category label and no proof-coded beam or portal",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "The single uninterrupted sequence visibly evolves through dust, condensation and delayed reflection as the three spoken claims escalate; a camera move alone is insufficient.",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_INTERNAL_TIME_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "d091a1c2d48585404993f7ec17dbc525022705d06c481cb569ef75daffb692a1"
+      },
+      {
+        "cue_id": "KZ-CUE-024",
+        "state_id": "KZ_CLIP_INTERNAL_TIME_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 83.22,
+        "end_seconds": 85.52,
+        "visual_action": "Progress to subjective state KZ_CLIP_INTERNAL_TIME_CONTINUOUS; no visible category label and no proof-coded beam or portal",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "The single uninterrupted sequence visibly evolves through dust, condensation and delayed reflection as the three spoken claims escalate; a camera move alone is insufficient.",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_INTERNAL_TIME_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "d091a1c2d48585404993f7ec17dbc525022705d06c481cb569ef75daffb692a1"
+      },
+      {
+        "cue_id": "KZ-CUE-025",
+        "state_id": "KZ_CLIP_INTERNAL_TIME_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 86.12,
+        "end_seconds": 88.98,
+        "visual_action": "Progress to subjective state KZ_CLIP_INTERNAL_TIME_CONTINUOUS; no visible category label and no proof-coded beam or portal",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "The single uninterrupted sequence visibly evolves through dust, condensation and delayed reflection as the three spoken claims escalate; a camera move alone is insufficient.",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_INTERNAL_TIME_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "d091a1c2d48585404993f7ec17dbc525022705d06c481cb569ef75daffb692a1"
+      }
+    ]
+  },
+  "KZ_SEQ_RESEARCHER_IDENTITIES": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "ARCHIVE",
+      "ORIGINAL_DOCUMENT"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Show both later researchers at their first research-history beat",
+      "Connect the named researchers to their documented work, not a generic chamber"
+    ],
+    "first_start_seconds": 89.84,
+    "last_end_seconds": 99.98,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-026",
+        "state_id": "KZ_SRC_KAZNACHEEV_TROFIMOV_PAIR",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 89.84,
+        "end_seconds": 94.5,
+        "visual_action": "Use authenticated identity material for state KZ_SRC_KAZNACHEEV_TROFIMOV_PAIR; restrained crop/parallax only",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_SRC_KAZNACHEEV_TROFIMOV_PAIR.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "7417d9a5b7cba3e0ee66c4dc31a3bce136dc860ca38ab0a9d4ce0e3170101efb"
+      },
+      {
+        "cue_id": "KZ-CUE-027",
+        "state_id": "KZ_DOC_028",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 95.12,
+        "end_seconds": 99.98,
+        "visual_action": "Use the complete English abstract block naming cells, people, plants and information as the correct source passage.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_028.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "d1c642e80913676709220e9a28d1bedd7a03a7c30bbf593fc96741c96559fc41"
+      }
+    ]
+  },
+  "KZ_SEQ_THREE_STREAMS": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "INNER_HYPOTHESIS",
+      "EXPLANATORY_MODEL",
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Visualize the online collapse of three distinct histories",
+      "Identify stream one: Kozyrev's time theory",
+      "Identify stream two: later experiments",
+      "Identify stream three: the aluminum medical patent",
+      "Restore the documentary separation between the three streams"
+    ],
+    "first_start_seconds": 100.56,
+    "last_end_seconds": 114.29,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-028",
+        "state_id": "KZ_MYSTIC_THREE_STORIES_COLLAPSE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 100.56,
+        "end_seconds": 104.42,
+        "visual_action": "Let three distinct material traces converge on the same chair instead of collapsing text labels.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_THREE_STORIES_COLLAPSE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "451c49df470a9e15c0b5b86229ea6e2bfc4ef13dc63767f72941cc4059439f8b"
+      },
+      {
+        "cue_id": "KZ-CUE-029",
+        "state_id": "KZ_CARD_STREAM_KOZYREV_TIME",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 104.46,
+        "end_seconds": 105.83,
+        "visual_action": "Progressively reveal state KZ_CARD_STREAM_KOZYREV_TIME; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_STREAM_KOZYREV_TIME.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "55e534cb21756daf455c799919c14cf8279b223e8be89283d3c07a09028ea2ca"
+      },
+      {
+        "cue_id": "KZ-CUE-030",
+        "state_id": "KZ_RESEARCHERS_NIGHT_LAB",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 106.24,
+        "end_seconds": 109.6,
+        "visual_action": "Show a clearly reconstructed late-1990s research practice when the experiments are named; identities remain established by the preceding authentic pair.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_RESEARCHERS_NIGHT_LAB.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "4d5df92e30b1da6cda1e5bf021e4b8b94734015db23658d5ab139cb8b02bc456"
+      },
+      {
+        "cue_id": "KZ-CUE-031",
+        "state_id": "KZ_CARD_STREAM_PATENT",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 109.64,
+        "end_seconds": 113.06,
+        "visual_action": "Progressively reveal state KZ_CARD_STREAM_PATENT; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_STREAM_PATENT.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a98e87abda00baec31bb9784c5ffedfbd59c906d803892b800e83e58a4e67cc9"
+      },
+      {
+        "cue_id": "KZ-CUE-032",
+        "state_id": "KZ_MYSTIC_SEPARATE_THREADS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 113.1,
+        "end_seconds": 114.29,
+        "visual_action": "Separate condensation, reflection and sensor trace across three physical layers without a diagram.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_SEPARATE_THREADS.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "bee05b8ffb20dc53707df7c5f9702308d4260cb126e98941bbfe88a7f0d7c58f"
+      }
+    ]
+  },
+  "KZ_EN_REC04_CHAMBER_REVERSE_WIDE": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "New reverse-angle chamber moment before the physical specifications"
+    ],
+    "first_start_seconds": 115.51,
+    "last_end_seconds": 117.23,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-033",
+        "state_id": "KZ_EN_REC04_CHAMBER_REVERSE_WIDE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 115.51,
+        "end_seconds": 117.23,
+        "visual_action": "Use the concrete reconstruction state KZ_EN_REC04_CHAMBER_REVERSE_WIDE; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_EN_REC04_CHAMBER_REVERSE_WIDE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "5d2b46c15b0c5b61e8b81bdb84ed6e9667f36a7f1fbf2b05ad16d6c8dc70ae12"
+      }
+    ]
+  },
+  "KZ_SEQ_PATENT_PHYSICAL_DESIGN": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "RECONSTRUCTION",
+      "PHYSICAL_DETAIL",
+      "ORIGINAL_DOCUMENT",
+      "EXPLANATORY_MODEL"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Show the 2.8-metre limit where it is spoken",
+      "Use the patent's material wording instead of cropping the later HERO02 payoff",
+      "Show the proposed fifty-centimetre focus in the patent",
+      "Show the four-to-ten panel range",
+      "Compare clockwise and counterclockwise geometry without faking a source page",
+      "Use a new cutaway state rather than returning to the earlier figure-four export"
+    ],
+    "first_start_seconds": 117.9,
+    "last_end_seconds": 138.63,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-034",
+        "state_id": "KZ_PHYSICAL_PANEL_SCALE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 117.9,
+        "end_seconds": 121.64,
+        "visual_action": "Make the stated 2.8-metre maximum physically legible through human scale, without invented labels.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_PHYSICAL_PANEL_SCALE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "de70660b48bf598f7718bbb5f196a9d977137959eb3f7475250c6c9773f083ff"
+      },
+      {
+        "cue_id": "KZ-CUE-035",
+        "state_id": "KZ_FILM_ALUMINUM_SURFACE_MACRO",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 122.25,
+        "end_seconds": 124.43,
+        "visual_action": "Show physically distinct ground and smoother aluminum surface treatment without overstating the translated abstract.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/FINAL_DOCUMENT_REPAIR/KZ_FILM_ALUMINUM_SURFACE_MACRO.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "81a297178627713699e95254788f2d4f3da691bb491eaf888ade7967a260731d"
+      },
+      {
+        "cue_id": "KZ-CUE-036",
+        "state_id": "KZ_DOC_032",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 125.0,
+        "end_seconds": 130.049,
+        "visual_action": "Hold a mobile-readable recomposition of the complete verified focus-distance sentence.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_032.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "515d106b25f08779558e9e42826b5b5447b8785de2650e5e3429592b25c9fbec"
+      },
+      {
+        "cue_id": "KZ-CUE-037",
+        "state_id": "KZ_PHYSICAL_PANEL_ARRAY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 130.68,
+        "end_seconds": 133.78,
+        "visual_action": "Reveal six overlapping curved panels as a plausible construction state, not another document crop.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_PHYSICAL_PANEL_ARRAY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3d3953f5446884ec46e6d390bc4f9122c3c01e7e122e80362a17f6c3bef5df9d"
+      },
+      {
+        "cue_id": "KZ-CUE-038",
+        "state_id": "KZ_MODEL_DIRECTION_COMPARE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 134.43,
+        "end_seconds": 137.2,
+        "visual_action": "Progressively reveal state KZ_MODEL_DIRECTION_COMPARE; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_MODEL_DIRECTION_COMPARE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "1c7e158dd4d695a879f9b0832f185001990962494e07dd4c6aba81619776d3b1"
+      },
+      {
+        "cue_id": "KZ-CUE-039",
+        "state_id": "KZ_MODEL_ROTATION_CUTAWAY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 137.78,
+        "end_seconds": 138.63,
+        "visual_action": "Progressively reveal state KZ_MODEL_ROTATION_CUTAWAY; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_MODEL_ROTATION_CUTAWAY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a32a56e6855a3d097b0b01a555084aee92dc60e2c61124e7966bb930414e07ea"
+      }
+    ]
+  },
+  "KZ_SEQ_PATENT_CONDITIONS_QUESTIONS": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "INNER_HYPOTHESIS",
+      "SUBJECTIVE_HYPOTHESIS"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Turn direction into a clear unresolved question",
+      "Turn lunar timing into a clear unresolved question",
+      "Match geomagnetic wording to its original source"
+    ],
+    "first_start_seconds": 139.28,
+    "last_end_seconds": 146.329,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-040",
+        "state_id": "KZ_MYSTIC_DIRECTION_REFLECTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 139.28,
+        "end_seconds": 140.63,
+        "visual_action": "Pose direction as a displaced traveling reflection across curved aluminum.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_DIRECTION_REFLECTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e0e0d2e9fda855c7efe14cde7cb080829cfe8f0626039251f9403750dacc2a6b"
+      },
+      {
+        "cue_id": "KZ-CUE-041",
+        "state_id": "KZ_MYSTIC_LUNAR_REFLECTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 141.3,
+        "end_seconds": 142.46,
+        "visual_action": "Begin one continuous lunar/geomagnetic question image with physically ambiguous chamber reflections.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_LUNAR_REFLECTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e51bf68f678afb81936d46de6bd3764f2aade2909bf7095102e4907a7bfabd90"
+      },
+      {
+        "cue_id": "KZ-CUE-042",
+        "state_id": "KZ_MYSTIC_LUNAR_REFLECTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 143.12,
+        "end_seconds": 146.329,
+        "visual_action": "Continue the same uninterrupted question state; no later return.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_LUNAR_REFLECTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e51bf68f678afb81936d46de6bd3764f2aade2909bf7095102e4907a7bfabd90"
+      }
+    ]
+  },
+  "KZ_SEQ_PATENT_CLAIMS_BOUNDARY": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "CLAIM_VISUALIZATION",
+      "EPISTEMIC_GRAPHIC",
+      "EXPLANATORY_MODEL"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Frame the next explanation explicitly as the inventors' answer",
+      "Explain the claimed field-concentration mechanism without validating it",
+      "Show the exact heliogeophysical attribution",
+      "Put the claims back beside the people who made them",
+      "Define what a patent records",
+      "Hold the evidence boundary: claim is not proof"
+    ],
+    "first_start_seconds": 146.98,
+    "last_end_seconds": 165.98,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-043",
+        "state_id": "KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 146.98,
+        "end_seconds": 149.62,
+        "visual_action": "Begin a progressive field-concentration model as the explicitly attributed inventors' answer; do not use identity metadata as proof.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "One continuous 9.20-second proposal sequence adds field paths and convergence instead of holding a static graphic.",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3f38ff29fb11fa76e7a4439ba464efabe23a6e20ee6a3a2339867a983fe15b04"
+      },
+      {
+        "cue_id": "KZ-CUE-044",
+        "state_id": "KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 149.66,
+        "end_seconds": 155.84,
+        "visual_action": "Continue the same model while the proposed body-associated field concentration is stated.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "Continuous evolving clip; no restart.",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3f38ff29fb11fa76e7a4439ba464efabe23a6e20ee6a3a2339867a983fe15b04"
+      },
+      {
+        "cue_id": "KZ-CUE-045",
+        "state_id": "KZ_FILM_HELIOGEOPHYSICAL_CHAMBER",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 155.86,
+        "end_seconds": 160.8,
+        "visual_action": "Visualize the attributed environmental claim with a plausible chamber, dawn light and an analog field instrument.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/FINAL_DOCUMENT_REPAIR/KZ_FILM_HELIOGEOPHYSICAL_CHAMBER.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "9238598120f90a44dd248e47676e8e0e16740712d14352eddf8dc0596c680f2f"
+      },
+      {
+        "cue_id": "KZ-CUE-046",
+        "state_id": "KZ_CARD_PATENT_RECORDS_CLAIM",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 160.82,
+        "end_seconds": 162.26,
+        "visual_action": "Start one concise continuous claim-versus-result distinction; no document is asked to prove itself.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_PATENT_RECORDS_CLAIM.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "b977e7d83c273247b09d7e8e7f2e2612e5bd9243794bc9bcfbe52f455cd3f630"
+      },
+      {
+        "cue_id": "KZ-CUE-047",
+        "state_id": "KZ_CARD_PATENT_RECORDS_CLAIM",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 162.88,
+        "end_seconds": 164.22,
+        "visual_action": "Continue the same claim-state without a cut or later reuse.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_PATENT_RECORDS_CLAIM.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "b977e7d83c273247b09d7e8e7f2e2612e5bd9243794bc9bcfbe52f455cd3f630"
+      },
+      {
+        "cue_id": "KZ-CUE-048",
+        "state_id": "KZ_CARD_CLAIM_NOT_PROOF",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 164.6,
+        "end_seconds": 165.98,
+        "visual_action": "Progressively reveal state KZ_CARD_CLAIM_NOT_PROOF; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_CLAIM_NOT_PROOF.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "4949eff0a2b72ff1b99f3b9774c755731bc53c5da5dfe37037738236f4a09086"
+      }
+    ]
+  },
+  "KZ_SEQ_RESEARCHERS_LATER_WORK": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "ORIGINAL_DOCUMENT"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Return to both researchers as the story leaves medicine",
+      "Show their modeled-Kozyrev-space publication"
+    ],
+    "first_start_seconds": 167.38,
+    "last_end_seconds": 175.18,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-049",
+        "state_id": "KZ_DOC_013",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 167.38,
+        "end_seconds": 171.08,
+        "visual_action": "Use the complete Kaznacheev/Trofimov 2008 author/title block as the departure from medicine.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_013.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "cc3181db3cd626f6dc71646a2fb766af10b11f371f22a25181ea604e117ca178"
+      },
+      {
+        "cue_id": "KZ-CUE-050",
+        "state_id": "KZ_DOC_014",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 171.76,
+        "end_seconds": 175.18,
+        "visual_action": "Use the complete 2006 author/title block with the genuine modeled-Kozyrev-space phrase.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_014.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "eaac7c4770d8013b9ed7c85e38028f12eb508b8ede9246d9e955b31533bb41be"
+      }
+    ]
+  },
+  "KZ_SRC_2006_ALTERED_INTERNAL_TIME": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "SUBJECTIVE_HYPOTHESIS"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Use a new publication detail; do not restart the earlier internal-time image"
+    ],
+    "first_start_seconds": 175.87,
+    "last_end_seconds": 177.84,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-051",
+        "state_id": "KZ_MYSTIC_INTERNAL_TIME_REFRACTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 175.87,
+        "end_seconds": 177.84,
+        "visual_action": "Represent the attributed time interpretation as a first-person metal-room perception, never as a fabricated quotation.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_INTERNAL_TIME_REFRACTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3d9779e63463b27a976cbecec8d6f0fe1c4b76fe1c477b379aeea634d66d46b3"
+      }
+    ]
+  },
+  "KZ_INNER02_DISTANT_IMAGE": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "INNER_HYPOTHESIS"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "One continuously evolving distant-image sequence; no portal, beam, badge or restart"
+    ],
+    "first_start_seconds": 178.44,
+    "last_end_seconds": 184.92,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-052",
+        "state_id": "KZ_CLIP_DISTANT_IMAGE_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 178.44,
+        "end_seconds": 179.57,
+        "visual_action": "Progress to subjective state KZ_CLIP_DISTANT_IMAGE_CONTINUOUS; no visible category label and no proof-coded beam or portal",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_DISTANT_IMAGE_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "1d852faa9910f06493113452d0008800902d06fbfad470ef111585583a50289c"
+      },
+      {
+        "cue_id": "KZ-CUE-053",
+        "state_id": "KZ_CLIP_DISTANT_IMAGE_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 179.94,
+        "end_seconds": 184.92,
+        "visual_action": "Progress to subjective state KZ_CLIP_DISTANT_IMAGE_CONTINUOUS; no visible category label and no proof-coded beam or portal",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_DISTANT_IMAGE_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "1d852faa9910f06493113452d0008800902d06fbfad470ef111585583a50289c"
+      }
+    ]
+  },
+  "KZ_SEQ_CHAMBER_EXPERIENCE": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Return to the metal reflector with a distinct slow reflective motion state",
+      "Place a neutral participant inside for the experience question"
+    ],
+    "first_start_seconds": 186.34,
+    "last_end_seconds": 192.84,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-054",
+        "state_id": "KZ_HERO01_REFLECTION_STATE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 186.34,
+        "end_seconds": 188.89,
+        "visual_action": "Use the concrete reconstruction state KZ_HERO01_REFLECTION_STATE; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_HERO01_REFLECTION_STATE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3d9f2a0d95633ad3695f197ed185eaca7967d4bdd4afa632fa21f8d898f3c25c"
+      },
+      {
+        "cue_id": "KZ-CUE-055",
+        "state_id": "KZ_EN_REC02_SEATED_NEUTRAL",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 189.52,
+        "end_seconds": 192.84,
+        "visual_action": "Use the concrete reconstruction state KZ_EN_REC02_SEATED_NEUTRAL; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_EN_REC02_SEATED_NEUTRAL.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "5d5778fd7cfcc7cdc7814a289d93776e15cb7c44d31a775b84c6684136c2f872"
+      }
+    ]
+  },
+  "KZ_SEQ_THEORY_PSYCHOLOGY": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL",
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Re-open the three explanations before testing them",
+      "Activate the psychological branch",
+      "One evolving sensory-isolation sequence with new information throughout the long sentence",
+      "Separate genuine experience from external information"
+    ],
+    "first_start_seconds": 192.88,
+    "last_end_seconds": 212.69,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-056",
+        "state_id": "KZ_CARD_THEORY_FORK_RETURN",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 192.88,
+        "end_seconds": 196.86,
+        "visual_action": "Progressively reveal state KZ_CARD_THEORY_FORK_RETURN; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_THEORY_FORK_RETURN.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a83fb705a9a807209016049eea8d194b7bfae16de2025b5bd4b420162ccf8feb"
+      },
+      {
+        "cue_id": "KZ-CUE-057",
+        "state_id": "KZ_CARD_THEORY_ISOLATION_ACTIVE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 196.94,
+        "end_seconds": 198.29,
+        "visual_action": "Progressively reveal state KZ_CARD_THEORY_ISOLATION_ACTIVE; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_THEORY_ISOLATION_ACTIVE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "d82bca5a912a4d089ce5fd8d5974f51223ba7345d1a93c109991b4ab036bffc7"
+      },
+      {
+        "cue_id": "KZ-CUE-058",
+        "state_id": "KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 198.86,
+        "end_seconds": 208.52,
+        "visual_action": "Use the concrete reconstruction state KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS; preserve chamber geometry and change framing or action",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "The participant, acoustics, light and body-orientation cues develop across the sentence; the sequence cannot be a held still or simple zoom.",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "4b00eb86619b7a3c94f4a4afa2c95817e03a8ce79ba88a7ca878244d17fe984d"
+      },
+      {
+        "cue_id": "KZ-CUE-059",
+        "state_id": "KZ_SENSORY_HAND_ON_ALUMINUM",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 208.54,
+        "end_seconds": 212.69,
+        "visual_action": "Translate the distinction into touch, reflection and bodily sensing at the chamber wall.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_SENSORY_HAND_ON_ALUMINUM.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3fae73cf90e26cb0e87f9a42d0e3d41b962024bb0c494fc5a3a94f5180867cf7"
+      }
+    ]
+  },
+  "KZ_SEQ_THEORY_PHYSICAL": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL",
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Activate the ordinary physical branch",
+      "Map sound, temperature, reflections and body sensing onto physical details",
+      "Keep the measurable ordinary variables available at both logic beats",
+      "Explicitly separate measurement from time travel"
+    ],
+    "first_start_seconds": 213.36,
+    "last_end_seconds": 227.28,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-060",
+        "state_id": "KZ_CARD_THEORY_PHYSICAL_ACTIVE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 213.36,
+        "end_seconds": 216.32,
+        "visual_action": "Progressively reveal state KZ_CARD_THEORY_PHYSICAL_ACTIVE; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_THEORY_PHYSICAL_ACTIVE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e0f7274c42286589a0b7f397f7892933691c528cc08f01f7380a14ee11d9114b"
+      },
+      {
+        "cue_id": "KZ-CUE-061",
+        "state_id": "KZ_CLIP_PHYSICAL_VARIABLES_SENSOR_RIG",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 216.38,
+        "end_seconds": 223.8,
+        "visual_action": "Let ordinary sensor readings develop while the voice names sound, temperature, reflections and body sensing.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_PHYSICAL_VARIABLES_SENSOR_RIG.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "477160ff7835631f70a5f2aa7751a0d830cd3f18418a4243772e15053508a925"
+      },
+      {
+        "cue_id": "KZ-CUE-062",
+        "state_id": "KZ_CARD_PHYSICAL_VARIABLES",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 224.42,
+        "end_seconds": 225.4,
+        "visual_action": "Progressively reveal state KZ_CARD_PHYSICAL_VARIABLES; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_PHYSICAL_VARIABLES.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "747c00a574c57f81512f25ab980500a27d9738bf8f70ad9322a1906a20fc3f13"
+      },
+      {
+        "cue_id": "KZ-CUE-063",
+        "state_id": "KZ_MYSTIC_MEASURABLE_NOT_TRAVEL",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 225.84,
+        "end_seconds": 227.28,
+        "visual_action": "Ground the distinction in an ordinary analog bodily measurement beside a curved aluminum sample.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_MEASURABLE_NOT_TRAVEL.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "870ba65e1a0a1673e5d6ee5203bdbc5f299cb19c09648c05507ee2f1d9647b6c"
+      }
+    ]
+  },
+  "KZ_SEQ_THEORY_INFORMATION_TEST": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL",
+      "INNER_HYPOTHESIS",
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Activate the proponents' extraordinary branch",
+      "Use a new theory diagram rather than returning to the distant-image sequence",
+      "Name the extraordinary possibility without endorsing it",
+      "Pivot from mystery to a decisive test",
+      "Reject subjective feeling as the decisive outcome",
+      "Define the target outcome: information not already knowable"
+    ],
+    "first_start_seconds": 228.0,
+    "last_end_seconds": 248.56,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-064",
+        "state_id": "KZ_CARD_THEORY_INFORMATION_ACTIVE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 228.0,
+        "end_seconds": 231.22,
+        "visual_action": "Progressively reveal state KZ_CARD_THEORY_INFORMATION_ACTIVE; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_THEORY_INFORMATION_ACTIVE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "880ef8a41865c8c32505b2b6747f0718931649a7a1a639a91d18cc264c60b286"
+      },
+      {
+        "cue_id": "KZ-CUE-065",
+        "state_id": "KZ_OBSERVER_DISTANCE_REFLECTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 231.26,
+        "end_seconds": 235.34,
+        "visual_action": "Make the distance hypothesis spatially concrete through restrained reflected bands and an unreachable point.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_OBSERVER_DISTANCE_REFLECTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "c4ce0d56d763173dd9d1382fd01c327a986a3bffe91c1263e6300f0a22b91171"
+      },
+      {
+        "cue_id": "KZ-CUE-066",
+        "state_id": "KZ_MYSTIC_EXTRAORDINARY_POSSIBILITY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 236.04,
+        "end_seconds": 237.76,
+        "visual_action": "Let an impossible-seeming chair reflection embody the possibility while remaining explicitly hypothetical in metadata and narration.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_EXTRAORDINARY_POSSIBILITY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "8fcaafe14b1a11b4e424acb4612270f6e0f9d68bae0884444552d9867728d229"
+      },
+      {
+        "cue_id": "KZ-CUE-067",
+        "state_id": "KZ_CARD_CLEAN_TEST",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 238.46,
+        "end_seconds": 241.32,
+        "visual_action": "Progressively reveal state KZ_CARD_CLEAN_TEST; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_CLEAN_TEST.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3e69d0f7dc3e12cefe8f7116dfcfbc9a319fee1a44548313981b9e859b738b62"
+      },
+      {
+        "cue_id": "KZ-CUE-068",
+        "state_id": "KZ_SUBJECTIVE_REPORT_HAND",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 241.84,
+        "end_seconds": 243.769,
+        "visual_action": "Ground subjective testimony in the physical act of recording a report after isolation.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_SUBJECTIVE_REPORT_HAND.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "41b2086a26e84df4a2718950908408d96b3ff1816e23dab38cbb7b1fb4b8922f"
+      },
+      {
+        "cue_id": "KZ-CUE-069",
+        "state_id": "KZ_CLIP_INFORMATION_BEFORE_REVEAL",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 244.38,
+        "end_seconds": 248.56,
+        "visual_action": "Progressively organize reflected light before the sealed target is revealed; movement carries the perception process.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_INFORMATION_BEFORE_REVEAL.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "8a37e4fa17423d4f79dc0c6b4507e913528f5c996eb682e99bf931f9d3fc1e9d"
+      }
+    ]
+  },
+  "KZ_SEQ_BLIND_TARGET_PROTOCOL": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL",
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Introduce four fixed sealed targets",
+      "Show the lighthouse target exactly when named",
+      "Show the violin target exactly when named",
+      "Show the burning-car target exactly when named",
+      "Show the horse target exactly when named",
+      "Invite a viewer choice while all four targets remain visible",
+      "Preserve the choice for the later reveal",
+      "Show selection occurring only after chamber entry",
+      "Make the nobody-knows condition unmistakable",
+      "Show speech/drawing before target reveal",
+      "Show independent pre-registered comparison against all four targets"
+    ],
+    "first_start_seconds": 248.6,
+    "last_end_seconds": 280.14,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-070",
+        "state_id": "KZ_TARGET_GRID_SEALED",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 248.6,
+        "end_seconds": 250.829,
+        "visual_action": "Advance the controlled-test procedure to state KZ_TARGET_GRID_SEALED; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_TARGET_GRID_SEALED.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "b18c4c0a9a64147c30185015b6b37b113cbdecca1ae5b30333fa07d7a3edd2e3"
+      },
+      {
+        "cue_id": "KZ-CUE-071",
+        "state_id": "KZ_TARGET01_LIGHTHOUSE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 250.92,
+        "end_seconds": 252.72,
+        "visual_action": "Advance the controlled-test procedure to state KZ_TARGET01_LIGHTHOUSE; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_TARGET01_LIGHTHOUSE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3b675fafe4dafcd63a819e471a753bac8cba09fcf97f00958d0f307b922852f7"
+      },
+      {
+        "cue_id": "KZ-CUE-072",
+        "state_id": "KZ_TARGET02_VIOLIN",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 253.16,
+        "end_seconds": 254.52,
+        "visual_action": "Advance the controlled-test procedure to state KZ_TARGET02_VIOLIN; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_TARGET02_VIOLIN.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "ce7def24a818b2d195b741b5eb49688dee258e008b3662d7e8af9c93e8d12001"
+      },
+      {
+        "cue_id": "KZ-CUE-073",
+        "state_id": "KZ_TARGET03_BURNING_CAR",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 255.04,
+        "end_seconds": 256.76,
+        "visual_action": "Advance the controlled-test procedure to state KZ_TARGET03_BURNING_CAR; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_TARGET03_BURNING_CAR.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "bc57d93586edf51444a8b95f50add79f70a37005cb3c179baa54aa7db878c05d"
+      },
+      {
+        "cue_id": "KZ-CUE-074",
+        "state_id": "KZ_TARGET04_WHITE_HORSE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 257.14,
+        "end_seconds": 258.74,
+        "visual_action": "Advance the controlled-test procedure to state KZ_TARGET04_WHITE_HORSE; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_TARGET04_WHITE_HORSE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "79c05832fa162c138bbbf6c551035654b30f06d81eb8c6d33fb7969b1d989a64"
+      },
+      {
+        "cue_id": "KZ-CUE-075",
+        "state_id": "KZ_TARGET_GRID_CHOOSE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 259.34,
+        "end_seconds": 261.019,
+        "visual_action": "Advance the controlled-test procedure to state KZ_TARGET_GRID_CHOOSE; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_TARGET_GRID_CHOOSE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "23ca0b68b43cb3704cbb02e78f8880b7b860254434df81b223a075652801fee9"
+      },
+      {
+        "cue_id": "KZ-CUE-076",
+        "state_id": "KZ_TARGET_GRID_HOLD",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 261.519,
+        "end_seconds": 262.48,
+        "visual_action": "Advance the controlled-test procedure to state KZ_TARGET_GRID_HOLD; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_TARGET_GRID_HOLD.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "6c8571d1491e0b86f6a5feb3d4ee79cf79bb59f68f77cf60e7a26dd3a6441584"
+      },
+      {
+        "cue_id": "KZ-CUE-077",
+        "state_id": "KZ_PROTOCOL_RANDOM_SELECTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 263.38,
+        "end_seconds": 268.08,
+        "visual_action": "Advance the controlled-test procedure to state KZ_PROTOCOL_RANDOM_SELECTION; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_PROTOCOL_RANDOM_SELECTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3f616e7a23664819c5c067626ee190870859ba8d69e786f7d7c3dc87bb89a179"
+      },
+      {
+        "cue_id": "KZ-CUE-078",
+        "state_id": "KZ_PROTOCOL_DOUBLE_BLIND",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 268.68,
+        "end_seconds": 270.28,
+        "visual_action": "Advance the controlled-test procedure to state KZ_PROTOCOL_DOUBLE_BLIND; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_PROTOCOL_DOUBLE_BLIND.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "5fbee91501ac339f37b02b9353dc273ed2eadd80e7c1257a593e40374cd23388"
+      },
+      {
+        "cue_id": "KZ-CUE-079",
+        "state_id": "KZ_EN_REC03_PARTICIPANT_REPORT",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 270.92,
+        "end_seconds": 274.16,
+        "visual_action": "Use the concrete reconstruction state KZ_EN_REC03_PARTICIPANT_REPORT; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_EN_REC03_PARTICIPANT_REPORT.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "ea9c10625104de366b7c8f0525ace1a57fdc7784e9e7c0cde2ad61b1a55da9e5"
+      },
+      {
+        "cue_id": "KZ-CUE-080",
+        "state_id": "KZ_PROTOCOL_JUDGING",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 274.18,
+        "end_seconds": 280.14,
+        "visual_action": "Advance the controlled-test procedure to state KZ_PROTOCOL_JUDGING; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_PROTOCOL_JUDGING.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "8e5a83d8f57c82d68016598458a688614d7c6184d257c26c71b49b1cd7b68b1c"
+      }
+    ]
+  },
+  "KZ_REPLICATION_CHAIN_LAB2": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Extend the procedure into a second laboratory"
+    ],
+    "first_start_seconds": 280.16,
+    "last_end_seconds": 282.4,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-081",
+        "state_id": "KZ_REPLICATION_CHAIN_LAB2",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 280.16,
+        "end_seconds": 282.4,
+        "visual_action": "Advance the controlled-test procedure to state KZ_REPLICATION_CHAIN_LAB2; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_REPLICATION_CHAIN_LAB2.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "00587e138dac4f3ca40e140fd062b851fe615971e746d28c541b009ae9550e23"
+      }
+    ]
+  },
+  "KZ_SEQ_MATCH_VS_CHANCE": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Show why tower/red/ice resembles the lighthouse",
+      "Downgrade one resemblance to a chance-compatible observation",
+      "Expose interpretation after the answer is known"
+    ],
+    "first_start_seconds": 283.14,
+    "last_end_seconds": 295.38,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-082",
+        "state_id": "KZ_TARGET_MATCH_LIGHTHOUSE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 283.14,
+        "end_seconds": 289.24,
+        "visual_action": "Advance the controlled-test procedure to state KZ_TARGET_MATCH_LIGHTHOUSE; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_TARGET_MATCH_LIGHTHOUSE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "d842806a593eefffda8b99cf723c9c337fe9daf9ce8ddcb5e9f0da1d7b29a10e"
+      },
+      {
+        "cue_id": "KZ-CUE-083",
+        "state_id": "KZ_CARD_ONE_MATCH_CHANCE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 289.88,
+        "end_seconds": 291.98,
+        "visual_action": "Progressively reveal state KZ_CARD_ONE_MATCH_CHANCE; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_ONE_MATCH_CHANCE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "facb6e5db00c37b596405996224d5dddf53fdf44634c4d8ef288a8c43afed7c9"
+      },
+      {
+        "cue_id": "KZ-CUE-084",
+        "state_id": "KZ_CARD_POSTHOC_INTERPRETATION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 292.58,
+        "end_seconds": 295.38,
+        "visual_action": "Progressively reveal state KZ_CARD_POSTHOC_INTERPRETATION; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_POSTHOC_INTERPRETATION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "51dbe581b66b78d1334bdd52a8c3896aa57f703853e26892a0beb7f796cb8524"
+      }
+    ]
+  },
+  "KZ_SEQ_PREDICTIONS_AND_MISSING_TEST": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL",
+      "INNER_HYPOTHESIS",
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Show the repeated blinded pattern that would matter",
+      "Separate the predictions of all three explanations",
+      "Psychology predicts an intense state, not target access",
+      "Use a new prediction card instead of returning to the variables card",
+      "Show that neither ordinary branch predicts a random hidden image",
+      "Make the missing controlled experiment the central absence"
+    ],
+    "first_start_seconds": 296.0,
+    "last_end_seconds": 316.99,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-085",
+        "state_id": "KZ_REPLICATION_REPEATED_BLIND",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 296.0,
+        "end_seconds": 299.86,
+        "visual_action": "Advance the controlled-test procedure to state KZ_REPLICATION_REPEATED_BLIND; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_REPLICATION_REPEATED_BLIND.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "bcdea33e3f221dcd615d3bd439c86d0f118b8ffcb763a4197f21a182d8f949a7"
+      },
+      {
+        "cue_id": "KZ-CUE-086",
+        "state_id": "KZ_MYSTIC_THEORIES_FORCED_APART",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 299.9,
+        "end_seconds": 301.94,
+        "visual_action": "Force the explanations apart as distinct heat, light and sensor traces across one real chamber gap.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_THEORIES_FORCED_APART.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "367c32c82e7257127dc9cdd00461fd0941710e40915e6642411dee635651543c"
+      },
+      {
+        "cue_id": "KZ-CUE-087",
+        "state_id": "KZ_PSYCHOLOGY_ISOLATION_BODY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 302.53,
+        "end_seconds": 304.77,
+        "visual_action": "Show the psychology prediction as a human body under sensory isolation, not an abstract card.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_PSYCHOLOGY_ISOLATION_BODY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "7c285ef6e517236417951a226b1f0616c6fadf92b4c4dcdb88bb7c07d2899a56"
+      },
+      {
+        "cue_id": "KZ-CUE-088",
+        "state_id": "KZ_PHYSICAL_MEASUREMENT_CLOSEUP",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 305.22,
+        "end_seconds": 308.09,
+        "visual_action": "Move to an ordinary analog measurement close-up for the physical prediction.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_PHYSICAL_MEASUREMENT_CLOSEUP.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "44b481a47618b2692b14698d8f76dcd51d82626d06c24c82cbc47d8fd7c9d295"
+      },
+      {
+        "cue_id": "KZ-CUE-089",
+        "state_id": "KZ_RANDOM_TARGET_SEALED_VAULT",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 308.82,
+        "end_seconds": 311.24,
+        "visual_action": "Make the random-target boundary tangible in a separate room with sealed choices and controlled access.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_RANDOM_TARGET_SEALED_VAULT.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "2ae1362ca7e22422680233b850cdcd3050d7aae6fd32fafcd788089385535dd2"
+      },
+      {
+        "cue_id": "KZ-CUE-090",
+        "state_id": "KZ_CLIP_MISSING_EXPERIMENT_VOID",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 312.69,
+        "end_seconds": 316.99,
+        "visual_action": "Let the lab visibly power down toward an empty results tray so the missing experiment becomes an experience, not a title card.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_MISSING_EXPERIMENT_VOID.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "f7dcc594dbdcb9d9ca361c7fd00de8d717a67942680b3269b59db547a5e1144f"
+      }
+    ]
+  },
+  "KZ_SEQ_EVIDENCE_AND_REPLICATION": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "ORIGINAL_DOCUMENT",
+      "EXPLANATORY_MODEL"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Return to the real patent in the source stack",
+      "Return to the researchers' extraordinary-effect publications",
+      "Show the broken independent-replication chain",
+      "Separate the documented apparatus from missing empirical evidence",
+      "Name the independent result as the missing link"
+    ],
+    "first_start_seconds": 317.61,
+    "last_end_seconds": 338.24,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-091",
+        "state_id": "KZ_DOC_016",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 317.61,
+        "end_seconds": 321.159,
+        "visual_action": "Show the authentic patent-office line and full page context as the real-patent anchor.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_016.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "55337874cd80dc333843bf61f3129e2f11dca69964cd36115afc0d62e7e2ac1a"
+      },
+      {
+        "cue_id": "KZ-CUE-092",
+        "state_id": "KZ_DOC_029",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 321.2,
+        "end_seconds": 326.68,
+        "visual_action": "Show the complete authors' English abstract with genuine information-transmission and unusual-optical-effects phrases highlighted.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_029.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "5fa397fec63035bfbd25d43fa7402b003021f3740dba81fd888b7bf38d34ccb5"
+      },
+      {
+        "cue_id": "KZ-CUE-093",
+        "state_id": "KZ_REPLICATION_CHAIN_MISSING",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 326.72,
+        "end_seconds": 333.18,
+        "visual_action": "Advance the controlled-test procedure to state KZ_REPLICATION_CHAIN_MISSING; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_REPLICATION_CHAIN_MISSING.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "3e57395bee4e12ba382f6d811c015f36a4cb885bd9fcdf3765dc3bf10bcb656a"
+      },
+      {
+        "cue_id": "KZ-CUE-094",
+        "state_id": "KZ_CARD_APPARATUS_NOT_EVIDENCE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 334.04,
+        "end_seconds": 336.08,
+        "visual_action": "Progressively reveal state KZ_CARD_APPARATUS_NOT_EVIDENCE; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_APPARATUS_NOT_EVIDENCE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "16753ca6229b272be890c2b9a732e9e9c5269a67c6a65f68786618c7a169fa18"
+      },
+      {
+        "cue_id": "KZ-CUE-095",
+        "state_id": "KZ_CARD_INDEPENDENT_RESULT",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 336.72,
+        "end_seconds": 338.24,
+        "visual_action": "Progressively reveal state KZ_CARD_INDEPENDENT_RESULT; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_INDEPENDENT_RESULT.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "74fae680d5162da77cee2b383598aceb7cf37e2134840048c41486a7c3c8b5ac"
+      }
+    ]
+  },
+  "KZ_SEQ_PATENT_AUTHORITY_TRAP": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "INTERPRETIVE_FILMIC",
+      "ORIGINAL_DOCUMENT",
+      "ORIGINAL_TECHNICAL_FIGURE",
+      "EXPLANATORY_MODEL",
+      "EVIDENCE_PROCESS"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Set up the final patent-authority trap",
+      "Let the formal page resemble a verdict before deconstruction",
+      "Isolate the government number",
+      "Isolate the dates",
+      "Isolate the inventor names",
+      "Isolate the technical drawings",
+      "Name why the page feels authoritative",
+      "Expose the online patented-means-proven inference",
+      "Break the false inference with a short hard stop",
+      "List the legitimate provenance uses of a patent",
+      "State that patent status does not certify extraordinary effects"
+    ],
+    "first_start_seconds": 339.24,
+    "last_end_seconds": 365.68,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-096",
+        "state_id": "KZ_FILM_PATENT_AUTHORITY_LIGHTTABLE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 339.24,
+        "end_seconds": 341.6,
+        "visual_action": "Set up the authority trap as a filmic light-table metaphor with no readable synthetic document.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/FINAL_DOCUMENT_REPAIR/KZ_FILM_PATENT_AUTHORITY_LIGHTTABLE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "ed5f51905041404ffa812468be19b9b542563f63f2ce5cf19e07370c11bdf1e1"
+      },
+      {
+        "cue_id": "KZ-CUE-097",
+        "state_id": "KZ_FILM_PATENT_AUTHORITY_LIGHTTABLE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 342.16,
+        "end_seconds": 343.2,
+        "visual_action": "Continue the same uninterrupted authority image through the verdict line.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/FINAL_DOCUMENT_REPAIR/KZ_FILM_PATENT_AUTHORITY_LIGHTTABLE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "ed5f51905041404ffa812468be19b9b542563f63f2ce5cf19e07370c11bdf1e1"
+      },
+      {
+        "cue_id": "KZ-CUE-098",
+        "state_id": "KZ_DOC_030",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 343.49,
+        "end_seconds": 344.31,
+        "visual_action": "Begin one static authentic metadata composite containing the complete number, date and inventor fields.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_030.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "f7882bcdd3d1ddfe55d044ac9097685b394af40653a5a2c7165506e54aab54ac"
+      },
+      {
+        "cue_id": "KZ-CUE-099",
+        "state_id": "KZ_DOC_030",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 344.86,
+        "end_seconds": 345.19,
+        "visual_action": "Continue the same static metadata composite; complete application/publication lines remain visible.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_030.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "f7882bcdd3d1ddfe55d044ac9097685b394af40653a5a2c7165506e54aab54ac"
+      },
+      {
+        "cue_id": "KZ-CUE-100",
+        "state_id": "KZ_DOC_030",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 345.44,
+        "end_seconds": 345.93,
+        "visual_action": "Continue the same static metadata composite; complete inventor lines remain visible.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_030.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "f7882bcdd3d1ddfe55d044ac9097685b394af40653a5a2c7165506e54aab54ac"
+      },
+      {
+        "cue_id": "KZ-CUE-101",
+        "state_id": "KZ_FIG_PATENT_DRAWING_FIG3",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 346.42,
+        "end_seconds": 347.39,
+        "visual_action": "Show the previously unused authentic Figure 3 spiral page, distinct from the earlier motorized-platform figure.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/FINAL_DOCUMENT_TIMELINE/KZ_FIG_PATENT_DRAWING_FIG3.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "6a39d1b33be90b6c99c9ee04ac1295f4c765409ceb464bb96b08764ee8d62742"
+      },
+      {
+        "cue_id": "KZ-CUE-102",
+        "state_id": "KZ_CARD_LANGUAGE_OF_AUTHORITY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 347.7,
+        "end_seconds": 348.91,
+        "visual_action": "Progressively reveal state KZ_CARD_LANGUAGE_OF_AUTHORITY; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_LANGUAGE_OF_AUTHORITY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "06b962d2096fd8f67920fafa8ad53fe9c2463beea87035ccfd69d8715fb138a4"
+      },
+      {
+        "cue_id": "KZ-CUE-103",
+        "state_id": "KZ_ONLINE_PATENT_AUTHORITY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 349.94,
+        "end_seconds": 354.5,
+        "visual_action": "Use a contemporary patent-search moment to expose the authority shortcut from patented to proven.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/CLUSTER_BREAKS/KZ_ONLINE_PATENT_AUTHORITY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "0f40aa7b607517301620fcc0ff939778d4c18a248e4c14d78fcb09cb24180b08"
+      },
+      {
+        "cue_id": "KZ-CUE-104",
+        "state_id": "KZ_CARD_IT_DOES_NOT",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 354.54,
+        "end_seconds": 355.17,
+        "visual_action": "Progressively reveal state KZ_CARD_IT_DOES_NOT; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_CARD_IT_DOES_NOT.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "085d49bdd725ecf07eec1b22e70eecadc3383f801a1b328d5e02a647030f133d"
+      },
+      {
+        "cue_id": "KZ-CUE-105",
+        "state_id": "KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 355.6,
+        "end_seconds": 362.039,
+        "visual_action": "Begin a progressive evidence-desk-to-empty-result sequence explaining what a patent can establish.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "A 13.96-second continuous sequence is justified by three visible phases: scope card, provenance desk, then empty empirical result.",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e20ace175db1564b206514da93b1db881bb7175f408986ede63d08e1b53b10f9"
+      },
+      {
+        "cue_id": "KZ-CUE-106",
+        "state_id": "KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 362.06,
+        "end_seconds": 365.68,
+        "visual_action": "Continue to the empty result state while the narration states the evidentiary limit.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "Continuous evolving clip; no restart.",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e20ace175db1564b206514da93b1db881bb7175f408986ede63d08e1b53b10f9"
+      }
+    ]
+  },
+  "KZ_SEQ_PATENT_PHYSICAL_PAYOFF": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EVIDENCE_PROCESS",
+      "ORIGINAL_DOCUMENT",
+      "RECONSTRUCTION",
+      "PHYSICAL_RECAP"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Reframe the patent as invaluable documentation, not proof",
+      "Return to the dimensions the document actually supplies",
+      "One continuous accepted material-detail shot across alloy, surface and fasteners",
+      "Use a distinct text detail rather than returning to the earlier focus diagram",
+      "Use a new verified direction detail rather than the earlier comparison model",
+      "Use a new verified rotation detail rather than the earlier figure-four export",
+      "New physical macro action for the screws payoff; not a crop of HERO02"
+    ],
+    "first_start_seconds": 366.32,
+    "last_end_seconds": 379.69,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-107",
+        "state_id": "KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 366.32,
+        "end_seconds": 369.34,
+        "visual_action": "End on the patent's documentary value without returning to a document card.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "Continuous evolving clip; no restart.",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "e20ace175db1564b206514da93b1db881bb7175f408986ede63d08e1b53b10f9"
+      },
+      {
+        "cue_id": "KZ-CUE-108",
+        "state_id": "KZ_DOC_031",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 369.36,
+        "end_seconds": 370.89,
+        "visual_action": "Hold a distinct mobile-readable composition of the complete dimensions/material sentence.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DOCUMENT_EVIDENCE/KZ_DOC_031.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "ecf8198f889c40ad580cd892465c8d1bb50f4a89a850254ded11de0912ea4487"
+      },
+      {
+        "cue_id": "KZ-CUE-109",
+        "state_id": "KZ_EN_HERO02",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 371.4,
+        "end_seconds": 372.31,
+        "visual_action": "Use a distinct physical macro crop for state KZ_EN_HERO02; do not repeat the previous framing",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NANO_BANANA_PRO/KZ_EN_HERO02.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "dbb0b6084fcaca2a28556837b1fd43f258962dd9875758d5c6418a9bd5ca372f"
+      },
+      {
+        "cue_id": "KZ-CUE-110",
+        "state_id": "KZ_EN_HERO02",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 372.62,
+        "end_seconds": 373.56,
+        "visual_action": "Use a distinct physical macro crop for state KZ_EN_HERO02; do not repeat the previous framing",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NANO_BANANA_PRO/KZ_EN_HERO02.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "dbb0b6084fcaca2a28556837b1fd43f258962dd9875758d5c6418a9bd5ca372f"
+      },
+      {
+        "cue_id": "KZ-CUE-111",
+        "state_id": "KZ_EN_HERO02",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 373.9,
+        "end_seconds": 374.45,
+        "visual_action": "Use a distinct physical macro crop for state KZ_EN_HERO02; do not repeat the previous framing",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NANO_BANANA_PRO/KZ_EN_HERO02.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "dbb0b6084fcaca2a28556837b1fd43f258962dd9875758d5c6418a9bd5ca372f"
+      },
+      {
+        "cue_id": "KZ-CUE-112",
+        "state_id": "KZ_CLIP_PATENT_FEATURES_RECAP",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 374.78,
+        "end_seconds": 375.61,
+        "visual_action": "Begin a new mechanical chamber insert with a progressive focal-distance overlay.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_PATENT_FEATURES_RECAP.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "47f76ce0a55f6e325f5aec0e15bdf930d6f538b9a2756a9d98ae227a1b2e624f"
+      },
+      {
+        "cue_id": "KZ-CUE-113",
+        "state_id": "KZ_CLIP_PATENT_FEATURES_RECAP",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 375.96,
+        "end_seconds": 376.5,
+        "visual_action": "Continue the same clip with direction indication; no document return.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_PATENT_FEATURES_RECAP.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "47f76ce0a55f6e325f5aec0e15bdf930d6f538b9a2756a9d98ae227a1b2e624f"
+      },
+      {
+        "cue_id": "KZ-CUE-114",
+        "state_id": "KZ_CLIP_PATENT_FEATURES_RECAP",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 376.8,
+        "end_seconds": 377.35,
+        "visual_action": "Finish the same clip at the physical drive/rotation state.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_PATENT_FEATURES_RECAP.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "47f76ce0a55f6e325f5aec0e15bdf930d6f538b9a2756a9d98ae227a1b2e624f"
+      },
+      {
+        "cue_id": "KZ-CUE-115",
+        "state_id": "KZ_EN_REC05_SCREWS_MACRO",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 378.14,
+        "end_seconds": 379.69,
+        "visual_action": "Use the concrete reconstruction state KZ_EN_REC05_SCREWS_MACRO; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_EN_REC05_SCREWS_MACRO.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "9047f8838703e45b41ab2165363465fb77a981026f79d3ef54336a4154c9a5ab"
+      }
+    ]
+  },
+  "KZ_SEQ_DOCUMENTED_RESIDUE": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "RECONSTRUCTION",
+      "PHYSICAL_CHAMBER",
+      "SUBJECTIVE_HYPOTHESIS",
+      "ORIGINAL_DOCUMENT"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Strip the legend back to an empty documented object",
+      "Pair the empty object with the document that establishes it",
+      "Show the correct researchers beside their unusual claims",
+      "Place intense-experience reports inside the project history",
+      "Show Kozyrev in a genuinely different authenticated context at the no-builder conclusion",
+      "Hold the unconfirmed central claim in an empty-room state"
+    ],
+    "first_start_seconds": 381.18,
+    "last_end_seconds": 402.25,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-116",
+        "state_id": "KZ_EN_REC18_EMPTY_CHAMBER_A",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 381.18,
+        "end_seconds": 383.35,
+        "visual_action": "Use the concrete reconstruction state KZ_EN_REC18_EMPTY_CHAMBER_A; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_EN_REC18_EMPTY_CHAMBER_A.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "48597c544d2e2d6f8097f9aca0665e1981d3a6ce6c46eb260b8d3b2fed6102cd"
+      },
+      {
+        "cue_id": "KZ-CUE-117",
+        "state_id": "KZ_EN_REC18_EMPTY_CHAMBER_A",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 383.83,
+        "end_seconds": 385.66,
+        "visual_action": "Continue the immediately preceding empty-chamber payoff as one uninterrupted physical state; the patent has already been established by authentic evidence.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_EN_REC18_EMPTY_CHAMBER_A.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "48597c544d2e2d6f8097f9aca0665e1981d3a6ce6c46eb260b8d3b2fed6102cd"
+      },
+      {
+        "cue_id": "KZ-CUE-118",
+        "state_id": "KZ_MYSTIC_CLAIMS_TRIAD",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 386.04,
+        "end_seconds": 392.4,
+        "visual_action": "Show perception, distant information and temporal ambiguity as three unresolved chamber reflections, not as a source quote.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/FINAL_DOCUMENT_REPAIR/KZ_MYSTIC_CLAIMS_TRIAD.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "52e4adf4aec7c77d5d4d0e0dc3455badc5880c512d66e2fbd546988a50dcf626"
+      },
+      {
+        "cue_id": "KZ-CUE-119",
+        "state_id": "KZ_MYSTIC_INTENSE_EXPERIENCE_HISTORY",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 392.46,
+        "end_seconds": 396.03,
+        "visual_action": "Use a unique body-boundary experience image for the historical report beat; no fake phrase or horror figure.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/FINAL_DOCUMENT_REPAIR/KZ_MYSTIC_INTENSE_EXPERIENCE_HISTORY.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a4e749c6e56275bfa876e11875a1d9e832924bb7a4d2ee6e5fb36b1f45b5002b"
+      },
+      {
+        "cue_id": "KZ-CUE-120",
+        "state_id": "KZ_HISTORY_KOZYREV_NOT_CHAMBER_BUILDER",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 396.64,
+        "end_seconds": 399.48,
+        "visual_action": "Return to a new factual patent detail: the inventor field lists Kaznacheev and Trofimov, not Kozyrev.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_HISTORY_KOZYREV_NOT_CHAMBER_BUILDER.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "c48e615219c93dc11f65719fbddc625fe13c263ac2626b290933b49cca0d3f5e"
+      },
+      {
+        "cue_id": "KZ-CUE-121",
+        "state_id": "KZ_EN_REC18_EMPTY_CHAMBER_B",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 400.08,
+        "end_seconds": 402.25,
+        "visual_action": "Use the concrete reconstruction state KZ_EN_REC18_EMPTY_CHAMBER_B; preserve chamber geometry and change framing or action",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/KZ_EN_REC18_EMPTY_CHAMBER_B.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "207be057a6456f003d87f687e60d94f39d3a4967c8683013b749f6f311f2dcad"
+      }
+    ]
+  },
+  "KZ_SEQ_FINAL_TEST_QUESTION": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "INNER_HYPOTHESIS",
+      "EXPLANATORY_MODEL",
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Use a new decisive-question composition, not the earlier distant-image motif",
+      "Return to the exact clean test",
+      "Use a new terminal missing-result state rather than restarting the replication-chain asset"
+    ],
+    "first_start_seconds": 402.9,
+    "last_end_seconds": 412.05,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-122",
+        "state_id": "KZ_MYSTIC_DECISIVE_INFORMATION_QUESTION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 402.9,
+        "end_seconds": 408.17,
+        "visual_action": "Stage the decisive question across observer, participant and sealed target without claiming an answer.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_DECISIVE_INFORMATION_QUESTION.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "26a9e0177daa479801d034377e50d74c44f68a8f04c95c23cc9796cb9db7881a"
+      },
+      {
+        "cue_id": "KZ-CUE-123",
+        "state_id": "KZ_PROTOCOL_CLEAN_TEST",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 408.81,
+        "end_seconds": 410.14,
+        "visual_action": "Advance the controlled-test procedure to state KZ_PROTOCOL_CLEAN_TEST; retain fixed targets and ordering",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_PROTOCOL_CLEAN_TEST.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "f156fe19a4c0a1786e9561752cb81b2319dfbf7cedf940ee28a04d219721b2c3"
+      },
+      {
+        "cue_id": "KZ-CUE-124",
+        "state_id": "KZ_MYSTIC_RESULT_STILL_MISSING",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 410.54,
+        "end_seconds": 412.05,
+        "visual_action": "Show the absent chair, unplugged sensor and dark final chamber layer as the missing result.",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/NATIVE_IMAGEGEN/EXPERIENTIAL_UPGRADE/KZ_MYSTIC_RESULT_STILL_MISSING.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "58168fa3849c0103e9c65098926ef206f9a4d66f251c46f4973af97143fd84fd"
+      }
+    ]
+  },
+  "KZ_CLIP_EMPTY_SPIRAL_PAYOFF": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "RECONSTRUCTION"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Unresolved empty chamber payoff across the final two questions"
+    ],
+    "first_start_seconds": 412.82,
+    "last_end_seconds": 421.24,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-125",
+        "state_id": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 412.82,
+        "end_seconds": 415.37,
+        "visual_action": "Use the concrete reconstruction state KZ_CLIP_EMPTY_SPIRAL_PAYOFF; preserve chamber geometry and change framing or action",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "The final chamber action advances continuously from mechanical stillness to a changing reflection/shadow and unresolved darkness across two questions; it is never restarted.",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_EMPTY_SPIRAL_PAYOFF.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a67a29d73f5e19c0f2698c895538ac162373ed7fe9ef3ed7786eb5cfbbda7c50"
+      },
+      {
+        "cue_id": "KZ-CUE-126",
+        "state_id": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 415.78,
+        "end_seconds": 421.24,
+        "visual_action": "Use the concrete reconstruction state KZ_CLIP_EMPTY_SPIRAL_PAYOFF; preserve chamber geometry and change framing or action",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "The final chamber action advances continuously from mechanical stillness to a changing reflection/shadow and unresolved darkness across two questions; it is never restarted.",
+        "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_EMPTY_SPIRAL_PAYOFF.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "a67a29d73f5e19c0f2698c895538ac162373ed7fe9ef3ed7786eb5cfbbda7c50"
+      }
+    ]
+  },
+  "KZ_SEQ_FORT_MEADE_HANDOFF": {
+    "status": "READY",
+    "visual_modes_internal": [
+      "EXPLANATORY_MODEL",
+      "INNER_HYPOTHESIS"
+    ],
+    "visible_mode_badge": "NO",
+    "viewer_functions": [
+      "Move the next-file handoff out of the chamber and across the map",
+      "Land geographically on Fort Meade",
+      "Tease the next protocol's three-observer time structure"
+    ],
+    "first_start_seconds": 421.94,
+    "last_end_seconds": 431.98,
+    "states": [
+      {
+        "cue_id": "KZ-CUE-127",
+        "state_id": "KZ_MAP_NOVOSIBIRSK_TO_FORT_MEADE",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 421.94,
+        "end_seconds": 425.2,
+        "visual_action": "Progressively reveal state KZ_MAP_NOVOSIBIRSK_TO_FORT_MEADE; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_MAP_NOVOSIBIRSK_TO_FORT_MEADE.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "7c82ba7ac5e50b29ac85ce9665970d5cb6d13ca7099c899fefc757902464f0cf"
+      },
+      {
+        "cue_id": "KZ-CUE-128",
+        "state_id": "KZ_MAP_FORT_MEADE_ZOOM",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 425.72,
+        "end_seconds": 427.44,
+        "visual_action": "Progressively reveal state KZ_MAP_FORT_MEADE_ZOOM; one spoken claim at a time, no production-mode badge",
+        "motion_class": "STATIC_OR_NEAR_STATIC",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/GENERATED/DETERMINISTIC/KZ_MAP_FORT_MEADE_ZOOM.png",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "fcb3a123f91380576acf36a22d6b6d12a4b4ee92b20fb201c4fe37ecdd9ee094"
+      },
+      {
+        "cue_id": "KZ-CUE-129",
+        "state_id": "KZ_CLIP_THREE_OBSERVERS_TRANSITION",
+        "component_status": "SELECTED_READY",
+        "start_seconds": 427.48,
+        "end_seconds": 431.98,
+        "visual_action": "Move one practical reflection through three empty observer positions for an EP01-only closing promise that does not pre-use Gateway imagery.",
+        "motion_class": "PROGRESSIVE_MOTION",
+        "long_hold_reason": "",
+        "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_THREE_OBSERVERS_TRANSITION.mp4",
+        "series_usage": "EP01_ONLY",
+        "content_sha256": "56e8534d7bd92dd84818b1e0b3726ec56c7aa058d16999ad41fa89576cbe43b9"
+      }
+    ]
+  }
+}

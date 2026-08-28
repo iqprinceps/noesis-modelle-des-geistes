@@ -1,0 +1,80 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.52,
+    "similarity_boost": 0.82,
+    "style": 0.1,
+    "speed": 1.08,
+    "use_speaker_boost": true
+  },
+  "seed": 2403,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "codec": "pcm_s24le",
+  "duration": 434.632,
+  "measured": {
+    "input_i": "-18.06",
+    "input_tp": "-5.00",
+    "input_lra": "2.30",
+    "input_thresh": "-28.46",
+    "output_i": "-18.01",
+    "output_tp": "-4.30",
+    "output_lra": "2.10",
+    "output_thresh": "-28.41",
+    "normalization_type": "dynamic",
+    "target_offset": "0.01"
+  },
+  "stems": [
+    {
+      "id": "EP01_EN_01_HOOK",
+      "start": 0.35,
+      "end": 70.362,
+      "duration": 70.012
+    },
+    {
+      "id": "EP01_EN_02_KOZYREV",
+      "start": 70.962,
+      "end": 114.828,
+      "duration": 43.866
+    },
+    {
+      "id": "EP01_EN_03_MACHINE",
+      "start": 115.428,
+      "end": 166.679,
+      "duration": 51.25
+    },
+    {
+      "id": "EP01_EN_04_ESCALATION",
+      "start": 167.279,
+      "end": 185.65,
+      "duration": 18.371
+    },
+    {
+      "id": "EP01_EN_05_THREE_THEORIES",
+      "start": 186.25,
+      "end": 247.903,
+      "duration": 61.653
+    },
+    {
+      "id": "EP01_EN_06_BLIND_TARGET",
+      "start": 248.503,
+      "end": 312.013,
+      "duration": 63.51
+    },
+    {
+      "id": "EP01_EN_07_MISSING_RESULT",
+      "start": 312.613,
+      "end": 380.489,
+      "duration": 67.876
+    },
+    {
+      "id": "EP01_EN_08_RESIDUE_HANDOFF",
+      "start": 381.089,
+      "end": 432.432,
+      "duration": 51.343
+    }
+  ],
+  "sha256": "3f3d5b309f82e32970fe87e9647ce57e72cd957a74a0d185a6d356d155229a10"
+}

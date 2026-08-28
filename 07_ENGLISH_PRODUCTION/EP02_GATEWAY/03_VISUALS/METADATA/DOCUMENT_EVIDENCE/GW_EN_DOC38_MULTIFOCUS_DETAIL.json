@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 28,
+  "phrase": "multi-focus approach",
+  "match_count": 2,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    75.0,
+    612.0,
+    215.5
+  ],
+  "highlight_rects": [
+    [
+      121.42,
+      99.41,
+      188.17,
+      109.22
+    ],
+    [
+      194.63,
+      98.71,
+      238.27,
+      108.19
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

@@ -2,6 +2,13 @@
 
 **Status:** Handoff-produktionsreif für Type B.
 
+> **Produktions-Override:** Für neue oder neu geschnittene Videos gilt
+> [`../../01_GLOBAL/00A_PRODUKTIONS_INDIVIDUALITAET.md`](../../01_GLOBAL/00A_PRODUKTIONS_INDIVIDUALITAET.md).
+> Die konkreten Shot-, Asset-, Clip-, Karten- und Timingzahlen in den Type-B-Dateien
+> dokumentieren einzelne Produktionen. Sie werden nicht auf neue Folgen übertragen,
+> ohne die Zuschauerwirkung der jeweiligen Folge neu zu prüfen. Evidenzklassen und
+> Rekonstruktionsarten bleiben interne Metadaten, keine Dauerlabels im Bild.
+
 ## Zuerst lesen
 
 Die verbindliche Episoden- und Serienzuordnung steht in **`EPISODE_MAP.md`**. Diese Datei ist die Source of Truth, wenn ältere Ordnernamen oder Commits uneindeutig wirken.
@@ -45,7 +52,8 @@ Type B ist das Landkarten- und Bewusstseinsformat. Es erzeugt Spannung nicht dur
 5. Asset Agent lädt freigegebene Originalassets.
 6. Visual Agent rendert MAIN plus Reserve.
 7. Editor setzt Originalassets und generierte Visuals gemäß Cue Sheet.
-8. QC Agent prüft Evidenzlabels, Rechte, Rhythmus und Tonfall.
+8. QC prüft sachliche Bildunterscheidbarkeit, Rechte, Rhythmus und Tonfall; keine
+   dauerhaften Evidenz- oder Rekonstruktionslabels sind vorgeschrieben.
 
 **Wichtig:** Dateien mit Status `EVIDENCE-ONLY`, `AMBER`, `YELLOW` oder `RED` dürfen nicht automatisch als final freigegebenes Bildmaterial behandelt werden. Für EP04A/EP04B gilt die Ampellogik des gemeinsamen Phase-2-Pakets.
 

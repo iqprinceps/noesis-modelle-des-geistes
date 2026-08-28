@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_FILMIC12_RIGHT_EAR_HEADPHONE_MACRO",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Distinct reverse-angle extreme macro of the right ear under a different 1970s headphone cup, seen through the arc of the headband with the second cable channel in sharp focus. Natural skin and hair, old foam and oxidized metal, soft blue institutional light. Not a mirrored duplicate of another shot; no text or waveform graphics.",
+  "prompt_sha256": "cfcdd044783867186fcb4cd58e26acd369c57797aa472d9d70051dea94868de3",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_FILMIC12_RIGHT_EAR_HEADPHONE_MACRO_PREVIEW.png",
+  "output_sha256": "d72ad8cd02aa5b23fb5cf93f9d325bd72ddd585d8e445151a7efc520af97903e",
+  "seconds": 9.316,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

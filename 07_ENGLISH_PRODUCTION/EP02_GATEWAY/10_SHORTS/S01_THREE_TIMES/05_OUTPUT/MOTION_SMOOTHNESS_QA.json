@@ -1,0 +1,150 @@
+{
+  "status": "FAIL",
+  "shots_checked": 16,
+  "shots": [
+    {
+      "segment": "00.mp4",
+      "status": "PASS",
+      "frames_checked": 140,
+      "central_median_adjacent_difference": 0.560078,
+      "central_jerk_over_median": 0.5561,
+      "central_p95_over_median": 2.1907,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "01.mp4",
+      "status": "PASS",
+      "frames_checked": 34,
+      "central_median_adjacent_difference": 0.940443,
+      "central_jerk_over_median": 0.0797,
+      "central_p95_over_median": 1.1345,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "02.mp4",
+      "status": "PASS",
+      "frames_checked": 35,
+      "central_median_adjacent_difference": 0.601615,
+      "central_jerk_over_median": 0.1145,
+      "central_p95_over_median": 1.1998,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "03.mp4",
+      "status": "PASS",
+      "frames_checked": 41,
+      "central_median_adjacent_difference": 0.565469,
+      "central_jerk_over_median": 0.1301,
+      "central_p95_over_median": 1.2374,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "04.mp4",
+      "status": "PASS",
+      "frames_checked": 65,
+      "central_median_adjacent_difference": 0.428333,
+      "central_jerk_over_median": 0.1777,
+      "central_p95_over_median": 1.2652,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "05.mp4",
+      "status": "PASS",
+      "frames_checked": 67,
+      "central_median_adjacent_difference": 0.566024,
+      "central_jerk_over_median": 0.1942,
+      "central_p95_over_median": 1.4482,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "06.mp4",
+      "status": "FAIL_CADENCE",
+      "frames_checked": 92,
+      "central_median_adjacent_difference": 0.482578,
+      "central_jerk_over_median": 0.4419,
+      "central_p95_over_median": 2.5156,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "07.mp4",
+      "status": "PASS",
+      "frames_checked": 58,
+      "central_median_adjacent_difference": 0.384792,
+      "central_jerk_over_median": 0.2591,
+      "central_p95_over_median": 1.4784,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "08.mp4",
+      "status": "FAIL_CADENCE",
+      "frames_checked": 216,
+      "central_median_adjacent_difference": 0.345573,
+      "central_jerk_over_median": 0.8498,
+      "central_p95_over_median": 3.213,
+      "central_low_motion_ratio": 0.0078
+    },
+    {
+      "segment": "09.mp4",
+      "status": "PASS",
+      "frames_checked": 58,
+      "central_median_adjacent_difference": 0.664314,
+      "central_jerk_over_median": 0.1223,
+      "central_p95_over_median": 1.2228,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "10.mp4",
+      "status": "PASS",
+      "frames_checked": 70,
+      "central_median_adjacent_difference": 0.359227,
+      "central_jerk_over_median": 0.4301,
+      "central_p95_over_median": 1.7125,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "11.mp4",
+      "status": "PASS",
+      "frames_checked": 70,
+      "central_median_adjacent_difference": 0.478585,
+      "central_jerk_over_median": 0.3079,
+      "central_p95_over_median": 1.4705,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "12.mp4",
+      "status": "PASS",
+      "frames_checked": 101,
+      "central_median_adjacent_difference": 0.315937,
+      "central_jerk_over_median": 0.489,
+      "central_p95_over_median": 2.0305,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "13.mp4",
+      "status": "PASS",
+      "frames_checked": 52,
+      "central_median_adjacent_difference": 0.396458,
+      "central_jerk_over_median": 0.2259,
+      "central_p95_over_median": 1.3785,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "14.mp4",
+      "status": "FAIL_CADENCE",
+      "frames_checked": 89,
+      "central_median_adjacent_difference": 0.326927,
+      "central_jerk_over_median": 0.6772,
+      "central_p95_over_median": 2.2572,
+      "central_low_motion_ratio": 0.0
+    },
+    {
+      "segment": "15.mp4",
+      "status": "PASS",
+      "frames_checked": 60,
+      "central_median_adjacent_difference": 0.457856,
+      "central_jerk_over_median": 0.1912,
+      "central_p95_over_median": 1.5254,
+      "central_low_motion_ratio": 0.0
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+decision,asset_or_group,source_episode,target_timecode,english_voice_beat,provenance_rights,embedded_text,technical_quality,treatment
+USE,IMG001_SALEM_BEDROOM_COMAN_RECON.png,DE_EP07,00:00-00:07,locked Salem room,internal generated/no portrait claim,none,2K 16:9 clean,cool regrade+eased motion
+USE,IMG002_COMAN_TRIES_TO_WAKE_WIFE.png,DE_EP07,00:07-00:14,cannot wake wife,internal generated/no portrait claim,none,2K 16:9 clean,warm lamp lift+eased motion
+USE,Richard_Coman_document_progressive_sequence,DE_EP07,00:14-00:31,statement/pressure/cannot speak nor stir,PD Salem primary document,original English handwriting,high-res source derivative,static full+precise highlights continuous only
+USE,IMG003_PRIVATE_NIGHT_TO_COURT.png,DE_EP07,00:31-00:40,private night crosses into court,internal generated,none,2K 16:9 clean,amber-to-cold regrade
+USE,Bridget_Bishop_execution_archive_scan,DE_EP07,00:40-00:47,eight days later hanged,PD archival scan,original source text,moderate native resolution,static contain+source footer
+USE,IMG004_BRIDGET_BISHOP_COURT_CONTEXT_RECON.png,DE_EP07,00:47-00:55,larger prosecution,internal reconstruction/no portrait claim,none,2K 16:9 clean,neutral court grade
+USE,Salem_Village_1692_map_Upham_1866,DE_EP07,00:55-01:02,Salem context,PD 1866 map,original English map text,high-res,static viewer map once
+USE,IMG050_PRIVATE_TO_PUBLIC_NETWORK.png,DE_EP07,01:02-01:10,what Salem did with it,internal generated,none,2K 16:9 clean,eased pullback
+USE,Fuseli_The_Nightmare_progressive_sequence,DE_EP07,01:42-02:04,painting/woman/incubus/horse,PD artwork+DIA record,none,high-res,full context then continuous precise details
+USE,IMG024_NIGHTMARE_PRINT_WORKSHOP.png,DE_EP07,02:04-02:11,image spreads,internal generated,none,2K 16:9 clean,warm grade+eased motion
+USE,Abildgaard_Nightmare_1800_full,DE_EP07,02:11-02:17,European motif,PD artwork,none,high-res,full context
+USE,CLIP002_NIGHTMARE_PRESSURE.mp4,DE_EP07,02:17-02:23,mare/mara pressure,internal generated,none,1080p24 clean,motion-interpolate 30p+visual QA
+USE,IMG025_MANY_ORIGINS_ARCHIVE_TABLE.png,DE_EP07,02:23-02:30,many names no genealogy,internal generated,none,2K 16:9 clean,warm grade
+USE,Jinn_from_Ali_manuscript_full,DE_EP07,02:30-02:36,traditions name agents,PD manuscript,source text,low-wide but usable,static contain
+USE,Kunisada_The_Ghost_full_print,DE_EP07,02:36-02:42,Japanese spectral tradition,PD print,none,portrait moderate resolution,contain no zoom
+USE,IMG027_KANASHIBARI_THRESHOLD.png,DE_EP07,02:42-02:49,kanashibari,internal generated,none,2K 16:9 clean,cool grade
+USE,IMG028_NEWFOUNDLAND_ORAL_HISTORY.png,DE_EP07,02:49-02:56,Old Hag oral tradition,internal generated/generic people,none,2K 16:9 clean,natural daylight
+USE,IMG026_SHARED_MECHANIC_RELIEF.png,DE_EP07,02:56-03:04,shared bodily pattern,internal generated,none,2K 16:9 clean,neutral relief grade
+USE,IMG029_HOUSEHOLD_EXPLANATION_CHOICES.png,DE_EP07,03:04-03:12,culture supplies cause,internal generated,none,2K 16:9 clean,warm grade
+USE,IMG030_RITUAL_AS_PRACTICAL_RESPONSE.png,DE_EP07,03:12-03:20,ritual as action,internal generated,none,2K 16:9 clean,warm practical grade
+USE,Malleus_1494_full_page,DE_EP07,03:20-03:26,early-modern explanatory world,PD Wellcome page,Latin source,high-res,static contain+footer
+USE,Examination_of_a_Witch_1853,DE_EP07,03:26-03:33,story becomes accusation,PD later depiction,none,high-res,label later depiction
+USE,Trial_George_Jacobs_later_depiction,DE_EP07,03:33-03:40,court machinery,PD later depiction,none,good 1080p,label later depiction
+USE,CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4,DE_EP07,03:40-03:46,bedroom opens outward,internal generated approved main clip,none,1080p24 clean,motion-interpolate 30p+visual QA
+USE,IMG031_HUFFORD_FIELD_INTERVIEW.png,DE_EP07,03:50-03:58,Hufford fieldwork,internal reconstruction/generic people,none,2K 16:9 clean,do not label face as Hufford
+USE,IMG011_HUFFORD_FIELD_NOTES_RECON.png,DE_EP07,03:58-04:06,Old Hag field notes,internal reconstruction,none,2K 16:9 clean,warm macro motion
+USE,IMG032_UNNAMED_FIRST_EPISODE.png,DE_EP07,04:06-04:14,experience before local story,internal generated,none,2K 16:9 clean,cool neutral
+USE,IMG043_FIRST_EPISODE_BODY_TRACE.png,DE_EP07,04:14-04:22,paralysis pressure presence first,internal generated,none,2K 16:9 clean,clinical countergrade
+USE,CLIP001_CULTURAL_MASKS.mp4,DE_EP07,04:22-04:28,story arrives later,internal generated approved main clip,none,1080p24 clean,motion-interpolate 30p+visual QA
+USE,IMG044_SAME_BODY_TWO_INTERPRETATIONS.png,DE_EP07,04:28-04:36,same structure different story,internal generated,none,2K 16:9 clean,warm/cool split
+USE,IMG034_TWO_EXPECTATIONS_THRESHOLD.png,DE_EP07,05:02-05:10,two expectations,internal generated,none,2K 16:9 clean,eased center move
+USE,IMG035_EGYPT_INTERVIEW_CONTEXT.png,DE_EP07,05:10-05:18,Egyptian sample,internal reconstruction/generic participant,none,2K 16:9 clean,warm daylight
+USE,Egypt_location_map,DE_EP07,05:18-05:23,locate Egypt,PD map rebuild,none,2560x1440,static viewer map
+USE,IMG036_DENMARK_INTERVIEW_CONTEXT.png,DE_EP07,05:23-05:31,Danish sample,internal reconstruction/generic participant,none,2K 16:9 clean,cool daylight
+USE,Denmark_location_map,DE_EP07,05:31-05:36,locate Denmark,PD map rebuild,none,2560x1440,static viewer map
+ADAPT,Jalal_Hinton_evidence_panels,NEW_EN,05:36-05:52,specific samples and outcomes,primary PubMed abstracts,build English,not yet built,two mobile panels exact measures
+USE,IMG045_EXPECTATION_ENTERS_BODY.png,DE_EP07,05:52-06:00,meaning enters body,internal generated,none,2K 16:9 clean,cool-to-warm
+USE,REM_Polysomnography_full_trace,DE_EP07,06:00-06:07,physiological counterpoint,PD shared science asset,trace labels,low native but usable,static contain+footer
+USE,NHLBI_Polysomnography_full_photo,DE_EP07,06:07-06:14,body measured during sleep,NHLBI public domain,none,modest native resolution,contain neutral matte
+USE,IMG046_RAW_MATERIAL_TO_FORM.png,DE_EP07,06:14-06:22,association not manufacture,internal generated,none,2K 16:9 clean,neutral grade
+USE,CLIP004_FEEDBACK_ENTITY.mp4,DE_EP07,06:22-06:28,meaning and distress entangle,internal generated,none,1080p24 clean,motion-interpolate 30p+visual QA
+USE,IMG047_CULTURE_FEEDBACK_BRAID.png,DE_EP07,06:28-06:36,fear fractures sleep,internal generated,none,2K 16:9 clean,eased diagonal
+USE,IMG048_STORY_BODY_RETURN.png,DE_EP07,06:36-06:44,episode confirms story,internal generated,none,2K 16:9 clean,contrast lift
+USE,IMG052_QUESTION_BETWEEN_MODELS.png,DE_EP07,06:44-06:52,story enters loop,internal generated,none,2K 16:9 clean,shadow detail lift
+USE,IMG053_PRESSURE_PRESENCE_RELIEF.png,DE_EP07,06:52-07:00,belief physical consequences,internal generated,none,2K 16:9 clean,neutral relief grade
+USE,IMG055_CULTURAL_FORM_SETTLES.png,DE_EP07,07:00-07:08,body and culture braid,internal generated,none,2K 16:9 clean,warm-to-cool
+USE,IMG056_PRESSURE_AS_MEMORY_RELIEF.png,DE_EP07,07:08-07:16,experience enters memory,internal generated,none,2K 16:9 clean,eased pullback
+USE,IMG057_PUBLIC_MEMORY_SHADOWS.png,DE_EP07,07:16-07:24,testimony becomes public truth,internal generated/no named portraits,none,2K 16:9 clean,public amber grade
+USE,IMG061_ONE_BODY_THREE_STORIES.png,DE_EP07,06:34-06:39,body memory room,internal generated,none,2K 16:9 clean,eased move
+ADAPT,EXPERIENCE_STORY_card,NEW_EN,06:39-06:47,interaction question,in-house graphic,English,built and mobile-QA passed,mobile high-contrast 2-word card
+USE,IMG060_WORD_LAYERS_CTA_BG.png,DE_EP07,07:45-07:53,body opens door,internal generated,none,2K 16:9 clean,English kinetic words in edit
+USE,IMG059_FUSELI_TO_SCREEN_STATIC.png,DE_EP07,07:53-08:03,face can travel,internal generated,none,2K 16:9 clean,end hold
+REJECT,*REJECTED_SOURCE_DRIFT*,DE_EP07,NONE,none,hard blocked,unknown,irrelevant,never copy/use
+REJECT,German_CARD*.png,DE_EP07,NONE,none,internal graphic,German,clean but wrong language,rebuild only needed cards
+REJECT,render/** and picture.mp4,DE_EP07/N_PART1,NONE,none,old finals,all baked,lossy rendered media,never source
+REJECT,Bridget_Bishop_lithograph_*,DE_EP07,NONE,named person,PD later portrayal,none,low resolution,avoid portrait confusion
+REJECT,German_source_replacement_cards,DE_EP07,NONE,none,internal replacement cards,German,clean but wrong language,rebuild evidence panels
+REJECT,IMG037_FEAR_SLEEP_DAY_NIGHT_LOOP.png,DE_EP07,NONE,none,internal generated,German labels,2K,reject baked German
+REJECT,IMG040_PRINT_TO_RADIO_NETWORK.png,DE_EP07,NONE,none,internal generated,generated readable-ish text,2K,reject invented content
+REJECT,IMG041_IMG042_IMG058_ArtBell_group,DE_EP07,NONE,none,mixed internal/source,none,varied,reject unused tangent
+REJECT,IMG051_NAME_WAITING_IN_SHADOW.png,DE_EP07,NONE,none,internal generated,none,2K,reject identity ambiguity
+REJECT,IMG054_BODY_RAW_MATERIAL.png,DE_EP07,NONE,none,internal generated,tiny label,2K,reject mobile ambiguity
+REJECT,reserve_clips_except_approved_main,DE_EP07,NONE,none,internal generated,none,1080p24,reject redundancy or identity risk
+REJECT,EP06_EP08_and_EN_PART1_nonlisted_assets,DE_EP06-DE_EP08/EN_PART1,NONE,continuity review,varied,varied,varied,reject thesis drift bed monotony or repeat pressure
+USE,IMG005_IMG006_IMG007_IMG008_IMG009_IMG010,DE_EP07,VOICE_EXACT_INTERMEDIATE,folklore and ritual transitions,internal generated,none,2K 16:9 clean,shared eased motion+scene regrade
+USE,IMG012_IMG013_IMG014_IMG015,DE_EP07,VOICE_EXACT_INTERMEDIATE,Hufford reversal and two-model comparison,internal generated,none,2K 16:9 clean,shared eased motion+scene regrade
+USE,IMG016_IMG017_IMG018_IMG033_IMG038_IMG039_IMG049_SHOT03,DE_EP07,VOICE_EXACT_INTERMEDIATE,study feedback memory and fieldwork,internal generated,none,2K 16:9 clean,shared eased motion+scene regrade

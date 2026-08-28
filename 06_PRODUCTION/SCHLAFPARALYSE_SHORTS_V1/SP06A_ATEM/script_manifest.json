@@ -1,0 +1,46 @@
+{
+  "topic": "Warum die Atmung bei typischer Schlafparalyse erhalten bleibt, obwohl Brustdruck und Erstickungsangst real wirken",
+  "channel_type": "explainer",
+  "style": "Editorial Motion Graphics — deep crimson",
+  "through_line": {
+    "name": "Atemfaden",
+    "asset": "P01_BREATH_THREAD",
+    "progression": "dünner bewegter Faden unter dem Brustkorb → sichtbare Verbindung zum Zwerchfell → ruhiger geschlossener Atemkreis",
+    "resolution": "Der Faden schließt sich als ruhiger Kreis und zeigt: Atembewegung blieb die ganze Zeit vorhanden."
+  },
+  "arc": {"hook": 1, "build": [], "turn": 2, "payoff": 3},
+  "blocks": [
+    {
+      "n": 1,
+      "arc_role": "hook",
+      "vo_line": "Du erstickst bei typischer Schlafparalyse nicht, obwohl dein Brustkorb bei vollem Bewusstsein Alarm schreit. Die Lähmung betrifft willkürliche Muskeln, während dein Zwerchfell weiterarbeitet und genau dieser Widerspruch macht das Gefühl so überzeugend.",
+      "location": "L01_SLEEP_BED_STAGE",
+      "through_line_state": "Ein dünner tiefroter Faden pulsiert sichtbar unter dem Brustkorb.",
+      "shots": ["HIGH WIDE: sleeper cutout snaps onto the bed stage as a pressure disc drops above the chest", "LATERAL MEDIUM: chest layers stagger inward while the breath thread keeps moving", "MACRO: the thread lifts and falls beneath a fixed paper weight", "TOP-DOWN CU: alarm strokes circle the chest but do not cut the thread", "LOW MEDIUM: the weight settles while the thread continues a calm micro-pulse"],
+      "assets_used": ["L01_SLEEP_BED_STAGE", "CHAR_SLEEPER", "P01_BREATH_THREAD"]
+    },
+    {
+      "n": 2,
+      "arc_role": "turn",
+      "vo_line": "Im REM-Schlaf verlieren besonders Haltungs- und Hilfsmuskeln spürbar ihren Tonus. Das Zwerchfell bleibt vergleichsweise aktiv, doch flachere Brustbewegung plus Panik kann aus normaler Atmung subjektiv eine täuschend schwere Last machen.",
+      "location": "L02_REM_LAB_STAGE",
+      "through_line_state": "Der Faden verbindet Brustkorb, Zwerchfell und eine abstrakte Lungenform.",
+      "shots": ["FULL-SPREAD HIGH: anatomical cutouts enter one by one around the breath thread", "SIDE CU: posture-muscle cards fold flat while the diaphragm card stays active", "MACRO LOW: the thread pulls a diaphragm arc down and releases it", "TOP-DOWN MEDIUM: panic rings multiply around an otherwise steady breathing loop", "LATERAL CU: the loop stamps into a stable rhythm as the other muscle cards remain flat"],
+      "assets_used": ["L02_REM_LAB_STAGE", "CHAR_SLEEPER", "P01_BREATH_THREAD"]
+    },
+    {
+      "n": 3,
+      "arc_role": "payoff",
+      "vo_line": "Darum hilft Wissen mehr als Kraft: langsam ausatmen, den Blick in Ruhe auf einen kleinen Muskel richten und die Episode abklingen lassen. Häufige Anfälle oder starke Tagesmüdigkeit gehören trotzdem ärztlich abgeklärt.",
+      "location": "L03_SLEEP_ROUTINE_STAGE",
+      "through_line_state": "Der Atemfaden schließt sich zu einem ruhigen Kreis um den Körper.",
+      "shots": ["MEDIUM FRONT: alarm strokes retreat as the sleeper focuses on one fingertip", "ECU HIGH: fingertip cutout twitches while the breath thread remains continuous", "LATERAL WIDE: the pressure disc slides away from the bed stage", "TOP-DOWN CU: the thread completes a circle with a soft paper snap", "FULL-SPREAD MEDIUM: the body rises from the bed as the calm circle settles and keeps moving"],
+      "assets_used": ["L03_SLEEP_ROUTINE_STAGE", "CHAR_SLEEPER", "P01_BREATH_THREAD"]
+    }
+  ],
+  "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10847011/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4016090/",
+    "https://www.rightdecisions.scot.nhs.uk/borders-ref-help-toolkit/neurology/sleep-symptoms/sleep-paralysis/"
+  ]
+}

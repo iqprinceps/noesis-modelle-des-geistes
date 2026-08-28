@@ -1,6 +1,6 @@
 {
   "episode": "EP06",
-  "duration": 619.035958,
+  "duration": 619.155958,
   "voice": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\voice\\master\\EP06_SCHLAFPARALYSE_V4_VO_MASTER.wav",
   "shots": [
     {
@@ -45,7 +45,7 @@
       "pace": "normal",
       "function": "no still >9s; no identical frame twice; no two consecutive shots from the same base asset",
       "notes": "",
-      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\ORIG024_1960S_DORM_CONTEXT.png",
+      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\SHOT04_EMPTY_BEDROOM_SHADOWS.png",
       "kind": "STILL",
       "start": 5.874,
       "end": 8.591,
@@ -290,7 +290,7 @@
       "duration": 3.797,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_003_EIN_MUSTER_DAS_ER_NICHT_KANNTE_05",
@@ -334,7 +334,7 @@
       "pace": "normal",
       "function": "no still >9s; no identical frame twice; no two consecutive shots from the same base asset",
       "notes": "",
-      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\02_ASSETS\\EP06_Fogo_Island_Newfoundland_fishing_village_2002.jpg",
+      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG061_FOGO_FIELDWORK_INTERVIEW_RECON.png",
       "kind": "STILL",
       "start": 62.3,
       "end": 66.05,
@@ -351,7 +351,7 @@
       "pace": "normal",
       "function": "no still >9s; no identical frame twice; no two consecutive shots from the same base asset",
       "notes": "",
-      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG007_FOGO_PLACE_ANCHOR_RECON.png",
+      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\EDITORIAL_DERIVATIVES\\SHOT35_FOGO_ARCHIVANKER.png",
       "kind": "STILL",
       "start": 66.05,
       "end": 69.8,
@@ -630,7 +630,7 @@
       "duration": 3.93,
       "scene_first": false,
       "scene_last": true,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_007_REM_ATONIE_01",
@@ -1391,8 +1391,8 @@
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\02_ASSETS\\EP06_Polysomnography_tester.jpg",
       "kind": "SOURCE_STATIC",
       "start": 293.42,
-      "end": 297.08,
-      "duration": 3.66,
+      "end": 297.812,
+      "duration": 4.392,
       "scene_first": true,
       "scene_last": false,
       "motion_policy": "STATIC_SOURCE"
@@ -1407,9 +1407,9 @@
       "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\02_ASSETS\\EP06_Polysomnography_model_side.jpg",
       "kind": "SOURCE_STATIC",
-      "start": 297.08,
-      "end": 300.74,
-      "duration": 3.66,
+      "start": 297.812,
+      "end": 302.204,
+      "duration": 4.392,
       "scene_first": false,
       "scene_last": false,
       "motion_policy": "STATIC_SOURCE"
@@ -1424,9 +1424,9 @@
       "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG017_SLEEP_LAB_WIDE_RECON.png",
       "kind": "STILL",
-      "start": 300.74,
-      "end": 304.4,
-      "duration": 3.66,
+      "start": 302.204,
+      "end": 306.596,
+      "duration": 4.392,
       "scene_first": false,
       "scene_last": false,
       "motion_policy": "STATIC_STILL"
@@ -1441,9 +1441,9 @@
       "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG018_SLEEP_INTERRUPTION_CLOCK.png",
       "kind": "STILL",
-      "start": 304.4,
-      "end": 308.06,
-      "duration": 3.66,
+      "start": 306.596,
+      "end": 310.988,
+      "duration": 4.392,
       "scene_first": false,
       "scene_last": false,
       "motion_policy": "SUBTLE_STILL"
@@ -1456,28 +1456,11 @@
       "pace": "normal",
       "function": "no still >9s; no identical frame twice; no two consecutive shots from the same base asset",
       "notes": "",
-      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\CARDS\\CARD003_TAKEUCHI_1992.png",
-      "kind": "CARD",
-      "start": 308.06,
-      "end": 311.72,
-      "duration": 3.66,
-      "scene_first": false,
-      "scene_last": false,
-      "motion_policy": "STATIC_CARD"
-    },
-    {
-      "shot_id": "EP06_TAKE_014_TAKEUCHI_1992_06",
-      "cue_id": "EP06_TAKE_014_TAKEUCHI_1992",
-      "scene": "S5",
-      "anchor": "Neunzehnhundertzweiundneunzig verändern japanische Schlafforscher den Schlaf von sechzehn",
-      "pace": "normal",
-      "function": "no still >9s; no identical frame twice; no two consecutive shots from the same base asset",
-      "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\CARDS\\CARD010_TAKEUCHI_PROTOCOL.png",
       "kind": "CARD",
-      "start": 311.72,
+      "start": 310.988,
       "end": 315.38,
-      "duration": 3.66,
+      "duration": 4.392,
       "scene_first": false,
       "scene_last": false,
       "motion_policy": "STATIC_CARD"
@@ -1497,7 +1480,7 @@
       "duration": 3.803,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_015_DER_UNTERBROCHENE_SCHLAF_02",
@@ -1548,7 +1531,7 @@
       "duration": 3.803,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_015_DER_UNTERBROCHENE_SCHLAF_05",
@@ -1565,7 +1548,7 @@
       "duration": 3.803,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_015_DER_UNTERBROCHENE_SCHLAF_06",
@@ -1592,14 +1575,14 @@
       "pace": "normal",
       "function": "no still >9s; no identical frame twice; no two consecutive shots from the same base asset",
       "notes": "",
-      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG040_INTERRUPTION_PROTOCOL_OBJECTS.png",
-      "kind": "STILL",
+      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\ORIG020_EEG_62_CHANNEL_CC0.png",
+      "kind": "SOURCE_STATIC",
       "start": 338.197,
       "end": 342.0,
       "duration": 3.803,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "STATIC_SOURCE"
     },
     {
       "shot_id": "EP06_TAKE_016_SECHS_EPISODEN_01",
@@ -1633,7 +1616,7 @@
       "duration": 3.397,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_016_SECHS_EPISODEN_03",
@@ -1735,7 +1718,7 @@
       "duration": 4.9,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_017_UND_TROTZDEM_KOMMT_ETWAS_MIT_02",
@@ -1752,7 +1735,7 @@
       "duration": 4.9,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_017_UND_TROTZDEM_KOMMT_ETWAS_MIT_03",
@@ -1786,7 +1769,7 @@
       "duration": 4.9,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_017_UND_TROTZDEM_KOMMT_ETWAS_MIT_05",
@@ -1803,7 +1786,7 @@
       "duration": 4.9,
       "scene_first": false,
       "scene_last": true,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_018_HEUTE_NACHT_01",
@@ -1820,7 +1803,7 @@
       "duration": 4.592,
       "scene_first": true,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_018_HEUTE_NACHT_02",
@@ -1837,7 +1820,7 @@
       "duration": 4.592,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_018_HEUTE_NACHT_03",
@@ -1854,7 +1837,7 @@
       "duration": 4.592,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_018_HEUTE_NACHT_04",
@@ -1871,7 +1854,7 @@
       "duration": 4.592,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_018_HEUTE_NACHT_05",
@@ -1888,7 +1871,7 @@
       "duration": 4.592,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_019_KOERPER_ODER_BESUCHER_01",
@@ -1922,7 +1905,7 @@
       "duration": 3.78,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_019_KOERPER_ODER_BESUCHER_03",
@@ -1939,7 +1922,7 @@
       "duration": 3.78,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_019_KOERPER_ODER_BESUCHER_04",
@@ -1956,7 +1939,7 @@
       "duration": 3.78,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_019_KOERPER_ODER_BESUCHER_05",
@@ -1973,7 +1956,7 @@
       "duration": 3.78,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_020_DIE_OFFENE_AUFGABE_01",
@@ -2007,7 +1990,7 @@
       "duration": 5.665,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_020_DIE_OFFENE_AUFGABE_03",
@@ -2024,7 +2007,7 @@
       "duration": 5.665,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_020_DIE_OFFENE_AUFGABE_04",
@@ -2041,7 +2024,7 @@
       "duration": 5.665,
       "scene_first": false,
       "scene_last": true,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_021_ALARM_OHNE_URSACHE_01",
@@ -2058,7 +2041,7 @@
       "duration": 4.316,
       "scene_first": true,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_021_ALARM_OHNE_URSACHE_02",
@@ -2075,7 +2058,7 @@
       "duration": 4.316,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_021_ALARM_OHNE_URSACHE_03",
@@ -2092,7 +2075,7 @@
       "duration": 4.316,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_021_ALARM_OHNE_URSACHE_04",
@@ -2126,7 +2109,7 @@
       "duration": 4.316,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_022_AUS_EINEM_SCHATTEN_WIRD_EINE_SCHULTER_01",
@@ -2143,7 +2126,7 @@
       "duration": 6.13,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_022_AUS_EINEM_SCHATTEN_WIRD_EINE_SCHULTER_02",
@@ -2160,7 +2143,7 @@
       "duration": 6.13,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_022_AUS_EINEM_SCHATTEN_WIRD_EINE_SCHULTER_03",
@@ -2177,7 +2160,7 @@
       "duration": 6.13,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_022_AUS_EINEM_SCHATTEN_WIRD_EINE_SCHULTER_04",
@@ -2194,7 +2177,7 @@
       "duration": 6.13,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_023_DIE_PRAESENZ_KOMMT_ZUERST_01",
@@ -2211,7 +2194,7 @@
       "duration": 6.328,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_023_DIE_PRAESENZ_KOMMT_ZUERST_02",
@@ -2228,7 +2211,7 @@
       "duration": 6.328,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_023_DIE_PRAESENZ_KOMMT_ZUERST_03",
@@ -2262,7 +2245,7 @@
       "duration": 6.328,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_023_DIE_PRAESENZ_KOMMT_ZUERST_05",
@@ -2279,7 +2262,7 @@
       "duration": 6.328,
       "scene_first": false,
       "scene_last": true,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_024_ZURUECK_ZU_HUFFORD_01",
@@ -2296,7 +2279,7 @@
       "duration": 5.328,
       "scene_first": true,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_024_ZURUECK_ZU_HUFFORD_02",
@@ -2330,7 +2313,7 @@
       "duration": 5.328,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_024_ZURUECK_ZU_HUFFORD_04",
@@ -2347,7 +2330,7 @@
       "duration": 5.328,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_024_ZURUECK_ZU_HUFFORD_05",
@@ -2364,7 +2347,7 @@
       "duration": 5.328,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_025_WARUM_WIRD_AUS_LAEHMUNG_EINE_BEGEGNUNG_01",
@@ -2381,7 +2364,7 @@
       "duration": 5.932,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_025_WARUM_WIRD_AUS_LAEHMUNG_EINE_BEGEGNUNG_02",
@@ -2398,7 +2381,7 @@
       "duration": 5.932,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_025_WARUM_WIRD_AUS_LAEHMUNG_EINE_BEGEGNUNG_03",
@@ -2415,7 +2398,7 @@
       "duration": 5.932,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "STATIC_STILL"
+      "motion_policy": "SUBTLE_STILL"
     },
     {
       "shot_id": "EP06_TAKE_025_WARUM_WIRD_AUS_LAEHMUNG_EINE_BEGEGNUNG_04",
@@ -2432,7 +2415,7 @@
       "duration": 5.932,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_025_WARUM_WIRD_AUS_LAEHMUNG_EINE_BEGEGNUNG_05",
@@ -2462,11 +2445,11 @@
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG032_BEDROOM_TO_COURT_HANDOFF.png",
       "kind": "STILL",
       "start": 588.84,
-      "end": 593.154,
-      "duration": 4.314,
+      "end": 593.893,
+      "duration": 5.053,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_026_BRIDGET_BISHOP_02",
@@ -2478,9 +2461,9 @@
       "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG044_BRIDGET_TESTIMONY_HANDOFF.png",
       "kind": "SOURCE_STATIC",
-      "start": 593.154,
-      "end": 597.467,
-      "duration": 4.314,
+      "start": 593.893,
+      "end": 598.945,
+      "duration": 5.053,
       "scene_first": false,
       "scene_last": false,
       "motion_policy": "STATIC_SOURCE"
@@ -2495,12 +2478,12 @@
       "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\ORIG026_SALEM_COURT_1876.png",
       "kind": "STILL",
-      "start": 597.467,
-      "end": 601.781,
-      "duration": 4.314,
+      "start": 598.945,
+      "end": 603.998,
+      "duration": 5.053,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_026_BRIDGET_BISHOP_04",
@@ -2512,9 +2495,9 @@
       "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\ORIG027_BRIDGET_BISHOP_RECORD.png",
       "kind": "SOURCE_STATIC",
-      "start": 601.781,
-      "end": 606.095,
-      "duration": 4.314,
+      "start": 603.998,
+      "end": 609.051,
+      "duration": 5.053,
       "scene_first": false,
       "scene_last": false,
       "motion_policy": "STATIC_SOURCE"
@@ -2529,12 +2512,12 @@
       "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\SHOT08_DAWN_AFTER_PARALYSIS.png",
       "kind": "STILL",
-      "start": 606.095,
-      "end": 610.409,
-      "duration": 4.314,
+      "start": 609.051,
+      "end": 614.103,
+      "duration": 5.053,
       "scene_first": false,
       "scene_last": false,
-      "motion_policy": "SUBTLE_STILL"
+      "motion_policy": "STATIC_STILL"
     },
     {
       "shot_id": "EP06_TAKE_026_BRIDGET_BISHOP_06",
@@ -2544,28 +2527,11 @@
       "pace": "normal",
       "function": "no still >9s; no identical frame twice; no two consecutive shots from the same base asset",
       "notes": "",
-      "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\CARDS\\CARD014_PRIVATE_NIGHT_PUBLIC_RECORD.png",
-      "kind": "CARD",
-      "start": 610.409,
-      "end": 614.722,
-      "duration": 4.314,
-      "scene_first": false,
-      "scene_last": false,
-      "motion_policy": "STATIC_CARD"
-    },
-    {
-      "shot_id": "EP06_TAKE_026_BRIDGET_BISHOP_07",
-      "cue_id": "EP06_TAKE_026_BRIDGET_BISHOP",
-      "scene": "S8",
-      "anchor": "Sechzehnhundertzweiundneunzig liegt ein Mann in Salem wach im",
-      "pace": "normal",
-      "function": "no still >9s; no identical frame twice; no two consecutive shots from the same base asset",
-      "notes": "",
       "visual": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\CARDS\\CARD007_ENDCARD.png",
       "kind": "CARD",
-      "start": 614.722,
-      "end": 619.036,
-      "duration": 4.314,
+      "start": 614.103,
+      "end": 619.156,
+      "duration": 5.053,
       "scene_first": false,
       "scene_last": true,
       "motion_policy": "STATIC_CARD"

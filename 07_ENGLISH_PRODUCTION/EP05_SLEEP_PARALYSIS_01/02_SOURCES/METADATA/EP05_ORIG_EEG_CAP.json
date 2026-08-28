@@ -1,0 +1,120 @@
+{
+  "api": {
+    "continue": {
+      "iistart": "2010-07-07T18:15:12Z",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "10827060": {
+          "pageid": 10827060,
+          "ns": 6,
+          "title": "File:EEG cap.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 28254,
+              "width": 289,
+              "height": 423,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/EEG_cap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:EEG_cap.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10827060",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-10-10 19:56:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "EEG cap",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-user|Personality rights warning|People undergoing electroencephalography",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The image is of Douglas Myers (myself), i took it at Dalhousie Life Sciences Center on a research study investigating responses to startling. I do not care who uses the image or how, it was taken using a cell phone camera",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "12 June 2010 (original upload date)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Sreejithk2000\" title=\"User:Sreejithk2000\">Sreejithk2000</a> using <a href=\"https://iw.toolforge.org/commonshelper/\" class=\"extiw\" title=\"toollabs:commonshelper/\">CommonsHelper</a>.</bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/User:Thuglas\" class=\"extiw\" title=\"wikipedia:User:Thuglas\">Thuglas</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_EEG_CAP",
+    "title": "File:EEG cap.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:EEG_cap.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/EEG_cap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<a href=\"https://en.wikipedia.org/wiki/User:Thuglas\" class=\"extiw\" title=\"wikipedia:User:Thuglas\">Thuglas</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+    "date": "12 June 2010 (original upload date)",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_EEG_CAP.jpg",
+    "sha256": "5e470ccf10e088b8fe983c8dc16f11a421eee97a358862680e3dcb7b9283e5a5",
+    "width": "289",
+    "height": "423",
+    "voice_beat": "Your mind can surface while your body remains under the rule of REM.",
+    "picture_function": "Real EEG cap and electrode layout",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 24,
+  "phrase": "Out-of-Body Movement",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    427.5,
+    612.0,
+    546.0
+  ],
+  "highlight_rects": [
+    [
+      103.18,
+      439.89,
+      169.82,
+      449.8
+    ],
+    [
+      175.18,
+      439.32,
+      217.68,
+      448.94
+    ],
+    [
+      304.1,
+      521.23,
+      370.53,
+      530.67
+    ],
+    [
+      376.09,
+      520.59,
+      418.59,
+      529.74
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

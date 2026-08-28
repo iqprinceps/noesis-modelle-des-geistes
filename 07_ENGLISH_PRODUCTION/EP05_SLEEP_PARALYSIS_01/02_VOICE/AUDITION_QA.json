@@ -1,0 +1,56 @@
+{
+  "criteria": [
+    "intimacy",
+    "naturalness",
+    "unease",
+    "complete intelligibility"
+  ],
+  "results": [
+    {
+      "candidate": "A",
+      "file": "EP05_EN_AUDITION_A_GEORGE.mp3",
+      "content_similarity": 1.0,
+      "heard": "Before David Hufford became a folklorist, he woke to the sound of his bedroom door opening. Footsteps crossed the room. His body would not move. The mattress sank. Weight pressed into his chest. Years later, strangers in Newfoundland described the same sequence and gave the visitor a name Hufford said he had never heard: The Old Hag. Researchers can make the paralysis more likely and see its traces on a monitor. But why does a body caught between dreaming and waking so often feel as though someone else has entered the room? This explains the paralysis. It does not yet explain the footsteps.",
+      "duration": 37.477,
+      "silence_count": 15,
+      "silence_total": 7.929,
+      "longest_silence": 0.988,
+      "loudness": {
+        "input_i": "-25.02",
+        "input_tp": "-6.18",
+        "input_lra": "2.10",
+        "input_thresh": "-35.35",
+        "output_i": "-18.28",
+        "output_tp": "-2.00",
+        "output_lra": "2.30",
+        "output_thresh": "-28.61",
+        "normalization_type": "dynamic",
+        "target_offset": "0.28"
+      }
+    },
+    {
+      "candidate": "B",
+      "file": "EP05_EN_AUDITION_B_GEORGE.mp3",
+      "content_similarity": 1.0,
+      "heard": "Before David Hufford became a folklorist, he woke to the sound of his bedroom door opening. Footsteps crossed the room. His body would not move. The mattress sank. Weight pressed into his chest. Years later, strangers in Newfoundland described the same sequence and gave the visitor a name Hufford said he had never heard: The Old Hag. Researchers can make the paralysis more likely and see its traces on a monitor. But why does a body caught between dreaming and waking so often feel as though someone else has entered the room? This explains the paralysis. It does not yet explain the footsteps.",
+      "duration": 36.873,
+      "silence_count": 14,
+      "silence_total": 6.928,
+      "longest_silence": 0.805,
+      "loudness": {
+        "input_i": "-24.16",
+        "input_tp": "-4.39",
+        "input_lra": "2.20",
+        "input_thresh": "-34.67",
+        "output_i": "-18.43",
+        "output_tp": "-2.00",
+        "output_lra": "2.30",
+        "output_thresh": "-28.89",
+        "normalization_type": "dynamic",
+        "target_offset": "0.43"
+      }
+    }
+  ],
+  "selected": "A",
+  "rationale": "complete content plus the closest restrained 38-second nocturnal cadence without excessive dead air"
+}

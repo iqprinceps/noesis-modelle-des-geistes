@@ -1,0 +1,23 @@
+{
+  "episode": "EP06_EN_FULL_CANONICAL",
+  "selected_from_continuity_reference": "EP05_EN Part 1",
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.61,
+    "similarity_boost": 0.82,
+    "style": 0.06,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "seed": 260827,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\34f1\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP06_SLEEP_PARALYSIS_02\\02_VOICE\\MASTER\\raw_stems_george_full",
+  "stems": [
+    {
+      "id": "EP06_EN_GEORGE_FULL",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\34f1\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP06_SLEEP_PARALYSIS_02\\01_SCRIPT\\VOICE_SCRIPT_EN.txt"
+    }
+  ]
+}

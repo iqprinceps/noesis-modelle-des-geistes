@@ -1,0 +1,20 @@
+{
+  "rule": "two short auditions with identical excerpt; one full master only",
+  "excerpt": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\pronunciation_test.txt",
+  "candidates": {
+    "A": {
+      "stability": 0.58,
+      "similarity_boost": 0.8,
+      "style": 0.08,
+      "speed": 1.06,
+      "seed": 260802
+    },
+    "B": {
+      "stability": 0.66,
+      "similarity_boost": 0.82,
+      "style": 0.04,
+      "speed": 1.03,
+      "seed": 260822
+    }
+  }
+}

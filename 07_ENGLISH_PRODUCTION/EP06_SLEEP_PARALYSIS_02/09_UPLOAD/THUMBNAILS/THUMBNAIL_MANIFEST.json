@@ -1,0 +1,25 @@
+{
+  "canvas": "1280x720",
+  "mobile_qa": "246x138",
+  "variants": [
+    {
+      "file": "THUMB_A_NIGHT_BECAME_EVIDENCE.jpg",
+      "concept": "human Salem hook: private terror becomes evidence",
+      "sha256": "19a3637d148242dc69c60941b31acfc9026069ddaba646e76f8e403785419932",
+      "mobile": "MOBILE_THUMB_A_NIGHT_BECAME_EVIDENCE.jpg"
+    },
+    {
+      "file": "THUMB_B_SAME_VISITOR_RETURNS.jpg",
+      "concept": "iconic historical art and recurring visitor question",
+      "sha256": "8b24f7b5f9292b3e6fe107301b542748fe62af0442251d611a15fc9520cc2cc5",
+      "mobile": "MOBILE_THUMB_B_SAME_VISITOR_RETURNS.jpg"
+    },
+    {
+      "file": "THUMB_C_STORY_CHANGES_BODY.jpg",
+      "concept": "clean conceptual split: same body, different expectation",
+      "sha256": "198cce392be0dacb8149b0486d9e485f715d3211231b00bf47ad374358620e74",
+      "mobile": "MOBILE_THUMB_C_STORY_CHANGES_BODY.jpg"
+    }
+  ],
+  "selected_default": "THUMB_B_SAME_VISITOR_RETURNS.jpg"
+}

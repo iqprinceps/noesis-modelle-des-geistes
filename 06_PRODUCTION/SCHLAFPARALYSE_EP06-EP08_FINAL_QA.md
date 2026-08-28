@@ -4,9 +4,9 @@
 
 | Episode | Core-Stills | Karten | MAIN-Clips | Reserveclips | Status |
 |---|---:|---:|---:|---:|---|
-| EP06 | 40 | 7 | 4 | 4 | BESTANDEN |
-| EP07 | 24 | 7 | 4 | 6 | BESTANDEN |
-| EP08 | 40 | 8 | 4 | 8 | BESTANDEN |
+| EP06 | 70 | 14 | 7 | 4 | BESTANDEN |
+| EP07 | 62 | 7 | 4 | 6 | BESTANDEN |
+| EP08 | 42 | 8 | 4 | 8 | BESTANDEN |
 
 ## EP06
 

@@ -1,0 +1,607 @@
+{
+  "job": "SP06A_ATEM",
+  "purpose": "V4 forced alignment for beat-driven Shorts editing",
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "expected_words": 99,
+  "heard_words": 99,
+  "transcription": {
+    "words": [
+      {
+        "text": "Du",
+        "start": 0.079,
+        "end": 0.179,
+        "type": "word"
+      },
+      {
+        "text": "wachst",
+        "start": 0.219,
+        "end": 0.459,
+        "type": "word"
+      },
+      {
+        "text": "auf",
+        "start": 0.579,
+        "end": 0.799,
+        "type": "word"
+      },
+      {
+        "text": "und",
+        "start": 0.839,
+        "end": 0.959,
+        "type": "word"
+      },
+      {
+        "text": "bekommst",
+        "start": 0.979,
+        "end": 1.339,
+        "type": "word"
+      },
+      {
+        "text": "keine",
+        "start": 1.399,
+        "end": 1.559,
+        "type": "word"
+      },
+      {
+        "text": "Luft.",
+        "start": 1.639,
+        "end": 1.939,
+        "type": "word"
+      },
+      {
+        "text": "Das",
+        "start": 2.679,
+        "end": 2.779,
+        "type": "word"
+      },
+      {
+        "text": "fühlt",
+        "start": 2.859,
+        "end": 3.0,
+        "type": "word"
+      },
+      {
+        "text": "sich",
+        "start": 3.059,
+        "end": 3.179,
+        "type": "word"
+      },
+      {
+        "text": "an",
+        "start": 3.24,
+        "end": 3.319,
+        "type": "word"
+      },
+      {
+        "text": "wie",
+        "start": 3.379,
+        "end": 3.46,
+        "type": "word"
+      },
+      {
+        "text": "Ersticken.",
+        "start": 3.48,
+        "end": 4.0,
+        "type": "word"
+      },
+      {
+        "text": "Es",
+        "start": 4.819,
+        "end": 4.9,
+        "type": "word"
+      },
+      {
+        "text": "ist",
+        "start": 4.98,
+        "end": 5.099,
+        "type": "word"
+      },
+      {
+        "text": "aber",
+        "start": 5.139,
+        "end": 5.279,
+        "type": "word"
+      },
+      {
+        "text": "keins.",
+        "start": 5.38,
+        "end": 5.739,
+        "type": "word"
+      },
+      {
+        "text": "Im",
+        "start": 6.179,
+        "end": 6.279,
+        "type": "word"
+      },
+      {
+        "text": "REM-Schlaf",
+        "start": 6.339,
+        "end": 6.98,
+        "type": "word"
+      },
+      {
+        "text": "schaltet",
+        "start": 7.199,
+        "end": 7.5,
+        "type": "word"
+      },
+      {
+        "text": "dein",
+        "start": 7.539,
+        "end": 7.679,
+        "type": "word"
+      },
+      {
+        "text": "Gehirn",
+        "start": 7.739,
+        "end": 8.059,
+        "type": "word"
+      },
+      {
+        "text": "die",
+        "start": 8.099,
+        "end": 8.179,
+        "type": "word"
+      },
+      {
+        "text": "Muskeln",
+        "start": 8.239,
+        "end": 8.559,
+        "type": "word"
+      },
+      {
+        "text": "ab,",
+        "start": 8.659,
+        "end": 8.819,
+        "type": "word"
+      },
+      {
+        "text": "die",
+        "start": 9.0,
+        "end": 9.059,
+        "type": "word"
+      },
+      {
+        "text": "du",
+        "start": 9.119,
+        "end": 9.199,
+        "type": "word"
+      },
+      {
+        "text": "sonst",
+        "start": 9.239,
+        "end": 9.519,
+        "type": "word"
+      },
+      {
+        "text": "selbst",
+        "start": 9.579,
+        "end": 9.899,
+        "type": "word"
+      },
+      {
+        "text": "steuerst.",
+        "start": 10.0,
+        "end": 10.5,
+        "type": "word"
+      },
+      {
+        "text": "Arme,",
+        "start": 11.199,
+        "end": 11.46,
+        "type": "word"
+      },
+      {
+        "text": "Beine,",
+        "start": 11.619,
+        "end": 11.96,
+        "type": "word"
+      },
+      {
+        "text": "Nacken.",
+        "start": 12.119,
+        "end": 12.479,
+        "type": "word"
+      },
+      {
+        "text": "Dein",
+        "start": 13.099,
+        "end": 13.219,
+        "type": "word"
+      },
+      {
+        "text": "Zwerchfell",
+        "start": 13.319,
+        "end": 13.84,
+        "type": "word"
+      },
+      {
+        "text": "schaltet",
+        "start": 13.88,
+        "end": 14.199,
+        "type": "word"
+      },
+      {
+        "text": "es",
+        "start": 14.239,
+        "end": 14.34,
+        "type": "word"
+      },
+      {
+        "text": "nicht",
+        "start": 14.42,
+        "end": 14.619,
+        "type": "word"
+      },
+      {
+        "text": "ab.",
+        "start": 14.699,
+        "end": 14.88,
+        "type": "word"
+      },
+      {
+        "text": "Du",
+        "start": 15.5,
+        "end": 15.579,
+        "type": "word"
+      },
+      {
+        "text": "atmest",
+        "start": 15.679,
+        "end": 15.979,
+        "type": "word"
+      },
+      {
+        "text": "die",
+        "start": 16.02,
+        "end": 16.1,
+        "type": "word"
+      },
+      {
+        "text": "ganze",
+        "start": 16.139,
+        "end": 16.359,
+        "type": "word"
+      },
+      {
+        "text": "Zeit",
+        "start": 16.459,
+        "end": 16.619,
+        "type": "word"
+      },
+      {
+        "text": "weiter,",
+        "start": 16.699,
+        "end": 17.059,
+        "type": "word"
+      },
+      {
+        "text": "nur",
+        "start": 17.34,
+        "end": 17.42,
+        "type": "word"
+      },
+      {
+        "text": "flacher.",
+        "start": 17.52,
+        "end": 17.92,
+        "type": "word"
+      },
+      {
+        "text": "Und",
+        "start": 18.5,
+        "end": 18.579,
+        "type": "word"
+      },
+      {
+        "text": "wenn",
+        "start": 18.639,
+        "end": 18.719,
+        "type": "word"
+      },
+      {
+        "text": "du",
+        "start": 18.779,
+        "end": 18.84,
+        "type": "word"
+      },
+      {
+        "text": "wach",
+        "start": 18.899,
+        "end": 19.119,
+        "type": "word"
+      },
+      {
+        "text": "bist",
+        "start": 19.18,
+        "end": 19.42,
+        "type": "word"
+      },
+      {
+        "text": "und",
+        "start": 19.52,
+        "end": 19.6,
+        "type": "word"
+      },
+      {
+        "text": "Panik",
+        "start": 19.699,
+        "end": 20.019,
+        "type": "word"
+      },
+      {
+        "text": "hast,",
+        "start": 20.079,
+        "end": 20.299,
+        "type": "word"
+      },
+      {
+        "text": "fühlt",
+        "start": 20.739,
+        "end": 20.879,
+        "type": "word"
+      },
+      {
+        "text": "sich",
+        "start": 20.939,
+        "end": 21.079,
+        "type": "word"
+      },
+      {
+        "text": "flach",
+        "start": 21.139,
+        "end": 21.379,
+        "type": "word"
+      },
+      {
+        "text": "an",
+        "start": 21.439,
+        "end": 21.52,
+        "type": "word"
+      },
+      {
+        "text": "wie",
+        "start": 21.579,
+        "end": 21.68,
+        "type": "word"
+      },
+      {
+        "text": "zu",
+        "start": 21.739,
+        "end": 21.819,
+        "type": "word"
+      },
+      {
+        "text": "wenig.",
+        "start": 21.899,
+        "end": 22.319,
+        "type": "word"
+      },
+      {
+        "text": "Deshalb",
+        "start": 23.1,
+        "end": 23.439,
+        "type": "word"
+      },
+      {
+        "text": "hilft",
+        "start": 23.5,
+        "end": 23.719,
+        "type": "word"
+      },
+      {
+        "text": "dir",
+        "start": 23.76,
+        "end": 23.859,
+        "type": "word"
+      },
+      {
+        "text": "hier",
+        "start": 23.92,
+        "end": 24.019,
+        "type": "word"
+      },
+      {
+        "text": "Wissen",
+        "start": 24.119,
+        "end": 24.399,
+        "type": "word"
+      },
+      {
+        "text": "mehr",
+        "start": 24.459,
+        "end": 24.639,
+        "type": "word"
+      },
+      {
+        "text": "als",
+        "start": 24.699,
+        "end": 24.84,
+        "type": "word"
+      },
+      {
+        "text": "Kraft.",
+        "start": 24.959,
+        "end": 25.319,
+        "type": "word"
+      },
+      {
+        "text": "Nicht",
+        "start": 26.119,
+        "end": 26.299,
+        "type": "word"
+      },
+      {
+        "text": "dagegen",
+        "start": 26.359,
+        "end": 26.719,
+        "type": "word"
+      },
+      {
+        "text": "ankämpfen.",
+        "start": 26.779,
+        "end": 27.399,
+        "type": "word"
+      },
+      {
+        "text": "Langsam",
+        "start": 27.939,
+        "end": 28.319,
+        "type": "word"
+      },
+      {
+        "text": "ausatmen.",
+        "start": 28.399,
+        "end": 29.119,
+        "type": "word"
+      },
+      {
+        "text": "Dich",
+        "start": 29.76,
+        "end": 29.939,
+        "type": "word"
+      },
+      {
+        "text": "auf",
+        "start": 29.979,
+        "end": 30.079,
+        "type": "word"
+      },
+      {
+        "text": "einen",
+        "start": 30.139,
+        "end": 30.339,
+        "type": "word"
+      },
+      {
+        "text": "einzigen",
+        "start": 30.439,
+        "end": 30.799,
+        "type": "word"
+      },
+      {
+        "text": "Finger",
+        "start": 30.92,
+        "end": 31.139,
+        "type": "word"
+      },
+      {
+        "text": "konzentrieren.",
+        "start": 31.199,
+        "end": 31.939,
+        "type": "word"
+      },
+      {
+        "text": "Dann",
+        "start": 32.599,
+        "end": 32.779,
+        "type": "word"
+      },
+      {
+        "text": "geht",
+        "start": 32.84,
+        "end": 32.959,
+        "type": "word"
+      },
+      {
+        "text": "es",
+        "start": 33.0,
+        "end": 33.099,
+        "type": "word"
+      },
+      {
+        "text": "vorüber.",
+        "start": 33.159,
+        "end": 33.659,
+        "type": "word"
+      },
+      {
+        "text": "Wenn",
+        "start": 34.279,
+        "end": 34.38,
+        "type": "word"
+      },
+      {
+        "text": "das",
+        "start": 34.419,
+        "end": 34.559,
+        "type": "word"
+      },
+      {
+        "text": "oft",
+        "start": 34.619,
+        "end": 34.779,
+        "type": "word"
+      },
+      {
+        "text": "passiert",
+        "start": 34.84,
+        "end": 35.539,
+        "type": "word"
+      },
+      {
+        "text": "oder",
+        "start": 35.619,
+        "end": 35.739,
+        "type": "word"
+      },
+      {
+        "text": "du",
+        "start": 35.779,
+        "end": 35.88,
+        "type": "word"
+      },
+      {
+        "text": "tagsüber",
+        "start": 35.939,
+        "end": 36.419,
+        "type": "word"
+      },
+      {
+        "text": "ständig",
+        "start": 36.459,
+        "end": 36.819,
+        "type": "word"
+      },
+      {
+        "text": "müde",
+        "start": 36.919,
+        "end": 37.119,
+        "type": "word"
+      },
+      {
+        "text": "bist,",
+        "start": 37.18,
+        "end": 37.399,
+        "type": "word"
+      },
+      {
+        "text": "lass",
+        "start": 37.779,
+        "end": 37.919,
+        "type": "word"
+      },
+      {
+        "text": "es",
+        "start": 37.959,
+        "end": 38.119,
+        "type": "word"
+      },
+      {
+        "text": "ärztlich",
+        "start": 38.2,
+        "end": 38.639,
+        "type": "word"
+      },
+      {
+        "text": "abklären.",
+        "start": 38.719,
+        "end": 39.34,
+        "type": "word"
+      }
+    ],
+    "text": "Du wachst auf und bekommst keine Luft. Das fühlt sich an wie Ersticken. Es ist aber keins. Im REM-Schlaf schaltet dein Gehirn die Muskeln ab, die du sonst selbst steuerst. Arme, Beine, Nacken. Dein Zwerchfell schaltet es nicht ab. Du atmest die ganze Zeit weiter, nur flacher. Und wenn du wach bist und Panik hast, fühlt sich flach an wie zu wenig. Deshalb hilft dir hier Wissen mehr als Kraft. Nicht dagegen ankämpfen. Langsam ausatmen. Dich auf einen einzigen Finger konzentrieren. Dann geht es vorüber. Wenn das oft passiert oder du tagsüber ständig müde bist, lass es ärztlich abklären."
+  }
+}

@@ -1,0 +1,2199 @@
+{
+  "created_utc": "2026-08-26T21:47:52.847937+00:00",
+  "status": "PASS",
+  "cue_count": 129,
+  "selected_asset_count": 118,
+  "cue_return_violations": [],
+  "visible_badge_violations": [],
+  "longest_static_hold": {
+    "visual_state_id": "KZ_REPLICATION_CHAIN_MISSING",
+    "primary_asset_id": "KZ_SEQ_EVIDENCE_AND_REPLICATION",
+    "first_cue": "KZ-CUE-093",
+    "last_cue": "KZ-CUE-093",
+    "start_seconds": 326.72,
+    "end_seconds": 333.18,
+    "motion_class": "STATIC_OR_NEAR_STATIC",
+    "reason": "",
+    "duration_seconds": 6.46,
+    "review_from_8s": false,
+    "unjustified_over_10s": false
+  },
+  "holds_from_8_seconds": [
+    {
+      "visual_state_id": "KZ_CLIP_INTERNAL_TIME_CONTINUOUS",
+      "primary_asset_id": "KZ_INNER01_INTERNAL_TIME",
+      "first_cue": "KZ-CUE-023",
+      "last_cue": "KZ-CUE-025",
+      "start_seconds": 78.26,
+      "end_seconds": 88.98,
+      "motion_class": "PROGRESSIVE_MOTION",
+      "reason": "The single uninterrupted sequence visibly evolves through dust, condensation and delayed reflection as the three spoken claims escalate; a camera move alone is insufficient.",
+      "duration_seconds": 10.72,
+      "review_from_8s": true,
+      "unjustified_over_10s": false
+    },
+    {
+      "visual_state_id": "KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS",
+      "primary_asset_id": "KZ_SEQ_THEORY_PSYCHOLOGY",
+      "first_cue": "KZ-CUE-058",
+      "last_cue": "KZ-CUE-058",
+      "start_seconds": 198.86,
+      "end_seconds": 208.52,
+      "motion_class": "PROGRESSIVE_MOTION",
+      "reason": "The participant, acoustics, light and body-orientation cues develop across the sentence; the sequence cannot be a held still or simple zoom.",
+      "duration_seconds": 9.66,
+      "review_from_8s": true,
+      "unjustified_over_10s": false
+    },
+    {
+      "visual_state_id": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+      "primary_asset_id": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+      "first_cue": "KZ-CUE-125",
+      "last_cue": "KZ-CUE-126",
+      "start_seconds": 412.82,
+      "end_seconds": 421.24,
+      "motion_class": "PROGRESSIVE_MOTION",
+      "reason": "The final chamber action advances continuously from mechanical stillness to a changing reflection/shadow and unresolved darkness across two questions; it is never restarted.",
+      "duration_seconds": 8.42,
+      "review_from_8s": true,
+      "unjustified_over_10s": false
+    }
+  ],
+  "static_holds_from_8_seconds": [],
+  "unjustified_holds_over_10_seconds": [],
+  "missing_files": [],
+  "series_usage_violations": [],
+  "exact_duplicates": [],
+  "near_duplicate_candidates": [
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_EVIDENCE_PUBLICATIONS",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG3_CW",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG3_CW",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_POLISHED_SURFACE_TEXT",
+      "right_position": "still",
+      "dhash_hamming": 1,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG3_CW",
+      "left_position": "still",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "right_position": "end",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_MODEL_PATENT_FIG3_CCW",
+      "left_position": "still",
+      "right_asset": "KZ_MODEL_DIRECTION_COMPARE",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "right_position": "end",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 2,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_CLAIM_HISTORY_PUBLICATIONS",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "right_position": "end",
+      "dhash_hamming": 1,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_POLISHED_SURFACE_TEXT",
+      "left_position": "still",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "right_position": "end",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_POLISHED_SURFACE_TEXT",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DIMENSIONS",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "right_position": "still",
+      "dhash_hamming": 2,
+      "phash_hamming": 2,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "right_position": "end",
+      "dhash_hamming": 5,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_EVIDENCE_STACK",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_CLAIM_HISTORY_PUBLICATIONS",
+      "right_position": "still",
+      "dhash_hamming": 2,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "left_position": "still",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "right_position": "end",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_EVIDENCE_STACK",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_EVIDENCE_STACK",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 4,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_EVIDENCE_PATENT",
+      "left_position": "still",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "right_position": "start",
+      "dhash_hamming": 2,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_EVIDENCE_STACK",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "right_position": "still",
+      "dhash_hamming": 2,
+      "phash_hamming": 2,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_EVIDENCE_STACK",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_CLAIM_HISTORY_PUBLICATIONS",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "right_position": "still",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "left_position": "still",
+      "right_asset": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "right_position": "still",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "manual_review": "PASS_DISTINCT",
+      "review_reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    }
+  ],
+  "unreviewed_near_duplicate_candidates": [],
+  "near_duplicate_review_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\05_QA\\NEAR_DUPLICATE_MANUAL_REVIEW.json",
+  "series_hash_collisions": [],
+  "asset_hashes": [
+    {
+      "asset_id": "KZ_CLIP_ROTATION_HOOK",
+      "family_id": "KZ_CLIP_ROTATION_HOOK",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_ROTATION_HOOK.mp4",
+      "sha256": "98ad66995661f718a1c60a8681ed9296428bc7451eb878aa8d11553f52876843",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "abc3515193d3b103",
+          "phash64": "95d4cb5b8161e707"
+        },
+        {
+          "position": "middle",
+          "seconds": 1.0,
+          "dhash64": "abc3d9418393b103",
+          "phash64": "95d4ea5b8161e707"
+        },
+        {
+          "position": "end",
+          "seconds": 1.92,
+          "dhash64": "abc3d15193d3b103",
+          "phash64": "95d4cb5b8561c707"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_COVER_DATE",
+      "family_id": "KZ_SEQ_PATENT_HOOK",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_COVER_DATE.png",
+      "sha256": "833400cbe61b0a67dc4dbc300c962781b6852edcd75ae87c854046dc7279cab5",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0d6d2d0d6d2d6d4c",
+          "phash64": "c8b6363036cd37f0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_TITLE_CROP",
+      "family_id": "KZ_SEQ_PATENT_HOOK",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_TITLE_CROP.png",
+      "sha256": "a1357806bd5770f3903582ef9c97b86de0202090a765c33dd67da56db64da245",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4d6d6d0d0d0d6d4d",
+          "phash64": "c8b2368e37c937d0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_MEDICAL_TO_TIME_MACHINE",
+      "family_id": "KZ_SEQ_PATENT_HOOK",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_MEDICAL_TO_TIME_MACHINE.png",
+      "sha256": "0b6c12cd989355e30d3be513009a39e169b3d0ec4872fca0570a462401d04eb2",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "841b7b5313130f0d",
+          "phash64": "d4e04b1f3f39f0c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_KOZYREV_PORTRAIT_1983",
+      "family_id": "KZ_SEQ_1983_1996_CONTRADICTION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_KOZYREV_PORTRAIT_1983.png",
+      "sha256": "4f43445f3b7fc933e38cff6eee3c81a99b8fc1d1712784033f3764139fc686ce",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0d0d3d3c4ea50d4c",
+          "phash64": "c9c10c3e36db33d8"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_INVENTOR_PAIR_1996",
+      "family_id": "KZ_SEQ_1983_1996_CONTRADICTION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_INVENTOR_PAIR_1996.png",
+      "sha256": "0bf8697e03f8d939a2ef94226f66ac440569e2d73af3b0516e3ccf00c9b0c850",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "2351515575756689",
+          "phash64": "94b46e434b6b943e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_1983_1996_CONTRADICTION",
+      "family_id": "KZ_SEQ_1983_1996_CONTRADICTION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_1983_1996_CONTRADICTION.png",
+      "sha256": "e5fef4249ae658a8d6b695f58226b7fa806e59de18b53a837b535933f3fdb27f",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "85317286130b1e1b",
+          "phash64": "c4e36c1d1f4ae3e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_HERO01",
+      "family_id": "KZ_EN_HERO01",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NANO_BANANA_PRO\\KZ_EN_HERO01.png",
+      "sha256": "a34dcae75ee781aab27da71697ad57b37d2b48aef3805a3f34bc9ed741d8e81b",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "92d6666646866961",
+          "phash64": "d2caf757268097a1"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "family_id": "KZ_SEQ_PATENT_CONFIGURATIONS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_FIG2_CYLINDER.png",
+      "sha256": "17f412027f962b908bb5612265a6a724bcc91ae2598f95f9e44faf16bf15f696",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4d4d4d4c6d4d6d0d",
+          "phash64": "c8b6378337c937c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_FIG3_CW",
+      "family_id": "KZ_SEQ_PATENT_CONFIGURATIONS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_FIG3_CW.png",
+      "sha256": "1476547c992fae0fe94bf553ce49cfbd2f90ff601df7617128e6329da2cd3e16",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0c4d6d6d6d6d6d4d",
+          "phash64": "c8b637a437c937c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MODEL_PATENT_FIG3_CCW",
+      "family_id": "KZ_SEQ_PATENT_CONFIGURATIONS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_MODEL_PATENT_FIG3_CCW.png",
+      "sha256": "879d947a975df85c6f0cb1d9776977ce2b1cf9e077fa20bdba430491be03102f",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "666c323737373643",
+          "phash64": "d2f86cc58c831f1e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "family_id": "KZ_SEQ_PATENT_CONFIGURATIONS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_FIG4_ROTATION.png",
+      "sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4c4d4d4d4d4d6d4d",
+          "phash64": "c8b7378937c837c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_REC01_ENTERING",
+      "family_id": "KZ_EN_REC01_ENTERING",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NANO_BANANA_PRO\\KZ_EN_REC01_ENTERING.png",
+      "sha256": "ab388b8b6259cd86d6c0d6a02450635774e7ac3e553ba7fb5f913dfab05df057",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "92d66676529a6961",
+          "phash64": "d2cae74732a097a5"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "family_id": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_LUNAR_GEOMAGNETIC.png",
+      "sha256": "c5ad0b2067bbdc5ec521dc0c2c70773bcc24956e43912291ffe51a33576f318d",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4c4d6d6d4d4d4d4d",
+          "phash64": "c8b2378937c837d4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_THREE_THEORIES_OPEN",
+      "family_id": "KZ_SEQ_THREE_THEORIES_INTRO",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_THREE_THEORIES_OPEN.png",
+      "sha256": "3b5fce60a226f6cb2d862ec68158944780452c746a07dd2f597325764fc2ddc5",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "841b5b8303032305",
+          "phash64": "d4c84b1f3f31f0e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_THEORY_ISOLATION",
+      "family_id": "KZ_SEQ_THREE_THEORIES_INTRO",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_THEORY_ISOLATION.png",
+      "sha256": "a53677750c63207bec3ae5e2a369004db4dbdbe39f456d487b88b90c6cbecdfd",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "5b0f0f6727061607",
+          "phash64": "d8c49c2764f26727"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PHYSICAL_THEORY_BODY_BOUNDARY",
+      "family_id": "KZ_SEQ_THREE_THEORIES_INTRO",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_PHYSICAL_THEORY_BODY_BOUNDARY.png",
+      "sha256": "e2b16b22c6e24e055b3b65c966737c231ca6300cbef58e266ef5c13c0db8973b",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "b5b1839f3bb1b4bd",
+          "phash64": "c79523675a9a9592"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_THEORY_INFORMATION_REFLECTION",
+      "family_id": "KZ_SEQ_THREE_THEORIES_INTRO",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_THEORY_INFORMATION_REFLECTION.png",
+      "sha256": "b9ea6f467527b86fc5971193b24c4d74f86dd09cecb89516d49be3b982f23716",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "303030160c1c0e0e",
+          "phash64": "8ba338585ec77711"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_HISTORY_PULKOVO_OBSERVATORY",
+      "family_id": "KZ_SEQ_KOZYREV_BIO_IDEA",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_HISTORY_PULKOVO_OBSERVATORY.png",
+      "sha256": "2d5955ae5676fa905c0d77beca1c41d1c7a87e9765659dd41b561ed3a107e33e",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0c6d6d6d4d6d6d4d",
+          "phash64": "c8c0373736c937e4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_HISTORY_PULKOVO_REFRACTOR",
+      "family_id": "KZ_SEQ_KOZYREV_BIO_IDEA",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_HISTORY_PULKOVO_REFRACTOR.png",
+      "sha256": "3ea88a52ac71fb1d04a70151a9c72d8a6f21627ddd44656782aa86376d83481c",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0d4d4fcd4d4d6d4d",
+          "phash64": "c8b2238d37f137c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_TIME_ACTIVE_AFTERIMAGE",
+      "family_id": "KZ_SEQ_KOZYREV_BIO_IDEA",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_TIME_ACTIVE_AFTERIMAGE.png",
+      "sha256": "ba46fc39d59875ef7fd757791a21f04ac8ad0a9e04ecf83b684dda95f0af2613",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "e026262327262404",
+          "phash64": "82f22f6dd0642b6d"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_INTERNAL_TIME_CONTINUOUS",
+      "family_id": "KZ_INNER01_INTERNAL_TIME",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_INTERNAL_TIME_CONTINUOUS.mp4",
+      "sha256": "2e80f6d21bef109200b4ca6341521e37749523b05ed3d5110f7e92d361a2ca37",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "6c69646c6d7d6d4d",
+          "phash64": "e1f052472f9b3351"
+        },
+        {
+          "position": "middle",
+          "seconds": 5.36,
+          "dhash64": "6c69656c6d6d6d4d",
+          "phash64": "e1f052462f9b3b51"
+        },
+        {
+          "position": "end",
+          "seconds": 10.64,
+          "dhash64": "6c69656969696d4d",
+          "phash64": "e1f05a462e9b3b51"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_KAZNACHEEV_TROFIMOV_PAIR",
+      "family_id": "KZ_SEQ_RESEARCHER_IDENTITIES",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_KAZNACHEEV_TROFIMOV_PAIR.png",
+      "sha256": "7417d9a5b7cba3e0ee66c4dc31a3bce136dc860ca38ab0a9d4ce0e3170101efb",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "8155555555554689",
+          "phash64": "c4853b6a2f3a853d"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_RESEARCHERS_AND_PUBLICATIONS",
+      "family_id": "KZ_SEQ_RESEARCHER_IDENTITIES",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_RESEARCHERS_AND_PUBLICATIONS.png",
+      "sha256": "fa417b5cc6369cbdf8bf1bc082f69f666b146af9d3a7d8b6e6216420de873691",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "1d6d4f4d4d6d6d1d",
+          "phash64": "c8b6373937c83694"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_THREE_STORIES_COLLAPSE",
+      "family_id": "KZ_SEQ_THREE_STREAMS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_THREE_STORIES_COLLAPSE.png",
+      "sha256": "451c49df470a9e15c0b5b86229ea6e2bfc4ef13dc63767f72941cc4059439f8b",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "3331393373737337",
+          "phash64": "e1a13f1e1e163d68"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_STREAM_KOZYREV_TIME",
+      "family_id": "KZ_SEQ_THREE_STREAMS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_STREAM_KOZYREV_TIME.png",
+      "sha256": "55e534cb21756daf455c799919c14cf8279b223e8be89283d3c07a09028ea2ca",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "8253738303236754",
+          "phash64": "90c66a1f3f3987e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_RESEARCHERS_NIGHT_LAB",
+      "family_id": "KZ_SEQ_THREE_STREAMS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_RESEARCHERS_NIGHT_LAB.png",
+      "sha256": "4d5df92e30b1da6cda1e5bf021e4b8b94734015db23658d5ab139cb8b02bc456",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "1212038c8c9ccca4",
+          "phash64": "8eb252cc23cc75d5"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_STREAM_PATENT",
+      "family_id": "KZ_SEQ_THREE_STREAMS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_STREAM_PATENT.png",
+      "sha256": "a98e87abda00baec31bb9784c5ffedfbd59c906d803892b800e83e58a4e67cc9",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "89217296030b361b",
+          "phash64": "d0f14c1f1f4ae9e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_SEPARATE_THREADS",
+      "family_id": "KZ_SEQ_THREE_STREAMS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_SEPARATE_THREADS.png",
+      "sha256": "bee05b8ffb20dc53707df7c5f9702308d4260cb126e98941bbfe88a7f0d7c58f",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "1999911515191918",
+          "phash64": "c6876a6a9b93a46c"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_REC04_CHAMBER_REVERSE_WIDE",
+      "family_id": "KZ_EN_REC04_CHAMBER_REVERSE_WIDE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_EN_REC04_CHAMBER_REVERSE_WIDE.png",
+      "sha256": "5d2b46c15b0c5b61e8b81bdb84ed6e9667f36a7f1fbf2b05ad16d6c8dc70ae12",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "84b6aa8abe252530",
+          "phash64": "83dba1474c3c7c2b"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PHYSICAL_PANEL_SCALE",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_DESIGN",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_PHYSICAL_PANEL_SCALE.png",
+      "sha256": "de70660b48bf598f7718bbb5f196a9d977137959eb3f7475250c6c9773f083ff",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0626063626471735",
+          "phash64": "9b1b747ca6e61c14"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_POLISHED_SURFACE_TEXT",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_DESIGN",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_POLISHED_SURFACE_TEXT.png",
+      "sha256": "13e2c01d51dcc42e5debc99d4399345478ec8165aeea89167901e732376c78b1",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0d4d6d6d6d6d6d4d",
+          "phash64": "c8b636b537c936c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_FOCUS",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_DESIGN",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_FOCUS.png",
+      "sha256": "3e534a199d5ea79618da6e88abd14f61186139265b1a745fed84a212a91ab2c6",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "a55b4b2d2f0b4b25",
+          "phash64": "9cb666f933493194"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PHYSICAL_PANEL_ARRAY",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_DESIGN",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_PHYSICAL_PANEL_ARRAY.png",
+      "sha256": "3d3953f5446884ec46e6d390bc4f9122c3c01e7e122e80362a17f6c3bef5df9d",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "464626b6174b6b4b",
+          "phash64": "d0faf8e06f36b420"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MODEL_DIRECTION_COMPARE",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_DESIGN",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_MODEL_DIRECTION_COMPARE.png",
+      "sha256": "1c7e158dd4d695a879f9b0832f185001990962494e07dd4c6aba81619776d3b1",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "676d323737373652",
+          "phash64": "c2f86dc51c871e1e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MODEL_ROTATION_CUTAWAY",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_DESIGN",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_MODEL_ROTATION_CUTAWAY.png",
+      "sha256": "a32a56e6855a3d097b0b01a555084aee92dc60e2c61124e7966bb930414e07ea",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "696e928e16164e4d",
+          "phash64": "daf261692d0f1696"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_DIRECTION_REFLECTION",
+      "family_id": "KZ_SEQ_PATENT_CONDITIONS_QUESTIONS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_DIRECTION_REFLECTION.png",
+      "sha256": "e0e0d2e9fda855c7efe14cde7cb080829cfe8f0626039251f9403750dacc2a6b",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "140429211e87a330",
+          "phash64": "932d33da44b5594e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_LUNAR_REFLECTION",
+      "family_id": "KZ_SEQ_PATENT_CONDITIONS_QUESTIONS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_LUNAR_REFLECTION.png",
+      "sha256": "e51bf68f678afb81936d46de6bd3764f2aade2909bf7095102e4907a7bfabd90",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "e5663e0e02024606",
+          "phash64": "8ae1753b9acd4532"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "family_id": "KZ_SEQ_PATENT_CONDITIONS_QUESTIONS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_GEOMAGNETIC.png",
+      "sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "1c4d4d4d4d4d4d4d",
+          "phash64": "c8b637a137c837d0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "family_id": "KZ_SEQ_PATENT_CLAIMS_BOUNDARY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_INVENTOR_CLAIM.png",
+      "sha256": "9245b25544a5f7a7adbd76dc5ae013aab6f13683c6bfcf9188add1a7ed1a9d09",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4d4d4d4d4d4d4d4d",
+          "phash64": "c8b2373837c937c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MODEL_FIELD_CONCENTRATION",
+      "family_id": "KZ_SEQ_PATENT_CLAIMS_BOUNDARY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_MODEL_FIELD_CONCENTRATION.png",
+      "sha256": "d28bb18a31eb5c9228d55014e9dc190e682b69d08aef6fcc8091682b04f946c6",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "216513090d050702",
+          "phash64": "90e172990d963f9e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "family_id": "KZ_SEQ_PATENT_CLAIMS_BOUNDARY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_HELIOGEOPHYSICAL.png",
+      "sha256": "d5b13bf46e28e8ca21df144cd8ca7c3f9d62ab83903b200d3308568fbfac8a26",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "1c4d4d4d4d4d6d6d",
+          "phash64": "c8a637b137c837d0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_INVENTOR_PAIR_CLAIMS",
+      "family_id": "KZ_SEQ_PATENT_CLAIMS_BOUNDARY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_INVENTOR_PAIR_CLAIMS.png",
+      "sha256": "1b5177b28accb2793d8eed27452791ff85b09ea8614594718f7896da7caba8a0",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "2c4d6d6d4d4d4d6d",
+          "phash64": "c8b2370e37e137c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_PATENT_RECORDS_CLAIM",
+      "family_id": "KZ_SEQ_PATENT_CLAIMS_BOUNDARY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_PATENT_RECORDS_CLAIM.png",
+      "sha256": "b977e7d83c273247b09d7e8e7f2e2612e5bd9243794bc9bcfbe52f455cd3f630",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "8a37738323236754",
+          "phash64": "d0e06e1f1f3cf0e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_CLAIM_NOT_PROOF",
+      "family_id": "KZ_SEQ_PATENT_CLAIMS_BOUNDARY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_CLAIM_NOT_PROOF.png",
+      "sha256": "4949eff0a2b72ff1b99f3b9774c755731bc53c5da5dfe37037738236f4a09086",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "a31b1e854b4b774a",
+          "phash64": "c4c6639c3b3b1ce2"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "family_id": "KZ_SEQ_RESEARCHERS_LATER_WORK",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_RESEARCHERS_LATER_WORK.png",
+      "sha256": "2cbb4874a870b8720e0df0e702b7c8feb01e8b87eb483b1963a75411c6d9ef7b",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "2c4d4d4d4d4d6d1d",
+          "phash64": "c8b6373937c836c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_2006_MODELED_SPACE",
+      "family_id": "KZ_SEQ_RESEARCHERS_LATER_WORK",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_2006_MODELED_SPACE.png",
+      "sha256": "4b816592d40e8ed19934e0f4c4bbdac302ee247039d1edafb3ad27b3c208b470",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "2c4d4d4d4d4d4d2d",
+          "phash64": "c8b337ac37c837c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_2006_ALTERED_INTERNAL_TIME",
+      "family_id": "KZ_SRC_2006_ALTERED_INTERNAL_TIME",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_2006_ALTERED_INTERNAL_TIME.png",
+      "sha256": "70c69fa22987834249e8e3475f088e49d34bda7103a83ae567291ad2d1ae1baf",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "2d4d4d4d4d4d4d3d",
+          "phash64": "c887373837c33ed0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_DISTANT_IMAGE_CONTINUOUS",
+      "family_id": "KZ_INNER02_DISTANT_IMAGE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_DISTANT_IMAGE_CONTINUOUS.mp4",
+      "sha256": "2436c8d1f211cc4b7ceca049e6e55d07178cb29c5e55b228714a39c1206d9638",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "0f0f0f0d0f0f8f8f",
+          "phash64": "cdc17747389c4a72"
+        },
+        {
+          "position": "middle",
+          "seconds": 3.24,
+          "dhash64": "0f0f0f0d0f2707c6",
+          "phash64": "c9cd36333cbc3232"
+        },
+        {
+          "position": "end",
+          "seconds": 6.4,
+          "dhash64": "0f0f0f0f0f0f0fce",
+          "phash64": "c9c9666730bc7272"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_HERO01_REFLECTION_STATE",
+      "family_id": "KZ_SEQ_CHAMBER_EXPERIENCE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_HERO01_REFLECTION_STATE.png",
+      "sha256": "3d9f2a0d95633ad3695f197ed185eaca7967d4bdd4afa632fa21f8d898f3c25c",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0d0d1d1511131105",
+          "phash64": "858c1987079de6f3"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_REC02_SEATED_NEUTRAL",
+      "family_id": "KZ_SEQ_CHAMBER_EXPERIENCE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_EN_REC02_SEATED_NEUTRAL.png",
+      "sha256": "5d5778fd7cfcc7cdc7814a289d93776e15cb7c44d31a775b84c6684136c2f872",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "96a74b5a97554568",
+          "phash64": "d0d2ea5f7e88440f"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_THEORY_FORK_RETURN",
+      "family_id": "KZ_SEQ_THEORY_PSYCHOLOGY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_THEORY_FORK_RETURN.png",
+      "sha256": "a83fb705a9a807209016049eea8d194b7bfae16de2025b5bd4b420162ccf8feb",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "8113766603031e0b",
+          "phash64": "c0e34f1f1fcae0e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_THEORY_ISOLATION_ACTIVE",
+      "family_id": "KZ_SEQ_THEORY_PSYCHOLOGY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_THEORY_ISOLATION_ACTIVE.png",
+      "sha256": "d82bca5a912a4d089ce5fd8d5974f51223ba7345d1a93c109991b4ab036bffc7",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "876b6f164b4b774e",
+          "phash64": "c0f3738c0f1f8cf0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS",
+      "family_id": "KZ_SEQ_THEORY_PSYCHOLOGY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS.mp4",
+      "sha256": "d12151dccb0b6082350b12f5c0eab781555ff558acffee4883d334ea1fb60de5",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "31068f090b0b0746",
+          "phash64": "958763276525656b"
+        },
+        {
+          "position": "middle",
+          "seconds": 4.84,
+          "dhash64": "310e8f090b0b0746",
+          "phash64": "958763276525656b"
+        },
+        {
+          "position": "end",
+          "seconds": 9.6,
+          "dhash64": "31068f090b0b0746",
+          "phash64": "9587636765256563"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SENSORY_HAND_ON_ALUMINUM",
+      "family_id": "KZ_SEQ_THEORY_PSYCHOLOGY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_SENSORY_HAND_ON_ALUMINUM.png",
+      "sha256": "3fae73cf90e26cb0e87f9a42d0e3d41b962024bb0c494fc5a3a94f5180867cf7",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "611d5d5f56461e37",
+          "phash64": "d095313136f43b3e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_THEORY_PHYSICAL_ACTIVE",
+      "family_id": "KZ_SEQ_THEORY_PHYSICAL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_THEORY_PHYSICAL_ACTIVE.png",
+      "sha256": "e0f7274c42286589a0b7f397f7892933691c528cc08f01f7380a14ee11d9114b",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "813533834b4b332a",
+          "phash64": "c0e3639c1f3b1ce2"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_PHYSICAL_VARIABLES_SENSOR_RIG",
+      "family_id": "KZ_SEQ_THEORY_PHYSICAL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_PHYSICAL_VARIABLES_SENSOR_RIG.mp4",
+      "sha256": "10b6319978321ee7c22ca01eceada2bce6e2032fdf517db0b4e3895e02997537",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "2726a74bd9534323",
+          "phash64": "92839384e5b8e79d"
+        },
+        {
+          "position": "middle",
+          "seconds": 3.72,
+          "dhash64": "2726a74bdb534323",
+          "phash64": "92839384e5b8e79d"
+        },
+        {
+          "position": "end",
+          "seconds": 7.36,
+          "dhash64": "2726a74bdb534323",
+          "phash64": "92839384e5b8e79d"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_PHYSICAL_VARIABLES",
+      "family_id": "KZ_SEQ_THEORY_PHYSICAL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_PHYSICAL_VARIABLES.png",
+      "sha256": "747c00a574c57f81512f25ab980500a27d9738bf8f70ad9322a1906a20fc3f13",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "85537b8313136b4d",
+          "phash64": "f4e04b1f1f38f0e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_MEASURABLE_NOT_TRAVEL",
+      "family_id": "KZ_SEQ_THEORY_PHYSICAL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_MEASURABLE_NOT_TRAVEL.png",
+      "sha256": "870ba65e1a0a1673e5d6ee5203bdbc5f299cb19c09648c05507ee2f1d9647b6c",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "76041c0c094d0709",
+          "phash64": "886bf234b54aec96"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_THEORY_INFORMATION_ACTIVE",
+      "family_id": "KZ_SEQ_THEORY_INFORMATION_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_THEORY_INFORMATION_ACTIVE.png",
+      "sha256": "880ef8a41865c8c32505b2b6747f0718931649a7a1a639a91d18cc264c60b286",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "8453339c8f8fb31b",
+          "phash64": "dfd0002f2d2fdad0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_OBSERVER_DISTANCE_REFLECTION",
+      "family_id": "KZ_SEQ_THEORY_INFORMATION_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_OBSERVER_DISTANCE_REFLECTION.png",
+      "sha256": "c4ce0d56d763173dd9d1382fd01c327a986a3bffe91c1263e6300f0a22b91171",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "39170f0f0f07170f",
+          "phash64": "81e1e16565757173"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_EXTRAORDINARY_POSSIBILITY",
+      "family_id": "KZ_SEQ_THEORY_INFORMATION_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_EXTRAORDINARY_POSSIBILITY.png",
+      "sha256": "8fcaafe14b1a11b4e424acb4612270f6e0f9d68bae0884444552d9867728d229",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "c4d9cd273d3575c8",
+          "phash64": "e5bd3c4342905ced"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_CLEAN_TEST",
+      "family_id": "KZ_SEQ_THEORY_INFORMATION_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_CLEAN_TEST.png",
+      "sha256": "3e69d0f7dc3e12cefe8f7116dfcfbc9a319fee1a44548313981b9e859b738b62",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "8163638303033314",
+          "phash64": "94f06b1f1f0f34e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SUBJECTIVE_REPORT_HAND",
+      "family_id": "KZ_SEQ_THEORY_INFORMATION_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_SUBJECTIVE_REPORT_HAND.png",
+      "sha256": "41b2086a26e84df4a2718950908408d96b3ff1816e23dab38cbb7b1fb4b8922f",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "d1cd8f8d0dc40434",
+          "phash64": "9dd4628925b29b73"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_INFORMATION_BEFORE_REVEAL",
+      "family_id": "KZ_SEQ_THEORY_INFORMATION_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_INFORMATION_BEFORE_REVEAL.mp4",
+      "sha256": "8a37e4fa17423d4f79dc0c6b4507e913528f5c996eb682e99bf931f9d3fc1e9d",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "8ecfccc4c8c18181",
+          "phash64": "bec854d52b2b6165"
+        },
+        {
+          "position": "middle",
+          "seconds": 2.4,
+          "dhash64": "9ecfccccc8c98121",
+          "phash64": "bcca51d52b2b6165"
+        },
+        {
+          "position": "end",
+          "seconds": 4.72,
+          "dhash64": "8ccfccc4c8c18101",
+          "phash64": "beca54d52b2b6125"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_TARGET_GRID_SEALED",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_TARGET_GRID_SEALED.png",
+      "sha256": "b18c4c0a9a64147c30185015b6b37b113cbdecca1ae5b30333fa07d7a3edd2e3",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "6162055555076365",
+          "phash64": "c0e06aaa951f1f1f"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_TARGET01_LIGHTHOUSE",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_TARGET01_LIGHTHOUSE.png",
+      "sha256": "3b675fafe4dafcd63a819e471a753bac8cba09fcf97f00958d0f307b922852f7",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0b3733333333128f",
+          "phash64": "b371dc044dcc365e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_TARGET02_VIOLIN",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_TARGET02_VIOLIN.png",
+      "sha256": "ce7def24a818b2d195b741b5eb49688dee258e008b3662d7e8af9c93e8d12001",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "cb864ccd1b1a9ee5",
+          "phash64": "ce3933c6319eb065"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_TARGET03_BURNING_CAR",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_TARGET03_BURNING_CAR.png",
+      "sha256": "bc57d93586edf51444a8b95f50add79f70a37005cb3c179baa54aa7db878c05d",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "e7a7e7656933170f",
+          "phash64": "b1b3991c5cdcb238"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_TARGET04_WHITE_HORSE",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_TARGET04_WHITE_HORSE.png",
+      "sha256": "79c05832fa162c138bbbf6c551035654b30f06d81eb8c6d33fb7969b1d989a64",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "b6b01f4f4b0b29c6",
+          "phash64": "9ce3e365989a06e5"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_TARGET_GRID_CHOOSE",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_TARGET_GRID_CHOOSE.png",
+      "sha256": "23ca0b68b43cb3704cbb02e78f8880b7b860254434df81b223a075652801fee9",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "65665d7575176b2b",
+          "phash64": "c0e06a1f959f1e0f"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_TARGET_GRID_HOLD",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_TARGET_GRID_HOLD.png",
+      "sha256": "6c8571d1491e0b86f6a5feb3d4ee79cf79bb59f68f77cf60e7a26dd3a6441584",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "6161015555014142",
+          "phash64": "d0e07a8f841f0f1f"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PROTOCOL_RANDOM_SELECTION",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_PROTOCOL_RANDOM_SELECTION.png",
+      "sha256": "3f616e7a23664819c5c067626ee190870859ba8d69e786f7d7c3dc87bb89a179",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "67679e6d69530d0f",
+          "phash64": "d0f042f0bd0f0f8f"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PROTOCOL_DOUBLE_BLIND",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_PROTOCOL_DOUBLE_BLIND.png",
+      "sha256": "5fbee91501ac339f37b02b9353dc273ed2eadd80e7c1257a593e40374cd23388",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4141074d4d0e6325",
+          "phash64": "d0f832d4cd0f0f0f"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_REC03_PARTICIPANT_REPORT",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_EN_REC03_PARTICIPANT_REPORT.png",
+      "sha256": "ea9c10625104de366b7c8f0525ace1a57fdc7784e9e7c0cde2ad61b1a55da9e5",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "8686868bcb070b2f",
+          "phash64": "dabfc1947d84a9a0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PROTOCOL_JUDGING",
+      "family_id": "KZ_SEQ_BLIND_TARGET_PROTOCOL",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_PROTOCOL_JUDGING.png",
+      "sha256": "8e5a83d8f57c82d68016598458a688614d7c6184d257c26c71b49b1cd7b68b1c",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "c3c30e4d4d0b0607",
+          "phash64": "d0fc3af4c5830f83"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_REPLICATION_CHAIN_LAB2",
+      "family_id": "KZ_REPLICATION_CHAIN_LAB2",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_REPLICATION_CHAIN_LAB2.png",
+      "sha256": "00587e138dac4f3ca40e140fd062b851fe615971e746d28c541b009ae9550e23",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "43450b47470e3226",
+          "phash64": "d0f86ad4d5070f87"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_TARGET_MATCH_LIGHTHOUSE",
+      "family_id": "KZ_SEQ_MATCH_VS_CHANCE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_TARGET_MATCH_LIGHTHOUSE.png",
+      "sha256": "d842806a593eefffda8b99cf723c9c337fe9daf9ce8ddcb5e9f0da1d7b29a10e",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "3335333333310606",
+          "phash64": "d0e36bbe160c259b"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_ONE_MATCH_CHANCE",
+      "family_id": "KZ_SEQ_MATCH_VS_CHANCE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_ONE_MATCH_CHANCE.png",
+      "sha256": "facb6e5db00c37b596405996224d5dddf53fdf44634c4d8ef288a8c43afed7c9",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "851b5b0313033326",
+          "phash64": "d4cc4b1f3b31f0e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_POSTHOC_INTERPRETATION",
+      "family_id": "KZ_SEQ_MATCH_VS_CHANCE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_POSTHOC_INTERPRETATION.png",
+      "sha256": "51dbe581b66b78d1334bdd52a8c3896aa57f703853e26892a0beb7f796cb8524",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "834c0d836b6b1709",
+          "phash64": "c0c94fb03f3f30c3"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_REPLICATION_REPEATED_BLIND",
+      "family_id": "KZ_SEQ_PREDICTIONS_AND_MISSING_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_REPLICATION_REPEATED_BLIND.png",
+      "sha256": "bcdea33e3f221dcd615d3bd439c86d0f118b8ffcb763a4197f21a182d8f949a7",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "676b8e4d4d2f1e1d",
+          "phash64": "c0f032f09d0f1f8f"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_THEORIES_FORCED_APART",
+      "family_id": "KZ_SEQ_PREDICTIONS_AND_MISSING_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_THEORIES_FORCED_APART.png",
+      "sha256": "367c32c82e7257127dc9cdd00461fd0941710e40915e6642411dee635651543c",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "9797b3b1b1b1b1b1",
+          "phash64": "a7485c0fb5b2d0a7"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PSYCHOLOGY_ISOLATION_BODY",
+      "family_id": "KZ_SEQ_PREDICTIONS_AND_MISSING_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_PSYCHOLOGY_ISOLATION_BODY.png",
+      "sha256": "7c285ef6e517236417951a226b1f0616c6fadf92b4c4dcdb88bb7c07d2899a56",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "07270f1717174f0b",
+          "phash64": "94576936cd389aa5"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PHYSICAL_MEASUREMENT_CLOSEUP",
+      "family_id": "KZ_SEQ_PREDICTIONS_AND_MISSING_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_PHYSICAL_MEASUREMENT_CLOSEUP.png",
+      "sha256": "44b481a47618b2692b14698d8f76dcd51d82626d06c24c82cbc47d8fd7c9d295",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4c4d2f594d46069e",
+          "phash64": "98a8aa986db29a6f"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_RANDOM_TARGET_SEALED_VAULT",
+      "family_id": "KZ_SEQ_PREDICTIONS_AND_MISSING_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_RANDOM_TARGET_SEALED_VAULT.png",
+      "sha256": "2ae1362ca7e22422680233b850cdcd3050d7aae6fd32fafcd788089385535dd2",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "cdeccdcde989cf6b",
+          "phash64": "fc4dc20f70de2dc0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_MISSING_EXPERIMENT_VOID",
+      "family_id": "KZ_SEQ_PREDICTIONS_AND_MISSING_TEST",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_MISSING_EXPERIMENT_VOID.mp4",
+      "sha256": "f7dcc594dbdcb9d9ca361c7fd00de8d717a67942680b3269b59db547a5e1144f",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "6092929391090b09",
+          "phash64": "96f2c969694989d6"
+        },
+        {
+          "position": "middle",
+          "seconds": 2.8,
+          "dhash64": "64929296940e0b09",
+          "phash64": "9ef2a5616149c9b6"
+        },
+        {
+          "position": "end",
+          "seconds": 5.52,
+          "dhash64": "64929292900a0b09",
+          "phash64": "8ee2b1696949c9b6"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_EVIDENCE_PATENT",
+      "family_id": "KZ_SEQ_EVIDENCE_AND_REPLICATION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_EVIDENCE_PATENT.png",
+      "sha256": "749bcec8c9fa74d6acffa66ec574bfc510b9d8dfc9be9e14beb365be17a7b1ad",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "2d4d4d4d4d2d6d0d",
+          "phash64": "c8b2378337c137cc"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_EVIDENCE_PUBLICATIONS",
+      "family_id": "KZ_SEQ_EVIDENCE_AND_REPLICATION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_EVIDENCE_PUBLICATIONS.png",
+      "sha256": "4b9390128aacb4bdab841e5bd69ed873d92c9eeb39e9aac441a097a399d67222",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "1d6d4d6d6d4d6d0d",
+          "phash64": "c8b2378537c337d0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_REPLICATION_CHAIN_MISSING",
+      "family_id": "KZ_SEQ_EVIDENCE_AND_REPLICATION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_REPLICATION_CHAIN_MISSING.png",
+      "sha256": "3e57395bee4e12ba382f6d811c015f36a4cb885bd9fcdf3765dc3bf10bcb656a",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "43638c7d75080f07",
+          "phash64": "c1f85ae0a58f0f87"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_APPARATUS_NOT_EVIDENCE",
+      "family_id": "KZ_SEQ_EVIDENCE_AND_REPLICATION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_APPARATUS_NOT_EVIDENCE.png",
+      "sha256": "16753ca6229b272be890c2b9a732e9e9c5269a67c6a65f68786618c7a169fa18",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "93494e9611093e35",
+          "phash64": "c4cc69373f6bc8c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_INDEPENDENT_RESULT",
+      "family_id": "KZ_SEQ_EVIDENCE_AND_REPLICATION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_INDEPENDENT_RESULT.png",
+      "sha256": "74fae680d5162da77cee2b383598aceb7cf37e2134840048c41486a7c3c8b5ac",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "81195a46030b4645",
+          "phash64": "c4c44f173b7ae8c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_AUTHORITY_TRAP",
+      "family_id": "KZ_SEQ_PATENT_AUTHORITY_TRAP",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_AUTHORITY_TRAP.png",
+      "sha256": "16e0327b6abb7dddf51643a274bc661709cdc626f695690e1bf48c6771e26882",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "5d6d6d4d0d0d0d6d",
+          "phash64": "c8b3370f37c037c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "family_id": "KZ_SEQ_PATENT_AUTHORITY_TRAP",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION.mp4",
+      "sha256": "ecbe685c41ba317923139ed95632aae11f02f826e7d216e8de80d1b8b16b62e6",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "2d4d4f4d4d2d2d0d",
+          "phash64": "c8b637c137c13794"
+        },
+        {
+          "position": "middle",
+          "seconds": 2.9,
+          "dhash64": "0d6d4c0d6d6d4d4d",
+          "phash64": "c8b636b137cc37c0"
+        },
+        {
+          "position": "end",
+          "seconds": 5.72,
+          "dhash64": "4c4d6d6d6d4d4d4d",
+          "phash64": "c8b6373137c837c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_LANGUAGE_OF_AUTHORITY",
+      "family_id": "KZ_SEQ_PATENT_AUTHORITY_TRAP",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_LANGUAGE_OF_AUTHORITY.png",
+      "sha256": "06b962d2096fd8f67920fafa8ad53fe9c2463beea87035ccfd69d8715fb138a4",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "891636898787c345",
+          "phash64": "dfc3003d2d3dc3c2"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_ONLINE_PATENT_AUTHORITY",
+      "family_id": "KZ_SEQ_PATENT_AUTHORITY_TRAP",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_ONLINE_PATENT_AUTHORITY.png",
+      "sha256": "0f40aa7b607517301620fcc0ff939778d4c18a248e4c14d78fcb09cb24180b08",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "285a4a4e4f4d0d1f",
+          "phash64": "cc2e63317333c966"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CARD_IT_DOES_NOT",
+      "family_id": "KZ_SEQ_PATENT_AUTHORITY_TRAP",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_CARD_IT_DOES_NOT.png",
+      "sha256": "085d49bdd725ecf07eec1b22e70eecadc3383f801a1b328d5e02a647030f133d",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "826a6d854b4bd709",
+          "phash64": "c0e1738c1f1f8c73"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PATENT_PROVENANCE_DESK",
+      "family_id": "KZ_SEQ_PATENT_AUTHORITY_TRAP",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_PATENT_PROVENANCE_DESK.png",
+      "sha256": "f6cf2b5e8b14053167ea7e50bab9419c3a3cb1bd9825d8b8c4dabe34882ff744",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "674d440646c7cdcd",
+          "phash64": "d8233516eaad16f1"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EMPTY_RESULT_TRAY",
+      "family_id": "KZ_SEQ_PATENT_AUTHORITY_TRAP",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\CLUSTER_BREAKS\\KZ_EMPTY_RESULT_TRAY.png",
+      "sha256": "ed494cb2566b88ee9ea0d1f22dbe8dc5dc070d3f7a9c8c0b1c432236fcafc6f5",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "52476333014e4b03",
+          "phash64": "90639e6c376a63a5"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_EVIDENCE_STACK",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_PAYOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_EVIDENCE_STACK.png",
+      "sha256": "3d10e229d30df13c9d1790ba7e3e90c110759d09f68fc7600953e10855ee7357",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "3d4d4d4d4d4d4d3d",
+          "phash64": "c8b637b037c137c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_DIMENSIONS",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_PAYOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_DIMENSIONS.png",
+      "sha256": "dc826fa5c387c19ce906122bdf0b9307a10a84aa171dc620ed2e3ba1b05cb4d1",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0d4d2d2d2d2d6d4d",
+          "phash64": "c9b6363337c837c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_HERO02",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_PAYOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NANO_BANANA_PRO\\KZ_EN_HERO02.png",
+      "sha256": "dbb0b6084fcaca2a28556837b1fd43f258962dd9875758d5c6418a9bd5ca372f",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "cdcbe1c1a122c3c3",
+          "phash64": "b5dc5e4b050c4b6e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_FOCUS_TEXT_DETAIL",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_PAYOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_FOCUS_TEXT_DETAIL.png",
+      "sha256": "3e9b77e8e5c6efbf69077eb3f92eae440e8560cbe983f2a8f2de54a51bf968d4",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0d4d4d6d4d4d6d4d",
+          "phash64": "c8b6363f37c03698"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_PAYOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL.png",
+      "sha256": "6c61e88528992b63c36b0e17135d65295d6d02500d9687ccf89fd59d7476368a",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4d4d4d4d4d4d4d4d",
+          "phash64": "c8b3378537c937c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_PAYOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_ROTATION_TEXT_DETAIL.png",
+      "sha256": "c8822375610198da68aab5a6047281dd7f14c3af3ce1da3862d286f1b2e9363e",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "0d4d4d4d4d4d4d3d",
+          "phash64": "c8b637b837c137c0"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_REC05_SCREWS_MACRO",
+      "family_id": "KZ_SEQ_PATENT_PHYSICAL_PAYOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_EN_REC05_SCREWS_MACRO.png",
+      "sha256": "9047f8838703e45b41ab2165363465fb77a981026f79d3ef54336a4154c9a5ab",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "5757171717373707",
+          "phash64": "d2dc8c27982bf199"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_REC18_EMPTY_CHAMBER_A",
+      "family_id": "KZ_SEQ_DOCUMENTED_RESIDUE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_EN_REC18_EMPTY_CHAMBER_A.png",
+      "sha256": "48597c544d2e2d6f8097f9aca0665e1981d3a6ce6c46eb260b8d3b2fed6102cd",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "9cdc4c8e6b6b6963",
+          "phash64": "c8efedd5c78b8080"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "family_id": "KZ_SEQ_DOCUMENTED_RESIDUE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_PATENT_DOCUMENTED_CHAMBER.png",
+      "sha256": "15e64aa09b4cf9b54639a35dc02cf87730f274069de647991cc391623bb23b6f",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "4d4d4f4d4d4d6d6d",
+          "phash64": "c8b637c137c137c4"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_KAZNACHEEV_TROFIMOV_CLAIM_HISTORY",
+      "family_id": "KZ_SEQ_DOCUMENTED_RESIDUE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_KAZNACHEEV_TROFIMOV_CLAIM_HISTORY.png",
+      "sha256": "149d80c4cb854a31dfed2273d28002ac073d9a06568c0b0dba2949b6ac0844c0",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "3c4d4d4d4d4d4d3d",
+          "phash64": "c83837c737c33698"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_SRC_CLAIM_HISTORY_PUBLICATIONS",
+      "family_id": "KZ_SEQ_DOCUMENTED_RESIDUE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_SRC_CLAIM_HISTORY_PUBLICATIONS.png",
+      "sha256": "34339741e314545e5ae2abd378b97f7bee1af866cd9c6ebebbd7ee91f701e071",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "1c4d4d4d4d4d4d2d",
+          "phash64": "c8b7378037c037d5"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_HISTORY_KOZYREV_NOT_CHAMBER_BUILDER",
+      "family_id": "KZ_SEQ_DOCUMENTED_RESIDUE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_HISTORY_KOZYREV_NOT_CHAMBER_BUILDER.png",
+      "sha256": "c48e615219c93dc11f65719fbddc625fe13c263ac2626b290933b49cca0d3f5e",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "cdedcd4d6d6dedcd",
+          "phash64": "d99e36e126c8263d"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_EN_REC18_EMPTY_CHAMBER_B",
+      "family_id": "KZ_SEQ_DOCUMENTED_RESIDUE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\KZ_EN_REC18_EMPTY_CHAMBER_B.png",
+      "sha256": "207be057a6456f003d87f687e60d94f39d3a4967c8683013b749f6f311f2dcad",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "e856920787074d71",
+          "phash64": "da0e647939dc862e"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_DECISIVE_INFORMATION_QUESTION",
+      "family_id": "KZ_SEQ_FINAL_TEST_QUESTION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_DECISIVE_INFORMATION_QUESTION.png",
+      "sha256": "26a9e0177daa479801d034377e50d74c44f68a8f04c95c23cc9796cb9db7881a",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "969696969694a6a6",
+          "phash64": "9bc631ce9633cc32"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_PROTOCOL_CLEAN_TEST",
+      "family_id": "KZ_SEQ_FINAL_TEST_QUESTION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_PROTOCOL_CLEAN_TEST.png",
+      "sha256": "f156fe19a4c0a1786e9561752cb81b2319dfbf7cedf940ee28a04d219721b2c3",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "43430f4d690b464a",
+          "phash64": "d0f82af0f50f0f07"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MYSTIC_RESULT_STILL_MISSING",
+      "family_id": "KZ_SEQ_FINAL_TEST_QUESTION",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\NATIVE_IMAGEGEN\\EXPERIENTIAL_UPGRADE\\KZ_MYSTIC_RESULT_STILL_MISSING.png",
+      "sha256": "58168fa3849c0103e9c65098926ef206f9a4d66f251c46f4973af97143fd84fd",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "6979191909194643",
+          "phash64": "c4e4333bccc8763a"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+      "family_id": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_EMPTY_SPIRAL_PAYOFF.mp4",
+      "sha256": "ccfd9f2e34ba9a0ebc8dab342c69c3522c54e8ba064e4a8bf34788ea0447230c",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "3333b33333372727",
+          "phash64": "c3661d0f64787d0d"
+        },
+        {
+          "position": "middle",
+          "seconds": 4.2,
+          "dhash64": "3333b33333372727",
+          "phash64": "c3661d0f64787d0d"
+        },
+        {
+          "position": "end",
+          "seconds": 8.32,
+          "dhash64": "3333b33333372727",
+          "phash64": "c3661d0f64787d0d"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MAP_NOVOSIBIRSK_TO_FORT_MEADE",
+      "family_id": "KZ_SEQ_FORT_MEADE_HANDOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_MAP_NOVOSIBIRSK_TO_FORT_MEADE.png",
+      "sha256": "7c82ba7ac5e50b29ac85ce9665970d5cb6d13ca7099c899fefc757902464f0cf",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "1123232f95352361",
+          "phash64": "9196b46fe978c843"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_MAP_FORT_MEADE_ZOOM",
+      "family_id": "KZ_SEQ_FORT_MEADE_HANDOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\GENERATED\\DETERMINISTIC\\KZ_MAP_FORT_MEADE_ZOOM.png",
+      "sha256": "fcb3a123f91380576acf36a22d6b6d12a4b4ee92b20fb201c4fe37ecdd9ee094",
+      "perceptual": [
+        {
+          "position": "still",
+          "dhash64": "31230b2795352161",
+          "phash64": "81c0f42fbb5e9c1c"
+        }
+      ]
+    },
+    {
+      "asset_id": "KZ_CLIP_THREE_OBSERVERS_TRANSITION",
+      "family_id": "KZ_SEQ_FORT_MEADE_HANDOFF",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\04_ASSETS\\CLIPS\\LOCAL_PROGRESSIVE\\KZ_CLIP_THREE_OBSERVERS_TRANSITION.mp4",
+      "sha256": "56e8534d7bd92dd84818b1e0b3726ec56c7aa058d16999ad41fa89576cbe43b9",
+      "perceptual": [
+        {
+          "position": "start",
+          "seconds": 0.0,
+          "dhash64": "98597c3c3e49644e",
+          "phash64": "c0671d3e8f239c39"
+        },
+        {
+          "position": "middle",
+          "seconds": 3.7,
+          "dhash64": "98597c3c3e49644e",
+          "phash64": "c0671d3e8f239c39"
+        },
+        {
+          "position": "end",
+          "seconds": 7.32,
+          "dhash64": "98597c3c3e49644e",
+          "phash64": "c0671d3e8f239c39"
+        }
+      ]
+    }
+  ],
+  "note": "Near perceptual matches and static holds from 8 seconds require manual review; exact duplicates, asset returns and unjustified holds over 10 seconds are hard failures."
+}

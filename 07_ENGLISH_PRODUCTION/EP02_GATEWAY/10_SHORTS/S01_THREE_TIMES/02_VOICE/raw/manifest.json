@@ -1,0 +1,23 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\10_SHORTS\\S01_THREE_TIMES\\02_VOICE\\raw\\EP02_EN_SHORT_S01.mp3",
+    "sha256": "7472d9d29541db2c396884a9d507112420edc8e6aee7d3e356d41838dcda1d6b",
+    "bytes": 689676,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.56,
+      "similarity_boost": 0.81,
+      "style": 0.12,
+      "use_speaker_boost": true,
+      "speed": 1.1
+    },
+    "seed": 270802,
+    "request_id": "H45IriCm4os6hFz83HbO",
+    "text_sha256": "6df9b165eefdd86fba0bc047913a20484bc90c82db9c102ac793b81d86fdac96",
+    "characters": 701,
+    "stem_id": "EP02_EN_SHORT_S01"
+  }
+]

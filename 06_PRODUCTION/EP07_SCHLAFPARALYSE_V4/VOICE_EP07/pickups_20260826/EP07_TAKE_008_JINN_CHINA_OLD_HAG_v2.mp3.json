@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\VOICE_EP07\\pickups_20260826\\EP07_TAKE_008_JINN_CHINA_OLD_HAG_v2.mp3",
+  "sha256": "32fcbbcd97f2379f331a0b221d7fdbd6a587d4160d8301b76e2f8abf91d208eb",
+  "bytes": 487802,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_flash_v2_5",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.62,
+    "similarity_boost": 0.8,
+    "style": 0.06,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 2411,
+  "request_id": "A0KuOWkRAjZrN9cD7ZqB",
+  "text_sha256": "c0e5c84e28b099b1e0088c7c302bd216c86fc783f26564f308796aaa9f50f28f",
+  "characters": 478
+}

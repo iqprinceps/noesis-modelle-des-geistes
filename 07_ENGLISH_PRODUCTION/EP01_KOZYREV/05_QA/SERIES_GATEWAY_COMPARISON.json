@@ -1,0 +1,16 @@
+{
+  "created_utc": "2026-08-27T07:22:01.056098+00:00",
+  "status": "PASS",
+  "gateway_basis": {
+    "timeline": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\timeline\\EP02_GATEWAY_V7_timeline.json",
+    "final_render": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP02_GATEWAY_V7\\render\\final\\EP02_GATEWAY_V7_FINAL_1080p.mp4",
+    "final_render_sha256": "1e5b89f4e7d1bd880e1ffeecc48b585d8c3684f8ca751686ede53a789e8c8676",
+    "timeline_shots": 148,
+    "unique_accessible_final_visuals": 90,
+    "missing_timeline_visual_paths": []
+  },
+  "ep01_selected_assets": 111,
+  "exact_cross_episode_collisions": [],
+  "perceptual_cross_episode_candidates": [],
+  "gateway_handoff_note": "EP01 uses its own Novosibirsk-to-Fort-Meade map exports and does not import or restart a Gateway shot."
+}

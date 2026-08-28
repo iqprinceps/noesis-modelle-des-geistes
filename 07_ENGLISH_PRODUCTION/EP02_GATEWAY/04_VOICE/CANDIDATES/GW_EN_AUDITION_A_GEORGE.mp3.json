@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\CANDIDATES\\GW_EN_PRONUNCIATION_PREFLIGHT_GEORGE.mp3",
+  "sha256": "378dbf9580e0d01f33e70795ad025074b418548a6419b271c4d81c248c5ae278",
+  "bytes": 211949,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 260802,
+  "request_id": "SNIHuctwGYPv7oYtXIIv",
+  "text_sha256": "dc1b724ab097857eca681ed044054008c06a7f14a29db1b16f8baec5471c3c59",
+  "characters": 203
+}

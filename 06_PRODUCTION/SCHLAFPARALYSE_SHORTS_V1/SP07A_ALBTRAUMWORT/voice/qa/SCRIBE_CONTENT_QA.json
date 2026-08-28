@@ -1,0 +1,1413 @@
+{
+  "job": "SP07A_ALBTRAUMWORT",
+  "purpose": "independent speech-to-text content and transition QA",
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model": "scribe_v2",
+  "expected_words": 100,
+  "heard_words": 100,
+  "sequence_similarity": 1.0,
+  "issues": [],
+  "transcription": {
+    "language_code": "deu",
+    "language_probability": 1.0,
+    "text": "Das Wort Albtraum meinte ursprünglich keinen schlechten Traum. Die alte Märe war ein nächtliches Wesen, das Menschen bedrängte. Der Schrecken bekam also erst einen Körper und wurde erst viel später zur allgemeinen Bezeichnung für einen schlimmen Traum. Verwandte Namen tauchen quer durch germanische Sprachen auf: Mara, Mare, Mahr. Gemeint war kein Pferd, sondern ein unsichtbarer Besucher im eigenen Bett, auf der Brust sitzend und den Schlafenden lähmend. Heute bezeichnet Nightmare fast jeden schlimmen Traum. Doch im Wort steckt noch die ältere Szene: Wachheit, Brustdruck und ein nächtlicher Verursacher, den die eigene Kultur bereits lange vor jeder medizinischen Erklärung benannt hatte.",
+    "words": [
+      {
+        "text": "Das",
+        "start": 0.119,
+        "end": 0.239,
+        "type": "word",
+        "logprob": -7.152531907195225e-06
+      },
+      {
+        "text": " ",
+        "start": 0.239,
+        "end": 0.299,
+        "type": "spacing",
+        "logprob": -1.6689160474925302e-05
+      },
+      {
+        "text": "Wort",
+        "start": 0.299,
+        "end": 0.479,
+        "type": "word",
+        "logprob": -1.6689160474925302e-05
+      },
+      {
+        "text": " ",
+        "start": 0.479,
+        "end": 0.599,
+        "type": "spacing",
+        "logprob": -0.008795094676315784
+      },
+      {
+        "text": "Albtraum",
+        "start": 0.599,
+        "end": 1.159,
+        "type": "word",
+        "logprob": -0.008549424237571657
+      },
+      {
+        "text": " ",
+        "start": 1.159,
+        "end": 1.219,
+        "type": "spacing",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": "meinte",
+        "start": 1.22,
+        "end": 1.5,
+        "type": "word",
+        "logprob": -4.2079554984771526e-05
+      },
+      {
+        "text": " ",
+        "start": 1.5,
+        "end": 1.559,
+        "type": "spacing",
+        "logprob": -4.7444173105759546e-05
+      },
+      {
+        "text": "ursprünglich",
+        "start": 1.559,
+        "end": 2.119,
+        "type": "word",
+        "logprob": -4.7444173105759546e-05
+      },
+      {
+        "text": " ",
+        "start": 2.119,
+        "end": 2.179,
+        "type": "spacing",
+        "logprob": -5.722029527532868e-06
+      },
+      {
+        "text": "keinen",
+        "start": 2.18,
+        "end": 2.48,
+        "type": "word",
+        "logprob": -5.722029527532868e-06
+      },
+      {
+        "text": " ",
+        "start": 2.48,
+        "end": 2.519,
+        "type": "spacing",
+        "logprob": -4.6491513785440475e-06
+      },
+      {
+        "text": "schlechten",
+        "start": 2.519,
+        "end": 2.839,
+        "type": "word",
+        "logprob": -1.2993693417229224e-05
+      },
+      {
+        "text": " ",
+        "start": 2.839,
+        "end": 2.939,
+        "type": "spacing",
+        "logprob": -5.006777428206988e-06
+      },
+      {
+        "text": "Traum.",
+        "start": 2.939,
+        "end": 3.259,
+        "type": "word",
+        "logprob": -4.5100738361725234e-06
+      },
+      {
+        "text": " ",
+        "start": 3.259,
+        "end": 3.959,
+        "type": "spacing",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": "Die",
+        "start": 3.959,
+        "end": 4.039,
+        "type": "word",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": " ",
+        "start": 4.039,
+        "end": 4.099,
+        "type": "spacing",
+        "logprob": -0.0019985719118267298
+      },
+      {
+        "text": "alte",
+        "start": 4.099,
+        "end": 4.299,
+        "type": "word",
+        "logprob": -0.0019985719118267298
+      },
+      {
+        "text": " ",
+        "start": 4.299,
+        "end": 4.419,
+        "type": "spacing",
+        "logprob": -0.002221023431047797
+      },
+      {
+        "text": "Märe",
+        "start": 4.42,
+        "end": 4.659,
+        "type": "word",
+        "logprob": -0.004361648519989103
+      },
+      {
+        "text": " ",
+        "start": 4.659,
+        "end": 4.739,
+        "type": "spacing",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": "war",
+        "start": 4.739,
+        "end": 4.839,
+        "type": "word",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": " ",
+        "start": 4.839,
+        "end": 4.879,
+        "type": "spacing",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "ein",
+        "start": 4.88,
+        "end": 5.0,
+        "type": "word",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": " ",
+        "start": 5.0,
+        "end": 5.039,
+        "type": "spacing",
+        "logprob": -7.283422019099817e-05
+      },
+      {
+        "text": "nächtliches",
+        "start": 5.039,
+        "end": 5.539,
+        "type": "word",
+        "logprob": -1.7566619755433006e-05
+      },
+      {
+        "text": " ",
+        "start": 5.539,
+        "end": 5.619,
+        "type": "spacing",
+        "logprob": -3.814689989667386e-06
+      },
+      {
+        "text": "Wesen,",
+        "start": 5.619,
+        "end": 5.92,
+        "type": "word",
+        "logprob": -1.907344994833693e-06
+      },
+      {
+        "text": " ",
+        "start": 5.92,
+        "end": 6.199,
+        "type": "spacing",
+        "logprob": -9.858122211880982e-05
+      },
+      {
+        "text": "das",
+        "start": 6.199,
+        "end": 6.319,
+        "type": "word",
+        "logprob": -9.858122211880982e-05
+      },
+      {
+        "text": " ",
+        "start": 6.319,
+        "end": 6.379,
+        "type": "spacing",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": "Menschen",
+        "start": 6.379,
+        "end": 6.679,
+        "type": "word",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": " ",
+        "start": 6.679,
+        "end": 6.759,
+        "type": "spacing",
+        "logprob": -3.7788631743751466e-05
+      },
+      {
+        "text": "bedrängte.",
+        "start": 6.759,
+        "end": 7.319,
+        "type": "word",
+        "logprob": -9.299674126168611e-05
+      },
+      {
+        "text": " ",
+        "start": 7.319,
+        "end": 7.939,
+        "type": "spacing",
+        "logprob": -7.152555099310121e-07
+      },
+      {
+        "text": "Der",
+        "start": 7.94,
+        "end": 8.019,
+        "type": "word",
+        "logprob": -7.152555099310121e-07
+      },
+      {
+        "text": " ",
+        "start": 8.019,
+        "end": 8.099,
+        "type": "spacing",
+        "logprob": -0.000254241080256179
+      },
+      {
+        "text": "Schrecken",
+        "start": 8.099,
+        "end": 8.46,
+        "type": "word",
+        "logprob": -0.00014177486334827135
+      },
+      {
+        "text": " ",
+        "start": 8.46,
+        "end": 8.5,
+        "type": "spacing",
+        "logprob": -7.152531907195225e-06
+      },
+      {
+        "text": "bekam",
+        "start": 8.5,
+        "end": 8.84,
+        "type": "word",
+        "logprob": -7.152531907195225e-06
+      },
+      {
+        "text": " ",
+        "start": 8.84,
+        "end": 8.92,
+        "type": "spacing",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": "also",
+        "start": 8.92,
+        "end": 9.139,
+        "type": "word",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": " ",
+        "start": 9.139,
+        "end": 9.199,
+        "type": "spacing",
+        "logprob": -4.887569048150908e-06
+      },
+      {
+        "text": "erst",
+        "start": 9.199,
+        "end": 9.399,
+        "type": "word",
+        "logprob": -4.887569048150908e-06
+      },
+      {
+        "text": " ",
+        "start": 9.399,
+        "end": 9.46,
+        "type": "spacing",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": "einen",
+        "start": 9.46,
+        "end": 9.64,
+        "type": "word",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": " ",
+        "start": 9.64,
+        "end": 9.739,
+        "type": "spacing",
+        "logprob": -4.529942543740617e-06
+      },
+      {
+        "text": "Körper",
+        "start": 9.739,
+        "end": 10.099,
+        "type": "word",
+        "logprob": -4.529942543740617e-06
+      },
+      {
+        "text": " ",
+        "start": 10.099,
+        "end": 10.499,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "und",
+        "start": 10.5,
+        "end": 10.579,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 10.579,
+        "end": 10.639,
+        "type": "spacing",
+        "logprob": -3.2186455882765586e-06
+      },
+      {
+        "text": "wurde",
+        "start": 10.639,
+        "end": 10.819,
+        "type": "word",
+        "logprob": -3.2186455882765586e-06
+      },
+      {
+        "text": " ",
+        "start": 10.819,
+        "end": 10.859,
+        "type": "spacing",
+        "logprob": -2.9802276912960224e-06
+      },
+      {
+        "text": "erst",
+        "start": 10.859,
+        "end": 11.039,
+        "type": "word",
+        "logprob": -2.9802276912960224e-06
+      },
+      {
+        "text": " ",
+        "start": 11.039,
+        "end": 11.119,
+        "type": "spacing",
+        "logprob": -7.390948667307384e-06
+      },
+      {
+        "text": "viel",
+        "start": 11.119,
+        "end": 11.279,
+        "type": "word",
+        "logprob": -7.390948667307384e-06
+      },
+      {
+        "text": " ",
+        "start": 11.279,
+        "end": 11.34,
+        "type": "spacing",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": "später",
+        "start": 11.34,
+        "end": 11.699,
+        "type": "word",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": " ",
+        "start": 11.699,
+        "end": 11.819,
+        "type": "spacing",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": "zur",
+        "start": 11.819,
+        "end": 11.939,
+        "type": "word",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": " ",
+        "start": 11.939,
+        "end": 12.0,
+        "type": "spacing",
+        "logprob": -0.001135419704951346
+      },
+      {
+        "text": "allgemeinen",
+        "start": 12.0,
+        "end": 12.599,
+        "type": "word",
+        "logprob": -0.001135419704951346
+      },
+      {
+        "text": " ",
+        "start": 12.599,
+        "end": 12.639,
+        "type": "spacing",
+        "logprob": -0.00012909532233607024
+      },
+      {
+        "text": "Bezeichnung",
+        "start": 12.639,
+        "end": 13.219,
+        "type": "word",
+        "logprob": -0.00012909532233607024
+      },
+      {
+        "text": " ",
+        "start": 13.219,
+        "end": 13.279,
+        "type": "spacing",
+        "logprob": -1.6689286894688848e-06
+      },
+      {
+        "text": "für",
+        "start": 13.279,
+        "end": 13.359,
+        "type": "word",
+        "logprob": -1.6689286894688848e-06
+      },
+      {
+        "text": " ",
+        "start": 13.359,
+        "end": 13.399,
+        "type": "spacing",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": "einen",
+        "start": 13.399,
+        "end": 13.619,
+        "type": "word",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": " ",
+        "start": 13.619,
+        "end": 13.659,
+        "type": "spacing",
+        "logprob": -5.602820692729438e-06
+      },
+      {
+        "text": "schlimmen",
+        "start": 13.659,
+        "end": 13.94,
+        "type": "word",
+        "logprob": -3.8941594766583876e-06
+      },
+      {
+        "text": " ",
+        "start": 13.94,
+        "end": 14.039,
+        "type": "spacing",
+        "logprob": -3.576272320060525e-06
+      },
+      {
+        "text": "Traum.",
+        "start": 14.039,
+        "end": 14.38,
+        "type": "word",
+        "logprob": -3.0199633584970798e-06
+      },
+      {
+        "text": " ",
+        "start": 14.38,
+        "end": 15.099,
+        "type": "spacing",
+        "logprob": -0.0002818902430590242
+      },
+      {
+        "text": "Verwandte",
+        "start": 15.099,
+        "end": 15.5,
+        "type": "word",
+        "logprob": -0.00010495704201376712
+      },
+      {
+        "text": " ",
+        "start": 15.5,
+        "end": 15.559,
+        "type": "spacing",
+        "logprob": -1.5497195136049413e-06
+      },
+      {
+        "text": "Namen",
+        "start": 15.559,
+        "end": 15.879,
+        "type": "word",
+        "logprob": -1.5497195136049413e-06
+      },
+      {
+        "text": " ",
+        "start": 15.879,
+        "end": 15.939,
+        "type": "spacing",
+        "logprob": -4.6491513785440475e-06
+      },
+      {
+        "text": "tauchen",
+        "start": 15.939,
+        "end": 16.279,
+        "type": "word",
+        "logprob": -1.3163997729342164e-05
+      },
+      {
+        "text": " ",
+        "start": 16.279,
+        "end": 16.319,
+        "type": "spacing",
+        "logprob": -0.0003108495147898793
+      },
+      {
+        "text": "quer",
+        "start": 16.319,
+        "end": 16.579,
+        "type": "word",
+        "logprob": -0.0003108495147898793
+      },
+      {
+        "text": " ",
+        "start": 16.579,
+        "end": 16.639,
+        "type": "spacing",
+        "logprob": -9.536697689327411e-06
+      },
+      {
+        "text": "durch",
+        "start": 16.639,
+        "end": 16.799,
+        "type": "word",
+        "logprob": -9.536697689327411e-06
+      },
+      {
+        "text": " ",
+        "start": 16.799,
+        "end": 16.859,
+        "type": "spacing",
+        "logprob": -0.0012852036161348224
+      },
+      {
+        "text": "germanische",
+        "start": 16.859,
+        "end": 17.379,
+        "type": "word",
+        "logprob": -0.0007024289891433
+      },
+      {
+        "text": " ",
+        "start": 17.379,
+        "end": 17.459,
+        "type": "spacing",
+        "logprob": -1.0967194612021558e-05
+      },
+      {
+        "text": "Sprachen",
+        "start": 17.459,
+        "end": 17.899,
+        "type": "word",
+        "logprob": -1.0967194612021558e-05
+      },
+      {
+        "text": " ",
+        "start": 17.899,
+        "end": 17.959,
+        "type": "spacing",
+        "logprob": -2.3841830625315197e-06
+      },
+      {
+        "text": "auf:",
+        "start": 17.959,
+        "end": 18.179,
+        "type": "word",
+        "logprob": -0.003142601575518711
+      },
+      {
+        "text": " ",
+        "start": 18.179,
+        "end": 18.68,
+        "type": "spacing",
+        "logprob": -3.2782016205601394e-05
+      },
+      {
+        "text": "Mara,",
+        "start": 18.68,
+        "end": 19.059,
+        "type": "word",
+        "logprob": -3.9743489469401536e-05
+      },
+      {
+        "text": " ",
+        "start": 19.059,
+        "end": 19.319,
+        "type": "spacing",
+        "logprob": -0.0036256073508411646
+      },
+      {
+        "text": "Mare,",
+        "start": 19.319,
+        "end": 19.84,
+        "type": "word",
+        "logprob": -0.0029018210202593764
+      },
+      {
+        "text": " ",
+        "start": 19.84,
+        "end": 19.959,
+        "type": "spacing",
+        "logprob": -0.038823194801807404
+      },
+      {
+        "text": "Mahr.",
+        "start": 19.959,
+        "end": 20.84,
+        "type": "word",
+        "logprob": -0.00779041147143289
+      },
+      {
+        "text": " ",
+        "start": 20.84,
+        "end": 20.919,
+        "type": "spacing",
+        "logprob": -0.0003511289251036942
+      },
+      {
+        "text": "Gemeint",
+        "start": 20.92,
+        "end": 21.219,
+        "type": "word",
+        "logprob": -0.00020166689280033876
+      },
+      {
+        "text": " ",
+        "start": 21.219,
+        "end": 21.279,
+        "type": "spacing",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": "war",
+        "start": 21.279,
+        "end": 21.379,
+        "type": "word",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": " ",
+        "start": 21.379,
+        "end": 21.439,
+        "type": "spacing",
+        "logprob": -2.622600959512056e-06
+      },
+      {
+        "text": "kein",
+        "start": 21.439,
+        "end": 21.579,
+        "type": "word",
+        "logprob": -2.622600959512056e-06
+      },
+      {
+        "text": " ",
+        "start": 21.579,
+        "end": 21.699,
+        "type": "spacing",
+        "logprob": -9.179073458653875e-06
+      },
+      {
+        "text": "Pferd,",
+        "start": 21.699,
+        "end": 22.019,
+        "type": "word",
+        "logprob": -6.139250519510142e-06
+      },
+      {
+        "text": " ",
+        "start": 22.019,
+        "end": 22.319,
+        "type": "spacing",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": "sondern",
+        "start": 22.319,
+        "end": 22.559,
+        "type": "word",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": " ",
+        "start": 22.559,
+        "end": 22.6,
+        "type": "spacing",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": "ein",
+        "start": 22.6,
+        "end": 22.739,
+        "type": "word",
+        "logprob": -1.0728830375228426e-06
+      },
+      {
+        "text": " ",
+        "start": 22.739,
+        "end": 22.799,
+        "type": "spacing",
+        "logprob": -1.4424220353248529e-05
+      },
+      {
+        "text": "unsichtbarer",
+        "start": 22.799,
+        "end": 23.379,
+        "type": "word",
+        "logprob": -1.011286652404427e-05
+      },
+      {
+        "text": " ",
+        "start": 23.379,
+        "end": 23.459,
+        "type": "spacing",
+        "logprob": -0.00029988560709170997
+      },
+      {
+        "text": "Besucher",
+        "start": 23.459,
+        "end": 23.92,
+        "type": "word",
+        "logprob": -0.00029988560709170997
+      },
+      {
+        "text": " ",
+        "start": 23.92,
+        "end": 23.979,
+        "type": "spacing",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": "im",
+        "start": 23.979,
+        "end": 24.119,
+        "type": "word",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": " ",
+        "start": 24.119,
+        "end": 24.199,
+        "type": "spacing",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": "eigenen",
+        "start": 24.199,
+        "end": 24.559,
+        "type": "word",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": " ",
+        "start": 24.559,
+        "end": 24.659,
+        "type": "spacing",
+        "logprob": -0.00014745102089364082
+      },
+      {
+        "text": "Bett,",
+        "start": 24.659,
+        "end": 24.859,
+        "type": "word",
+        "logprob": -0.00012740196980303152
+      },
+      {
+        "text": " ",
+        "start": 24.859,
+        "end": 25.259,
+        "type": "spacing",
+        "logprob": -1.7881377516459906e-06
+      },
+      {
+        "text": "auf",
+        "start": 25.26,
+        "end": 25.359,
+        "type": "word",
+        "logprob": -1.7881377516459906e-06
+      },
+      {
+        "text": " ",
+        "start": 25.359,
+        "end": 25.419,
+        "type": "spacing",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": "der",
+        "start": 25.42,
+        "end": 25.5,
+        "type": "word",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": " ",
+        "start": 25.5,
+        "end": 25.559,
+        "type": "spacing",
+        "logprob": -0.0002181292074965313
+      },
+      {
+        "text": "Brust",
+        "start": 25.559,
+        "end": 25.879,
+        "type": "word",
+        "logprob": -0.0002181292074965313
+      },
+      {
+        "text": " ",
+        "start": 25.879,
+        "end": 25.939,
+        "type": "spacing",
+        "logprob": -0.000266278104390949
+      },
+      {
+        "text": "sitzend",
+        "start": 25.939,
+        "end": 26.599,
+        "type": "word",
+        "logprob": -0.00013918664938371097
+      },
+      {
+        "text": " ",
+        "start": 26.599,
+        "end": 26.659,
+        "type": "spacing",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": "und",
+        "start": 26.659,
+        "end": 26.739,
+        "type": "word",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": " ",
+        "start": 26.739,
+        "end": 26.779,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "den",
+        "start": 26.779,
+        "end": 26.92,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 26.92,
+        "end": 26.979,
+        "type": "spacing",
+        "logprob": -0.006063755601644516
+      },
+      {
+        "text": "Schlafenden",
+        "start": 26.979,
+        "end": 27.479,
+        "type": "word",
+        "logprob": -0.0033080991014768106
+      },
+      {
+        "text": " ",
+        "start": 27.479,
+        "end": 27.559,
+        "type": "spacing",
+        "logprob": -0.0012319840025156736
+      },
+      {
+        "text": "lähmend.",
+        "start": 27.559,
+        "end": 28.039,
+        "type": "word",
+        "logprob": -0.00031194477832574563
+      },
+      {
+        "text": " ",
+        "start": 28.039,
+        "end": 28.699,
+        "type": "spacing",
+        "logprob": -5.9960475482512265e-05
+      },
+      {
+        "text": "Heute",
+        "start": 28.699,
+        "end": 28.959,
+        "type": "word",
+        "logprob": -5.9960475482512265e-05
+      },
+      {
+        "text": " ",
+        "start": 28.959,
+        "end": 29.019,
+        "type": "spacing",
+        "logprob": -0.0002212279650848359
+      },
+      {
+        "text": "bezeichnet",
+        "start": 29.019,
+        "end": 29.519,
+        "type": "word",
+        "logprob": -0.0002212279650848359
+      },
+      {
+        "text": " ",
+        "start": 29.519,
+        "end": 29.619,
+        "type": "spacing",
+        "logprob": -0.0007346553611569107
+      },
+      {
+        "text": "Nightmare",
+        "start": 29.619,
+        "end": 30.119,
+        "type": "word",
+        "logprob": -0.0007346553611569107
+      },
+      {
+        "text": " ",
+        "start": 30.119,
+        "end": 30.179,
+        "type": "spacing",
+        "logprob": -9.775113539944869e-06
+      },
+      {
+        "text": "fast",
+        "start": 30.179,
+        "end": 30.42,
+        "type": "word",
+        "logprob": -9.775113539944869e-06
+      },
+      {
+        "text": " ",
+        "start": 30.42,
+        "end": 30.479,
+        "type": "spacing",
+        "logprob": -7.688703772146255e-05
+      },
+      {
+        "text": "jeden",
+        "start": 30.479,
+        "end": 30.739,
+        "type": "word",
+        "logprob": -7.688703772146255e-05
+      },
+      {
+        "text": " ",
+        "start": 30.739,
+        "end": 30.779,
+        "type": "spacing",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": "schlimmen",
+        "start": 30.779,
+        "end": 31.059,
+        "type": "word",
+        "logprob": -9.93410120978903e-07
+      },
+      {
+        "text": " ",
+        "start": 31.059,
+        "end": 31.139,
+        "type": "spacing",
+        "logprob": -2.861018856492592e-06
+      },
+      {
+        "text": "Traum.",
+        "start": 31.139,
+        "end": 31.479,
+        "type": "word",
+        "logprob": -0.003876722414361211
+      },
+      {
+        "text": " ",
+        "start": 31.479,
+        "end": 31.939,
+        "type": "spacing",
+        "logprob": -3.7431014789035544e-05
+      },
+      {
+        "text": "Doch",
+        "start": 31.939,
+        "end": 32.06,
+        "type": "word",
+        "logprob": -3.7431014789035544e-05
+      },
+      {
+        "text": " ",
+        "start": 32.06,
+        "end": 32.099,
+        "type": "spacing",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": "im",
+        "start": 32.099,
+        "end": 32.2,
+        "type": "word",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": " ",
+        "start": 32.2,
+        "end": 32.279,
+        "type": "spacing",
+        "logprob": -6.9141146923357155e-06
+      },
+      {
+        "text": "Wort",
+        "start": 32.279,
+        "end": 32.479,
+        "type": "word",
+        "logprob": -6.9141146923357155e-06
+      },
+      {
+        "text": " ",
+        "start": 32.479,
+        "end": 32.559,
+        "type": "spacing",
+        "logprob": -3.0397906812140718e-05
+      },
+      {
+        "text": "steckt",
+        "start": 32.559,
+        "end": 32.799,
+        "type": "word",
+        "logprob": -3.0397906812140718e-05
+      },
+      {
+        "text": " ",
+        "start": 32.799,
+        "end": 32.84,
+        "type": "spacing",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": "noch",
+        "start": 32.84,
+        "end": 32.959,
+        "type": "word",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": " ",
+        "start": 32.959,
+        "end": 33.0,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "die",
+        "start": 33.0,
+        "end": 33.099,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 33.099,
+        "end": 33.18,
+        "type": "spacing",
+        "logprob": -2.6464111215318553e-05
+      },
+      {
+        "text": "ältere",
+        "start": 33.18,
+        "end": 33.54,
+        "type": "word",
+        "logprob": -1.4066558530127319e-05
+      },
+      {
+        "text": " ",
+        "start": 33.54,
+        "end": 33.579,
+        "type": "spacing",
+        "logprob": -0.0003830652858596295
+      },
+      {
+        "text": "Szene:",
+        "start": 33.579,
+        "end": 34.04,
+        "type": "word",
+        "logprob": -0.0013957294383241485
+      },
+      {
+        "text": " ",
+        "start": 34.04,
+        "end": 34.54,
+        "type": "spacing",
+        "logprob": -0.0018378286622464657
+      },
+      {
+        "text": "Wachheit,",
+        "start": 34.54,
+        "end": 35.0,
+        "type": "word",
+        "logprob": -0.0008214089002649416
+      },
+      {
+        "text": " ",
+        "start": 35.0,
+        "end": 35.219,
+        "type": "spacing",
+        "logprob": -0.0008933129138313234
+      },
+      {
+        "text": "Brustdruck",
+        "start": 35.219,
+        "end": 35.879,
+        "type": "word",
+        "logprob": -0.0007974854961503297
+      },
+      {
+        "text": " ",
+        "start": 35.879,
+        "end": 35.919,
+        "type": "spacing",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": "und",
+        "start": 35.919,
+        "end": 36.079,
+        "type": "word",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": " ",
+        "start": 36.079,
+        "end": 36.139,
+        "type": "spacing",
+        "logprob": -7.152555099310121e-07
+      },
+      {
+        "text": "ein",
+        "start": 36.139,
+        "end": 36.259,
+        "type": "word",
+        "logprob": -7.152555099310121e-07
+      },
+      {
+        "text": " ",
+        "start": 36.259,
+        "end": 36.299,
+        "type": "spacing",
+        "logprob": -0.0002302858338225633
+      },
+      {
+        "text": "nächtlicher",
+        "start": 36.299,
+        "end": 36.72,
+        "type": "word",
+        "logprob": -4.245536059567133e-05
+      },
+      {
+        "text": " ",
+        "start": 36.72,
+        "end": 36.799,
+        "type": "spacing",
+        "logprob": -6.437280717364047e-06
+      },
+      {
+        "text": "Verursacher,",
+        "start": 36.799,
+        "end": 37.739,
+        "type": "word",
+        "logprob": -2.6593051259737877e-05
+      },
+      {
+        "text": " ",
+        "start": 37.739,
+        "end": 37.779,
+        "type": "spacing",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": "den",
+        "start": 37.779,
+        "end": 37.899,
+        "type": "word",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": " ",
+        "start": 37.899,
+        "end": 37.939,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "die",
+        "start": 37.939,
+        "end": 38.079,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 38.079,
+        "end": 38.139,
+        "type": "spacing",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": "eigene",
+        "start": 38.139,
+        "end": 38.459,
+        "type": "word",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": " ",
+        "start": 38.459,
+        "end": 38.52,
+        "type": "spacing",
+        "logprob": -5.602820692729438e-06
+      },
+      {
+        "text": "Kultur",
+        "start": 38.52,
+        "end": 38.919,
+        "type": "word",
+        "logprob": -5.602820692729438e-06
+      },
+      {
+        "text": " ",
+        "start": 38.919,
+        "end": 38.959,
+        "type": "spacing",
+        "logprob": -6.318072337307967e-06
+      },
+      {
+        "text": "bereits",
+        "start": 38.959,
+        "end": 39.299,
+        "type": "word",
+        "logprob": -6.318072337307967e-06
+      },
+      {
+        "text": " ",
+        "start": 39.299,
+        "end": 39.379,
+        "type": "spacing",
+        "logprob": -7.748573807475623e-06
+      },
+      {
+        "text": "lange",
+        "start": 39.379,
+        "end": 39.619,
+        "type": "word",
+        "logprob": -7.748573807475623e-06
+      },
+      {
+        "text": " ",
+        "start": 39.619,
+        "end": 39.68,
+        "type": "spacing",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "vor",
+        "start": 39.68,
+        "end": 39.799,
+        "type": "word",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": " ",
+        "start": 39.799,
+        "end": 39.86,
+        "type": "spacing",
+        "logprob": -7.986990567587782e-06
+      },
+      {
+        "text": "jeder",
+        "start": 39.86,
+        "end": 40.119,
+        "type": "word",
+        "logprob": -7.986990567587782e-06
+      },
+      {
+        "text": " ",
+        "start": 40.119,
+        "end": 40.159,
+        "type": "spacing",
+        "logprob": -3.2066785934148356e-05
+      },
+      {
+        "text": "medizinischen",
+        "start": 40.159,
+        "end": 40.819,
+        "type": "word",
+        "logprob": -1.7651868434908327e-05
+      },
+      {
+        "text": " ",
+        "start": 40.819,
+        "end": 40.879,
+        "type": "spacing",
+        "logprob": -4.529942543740617e-06
+      },
+      {
+        "text": "Erklärung",
+        "start": 40.879,
+        "end": 41.399,
+        "type": "word",
+        "logprob": -4.529942543740617e-06
+      },
+      {
+        "text": " ",
+        "start": 41.399,
+        "end": 41.439,
+        "type": "spacing",
+        "logprob": -6.198863957251888e-06
+      },
+      {
+        "text": "benannt",
+        "start": 41.439,
+        "end": 41.779,
+        "type": "word",
+        "logprob": -0.00023544201407535832
+      },
+      {
+        "text": " ",
+        "start": 41.779,
+        "end": 41.819,
+        "type": "spacing",
+        "logprob": -2.861018856492592e-06
+      },
+      {
+        "text": "hatte.",
+        "start": 41.819,
+        "end": 42.079,
+        "type": "word",
+        "logprob": -0.009149604163136852
+      }
+    ],
+    "transcription_id": "tTrTlNJk8FuTGp9nxE3I",
+    "audio_duration_secs": 42.4460625
+  }
+}

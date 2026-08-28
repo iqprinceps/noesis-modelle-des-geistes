@@ -1,0 +1,325 @@
+For twenty-eight years, a Princeton laboratory searched for evidence that the mind could influence a machine.
+
+It recorded roughly fourteen million trials.
+
+Then one detail changed the meaning of the entire database.
+
+About half of the laboratory's total excess was attributed to one person.
+
+The person's identity was never disclosed.
+
+The files call them Operator 10.
+
+Who were they?
+
+Why did so much of the result lean on them?
+
+And what happens to a mystery when the strongest evidence belongs to someone nobody outside the room can identify?
+
+To understand why that mattered, we have to see how small the claimed effect was.
+
+Robert Jahn is sitting in the basement of Princeton's engineering school.
+
+In front of him is a gray box with a red display.
+
+He is trying to shift its output with his mind.
+
+The machine moves by approximately one bit in ten thousand.
+
+Too small to witness in a single run.
+
+Large enough to consume nearly three decades.
+
+Jahn was not an outsider to engineering.
+
+He built propulsion systems for NASA.
+
+He wrote a standard textbook in his field.
+
+And as dean of Princeton's School of Engineering, he controlled appointments, funding, and reputation.
+
+So why attach that reputation to an effect smaller than a rounding error?
+
+The first answer involves another engineer.
+
+James S. McDonnell founded McDonnell Douglas.
+
+His company built the F-15, the F/A-18, and the Mercury spacecraft.
+
+McDonnell feared that a pilot's mind might somehow interfere with the electronics of a military aircraft.
+
+Jahn later described the idea as subjective radiation from the pilot.
+
+That fear helped finance a laboratory at Princeton.
+
+It was not hidden in the CIA or the Pentagon.
+
+It operated inside the engineering school.
+
+Princeton allowed it under two conditions.
+
+No university money.
+
+No graduate students.
+
+The laboratory was called Princeton Engineering Anomalies Research.
+
+PEAR.
+
+Day-to-day leadership went to Brenda Dunne, a psychologist with a master's degree and no faculty appointment.
+
+She stayed until the final day.
+
+Years later, she summarized the project's isolation with a question.
+
+How do you get peer review when you do not have peers?
+
+Then they built machines.
+
+At the center of the program was an electronic random-event generator.
+
+A noise diode produces physical noise.
+
+The signal is amplified and compared with a fixed threshold.
+
+Above becomes one.
+
+Below becomes zero.
+
+One trial contains two hundred electronic coin tosses.
+
+It lasts two tenths of a second.
+
+One thousand trials form a series.
+
+Before the series begins, the participant chooses an intention.
+
+More ones.
+
+Fewer ones.
+
+Or no directional intention at all.
+
+That last condition is the control.
+
+If the machine drifts when nobody is trying to move it, the experiment loses its foundation.
+
+PEAR did not prescribe a single mental technique.
+
+Watch the display.
+
+Look away.
+
+Listen to music.
+
+Concentrate.
+
+Relax.
+
+Some participants said effort helped.
+
+Others said effort destroyed the effect.
+
+The laboratory recorded the strategies without identifying a mechanism.
+
+Then it made the invisible physical.
+
+Nine thousand polystyrene balls fell through three hundred and thirty nylon pegs into nineteen bins.
+
+The apparatus stood roughly three meters high.
+
+Each run lasted about twelve minutes.
+
+Without influence, the balls should settle into a bell curve.
+
+The participant's task was simple to describe and absurd to perform.
+
+Move the mountain left or right using attention alone.
+
+The machines were dramatic.
+
+The average claimed result was not.
+
+Imagine ten thousand fair coin tosses.
+
+Five thousand heads are expected.
+
+PEAR's effect is five thousand and one.
+
+Only when millions of trials are stacked together does a line begin to separate from zero.
+
+And that creates a paradox.
+
+More data should make a real signal clearer.
+
+But when the effect is this small, every decision can also become part of the signal.
+
+When does a run stop?
+
+Which trials count?
+
+Were the rules fixed before the data were seen?
+
+Who performed the analysis?
+
+At one bit in ten thousand, method can imitate discovery.
+
+Then Operator 10 enters the line.
+
+Twelve years.
+
+Sixty-two series.
+
+More than one hundred and twenty thousand trials in each direction.
+
+This single operator produced about fifteen percent of the PEAR database.
+
+An analysis published in 1994 attributed roughly half of the laboratory's total excess to that person.
+
+Remove Operator 10 and the low-intention result falls to chance.
+
+The high-intention result shrinks to the edge of weak statistical significance.
+
+Robert Jahn never revealed the identity.
+
+New Scientist described Operator 10 only as someone believed to be a member of the PEAR staff.
+
+That leaves at least three interpretations.
+
+Operator 10 was unusually effective.
+
+Operator 10 interacted with the method in some unrecognized way.
+
+Or a flexible analysis allowed one extreme contributor to carry the story.
+
+The data alone cannot tell us which.
+
+But PEAR then agreed to a test that could.
+
+In the late 1990s, the Princeton team collaborated with groups in Freiburg and Giessen, Germany.
+
+The number of trials, conditions, equipment, software, and analysis were specified in advance.
+
+Three laboratories.
+
+One prediction.
+
+The machines ran.
+
+The earlier effect did not return.
+
+The deviations pointed in the predicted direction, but they were far too small.
+
+Jahn and Dunne later wrote that the results missed the earlier effect by an order of magnitude.
+
+Measured against PEAR's own findings, the prediction was rejected.
+
+Those words came from the researchers who had produced the original claim.
+
+That should have ended the story.
+
+It did not.
+
+When would you have closed the laboratory?
+
+When Operator 10 took over the result?
+
+When the three-laboratory replication failed?
+
+Or not yet?
+
+Leave one answer: OPERATOR 10, REPLICATION, or NOT YET.
+
+PEAR kept working because another pattern changed the question.
+
+In off-time experiments, participants directed intention toward data generated when they were not present.
+
+Seventy-three hours before a run.
+
+Or three hundred and thirty-six hours after it.
+
+Then there was the baseline bind.
+
+Control runs, in which nobody was supposed to want an outcome, contained fewer extreme deviations than ordinary statistics predicted.
+
+The controls looked too orderly.
+
+Critics saw a warning.
+
+Selection or analysis might be shaping the result.
+
+Jahn and Dunne considered a different possibility.
+
+Perhaps a person influences the machine even without conscious intention.
+
+Perhaps the mind is never fully neutral.
+
+At that point, PEAR stops being a story about telekinesis.
+
+It becomes a model of mind.
+
+Is intention ever absent?
+
+Does something act before we know what we want?
+
+And if it does, can it reach backward toward data already produced?
+
+The wider literature has not resolved those questions in PEAR's favor.
+
+A major meta-analysis found an extremely small overall effect, then detected a pattern consistent with publication bias.
+
+Larger studies produced smaller effects.
+
+For most researchers, the failed three-laboratory replication outweighs an anomaly assembled from millions of flexible trials.
+
+Still, PEAR left an unusual record.
+
+The team published positive results.
+
+It participated in a stricter test.
+
+And when the test failed, it published that failure too.
+
+In 2007, after twenty-eight years, the laboratory closed itself.
+
+Jahn said the team had accomplished what it wanted and saw no reason to produce more of the same data.
+
+Of Princeton's roughly seven hundred professors, none joined the project.
+
+One outside physicist called it an embarrassment to science.
+
+A Princeton professor said he did not believe Jahn's results, but defended his right to investigate them.
+
+That is the difference between an institution endorsing an idea and allowing someone to pursue it with outside money.
+
+So what survives?
+
+The machines existed.
+
+The data were recorded and published.
+
+One undisclosed operator carried an extraordinary share of the anomaly.
+
+A stricter replication failed.
+
+For most of science, that closes the claim.
+
+But it does not completely close the human question.
+
+Why did an engineer who built rocket systems spend twenty-eight years pursuing one bit in ten thousand?
+
+Was he following a signal?
+
+A flaw?
+
+Or the possibility that intention begins before consciousness claims it?
+
+PEAR closed the room.
+
+Then its random-number experiment spread across the planet as the Global Consciousness Project.
+
+But our next file removes the machine entirely.
+
+In Zurich, Carl Jung confronted images that seemed to possess intentions of their own.
+
+And one of them was a black serpent he would encounter again, nineteen years later, inside somebody else's map.

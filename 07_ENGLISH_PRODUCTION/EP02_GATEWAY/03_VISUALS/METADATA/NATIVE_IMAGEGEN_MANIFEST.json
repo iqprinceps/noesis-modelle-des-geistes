@@ -1,0 +1,32 @@
+{
+  "provider": "Native ImageGen",
+  "model_identifier_exposed": null,
+  "seed_exposed": null,
+  "prompt_record_note": "Normalized production prompt record retained from the accepted generation intent; the provider response exposed neither model identifier nor seed.",
+  "assets": [
+    {
+      "file": "../GENERATED/INNER/GW_EN_INNER01_MONROE_EXIT_NATIVE.png",
+      "prompt_record": "Subjective first-person elevated view above a restrained 1970s listening laboratory; stable adult body, cot, headphones, cable and analogue equipment; subtle separation without a literal spirit; documentary-thriller realism; no readable text, labels, logos, occult symbols or proof claim.",
+      "series_usage": "EP02_ONLY",
+      "status": "accepted"
+    },
+    {
+      "file": "../GENERATED/INNER/GW_EN_INNER02_ACOUSTICS_COSMOLOGY_NATIVE.png",
+      "prompt_record": "A tangible analogue waveform travels through paper-and-brass apparatus and transforms continuously into an impossible but coherent spacetime lattice; legible inferential crossing, restrained material depth; no portal trope, readable text, label or occult iconography.",
+      "series_usage": "EP02_ONLY",
+      "status": "accepted"
+    },
+    {
+      "file": "../GENERATED/INNER/GW_EN_INNER03_FOCUS_WHEEL_NATIVE.png",
+      "prompt_record": "Anonymous stable figure at the hub of a sophisticated brass mechanical time wheel with layered spokes and phase echoes; ordinary sequence loosens toward the rim; no face, numeral, clock text, label or supernatural iconography.",
+      "series_usage": "EP02_ONLY",
+      "status": "accepted"
+    },
+    {
+      "file": "../GENERATED/INNER/GW_EN_INNER04_NONPHYSICAL_PRESENCE_NATIVE.png",
+      "prompt_record": "Empty 1980s security perimeter and analogue surveillance environment responding through dust, cable and reflected-light distortion; unseen pressure never forms a body or face; ambiguous conceptual doctrine, not documentary evidence; no text or creature.",
+      "series_usage": "EP02_ONLY",
+      "status": "accepted"
+    }
+  ]
+}

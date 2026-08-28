@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 25,
+  "phrase": "ten computer generated numbers",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    552.5,
+    612.0,
+    729.0
+  ],
+  "highlight_rects": [
+    [
+      360.72,
+      680.3,
+      379.44,
+      689.43
+    ],
+    [
+      384.73,
+      679.52,
+      433.3,
+      689.07
+    ],
+    [
+      438.98,
+      678.61,
+      494.11,
+      688.26
+    ],
+    [
+      499.47,
+      677.96,
+      536.22,
+      687.35
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\VOICE_EP08\\pickups_20260826\\EP08_TAKE_016_EIN_ZWEITER_KONTEXT.mp3",
+  "sha256": "2e74eeb0e63964c187fe50e3bd69d0afba24c8cb996de7ee82726925fee959fc",
+  "bytes": 302646,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 2403,
+  "request_id": "vpQog4J16wevMW2UGN3e",
+  "text_sha256": "0fb83a54bb3a8d413ec2b6b850eceab18989677b3b2c658047fa752272ac99d4",
+  "characters": 279
+}

@@ -1,0 +1,589 @@
+{
+  "job": "SP08B_UNSICHTBARE_PERSON",
+  "purpose": "V4 forced alignment for beat-driven Shorts editing",
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "expected_words": 96,
+  "heard_words": 96,
+  "transcription": {
+    "words": [
+      {
+        "text": "2006",
+        "start": 0.119,
+        "end": 0.979,
+        "type": "word"
+      },
+      {
+        "text": "sind",
+        "start": 1.259,
+        "end": 1.439,
+        "type": "word"
+      },
+      {
+        "text": "Forscher",
+        "start": 1.5,
+        "end": 1.839,
+        "type": "word"
+      },
+      {
+        "text": "zufällig",
+        "start": 1.919,
+        "end": 2.339,
+        "type": "word"
+      },
+      {
+        "text": "auf",
+        "start": 2.379,
+        "end": 2.48,
+        "type": "word"
+      },
+      {
+        "text": "eine",
+        "start": 2.519,
+        "end": 2.72,
+        "type": "word"
+      },
+      {
+        "text": "unsichtbare",
+        "start": 2.779,
+        "end": 3.319,
+        "type": "word"
+      },
+      {
+        "text": "Person",
+        "start": 3.399,
+        "end": 3.699,
+        "type": "word"
+      },
+      {
+        "text": "gestoßen.",
+        "start": 3.779,
+        "end": 4.319,
+        "type": "word"
+      },
+      {
+        "text": "Sie",
+        "start": 5.259,
+        "end": 5.319,
+        "type": "word"
+      },
+      {
+        "text": "stimulierten",
+        "start": 5.4,
+        "end": 6.0,
+        "type": "word"
+      },
+      {
+        "text": "bei",
+        "start": 6.019,
+        "end": 6.139,
+        "type": "word"
+      },
+      {
+        "text": "einer",
+        "start": 6.199,
+        "end": 6.359,
+        "type": "word"
+      },
+      {
+        "text": "Patientin",
+        "start": 6.44,
+        "end": 6.98,
+        "type": "word"
+      },
+      {
+        "text": "eine",
+        "start": 7.039,
+        "end": 7.159,
+        "type": "word"
+      },
+      {
+        "text": "Stelle",
+        "start": 7.279,
+        "end": 7.519,
+        "type": "word"
+      },
+      {
+        "text": "im",
+        "start": 7.579,
+        "end": 7.659,
+        "type": "word"
+      },
+      {
+        "text": "Gehirn,",
+        "start": 7.719,
+        "end": 8.119,
+        "type": "word"
+      },
+      {
+        "text": "die",
+        "start": 8.579,
+        "end": 8.659,
+        "type": "word"
+      },
+      {
+        "text": "linke",
+        "start": 8.72,
+        "end": 9.0,
+        "type": "word"
+      },
+      {
+        "text": "temporoparietale",
+        "start": 9.179,
+        "end": 10.26,
+        "type": "word"
+      },
+      {
+        "text": "Verbindung.",
+        "start": 10.34,
+        "end": 10.899,
+        "type": "word"
+      },
+      {
+        "text": "Sie",
+        "start": 11.539,
+        "end": 11.599,
+        "type": "word"
+      },
+      {
+        "text": "spürte",
+        "start": 11.679,
+        "end": 12.0,
+        "type": "word"
+      },
+      {
+        "text": "sofort",
+        "start": 12.059,
+        "end": 12.399,
+        "type": "word"
+      },
+      {
+        "text": "jemanden",
+        "start": 12.439,
+        "end": 12.779,
+        "type": "word"
+      },
+      {
+        "text": "hinter",
+        "start": 12.84,
+        "end": 13.099,
+        "type": "word"
+      },
+      {
+        "text": "sich.",
+        "start": 13.159,
+        "end": 13.42,
+        "type": "word"
+      },
+      {
+        "text": "Und",
+        "start": 13.92,
+        "end": 14.0,
+        "type": "word"
+      },
+      {
+        "text": "diese",
+        "start": 14.039,
+        "end": 14.239,
+        "type": "word"
+      },
+      {
+        "text": "Gestalt",
+        "start": 14.299,
+        "end": 14.779,
+        "type": "word"
+      },
+      {
+        "text": "machte",
+        "start": 14.859,
+        "end": 15.099,
+        "type": "word"
+      },
+      {
+        "text": "ihre",
+        "start": 15.159,
+        "end": 15.299,
+        "type": "word"
+      },
+      {
+        "text": "Körperhaltung",
+        "start": 15.399,
+        "end": 16.0,
+        "type": "word"
+      },
+      {
+        "text": "nach.",
+        "start": 16.039,
+        "end": 16.359,
+        "type": "word"
+      },
+      {
+        "text": "Wie",
+        "start": 16.719,
+        "end": 16.799,
+        "type": "word"
+      },
+      {
+        "text": "ein",
+        "start": 16.859,
+        "end": 16.96,
+        "type": "word"
+      },
+      {
+        "text": "Spiegel.",
+        "start": 17.039,
+        "end": 17.5,
+        "type": "word"
+      },
+      {
+        "text": "Diese",
+        "start": 18.18,
+        "end": 18.379,
+        "type": "word"
+      },
+      {
+        "text": "Region",
+        "start": 18.459,
+        "end": 18.799,
+        "type": "word"
+      },
+      {
+        "text": "sortiert,",
+        "start": 18.859,
+        "end": 19.379,
+        "type": "word"
+      },
+      {
+        "text": "was",
+        "start": 19.559,
+        "end": 19.719,
+        "type": "word"
+      },
+      {
+        "text": "zu",
+        "start": 19.799,
+        "end": 19.859,
+        "type": "word"
+      },
+      {
+        "text": "deinem",
+        "start": 19.899,
+        "end": 20.12,
+        "type": "word"
+      },
+      {
+        "text": "Körper",
+        "start": 20.199,
+        "end": 20.5,
+        "type": "word"
+      },
+      {
+        "text": "gehört",
+        "start": 20.539,
+        "end": 20.879,
+        "type": "word"
+      },
+      {
+        "text": "und",
+        "start": 20.939,
+        "end": 21.04,
+        "type": "word"
+      },
+      {
+        "text": "was",
+        "start": 21.079,
+        "end": 21.26,
+        "type": "word"
+      },
+      {
+        "text": "nicht.",
+        "start": 21.34,
+        "end": 21.659,
+        "type": "word"
+      },
+      {
+        "text": "Laufen",
+        "start": 22.479,
+        "end": 22.76,
+        "type": "word"
+      },
+      {
+        "text": "die",
+        "start": 22.819,
+        "end": 22.879,
+        "type": "word"
+      },
+      {
+        "text": "Signale",
+        "start": 22.959,
+        "end": 23.42,
+        "type": "word"
+      },
+      {
+        "text": "auseinander,",
+        "start": 23.459,
+        "end": 24.039,
+        "type": "word"
+      },
+      {
+        "text": "entsteht",
+        "start": 24.279,
+        "end": 24.639,
+        "type": "word"
+      },
+      {
+        "text": "ein",
+        "start": 24.699,
+        "end": 24.819,
+        "type": "word"
+      },
+      {
+        "text": "zweites",
+        "start": 24.879,
+        "end": 25.219,
+        "type": "word"
+      },
+      {
+        "text": "Körpermodell.",
+        "start": 25.319,
+        "end": 25.959,
+        "type": "word"
+      },
+      {
+        "text": "Kein",
+        "start": 26.42,
+        "end": 26.619,
+        "type": "word"
+      },
+      {
+        "text": "sichtbarer",
+        "start": 26.699,
+        "end": 27.159,
+        "type": "word"
+      },
+      {
+        "text": "Mensch.",
+        "start": 27.219,
+        "end": 27.579,
+        "type": "word"
+      },
+      {
+        "text": "Aber",
+        "start": 28.18,
+        "end": 28.299,
+        "type": "word"
+      },
+      {
+        "text": "eine",
+        "start": 28.359,
+        "end": 28.5,
+        "type": "word"
+      },
+      {
+        "text": "Präsenz.",
+        "start": 28.579,
+        "end": 29.159,
+        "type": "word"
+      },
+      {
+        "text": "Mit",
+        "start": 30.039,
+        "end": 30.139,
+        "type": "word"
+      },
+      {
+        "text": "Position,",
+        "start": 30.26,
+        "end": 30.899,
+        "type": "word"
+      },
+      {
+        "text": "mit",
+        "start": 31.099,
+        "end": 31.219,
+        "type": "word"
+      },
+      {
+        "text": "Nähe.",
+        "start": 31.319,
+        "end": 31.639,
+        "type": "word"
+      },
+      {
+        "text": "Das",
+        "start": 32.02,
+        "end": 32.159,
+        "type": "word"
+      },
+      {
+        "text": "beweist",
+        "start": 32.2,
+        "end": 32.619,
+        "type": "word"
+      },
+      {
+        "text": "keinen",
+        "start": 32.68,
+        "end": 32.939,
+        "type": "word"
+      },
+      {
+        "text": "Hat",
+        "start": 33.02,
+        "end": 33.18,
+        "type": "word"
+      },
+      {
+        "text": "Man.",
+        "start": 33.239,
+        "end": 33.52,
+        "type": "word"
+      },
+      {
+        "text": "Und",
+        "start": 34.0,
+        "end": 34.099,
+        "type": "word"
+      },
+      {
+        "text": "es",
+        "start": 34.119,
+        "end": 34.22,
+        "type": "word"
+      },
+      {
+        "text": "macht",
+        "start": 34.279,
+        "end": 34.459,
+        "type": "word"
+      },
+      {
+        "text": "deine",
+        "start": 34.479,
+        "end": 34.659,
+        "type": "word"
+      },
+      {
+        "text": "Erfahrung",
+        "start": 34.719,
+        "end": 35.2,
+        "type": "word"
+      },
+      {
+        "text": "nicht",
+        "start": 35.259,
+        "end": 35.439,
+        "type": "word"
+      },
+      {
+        "text": "ungültig.",
+        "start": 35.5,
+        "end": 36.639,
+        "type": "word"
+      },
+      {
+        "text": "Es",
+        "start": 36.7,
+        "end": 36.86,
+        "type": "word"
+      },
+      {
+        "text": "zeigt",
+        "start": 36.919,
+        "end": 37.18,
+        "type": "word"
+      },
+      {
+        "text": "etwas",
+        "start": 37.219,
+        "end": 37.5,
+        "type": "word"
+      },
+      {
+        "text": "Unheimlicheres:",
+        "start": 37.579,
+        "end": 38.419,
+        "type": "word"
+      },
+      {
+        "text": "Dein",
+        "start": 39.059,
+        "end": 39.18,
+        "type": "word"
+      },
+      {
+        "text": "Gehirn",
+        "start": 39.259,
+        "end": 39.579,
+        "type": "word"
+      },
+      {
+        "text": "hat",
+        "start": 39.639,
+        "end": 39.84,
+        "type": "word"
+      },
+      {
+        "text": "alle",
+        "start": 39.879,
+        "end": 40.02,
+        "type": "word"
+      },
+      {
+        "text": "Bauteile,",
+        "start": 40.099,
+        "end": 40.939,
+        "type": "word"
+      },
+      {
+        "text": "um",
+        "start": 41.0,
+        "end": 41.079,
+        "type": "word"
+      },
+      {
+        "text": "dich",
+        "start": 41.119,
+        "end": 41.259,
+        "type": "word"
+      },
+      {
+        "text": "selbst",
+        "start": 41.299,
+        "end": 41.619,
+        "type": "word"
+      },
+      {
+        "text": "als",
+        "start": 41.68,
+        "end": 41.799,
+        "type": "word"
+      },
+      {
+        "text": "jemand",
+        "start": 41.86,
+        "end": 42.099,
+        "type": "word"
+      },
+      {
+        "text": "anderen",
+        "start": 42.159,
+        "end": 42.54,
+        "type": "word"
+      },
+      {
+        "text": "zu",
+        "start": 42.579,
+        "end": 42.659,
+        "type": "word"
+      },
+      {
+        "text": "erleben.",
+        "start": 42.7,
+        "end": 43.139,
+        "type": "word"
+      }
+    ],
+    "text": "2006 sind Forscher zufällig auf eine unsichtbare Person gestoßen. Sie stimulierten bei einer Patientin eine Stelle im Gehirn, die linke temporoparietale Verbindung. Sie spürte sofort jemanden hinter sich. Und diese Gestalt machte ihre Körperhaltung nach. Wie ein Spiegel. Diese Region sortiert, was zu deinem Körper gehört und was nicht. Laufen die Signale auseinander, entsteht ein zweites Körpermodell. Kein sichtbarer Mensch. Aber eine Präsenz. Mit Position, mit Nähe. Das beweist keinen Hat Man. Und es macht deine Erfahrung nicht ungültig. Es zeigt etwas Unheimlicheres: Dein Gehirn hat alle Bauteile, um dich selbst als jemand anderen zu erleben."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "actual_edit_shots": 122,
+  "actual_asset_runs": 122,
+  "unique_semantic_motifs": 122,
+  "asset_return_count": 0,
+  "asset_returns": [],
+  "exact_repeat_count": 0,
+  "exact_repeats": [],
+  "near_repeat_count": 0,
+  "near_repeats_threshold_phash_le_2": [],
+  "cross_episode_exact_collision_count": 0,
+  "cross_episode_near_collision_count": 0,
+  "ep01_final_edl_found": false,
+  "ep01_release_oriented_media_compared": 10,
+  "ep01_roots_searched": [
+    "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV",
+    "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV",
+    "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV"
+  ],
+  "longest_hold_seconds": 10.735,
+  "longest_static_hold_seconds": 7.625,
+  "holds_at_or_above_8_seconds": [
+    {
+      "edit_shot_id": "GW-SHOT-001",
+      "duration": "10.735",
+      "primary_asset": "GW_EN_CLIP01_THREE_TIMES_RECOMMENDATION_H.mp4",
+      "retention_review": "ACCEPT: 10.7s hook contains six visible protocol stages and one continuous source pass; no restart."
+    },
+    {
+      "edit_shot_id": "GW-SHOT-078",
+      "duration": "8.860",
+      "primary_asset": "GW_EN_CLIP07_TEN_DIGITS.mp4",
+      "retention_review": "ACCEPT: 8.9s test sequence progresses from placement to blinding to partial retrieval; no repeated material."
+    },
+    {
+      "edit_shot_id": "GW-SHOT-114",
+      "duration": "8.070",
+      "primary_asset": "GW_EN_CLIP12_THREE_INPUTS_PROGRESS.mp4",
+      "retention_review": "REVIEWED: continuous motion with documented internal progression."
+    }
+  ],
+  "unjustified_holds_over_10_seconds": [],
+  "visible_mode_badges": 0,
+  "series_usage": "EP02_ONLY",
+  "notes": [
+    "Perceptual collision threshold is 64-bit DCT pHash Hamming distance <=2.",
+    "No EP01 final EDL was found in the accessible roots; cross-episode QA therefore used the stricter available release-oriented EP01 pool (clips, stills, inner visuals, cards, maps, and document crops; QA/previews/rejects excluded)."
+  ]
+}

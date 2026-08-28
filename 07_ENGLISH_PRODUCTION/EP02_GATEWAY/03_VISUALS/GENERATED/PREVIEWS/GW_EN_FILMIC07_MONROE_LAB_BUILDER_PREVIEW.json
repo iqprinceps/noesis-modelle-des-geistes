@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_FILMIC07_MONROE_LAB_BUILDER",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Early-1970s private acoustics laboratory in Virginia. Anonymous older male engineer shown from shoulder level down, sleeves rolled, connecting two headphone channels to a reel-to-reel deck and analogue oscillator. Natural hands and physically plausible cabling. The scene communicates methodical construction rather than mysticism; dark wood, brushed aluminium, one amber task lamp, no readable markings.",
+  "prompt_sha256": "9d21612548ec9b7923949af59b638f42969006b0e41e67c0b8f4539b0922e0a5",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_FILMIC07_MONROE_LAB_BUILDER_PREVIEW.png",
+  "output_sha256": "cd3378a76c279f7914cadc93aced383909fd74dea89efcf36c3b9e3f8ec40e50",
+  "seconds": 10.361,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

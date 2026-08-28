@@ -1,0 +1,37 @@
+{
+  "topic": "Warum der Hat Man als Schattenfigur einen Hut trägt und wo die wissenschaftliche Beleggrenze verläuft",
+  "channel_type": "explainer",
+  "style": "Editorial Motion Graphics — deep crimson",
+  "through_line": {"name": "Krempenhut", "asset": "P05_BRIMMED_HAT", "progression": "abstrakte Krempe ohne Träger → Hut vervollständigt eine mehrdeutige Säule zur Person → identischer Hut wird auf Medienkarten weitergereicht", "resolution": "Der Hut endet als wiederholtes Erkennungszeichen der Erzählung, nicht als bewiesene Botschaft eines Wesens."},
+  "arc": {"hook": 1, "build": [], "turn": 2, "payoff": 3},
+  "blocks": [
+    {
+      "n": 1,
+      "arc_role": "hook",
+      "vo_line": "Warum trägt der Hat Man einen Hut? Ehrliche Antwort: Wir wissen es nicht; es gibt Forschung zu Schattenfiguren und Präsenzgefühlen, aber keine Studie erklärt ausgerechnet diese markante Krempe wissenschaftlich überzeugend.",
+      "location": "L09_HAT_SILHOUETTE_STAGE",
+      "through_line_state": "Eine einzelne Krempe schwebt über einer noch formlosen Schattenfläche.",
+      "shots": ["FULL-SPREAD WIDE: an empty doorway stage snaps open with a shapeless shadow column", "HIGH CU: a brimmed-hat cutout floats above the column without touching it", "LATERAL MEDIUM: research cards circle the column but stop before the hat", "MACRO: an uncertainty ring draws around the brim", "LOW MEDIUM: the hat settles close to the shadow while a question-mark symbol pulses"],
+      "assets_used": ["L09_HAT_SILHOUETTE_STAGE", "CHAR_SHADOW_FIGURE", "P05_BRIMMED_HAT"]
+    },
+    {
+      "n": 2,
+      "arc_role": "turn",
+      "vo_line": "Plausibel ist nur eine Arbeitshypothese: In Dunkelheit genügt dem Gehirn in einer Sekunde eine klare Kontur. Ein Hut macht aus einer formlosen Säule sofort eine erwachsene, beobachtende Person mit Richtung und Absicht.",
+      "location": "L09_HAT_SILHOUETTE_STAGE_COVERAGE",
+      "through_line_state": "Die Krempe rastet auf der formlosen Säule ein und macht die Silhouette sofort lesbar.",
+      "shots": ["LATERAL CU: three ambiguous shadow columns slide past one another", "TOP-DOWN MEDIUM: the brimmed hat snaps onto only the center column", "ECU LOW: a deep-crimson outline traces the new head-and-shoulder contour", "HIGH WIDE: the other columns collapse while the hatted silhouette remains", "FRONT MEDIUM: direction arrows and an eye symbol settle around the readable figure"],
+      "assets_used": ["L09_HAT_SILHOUETTE_STAGE_COVERAGE", "CHAR_SHADOW_FIGURE", "P05_BRIMMED_HAT"]
+    },
+    {
+      "n": 3,
+      "arc_role": "payoff",
+      "vo_line": "Dann beginnt Kultur in unseren Köpfen mitzuschneiden; Bilder, Podcasts und Foren liefern dieselbe Silhouette immer wieder. Der Hut könnte deshalb weniger Botschaft des Besuchers sein als das stabilste Erkennungszeichen unserer Erzählung.",
+      "location": "L10_MEDIA_FEED_STAGE",
+      "through_line_state": "Der Hut wird von Karte zu Karte weitergereicht und endet als wiederholtes Symbol einer Erzählung.",
+      "shots": ["TOP-DOWN WIDE: blank media cards arrive staggered across a newsprint stage", "MACRO: the same hat stamps onto the first card", "LATERAL MEDIUM: a giant hand slides that hat cutout from card to card", "HIGH CU: each repeated silhouette becomes cleaner while the background figures stay ambiguous", "FULL-SPREAD FRONT: the hat settles above the card chain as the original shadow fades behind it"],
+      "assets_used": ["L10_MEDIA_FEED_STAGE", "CHAR_SHADOW_FIGURE", "P05_BRIMMED_HAT"]
+    }
+  ],
+  "sources": ["https://www.sciencedirect.com/science/article/abs/pii/S0306987721000396", "https://pmc.ncbi.nlm.nih.gov/articles/PMC8060733/", "https://pubmed.ncbi.nlm.nih.gov/15881267/"]
+}

@@ -1,0 +1,52 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,62,&H00F5F2EB,&H00F5F2EB,&H00101014,&H8C000000,-1,0,0,0,100,100,0,0,1,5,2,2,105,210,420,1
+Style: Hook,Arial Black,58,&H00F5F2EB,&H00F5F2EB,&H00101014,&H98000000,-1,0,0,0,100,100,0,0,3,4,0,8,64,64,105,1
+Style: CTA,Segoe UI Semibold,42,&H00C7C28D,&H00C7C28D,&H00101014,&H9A000000,-1,0,0,0,100,100,0,0,1,4,1,8,80,210,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:01.75,Hook,,0,0,0,,EINE PERSON AUS DEM NICHTS
+Dialogue: 0,0:00:00.34,0:00:01.48,Caption,,0,0,0,,Forscher erzeugten\Neinmal
+Dialogue: 0,0:00:01.52,0:00:02.32,Caption,,0,0,0,,das Gefühl einer
+Dialogue: 0,0:00:02.38,0:00:03.50,Caption,,0,0,0,,unsichtbaren Person.
+Dialogue: 0,0:00:04.10,0:00:05.66,Caption,,0,0,0,,Durch elektrische\NStimulation
+Dialogue: 0,0:00:05.70,0:00:06.24,Caption,,0,0,0,,an der linken
+Dialogue: 0,0:00:06.34,0:00:08.06,Caption,,0,0,0,,temporoparietalen\NVerbindung
+Dialogue: 0,0:00:08.48,0:00:09.58,Caption,,0,0,0,,spürte eine Patientin
+Dialogue: 0,0:00:09.62,0:00:10.68,Caption,,0,0,0,,jemanden direkt hinter
+Dialogue: 0,0:00:10.74,0:00:10.98,Caption,,0,0,0,,sich.
+Dialogue: 0,0:00:11.58,0:00:12.72,Caption,,0,0,0,,Diese Gestalt kopierte
+Dialogue: 0,0:00:12.80,0:00:13.34,Caption,,0,0,0,,sogar wie ein
+Dialogue: 0,0:00:13.50,0:00:14.86,Caption,,0,0,0,,Spiegel ihre\NKörperhaltung.
+Dialogue: 0,0:00:15.52,0:00:16.82,Caption,,0,0,0,,Dieser Hirnbereich\Nverbindet
+Dialogue: 0,0:00:16.88,0:00:17.98,Caption,,0,0,0,,Signale über Körper,
+Dialogue: 0,0:00:18.14,0:00:18.96,Caption,,0,0,0,,Raum und Selbst.
+Dialogue: 0,0:00:19.60,0:00:20.80,Caption,,0,0,0,,Geraten sie auseinander,
+Dialogue: 0,0:00:21.10,0:00:21.80,Caption,,0,0,0,,kann ein zweites
+Dialogue: 0,0:00:21.90,0:00:23.24,Caption,,0,0,0,,Körpermodell mit\Nscheinbarer
+Dialogue: 0,0:00:23.32,0:00:24.24,Caption,,0,0,0,,Absicht entstehen.
+Dialogue: 0,0:00:24.88,0:00:25.98,Caption,,0,0,0,,Kein sichtbarer Mensch,
+Dialogue: 0,0:00:26.40,0:00:27.24,Caption,,0,0,0,,aber eine Präsenz
+Dialogue: 0,0:00:27.30,0:00:28.62,Caption,,0,0,0,,mit Position, Nähe
+Dialogue: 0,0:00:28.66,0:00:29.34,Caption,,0,0,0,,und Bewegung.
+Dialogue: 0,0:00:29.94,0:00:30.82,Caption,,0,0,0,,Das beweist keinen
+Dialogue: 0,0:00:30.88,0:00:31.66,Caption,,0,0,0,,Hat Man und
+Dialogue: 0,0:00:31.68,0:00:32.96,Caption,,0,0,0,,widerlegt keine\Npersönliche
+Dialogue: 0,0:00:33.02,0:00:33.58,Caption,,0,0,0,,Erfahrung.
+Dialogue: 0,0:00:34.24,0:00:34.94,Caption,,0,0,0,,Es zeigt etwas
+Dialogue: 0,0:00:35.02,0:00:35.84,Caption,,0,0,0,,Unheimlicheres.
+Dialogue: 0,0:00:36.62,0:00:37.52,Caption,,0,0,0,,Das Gehirn besitzt
+Dialogue: 0,0:00:37.58,0:00:39.18,Caption,,0,0,0,,offenbar genügend\NBauteile,
+Dialogue: 0,0:00:39.24,0:00:40.08,Caption,,0,0,0,,damit dein eigenes
+Dialogue: 0,0:00:40.18,0:00:41.40,Caption,,0,0,0,,Körpersignal wie ein
+Dialogue: 0,0:00:41.46,0:00:42.78,Caption,,0,0,0,,fremder Begleiter\Nerscheinen
+Dialogue: 0,0:00:42.82,0:00:43.04,Caption,,0,0,0,,kann.
+Dialogue: 1,0:00:40.79,0:00:43.59,CTA,,0,0,0,,Mehr: Schlafparalyse EP08

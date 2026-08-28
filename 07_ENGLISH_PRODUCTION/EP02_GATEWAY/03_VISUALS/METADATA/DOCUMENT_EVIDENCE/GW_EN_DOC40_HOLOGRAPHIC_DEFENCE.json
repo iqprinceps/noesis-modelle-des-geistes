@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 28,
+  "phrase": "holographic patterns",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    262.0,
+    612.0,
+    392.0
+  ],
+  "highlight_rects": [
+    [
+      185.51,
+      312.88,
+      251.59,
+      322.98
+    ],
+    [
+      257.5,
+      312.21,
+      301.03,
+      321.97
+    ],
+    [
+      427.94,
+      346.21,
+      493.97,
+      356.01
+    ],
+    [
+      499.69,
+      345.52,
+      543.13,
+      355.01
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

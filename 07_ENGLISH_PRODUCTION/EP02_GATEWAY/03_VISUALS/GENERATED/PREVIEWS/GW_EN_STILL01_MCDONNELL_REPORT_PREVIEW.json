@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_STILL01_MCDONNELL_REPORT",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: 1983 U.S. Army intelligence office at Fort Meade. A male lieutenant colonel is seen only from behind and in three-quarter silhouette, seated alone at a metal desk assessing a thick report. His face is not visible because no verified public portrait is available. Olive drab service uniform is period-plausible but rank details are not a focal point. Typed pages remain non-readable texture and will be replaced by authentic report inserts in edit. Calm procedural action, venetian-blind daylight, locked documentary composition.",
+  "prompt_sha256": "b2ed5bb6f673f3998b32d88ef50f5b303414e2bf103abb913677556175c8ac4b",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_STILL01_MCDONNELL_REPORT_PREVIEW.png",
+  "output_sha256": "c0c4cc6ee85f49393f90721c0637b650f0244af0d0bd60e5a3e4e3f20b3e5338",
+  "seconds": 8.783,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

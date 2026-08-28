@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP07B_SALEM_ZEUGE\\voice_v4\\SP07B_SALEM_ZEUGE_GEORGE_V4.mp3",
+  "sha256": "d8e1f0b58486086f2b4b13688efeaa4c984b907a138de903b8205b74d94a83bd",
+  "bytes": 646208,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.52,
+    "similarity_boost": 0.8,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 1.02
+  },
+  "seed": 2405,
+  "request_id": "WnRGod2yW9kOGafokFAi",
+  "text_sha256": "23d991db3c93996f88d1d7e70140a0c57f66e7fe07ec21a51a4e9b9c0f056692",
+  "characters": 650
+}

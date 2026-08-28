@@ -1,0 +1,180 @@
+{
+  "created_utc": "2026-08-27T07:20:58.283116+00:00",
+  "status": "PASS",
+  "event_count": 111,
+  "unique_state_count": 111,
+  "missing_assets": [],
+  "asset_returns": [],
+  "exact_content_duplicates": [],
+  "near_duplicate_candidates_distance_le_2": [
+    {
+      "a": "KZ_FIG_PATENT_CYLINDER",
+      "b": "KZ_FIG_PATENT_DRAWING_FIG3",
+      "distance": 1
+    }
+  ],
+  "selected_document_count": 9,
+  "document_motion_violations": [],
+  "document_policy": "STATIC_NO_PAN_ZOOM",
+  "clip_qa": [
+    {
+      "state": "KZ_CLIP_ROTATION_HOOK",
+      "duration": 2.8,
+      "edl_duration": 2.8,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_INTERNAL_TIME_CONTINUOUS",
+      "duration": 11.48,
+      "edl_duration": 11.48,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL",
+      "duration": 9.24,
+      "edl_duration": 9.2,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_DISTANT_IMAGE_CONTINUOUS",
+      "duration": 7.48,
+      "edl_duration": 7.48,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS",
+      "duration": 9.96,
+      "edl_duration": 9.96,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_PHYSICAL_VARIABLES_SENSOR_RIG",
+      "duration": 7.76,
+      "edl_duration": 7.76,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_INFORMATION_BEFORE_REVEAL",
+      "duration": 4.8,
+      "edl_duration": 4.48,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_MISSING_EXPERIMENT_VOID",
+      "duration": 5.6,
+      "edl_duration": 5.32,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS",
+      "duration": 14.0,
+      "edl_duration": 13.96,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_PATENT_FEATURES_RECAP",
+      "duration": 3.2,
+      "edl_duration": 3.16,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+      "duration": 9.16,
+      "edl_duration": 9.16,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    },
+    {
+      "state": "KZ_CLIP_THREE_OBSERVERS_TRANSITION",
+      "duration": 7.4,
+      "edl_duration": 7.2,
+      "fps": "25/1",
+      "width": 1920,
+      "height": 1080,
+      "decode_exit": 0
+    }
+  ],
+  "holds_at_or_above_8_seconds": [
+    {
+      "event": "KZ-EDL-022",
+      "state": "KZ_CLIP_INTERNAL_TIME_CONTINUOUS",
+      "duration": 11.48,
+      "motion": "PROGRESSIVE_MOTION",
+      "reason": "The single uninterrupted sequence visibly evolves through dust, condensation and delayed reflection as the three spoken claims escalate; a camera move alone is insufficient."
+    },
+    {
+      "event": "KZ-EDL-039",
+      "state": "KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL",
+      "duration": 9.2,
+      "motion": "PROGRESSIVE_MOTION",
+      "reason": "One continuous 9.20-second proposal sequence adds field paths and convergence instead of holding a static graphic."
+    },
+    {
+      "event": "KZ-EDL-051",
+      "state": "KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS",
+      "duration": 9.96,
+      "motion": "PROGRESSIVE_MOTION",
+      "reason": "The participant, acoustics, light and body-orientation cues develop across the sentence; the sequence cannot be a held still or simple zoom."
+    },
+    {
+      "event": "KZ-EDL-095",
+      "state": "KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS",
+      "duration": 13.96,
+      "motion": "PROGRESSIVE_MOTION",
+      "reason": "A 13.96-second continuous sequence is justified by three visible phases: scope card, provenance desk, then empty empirical result."
+    },
+    {
+      "event": "KZ-EDL-108",
+      "state": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+      "duration": 9.16,
+      "motion": "PROGRESSIVE_MOTION",
+      "reason": "The final chamber action advances continuously from mechanical stillness to a changing reflection/shadow and unresolved darkness across two questions; it is never restarted."
+    }
+  ],
+  "series_content_collisions": [],
+  "visible_mode_badges": [],
+  "contact_sheets": [
+    "05_QA\\FINAL_TIMELINE\\EP01_FINAL_DOCUMENT_CONTACT_SHEET.jpg",
+    "05_QA\\FINAL_TIMELINE\\EP01_FINAL_DOCUMENT_MOBILE_PROOF.jpg",
+    "05_QA\\FINAL_TIMELINE\\EP01_FINAL_REPAIR_CONTACT_SHEET.jpg",
+    "05_QA\\FINAL_TIMELINE\\EP01_FINAL_CLIP_START_MID_END.jpg"
+  ],
+  "issues": [],
+  "manual_review_required": [
+    "Inspect every final document at full size and 480x270 mobile proof.",
+    "Inspect every repair still and every clip at start/middle/end.",
+    "Review near-duplicate candidates by content, not hash alone."
+  ]
+}

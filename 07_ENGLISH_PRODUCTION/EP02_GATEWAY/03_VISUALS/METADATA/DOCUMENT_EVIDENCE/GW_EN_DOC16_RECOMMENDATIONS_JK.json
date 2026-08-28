@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 28,
+  "phrase": "intelligent, non-corporal energy forms",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    254.5,
+    612.0,
+    299.0
+  ],
+  "highlight_rects": [
+    [
+      46.05,
+      279.0,
+      116.59,
+      289.17
+    ],
+    [
+      124.55,
+      277.8,
+      197.05,
+      287.99
+    ],
+    [
+      203.24,
+      277.15,
+      239.86,
+      286.81
+    ],
+    [
+      245.5,
+      276.7,
+      270.48,
+      286.18
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

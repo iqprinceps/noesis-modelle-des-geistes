@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 17,
+  "phrase": "Bentov",
+  "match_count": 4,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    67.5,
+    612.0,
+    643.5
+  ],
+  "highlight_rects": [
+    [
+      456.73,
+      189.1,
+      487.99,
+      197.91
+    ],
+    [
+      46.77,
+      300.33,
+      78.1,
+      309.81
+    ],
+    [
+      186.47,
+      382.76,
+      217.93,
+      392.01
+    ],
+    [
+      428.87,
+      450.32,
+      460.33,
+      459.57
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

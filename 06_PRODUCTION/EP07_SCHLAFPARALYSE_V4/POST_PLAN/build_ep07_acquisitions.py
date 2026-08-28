@@ -54,6 +54,13 @@ from build_schlafparalyse_cards import (  # noqa: E402
 STATUS_COLORS = {"BELEGT": GREEN, "DOKUMENTIERT": GREEN,
                  "RECHTE OFFEN": MUTED, "NICHT FREI": CORAL}
 
+VIEWER_STATUS = {
+    "BELEGT": "DIE QUELLE IST NACHVOLLZIEHBAR",
+    "DOKUMENTIERT": "DIE QUELLE IST NACHVOLLZIEHBAR",
+    "RECHTE OFFEN": "KEIN FREIES ORIGINALBILD",
+    "NICHT FREI": "KEIN FREIES ORIGINALBILD",
+}
+
 # Zielname -> (Commons-Datei, Ausschnitt als Anteil oder None fuer Vollansicht)
 MAPS = {
     "ORIG_ORIG_EGYPT_MAP_PD_full_map.png": ("Egypt location map.svg", None),
@@ -72,16 +79,13 @@ NEWFOUNDLAND_VIEWS = {
 
 CARDS = [
     dict(filename="ORIG_ORIG_HUFFORD_TERROR_BOOK_COVER_LICENSED_full_cover.png",
-         section="S5 Forschungsanker", title="Das Buch, das den Fall öffnet",
-         subtitle="Die Werkangabe trägt den Beleg auch ohne Umschlagbild.",
-         entries=[("Werk", "David J. Hufford: The Terror That Comes in the Night. "
-                           "An Experience-Centered Study of Supernatural Assault "
-                           "Traditions. University of Pennsylvania Press, 1982."),
-                  ("Gegenstand", "Feldforschung auf Neufundland zur Old-Hag-Überlieferung "
-                                 "und zum Verhältnis von Erfahrung und Erzählung."),
-                  ("Rechte", "Für den Umschlag liegt keine freie Nutzungserlaubnis vor.")],
+         section="", title="Das Buch, das den Fall öffnet",
+         subtitle="David Hufford untersucht Erfahrung und Erzählung gemeinsam.",
+         entries=[("Werk", "The Terror That Comes in the Night, 1982."),
+                  ("Inhalt", "Feldforschung auf Neufundland zur Old Hag und Schlafparalyse."),
+                  ("Warum kein Cover", "Für den Umschlag liegt keine freie Nutzungserlaubnis vor.")],
          status="RECHTE OFFEN",
-         note="Bibliografische Angabe statt nachgebautem Cover.",
+         note="Die Buchangabe ist echt. Ein nachgebauter Umschlag wäre kein historischer Beleg.",
          source="Quellenkarte · Werkangabe", accent=VIOLET),
     dict(filename="ORIG_ORIG_HUFFORD_TERROR_BOOK_COVER_LICENSED_title_detail.png",
          section="S5 Titel", title="Der Titel benennt die Erfahrung",
@@ -91,7 +95,7 @@ CARDS = [
                                  "Assault Traditions."),
                   ("Methode", "Hufford setzt bei der Erfahrung an, nicht bei der "
                               "Frage, ob die Deutung stimmt.")],
-         status="DOKUMENTIERT", note="Publizierte Monografie.",
+         status="DOKUMENTIERT", note="Das Buch ist veröffentlicht und auffindbar.",
          source="Quellenkarte · Titel und Methode", accent=VIOLET),
     dict(filename="ORIG_ORIG_HUFFORD_TERROR_BOOK_COVER_LICENSED_cover_return.png",
          section="S5 Rückgriff", title="Zurück zu Hufford",
@@ -177,28 +181,20 @@ CARDS = [
          status="DOKUMENTIERT", note="Kontextangabe zur Stichprobe.",
          source="Quellenkarte · kultureller Kontext", accent=GOLD),
     dict(filename="ORIG_ORIG_CHINESE_GHOST_PRESSURE_SOURCE_PD_source_detail.png",
-         section="S3 China", title="Das Drücken hat auch dort einen Namen",
-         subtitle="Eine eigene Bezeichnung für dieselbe Nacht.",
-         entries=[("Motiv", "Die nächtliche Lähmung mit Druck auf der Brust wird "
-                            "als eigenes benanntes Ereignis überliefert."),
-                  ("Bedeutung", "Der Zustand ist alt und weit verbreitet, die Namen "
-                                "sind es nicht."),
-                  ("Grenze", "Kein Bild dieser Überlieferung ist hier gesichert frei "
-                             "nutzbar; die Folge zeigt daher keine Abbildung.")],
+         section="", title="Auch in China hat das Drücken einen Namen",
+         subtitle="Der Zustand ist weit verbreitet — seine Namen sind regional.",
+         entries=[("Überliefert", "Nächtliche Lähmung und Druck gelten als eigenes benanntes Ereignis."),
+                  ("Wichtig", "Der Name deutet die Erfahrung; er erklärt nicht ihre körperliche Ursache.")],
          status="NICHT FREI",
-         note="Lieber keine Abbildung als eine beliebige Geistergrafik, "
-              "die nichts belegt.",
+         note="Die Bezeichnung ist überliefert. Eine beliebige Geistergrafik würde nichts belegen.",
          source="Quellenkarte · Überlieferungshinweis", accent=CORAL),
     dict(filename="ORIG_ORIG_ART_BELL_2001_BROADCAST_SOURCE_source_frame.png",
-         section="S8 Übergang", title="Die Nachtsendung, die alles bündelt",
-         subtitle="Der Anschluss an die nächste Folge.",
-         entries=[("Ereignis", "Am 12. April 2001 wird eine amerikanische "
-                               "Nachtradiosendung zum Sammelpunkt für Schilderungen "
-                               "dunkler Gestalten."),
-                  ("Wirkung", "Aus vielen Einzelnächten wird ein gemeinsames Motiv."),
-                  ("Rechte", "Für Sendungsmitschnitte liegt keine freie "
-                             "Nutzungserlaubnis vor.")],
-         status="RECHTE OFFEN", note="Handoff zu EP08 ohne Mitschnitt.",
+         section="", title="Eine Sendung bündelt Tausende Berichte",
+         subtitle="Am 12. April 2001 werden dunkle Gestalten zum Radiothema.",
+         entries=[("Wirkung", "Aus vielen einzelnen Nächten wird ein gemeinsames Motiv."),
+                  ("Warum kein Mitschnitt", "Für die Sendung liegt keine freie "
+                                             "Nutzungserlaubnis vor.")],
+         status="RECHTE OFFEN", note="Die Sendungsangabe ist belegt. Originalton wird nicht verwendet.",
          source="Quellenkarte · Sendungsangabe", accent=GOLD),
 ]
 
@@ -256,7 +252,8 @@ def build_card(spec: dict) -> Image.Image:
     height = 54
     for _, value in spec["entries"]:
         height += 38 + len(wrap(draw, value, font(33), left_w - 96)) * 43 + 26
-    status_lines = len(wrap(draw, spec["status"], font(40, bold=True), right_w - 88))
+    shown_status = VIEWER_STATUS.get(spec["status"], spec["status"])
+    status_lines = len(wrap(draw, shown_status, font(36, bold=True), right_w - 88))
     note_lines = len(wrap(draw, spec["note"], font(28), right_w - 88))
     right_h = 196 + status_lines * 48 + 88 + note_lines * 40 + 54
     y2 = min(SIZE[1] - 150, y1 + max(height + 34, right_h, 320))
@@ -271,14 +268,17 @@ def build_card(spec: dict) -> Image.Image:
 
     color = STATUS_COLORS.get(spec["status"], MUTED)
     rounded_panel(draw, (right_x, y1, SIZE[0] - 112, y2), color)
-    draw.text((right_x + 44, y1 + 54), "BELEGLAGE", font=font(24, bold=True), fill=MUTED)
-    draw.ellipse((right_x + 44, y1 + 108, right_x + 100, y1 + 164), fill=color + (255,))
-    ty = draw_wrapped(draw, (right_x + 44, y1 + 196), spec["status"], font(40, bold=True),
+    draw.text((right_x + 44, y1 + 54), "KURZ GESAGT", font=font(24, bold=True), fill=MUTED)
+    draw.line((right_x + 44, y1 + 112, SIZE[0] - 156, y1 + 112), fill=color, width=8)
+    ty = draw_wrapped(draw, (right_x + 44, y1 + 158), shown_status, font(36, bold=True),
                       WHITE, right_w - 88, 8)
     draw.line((right_x + 44, ty + 26, SIZE[0] - 156, ty + 26), fill=LINE, width=2)
     draw_wrapped(draw, (right_x + 44, ty + 62), spec["note"], font(28), PAPER,
                  right_w - 88, 12)
-    footer(draw, spec["source"])
+    source = spec["source"].replace("Bibliografische Quellenkarte · ", "Quelle · ")
+    source = source.replace("Quellenkarte · ", "Quelle · ")
+    source = source.replace("Ersatz für nicht frei nutzbare Paperseite", "Studienangabe")
+    footer(draw, source)
     return image.convert("RGB")
 
 

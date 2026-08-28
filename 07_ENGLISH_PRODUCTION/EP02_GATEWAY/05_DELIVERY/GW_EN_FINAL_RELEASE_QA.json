@@ -1,0 +1,49 @@
+{
+  "episode": "EP02_GATEWAY_EN",
+  "review_date": "2026-08-27",
+  "status": "PASS",
+  "release_master": "06_RENDER/EP02_GATEWAY_EN_REVIEW_MASTER_1080P.mp4",
+  "checks": {
+    "full_video_decode": {
+      "status": "PASS",
+      "fps": 30,
+      "expected_frames": 14426,
+      "decoded_frames": 14426,
+      "black_frames": 0
+    },
+    "audio": {
+      "status": "PASS",
+      "integrated_lufs": -15.97,
+      "true_peak_dbtp": -1.19
+    },
+    "document_evidence": {
+      "status": "PASS",
+      "assets_checked": 65,
+      "failures": 0,
+      "presentation": "STATIC_NO_PAN_ZOOM",
+      "manual_contact_sheets_reviewed": 8
+    },
+    "camera_motion": {
+      "status": "PASS",
+      "moving_shots_checked": 40,
+      "failures": 0,
+      "method": "cosine-eased high-resolution motion for stills; 24-to-30 fps interpolation for source clips"
+    },
+    "timeline_coverage": {
+      "status": "PASS",
+      "four_second_contact_sheets_reviewed": 5,
+      "transition_contact_sheets_reviewed": 5,
+      "transitions_checked": 122,
+      "identical_transition_failures": 0
+    },
+    "critical_manual_frames": {
+      "status": "PASS",
+      "items": [
+        "03:23 document passage is complete and readable",
+        "Arrows / Axes / Vortices sequence uses semantically matching abstract imagery",
+        "Hemi-Sync document shows and highlights the correct original phrase"
+      ]
+    }
+  },
+  "supersedes": "The earlier upload master and the pending-manual-review state produced before the document and motion corrections."
+}

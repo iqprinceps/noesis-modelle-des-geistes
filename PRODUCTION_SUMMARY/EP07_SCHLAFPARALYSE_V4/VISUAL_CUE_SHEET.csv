@@ -1,9 +1,27 @@
-﻿act,beat,anchor_text,visual_mode,audio,edit_rule,v5_shot_target,v5_mix_target,v5_repeat_lock
-S1,"Salem, 1692","Salem, Massachusetts.",Salem primary documents + restrained reconstruction,relative audio energy 0.92,2–5 visual changes inside beat; no still >9 s; V5 individualized coverage applies,19,13O/4R/2M,no identical frame; no consecutive same base asset; no still >9s
-S2,Das Bild existiert schon überall,1781 malt Henry Füssli The Nightmare.,historical art + semantic detail crops,relative audio energy 0.72,2–5 visual changes inside beat; no still >9 s; V5 individualized coverage applies,18,11O/4R/3M,no identical frame; no consecutive same base asset; no still >9s
-S3,"Viele Namen, derselbe Angriff",Im germanischen Raum heißt die Gestalt Mahr oder Mara.,culture archive + map/typography,relative audio energy 0.66,2–5 visual changes inside beat; no still >9 s; V5 individualized coverage applies,19,10O/3R/6M,no identical frame; no consecutive same base asset; no still >9s
-S4,Wenn ein Erlebnis zur Wahrheit einer Kultur wird,Im europäischen Mittelalter ist ein nächtlicher Angriff kein neutrales medizinisches Problem.,historical sources + interpretation motion,relative audio energy 0.82,2–5 visual changes inside beat; no still >9 s; V5 individualized coverage applies,19,11O/4R/4M,no identical frame; no consecutive same base asset; no still >9s
-S5,Huffords Gegenangriff,Hufford untersucht in Neufundland die Old-Hag-Tradition.,research/archive + thesis motion,relative audio energy 0.72,2–5 visual changes inside beat; no still >9 s; V5 individualized coverage applies,18,11O/2R/5M,no identical frame; no consecutive same base asset; no still >9s
-S6,Was glaubst du vor dem nächsten Anfall?,Stellt euch zwei Menschen vor.,archive + feedback motion,relative audio energy 0.88,2–5 visual changes inside beat; no still >9 s; V5 individualized coverage applies,19,10O/4R/5M,no identical frame; no consecutive same base asset; no still >9s
-S7,Ägypten gegen Dänemark,Forscher um Baland Jalal und Devon Hinton verglichen Schlafparalyse in Ägypten und Dänemark.,study/country context + comparison motion,relative audio energy 1.00,2–5 visual changes inside beat; no still >9 s; V5 individualized coverage applies,20,14O/2R/4M,no identical frame; no consecutive same base asset; no still >9s
-S8,Der Dämon lernt schneller,"Okay, zurück nach Salem.",historical callback + transition reconstruction,relative audio energy 0.70,2–5 visual changes inside beat; no still >9 s; V5 individualized coverage applies,14,8O/4R/2M,no identical frame; no consecutive same base asset; no still >9s
+cue_id,section,anchor_text,planned_shots,edit_rule
+EP07_TAKE_001,S1,"Salem, Massachusetts. Mai sechzehnhundertzweiundneunzig. Richard Coman liegt nachts",6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_002,S1,Coman kann weder sprechen noch sich bewegen. Er,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_003,S1,"Coman lebt jedoch in einer Welt ohne REM-Schlaf,",7,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_004,S2,Fast neunzig Jahre später malt Henry Füssli „Der,5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_005,S2,Es zeigt mehr als einen schlechten Traum. Es,5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_006,S2,"Wenn alle Menschen nur dieselbe Geschichte kopiert hätten,",6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_007,S3,Im germanischen Raum kennt man Mahr oder Mara.,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_008,S3,In Berichten aus arabischsprachigen Regionen werden solche Nächte,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_009,S3,Vielleicht beginnt der Mythos nicht mit einer erfundenen,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_010,S4,Im mittelalterlichen und frühneuzeitlichen Europa ist ein nächtlicher,5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_011,S4,"Zu jeder Ursache gehören Handlungen. Menschen beten, schlagen",6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_012,S4,So kann ein persönliches Erlebnis weit über das,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_013,S5,Hufford kennt das Erlebnis aus eigener Erfahrung. Für,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_014,S5,Damit dreht Hufford die übliche Erklärung um. Kultur,5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_015,S5,Eine Frage bleibt offen: Wenn die Kultur den,5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_016,S6,Stellt euch zwei Menschen vor. Beide wachen gelähmt,5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_017,S6,"Was glaubt ihr, wiegt im entscheidenden Moment schwerer:",5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_018,S7,Ein Forschungsteam um Baland Jalal und Devon Hinton,3,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_019,S7,In der ägyptischen Stichprobe verbanden deutlich mehr Befragte,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_020,S7,Die ägyptischen Teilnehmenden berichteten in dieser Studie im,5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_021,S7,Mehr Angst kann den Schlaf unruhiger machen. Unruhiger,5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_022,S8,Gehen wir noch einmal zurück zu Richard Coman.,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_023,S8,"Der Körper liefert Rohmaterial: Wachheit, Lähmung, Druck, Präsenz.",5,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_024,S8,Über Jahrhunderte verbreiten sich solche Bilder langsam. Sie,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_025,S8,Am zwölften April zweitausendeins spricht ein amerikanischer Radiomoderator,6,no still >9s; no identical frame twice; no two consecutive shots from the same base asset
+EP07_TAKE_026,END,In der nächsten Folge geht es um den,2,no still >9s; no identical frame twice; no two consecutive shots from the same base asset

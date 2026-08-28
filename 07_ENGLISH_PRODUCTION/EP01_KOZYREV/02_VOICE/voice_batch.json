@@ -1,0 +1,49 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.52,
+    "similarity_boost": 0.82,
+    "style": 0.1,
+    "speed": 1.08,
+    "use_speaker_boost": true
+  },
+  "seed": 2403,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\raw_stems",
+  "stems": [
+    {
+      "id": "EP01_EN_01_HOOK",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\source\\EP01_EN_01_HOOK.txt"
+    },
+    {
+      "id": "EP01_EN_02_KOZYREV",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\source\\EP01_EN_02_KOZYREV.txt"
+    },
+    {
+      "id": "EP01_EN_03_MACHINE",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\source\\EP01_EN_03_MACHINE.txt"
+    },
+    {
+      "id": "EP01_EN_04_ESCALATION",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\source\\EP01_EN_04_ESCALATION.txt"
+    },
+    {
+      "id": "EP01_EN_05_THREE_THEORIES",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\source\\EP01_EN_05_THREE_THEORIES.txt"
+    },
+    {
+      "id": "EP01_EN_06_BLIND_TARGET",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\source\\EP01_EN_06_BLIND_TARGET.txt"
+    },
+    {
+      "id": "EP01_EN_07_MISSING_RESULT",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\source\\EP01_EN_07_MISSING_RESULT.txt"
+    },
+    {
+      "id": "EP01_EN_08_RESIDUE_HANDOFF",
+      "text_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\source\\EP01_EN_08_RESIDUE_HANDOFF.txt"
+    }
+  ]
+}

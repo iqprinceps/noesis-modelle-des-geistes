@@ -1,0 +1,107 @@
+{
+  "channel": "de",
+  "playlist_id": "PLXLDOtg3I5tQ",
+  "episodes": {
+    "EP06": {
+      "video_id": "vJxIOeNhXmE",
+      "publish_at": "2026-08-30T18:00:00+02:00",
+      "title": "Schlafparalyse: Warum du jemanden im Zimmer spürst",
+      "thumbnail_set": true,
+      "caption_id": "AUieDaaRcrKOovUZ8_afa-L5u1fngrQ_7A8rcAqdo5npKwEJQCM9itOm",
+      "playlist_added": true,
+      "navigation_updated": true
+    },
+    "EP07": {
+      "video_id": "NH0aZ1SQF74",
+      "publish_at": "2026-09-03T18:00:00+02:00",
+      "title": "Salem 1692: Wie Schlafparalyse als Hexerei gedeutet wurde",
+      "thumbnail_set": true,
+      "caption_id": "AUieDaZ7hae9h2sYUAOnLTBqD8WCWiFnsMxZs-cVaAWWPvOKM8C0IDni",
+      "playlist_added": true,
+      "navigation_updated": true
+    },
+    "EP08": {
+      "video_id": "AL8ybYsvm-o",
+      "publish_at": "2026-09-06T18:00:00+02:00",
+      "title": "Shadow People bei Schlafparalyse: Warum viele den Hat Man sehen",
+      "thumbnail_set": true,
+      "caption_id": "AUieDaaS0Y0pfU-GHtFnpg7lT43yfXim_owJ-LkxX-ZA8pL4pM-XpAG2",
+      "playlist_added": true,
+      "navigation_updated": true
+    }
+  },
+  "verification": {
+    "EP06": {
+      "video_id": "vJxIOeNhXmE",
+      "url": "https://youtu.be/vJxIOeNhXmE",
+      "title": "Schlafparalyse: Warum du jemanden im Zimmer spürst",
+      "privacy": "private",
+      "publish_at": "2026-08-30T16:00:00Z",
+      "synthetic_media": null,
+      "processing": "succeeded",
+      "caption_tracks": [
+        {
+          "id": "AUieDaY46svvjHAI3NUEIHFZFysNuH_BZSMETg4xvd9Z4shCqms",
+          "language": "de",
+          "name": "",
+          "track_kind": "asr",
+          "status": "serving",
+          "is_draft": false
+        },
+        {
+          "id": "AUieDaaRcrKOovUZ8_afa-L5u1fngrQ_7A8rcAqdo5npKwEJQCM9itOm",
+          "language": "de",
+          "name": "Deutsch",
+          "track_kind": "standard",
+          "status": "serving",
+          "is_draft": false
+        }
+      ],
+      "thumbnail_maxres": true,
+      "local_cues": 180
+    },
+    "EP07": {
+      "video_id": "NH0aZ1SQF74",
+      "url": "https://youtu.be/NH0aZ1SQF74",
+      "title": "Salem 1692: Wie Schlafparalyse als Hexerei gedeutet wurde",
+      "privacy": "private",
+      "publish_at": "2026-09-03T16:00:00Z",
+      "synthetic_media": null,
+      "processing": "succeeded",
+      "caption_tracks": [
+        {
+          "id": "AUieDaZ7hae9h2sYUAOnLTBqD8WCWiFnsMxZs-cVaAWWPvOKM8C0IDni",
+          "language": "de",
+          "name": "Deutsch",
+          "track_kind": "standard",
+          "status": "serving",
+          "is_draft": false
+        }
+      ],
+      "thumbnail_maxres": true,
+      "local_cues": 194
+    },
+    "EP08": {
+      "video_id": "AL8ybYsvm-o",
+      "url": "https://youtu.be/AL8ybYsvm-o",
+      "title": "Shadow People bei Schlafparalyse: Warum viele den Hat Man sehen",
+      "privacy": "private",
+      "publish_at": "2026-09-06T16:00:00Z",
+      "synthetic_media": null,
+      "processing": "succeeded",
+      "caption_tracks": [
+        {
+          "id": "AUieDaaS0Y0pfU-GHtFnpg7lT43yfXim_owJ-LkxX-ZA8pL4pM-XpAG2",
+          "language": "de",
+          "name": "Deutsch",
+          "track_kind": "standard",
+          "status": "serving",
+          "is_draft": false
+        }
+      ],
+      "thumbnail_maxres": true,
+      "local_cues": 181
+    }
+  },
+  "verified_at": "2026-08-28T08:00:00+00:00"
+}

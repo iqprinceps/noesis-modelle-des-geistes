@@ -1,0 +1,23 @@
+{
+  "tts_provider": "ElevenLabs",
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.61,
+    "similarity_boost": 0.82,
+    "style": 0.06,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "seed": 260827,
+  "sent_characters": 4070,
+  "script_sha256": "2c8a29bdb519a4b274bee2a4b82443878f7369d17eeec69b930e675a8049a56f",
+  "raw_sha256": "ab506e7350520758d025d81e9158a233baca0504b108b3f800d672a8cda26106",
+  "master_sha256": "55c45328c2c1d173c7e188a051309008cfd9c36ec5d199a51138c7712b4f839a",
+  "duration_seconds": 271.534,
+  "word_count": 663,
+  "continuity_reference": "EP05_EN Part 1 voice_batch_master.json and stem_report.json",
+  "generation_requests": 1,
+  "pickup_requests": 0
+}

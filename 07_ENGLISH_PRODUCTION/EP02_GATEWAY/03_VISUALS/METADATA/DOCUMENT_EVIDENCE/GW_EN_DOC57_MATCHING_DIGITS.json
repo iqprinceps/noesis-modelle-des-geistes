@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 25,
+  "phrase": "aquired enough of the digits",
+  "match_count": 5,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    647.0,
+    612.0,
+    735.0
+  ],
+  "highlight_rects": [
+    [
+      342.97,
+      691.81,
+      385.27,
+      701.28
+    ],
+    [
+      390.97,
+      691.22,
+      427.88,
+      700.61
+    ],
+    [
+      433.21,
+      690.97,
+      445.93,
+      700.02
+    ],
+    [
+      451.69,
+      690.63,
+      469.56,
+      699.76
+    ],
+    [
+      475.46,
+      690.11,
+      506.71,
+      699.43
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

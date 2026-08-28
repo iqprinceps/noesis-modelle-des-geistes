@@ -1,0 +1,84 @@
+{
+  "candidate": "A",
+  "voice": "George",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.61,
+    "similarity_boost": 0.82,
+    "style": 0.06,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "duration": 493.25,
+  "loudness": {
+    "input_i": "-18.27",
+    "input_tp": "-1.99",
+    "input_lra": "2.10",
+    "input_thresh": "-28.69",
+    "output_i": "-18.09",
+    "output_tp": "-2.00",
+    "output_lra": "2.20",
+    "output_thresh": "-28.50",
+    "normalization_type": "dynamic",
+    "target_offset": "0.09"
+  },
+  "sha256": "4bc41820881973df2c2d5de73a17176e13aa6906562965888972feb13508b699",
+  "stems": [
+    {
+      "id": "EP05_EN_TAKE_01",
+      "start": 0.0,
+      "end": 68.638,
+      "duration": 68.638,
+      "sha256": "bfb44a19afc8eaad8906299f96d1f2e61829f97a44fcf96cc77bb75c200777d7"
+    },
+    {
+      "id": "EP05_EN_TAKE_02",
+      "start": 68.978,
+      "end": 139.846,
+      "duration": 70.867,
+      "sha256": "cbf17d9a1a7fc57e42d002e4a18fa6f3da9cd0133e6ce38a679ecd10bf939856"
+    },
+    {
+      "id": "EP05_EN_TAKE_03",
+      "start": 140.186,
+      "end": 210.96,
+      "duration": 70.774,
+      "sha256": "2844a027b7bda360813b4b5bf342bd51b6f34a63820bf099be28c3de9435664b"
+    },
+    {
+      "id": "EP05_EN_TAKE_04",
+      "start": 211.3,
+      "end": 280.681,
+      "duration": 69.381,
+      "sha256": "6a0084ca4a41020afe57b6015f0cfaa0b91260cd49cbffc44dd928780dc8a5e0"
+    },
+    {
+      "id": "EP05_EN_TAKE_05",
+      "start": 281.021,
+      "end": 351.703,
+      "duration": 70.682,
+      "sha256": "f751fdedbb29c2d6f076bd26a89f026be38fb546a4f9cf35b1d21588bb28f2fa"
+    },
+    {
+      "id": "EP05_EN_TAKE_06",
+      "start": 352.043,
+      "end": 421.285,
+      "duration": 69.242,
+      "sha256": "1080b0d6d60f0bd7c4d073e0ae58213fc6c711776fc71108e6b83114b667a26f"
+    },
+    {
+      "id": "EP05_EN_TAKE_07",
+      "start": 421.625,
+      "end": 491.284,
+      "duration": 69.66,
+      "sha256": "ce0f9fd37cc27a6e1a4e3d60cc683cc35c7b4f9562c6f75e75d7326cf23e368a"
+    },
+    {
+      "id": "EP05_EN_TAKE_08",
+      "start": 491.624,
+      "end": 493.25,
+      "duration": 1.625,
+      "sha256": "ff5af050ee69956225907d95317c27a5e7e0d9232dc9da7533e3e9b63024f591"
+    }
+  ]
+}

@@ -18,12 +18,15 @@ PROFILES={
 'EP04A':dict(summary='EP04A_JUNG_KUNDALINI_V5',cue='VISUAL_CUE_SHEET_V5_FINAL.csv',voice='EP04A_JUNG_KUNDALINI_V5_VO_MASTER.wav',alignment='EP04A_JUNG_KUNDALINI_V5_alignment.json',out='EP04A_JUNG_KUNDALINI_V5',camera='vision',zoom=.052,hold_zoom=.022,fade=.18,bg='#0B0A0D'),
 'EP04B':dict(summary='EP04B_CHAKRA_GENEALOGIE_V5',cue='VISUAL_CUE_SHEET_V5.csv',voice='EP04B_CHAKRA_GENEALOGIE_V5_VO_MASTER.wav',alignment='EP04B_CHAKRA_GENEALOGIE_V5_alignment.json',out='EP04B_CHAKRA_GENEALOGIE_V5',camera='archive',zoom=.042,hold_zoom=.015,fade=.12,bg='#11100E'),
 'EP05':dict(summary='EP05_JUNG_PAULI_V4',cue='VISUAL_CUE_SHEET.csv',cue_fallback='03_EPISODEN/TYPE_B/EP05_JUNG_PAULI/VISUAL_CUE_SHEET.csv',voice='EP05_JUNG_PAULI_V4_VO_MASTER.wav',alignment='EP05_JUNG_PAULI_V4_alignment.json',out='EP05_JUNG_PAULI_V4',camera='precision',zoom=.044,hold_zoom=.018,fade=.14,bg='#0D1014'),
-'EP06':dict(summary='EP06_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP06_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP06_SCHLAFPARALYSE_V4_alignment.json',out='EP06_SCHLAFPARALYSE_V4',camera='intimate',zoom=.022,hold_zoom=.006,source_zoom=.008,fade=.16,bg='#090A0D'),
-'EP07':dict(summary='EP07_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP07_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP07_SCHLAFPARALYSE_V4_alignment.json',out='EP07_SCHLAFPARALYSE_V4',camera='archive',zoom=.015,hold_zoom=.004,source_zoom=.006,fade=.12,bg='#100D0B'),
-'EP08':dict(summary='EP08_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET.csv',voice='EP08_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP08_SCHLAFPARALYSE_V4_alignment.json',out='EP08_SCHLAFPARALYSE_V4',camera='network',zoom=.024,hold_zoom=.007,source_zoom=.008,fade=.14,bg='#080B10')}
+'EP06':dict(summary='EP06_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET_V5.csv',voice='EP06_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP06_SCHLAFPARALYSE_V4_alignment.json',out='EP06_SCHLAFPARALYSE_V4',camera='intimate',zoom=.022,hold_zoom=.006,source_zoom=.008,fade=.16,bg='#090A0D'),
+'EP07':dict(summary='EP07_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET_V5.csv',voice='EP07_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP07_SCHLAFPARALYSE_V4_alignment.json',out='EP07_SCHLAFPARALYSE_V4',camera='archive',zoom=.015,hold_zoom=.004,source_zoom=.006,fade=.12,bg='#100D0B'),
+'EP08':dict(summary='EP08_SCHLAFPARALYSE_V4',cue='VISUAL_CUE_SHEET_V5.csv',voice='EP08_SCHLAFPARALYSE_V4_VO_MASTER.wav',alignment='EP08_SCHLAFPARALYSE_V4_alignment.json',out='EP08_SCHLAFPARALYSE_V4',camera='network',zoom=.024,hold_zoom=.007,source_zoom=.008,fade=.14,bg='#080B10')}
 
-def run(a,capture=False):
- p=subprocess.run(a,text=True,capture_output=capture)
+def run(a,capture=False,timeout=None):
+ try:
+  p=subprocess.run(a,text=True,capture_output=capture,timeout=timeout)
+ except subprocess.TimeoutExpired as exc:
+  raise RuntimeError(f"command timed out after {timeout}s: {a[0]}") from exc
  if p.returncode: raise RuntimeError((p.stderr or p.stdout or 'command failed')[-8000:])
  return (p.stdout or '')+(p.stderr or '')
 def dur(p): return float(run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',str(p)],True).strip())
@@ -164,6 +167,20 @@ def contain_needed(p):
  except Exception:return False
 def motion_policy(ep,i,r):
  kind=r.get('kind','STILL')
+ # Auf diesen sehr kontrastreichen Einzelbildern wird selbst die halbpixelige
+ # Fahrt als Mikroruckeln messbar. Der Schnitt wechselt nach rund vier Sekunden;
+ # ein ruhiger Hold ist hier fuer Zuschauer klarer als Bewegung um jeden Preis.
+ stable_stems={
+  'EP06_FOGO_ISLAND_NEWFOUNDLAND_FISHING_VILLAGE_2002',
+ 'IMG007_FOGO_PLACE_ANCHOR_RECON',
+ 'ORIG023_SLEEP_DEPRIVATION',
+  # EP08-Kamera-QA: harte Kanten in diesen Detailausschnitten erzeugen bei
+  # Subpixel-Zoom sichtbares Mikrozittern. Ruhiger Hold ist hier klarer.
+  'SRC028_SLEEP_STUDY_DETAIL',
+  'CUT023_IMG031_DISSOLVE_DETAIL',
+  'SHOT01_RADIO_MICROPHONE_MACRO',
+ }
+ if Path(r.get('visual','')).stem.upper() in stable_stems:return 'STATIC_STILL'
  if kind=='VIDEO':return 'NATIVE_CLIP_NO_EXTERNAL_CAMERA'
  if kind=='CARD':return 'STATIC_CARD'
  if kind=='SOURCE_STATIC':return 'STATIC_SOURCE'
@@ -188,32 +205,64 @@ def camera_filter(ep,i,r):
  mode='in' if policy=='SUBTLE_SOURCE' else fam[c['camera']][i%8]; z0,z1=(1,1+amount) if mode!='out' else (1+amount,1); p=f'on/{frames}'; q=f'(({p})*({p})*(3-2*({p})))'; z=f'({z0:.5f}+({z1-z0:.5f})*{q})'
  x=f'(iw-iw/zoom)*(0.70*(1-{q}))' if mode=='left' else f'(iw-iw/zoom)*(0.70*{q})' if mode=='right' else f'(iw-iw/zoom)*(0.15+0.55*{q})' if mode=='diag' else '(iw-iw/zoom)/2'
  y=f'(ih-ih/zoom)*(0.70*(1-{q}))' if mode=='up' else f'(ih-ih/zoom)*(0.70*{q})' if mode=='down' else f'(ih-ih/zoom)*(0.70-0.50*{q})' if mode=='diag' else '(ih-ih/zoom)/2'
- # Produktionsstandard, "Die Fahrt muss glatt laufen": zoompan rechnet
- # ganzzahlig. Sieht es die Vorlage in Ausgabegroesse, ist ein Schritt ein
- # voller Ausgabepixel und die Fahrt laeuft in Stufen. Die Vorlage geht daher
- # auf 7680x4320, und zoompan gibt in 3840x2160 aus; der anschliessende
- # Lanczos-Downscale auf 1920 macht aus dem Ganzzahlschritt einen
- # Viertelpixelschritt.
- #
- # zoompan direkt auf 1920 ausgeben zu lassen genuegt nicht - sein interner
- # Scaler rastet dann wieder auf ganze Ausgabepixel (gemessen 0,41 statt 0,16).
- #
- # Zusaetzlich vier Zwischenschritte je Ausgabebild, gemittelt mit tmix: die
- # vier Positionen runden unterschiedlich, ihr Mittel bewegt sich in Vierteln.
- # tblend mittelte nur je zwei von vier Subframes und warf den Rest weg.
- base=base_filter(r,'7680:4320')
+ # zoompan rechnet Positionswerte ganzzahlig. Die Vorlage geht deshalb zuerst
+ # auf 3840x2160 und zoompan gibt in 1920x1080 aus: ein Positionsschritt im
+ # Arbeitsbild entspricht so nur einem halben Ausgabepixel. Zusaetzlich werden
+ # vier zeitliche Zwischenpositionen je Ausgabebild mit tmix gemittelt. Das
+ # behaelt die weiche Subpixel-Fahrt, vermeidet aber den frueheren 8K->4K->2K-
+ # Umweg, der bei einem 1080p-Master keinen sichtbaren Detailgewinn brachte.
+ base=base_filter(r,'3840:2160')
  weights=' '.join(['1']*SUB)
- return base+f",zoompan=z='{z}':x='{x}':y='{y}':d=1:s=3840x2160:fps={FPS*SUB},tmix=frames={SUB}:weights='{weights}',framestep={SUB},scale=1920:1080:flags=lanczos,fps={FPS},format=yuv420p"+fi+fo
+ return base+f",zoompan=z='{z}':x='{x}':y='{y}':d=1:s=1920x1080:fps={FPS*SUB},tmix=frames={SUB}:weights='{weights}',framestep={SUB},fps={FPS},format=yuv420p"+fi+fo
 
 def render(ep,p,shots):
  miss=[r for r in shots if not r['visual'] or not Path(r['visual']).is_file()]
  if miss: raise SystemExit('Unresolved/missing visuals: '+', '.join(r['shot_id'] for r in miss[:30]))
  p['segments'].mkdir(parents=True,exist_ok=True)
+ cache_file=p['segments'].parent/'segment_cache.json'
+ try: cache=json.loads(cache_file.read_text(encoding='utf-8')) if cache_file.is_file() else {}
+ except (json.JSONDecodeError, OSError): cache={}
  for i,r in enumerate(shots):
   out=p['segments']/f"{i+1:03d}_{r['shot_id']}.mp4"
-  if out.is_file() and dur(out)>=max(.1,r['duration']-.08):continue
+  source=Path(r['visual']).resolve()
+  fingerprint={
+   'visual':str(source),
+   'visual_mtime_ns':source.stat().st_mtime_ns,
+   'duration':round(float(r['duration']),3),
+   'kind':r['kind'],
+   'motion_policy':r.get('motion_policy',''),
+  }
+  if out.is_file():
+   try:
+    duration_ok=dur(out)>=max(.1,r['duration']-.08)
+    cached=cache.get(out.name)
+    # Beim ersten Lauf nach Einfuehrung des Fingerprint-Caches duerfen die
+    # vorhandenen, bereits dauergeprueften Segmente weiterleben. Danach wird
+    # ein Segment aber auch bei gleicher Shot-ID neu gebaut, sobald Quelle,
+    # Quelldatei, Dauer oder Bewegungsmodus gewechselt haben.
+    if duration_ok and (cached is None or cached==fingerprint):
+     cache[out.name]=fingerprint
+     continue
+   except (RuntimeError, ValueError):
+    # Ein abgebrochener Lauf kann eine MP4-Datei ohne finalen moov-Atom
+    # hinterlassen. Solche Fragmente sind kein Cache-Treffer und werden sauber
+    # neu erzeugt.
+    pass
+   out.unlink(missing_ok=True)
   inp=['-stream_loop','-1','-i',r['visual']] if r['kind']=='VIDEO' else ['-loop','1','-i',r['visual']]
-  run(['ffmpeg','-y','-hide_banner','-loglevel','error',*inp,'-t',f"{r['duration']:.3f}",'-vf',camera_filter(ep,i,r),'-an','-c:v','libx264','-preset','veryfast','-crf','16','-pix_fmt','yuv420p','-r',str(FPS),str(out)]); print(f"render {i+1:03d}/{len(shots)} {r['shot_id']}")
+  common=['ffmpeg','-y','-hide_banner','-loglevel','error',*inp,'-t',f"{r['duration']:.3f}",'-vf',camera_filter(ep,i,r),'-an']
+  try:
+   # Auf dem Schnittrechner ist Intel Quick Sync verfuegbar. Die aufwendige
+   # 4K-Subpixel-Kamerafahrt bleibt identisch; nur die H.264-Kompression laeuft
+   # in Hardware. Global Quality 16 liegt auf dem bisherigen CRF-16-Niveau.
+   run([*common,'-c:v','h264_qsv','-preset','slow','-global_quality','16','-pix_fmt','nv12','-r',str(FPS),str(out)],timeout=max(45,r['duration']*12))
+  except RuntimeError:
+   # Portabler Fallback fuer Rechner ohne aktive QSV-Laufzeit.
+   out.unlink(missing_ok=True)
+   run([*common,'-c:v','libx264','-preset','veryfast','-crf','16','-pix_fmt','yuv420p','-r',str(FPS),str(out)])
+  cache[out.name]=fingerprint
+  print(f"render {i+1:03d}/{len(shots)} {r['shot_id']}")
+ cache_file.write_text(json.dumps(cache,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 def picture(p,shots):
  lst=p['segments'].parent/'concat.txt'; lst.write_text('\n'.join("file '"+(p['segments']/f"{i+1:03d}_{r['shot_id']}.mp4").as_posix()+"'" for i,r in enumerate(shots))+'\n',encoding='utf-8'); run(['ffmpeg','-y','-hide_banner','-loglevel','error','-f','concat','-safe','0','-i',str(lst),'-c','copy',str(p['picture'])]); return p['picture']
 def audio_choice(p):

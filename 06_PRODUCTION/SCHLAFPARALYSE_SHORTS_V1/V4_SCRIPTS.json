@@ -1,0 +1,69 @@
+{
+  "_note": "V4 narration. Rewritten from the V1/V2 texts for spoken German: short sentences, verbs instead of nominalisations, direct address. Facts, sources and the epistemic hedges are unchanged. Word counts target 38-42 s at George's pace.",
+  "SP06A_ATEM": {
+    "n": 1,
+    "ep": "EP06",
+    "hook": "DU ERSTICKST NICHT",
+    "narration": "Du wachst auf und bekommst keine Luft. Das fühlt sich an wie Ersticken. Es ist aber keins.\n\nIm REM-Schlaf schaltet dein Gehirn die Muskeln ab, die du sonst selbst steuerst. Arme, Beine, Nacken. Dein Zwerchfell schaltet es nicht ab. Du atmest die ganze Zeit weiter, nur flacher. Und wenn du wach bist und Panik hast, fühlt sich flach an wie zu wenig.\n\nDeshalb hilft dir hier Wissen mehr als Kraft. Nicht dagegen ankämpfen. Langsam ausatmen. Dich auf einen einzigen Finger konzentrieren. Dann geht es vorüber.\n\nWenn das oft passiert oder du tagsüber ständig müde bist, lass es ärztlich abklären.",
+    "sources": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10847011/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4016090/",
+      "https://www.rightdecisions.scot.nhs.uk/borders-ref-help-toolkit/neurology/sleep-symptoms/sleep-paralysis/"
+    ]
+  },
+  "SP06B_RUECKENLAGE": {
+    "n": 2,
+    "ep": "EP06",
+    "hook": "RÜCKENLAGE?",
+    "narration": "Über die Hälfte der Betroffenen erinnert sich hinterher an dasselbe Detail: Es passierte auf dem Rücken.\n\nEine Erinnerung ist kein Beweis. Aber es ist der einfachste Hebel, den du hast.\n\nAuf dem Rücken wird der Schlaf instabiler, und die Atmung verändert sich. Dazu kommt alles, was deinen Rhythmus durcheinanderbringt: zu wenig Schlaf, Jetlag, jeden Tag eine andere Uhrzeit. Genau dann rutschen Traumschlaf und Wachsein ineinander.\n\nAlso: Seitenlage ausprobieren. Sieben bis neun Stunden. Und halbwegs feste Zeiten.\n\nKein Zaubertrick. Nur deutlich weniger Gelegenheiten für den falschen Moment.",
+    "sources": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8060733/",
+      "https://www.nhs.uk/conditions/sleep-paralysis/",
+      "https://www.rightdecisions.scot.nhs.uk/borders-ref-help-toolkit/neurology/sleep-symptoms/sleep-paralysis/"
+    ]
+  },
+  "SP07A_ALBTRAUMWORT": {
+    "n": 3,
+    "ep": "EP07",
+    "hook": "ALBTRAUM WAR EIN WESEN",
+    "narration": "Albtraum hieß früher nicht schlechter Traum. Albtraum hieß: Da ist jemand.\n\nDie alte Mare war ein Wesen. Es kam nachts, setzte sich auf die Brust und drückte. Du warst wach, du konntest dich nicht bewegen, und dafür gab es einen Namen.\n\nDiesen Namen findest du quer durch die germanischen Sprachen. Mara, Mare, Mahr. Im englischen Nightmare steckt er bis heute drin. Gemeint war nie ein Pferd. Gemeint war ein Besucher.\n\nUnd jetzt das Erstaunliche: Die Beschreibung stimmt. Wachheit, Druck auf der Brust, Lähmung. Die Menschen haben genau festgehalten, was passiert. Nur die Erklärung war eine andere.",
+    "sources": [
+      "https://www.dwds.de/wb/Alptraum",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4016090/",
+      "https://www.etymonline.com/word/nightmare"
+    ]
+  },
+  "SP07B_SALEM_ZEUGE": {
+    "n": 4,
+    "ep": "EP07",
+    "hook": "DER UNSICHTBARE ZEUGE",
+    "narration": "Der gefährlichste Zeuge in Salem war unsichtbar.\n\nMenschen sagten unter Eid aus, der Geist einer Angeklagten sei nachts in ihr Schlafzimmer gekommen. Türen verschlossen. Niemand sonst hat etwas gesehen.\n\nDas Gericht hatte dafür sogar einen Begriff. Spectral evidence. Das Erlebnis als Beweis. Bei Bridget Bishop wurde das Teil der Anklage. Nicht der einzige Punkt, aber ein Teil davon.\n\nUnd jetzt die Wendung: Selbst damals war das umstritten. Diese Beweisform galt nur wenige Monate.\n\nSalem ist nicht durchgedreht, weil Menschen nachts etwas erlebt haben. Sondern weil ein Gericht entschied, private Gewissheit als öffentliche Tatsache zu behandeln.",
+    "sources": [
+      "https://salem.lib.virginia.edu/n13.html",
+      "https://www.mass.gov/news/witchcraft-law-up-to-the-salem-witchcraft-trials-of-1692",
+      "https://salem.lib.virginia.edu/people/bishop_court.html"
+    ]
+  },
+  "SP08A_HAT_MAN_HUT": {
+    "n": 5,
+    "ep": "EP08",
+    "hook": "WARUM DER HUT?",
+    "narration": "Warum trägt der Hat Man einen Hut?\n\nEhrliche Antwort: Das weiß niemand. Es gibt Forschung zu Schattenfiguren und zu diesem Gefühl, beobachtet zu werden. Zum Hut gibt es nichts.\n\nWas es gibt, ist eine plausible Vermutung. Im Dunkeln bekommt dein Gehirn kaum Information. Es braucht eine Kontur, an der es andocken kann. Und eine Krempe macht aus einem formlosen Schatten sofort jemanden. Einen Erwachsenen. Mit Blickrichtung. Mit Absicht.\n\nUnd dann übernimmt die Kultur. Bilder, Podcasts, Foren, überall dieselbe Silhouette.\n\nVielleicht ist der Hut also gar keine Botschaft. Vielleicht ist er nur das, woran wir ihn wiedererkennen.",
+    "sources": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4016090/",
+      "https://www.nature.com/articles/443287a",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10299622/"
+    ]
+  },
+  "SP08B_UNSICHTBARE_PERSON": {
+    "n": 6,
+    "ep": "EP08",
+    "hook": "EINE PERSON AUS DEM NICHTS",
+    "narration": "2006 sind Forscher zufällig auf eine unsichtbare Person gestoßen.\n\nSie stimulierten bei einer Patientin eine Stelle im Gehirn, die linke temporoparietale Verbindung. Sie spürte sofort jemanden hinter sich. Und diese Gestalt machte ihre Körperhaltung nach. Wie ein Spiegel.\n\nDiese Region sortiert, was zu deinem Körper gehört und was nicht. Laufen die Signale auseinander, entsteht ein zweites Körpermodell. Kein sichtbarer Mensch. Aber eine Präsenz. Mit Position, mit Nähe.\n\nDas beweist keinen Hat Man. Und es macht deine Erfahrung nicht ungültig.\n\nEs zeigt etwas Unheimlicheres: Dein Gehirn hat alle Bauteile, um dich selbst als jemand anderen zu erleben.",
+    "sources": [
+      "https://www.nature.com/articles/443287a",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10299622/",
+      "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2017.00092/pdf?isPublishedV2=false"
+    ]
+  }
+}

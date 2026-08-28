@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 6,
+  "phrase": "Gateway and Hemi-Sync",
+  "match_count": 3,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    142.0,
+    612.0,
+    283.5
+  ],
+  "highlight_rects": [
+    [
+      69.32,
+      154.81,
+      112.14,
+      164.28
+    ],
+    [
+      118.29,
+      154.46,
+      137.32,
+      163.6
+    ],
+    [
+      142.3,
+      153.71,
+      190.41,
+      163.26
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

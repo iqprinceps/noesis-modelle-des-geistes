@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 2,
+  "phrase": "Commander, Det O",
+  "match_count": 3,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    312.5,
+    612.0,
+    422.5
+  ],
+  "highlight_rects": [
+    [
+      312.96,
+      381.78,
+      372.53,
+      389.72
+    ],
+    [
+      379.92,
+      381.78,
+      399.13,
+      389.72
+    ],
+    [
+      404.4,
+      381.78,
+      408.65,
+      389.72
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

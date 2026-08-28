@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 7,
+  "phrase": "Frequency Following Response",
+  "match_count": 6,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    100.5,
+    612.0,
+    288.0
+  ],
+  "highlight_rects": [
+    [
+      69.09,
+      124.15,
+      123.28,
+      133.55
+    ],
+    [
+      129.35,
+      123.3,
+      183.69,
+      132.7
+    ],
+    [
+      189.58,
+      122.63,
+      231.62,
+      131.86
+    ],
+    [
+      461.28,
+      130.18,
+      515.68,
+      139.82
+    ],
+    [
+      44.62,
+      148.01,
+      99.16,
+      157.65
+    ],
+    [
+      105.11,
+      147.31,
+      149.17,
+      156.8
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

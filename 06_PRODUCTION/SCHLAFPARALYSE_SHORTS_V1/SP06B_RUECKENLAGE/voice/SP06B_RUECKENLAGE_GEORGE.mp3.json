@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP06B_RUECKENLAGE\\voice\\SP06B_RUECKENLAGE_GEORGE.mp3",
+  "sha256": "0f07eebfd3f16ed4661be8009081ed59ef38d23e78624c8fb6aec5a093b0d031",
+  "bytes": 703051,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 2402,
+  "request_id": "NHrbPw4TcEKBeRibwALs",
+  "text_sha256": "b816f6030d111bd2473c5b14936b52b27ca9e70ff69a24ee75b72a6d2b7ea3fa",
+  "characters": 717
+}

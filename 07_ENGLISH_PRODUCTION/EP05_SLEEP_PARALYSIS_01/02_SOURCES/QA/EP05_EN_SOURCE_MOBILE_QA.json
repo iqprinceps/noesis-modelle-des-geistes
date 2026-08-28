@@ -1,0 +1,104 @@
+{
+  "gate": "PASS",
+  "items": [
+    {
+      "label": "HUFFORD / OFFICIAL BIO",
+      "source": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_HUFFORD_OFFICIAL_BIO_VIEW.png",
+      "review_crop": [
+        70,
+        370,
+        1290,
+        1020
+      ],
+      "mobile_frame": "640x360",
+      "status": "PASS_WITH_PLANNED_CLOSE_CROP",
+      "note": "Name, biography and contextual official-site photo remain legible."
+    },
+    {
+      "label": "CHEYNE / 1999 THREE-FACTOR PAPER",
+      "source": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_CHEYNE_PUBMED_1999_CARD.png",
+      "review_crop": [
+        55,
+        65,
+        955,
+        840
+      ],
+      "mobile_frame": "640x360",
+      "status": "PASS_WITH_PLANNED_CLOSE_CROP",
+      "note": "Title and highlighted three-factor result remain legible."
+    },
+    {
+      "label": "CHEYNE / 2007 FELT PRESENCE",
+      "source": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_CHEYNE_PUBMED_2007_CARD.png",
+      "review_crop": [
+        55,
+        65,
+        955,
+        840
+      ],
+      "mobile_frame": "640x360",
+      "status": "PASS_WITH_PLANNED_CLOSE_CROP",
+      "note": "Title and felt-presence result remain legible."
+    },
+    {
+      "label": "TAKEUCHI / SIX EPISODES",
+      "source": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_TAKEUCHI_PUBMED_1992_CARD.png",
+      "review_crop": [
+        55,
+        65,
+        955,
+        840
+      ],
+      "mobile_frame": "640x360",
+      "status": "PASS_WITH_PLANNED_CLOSE_CROP",
+      "note": "Paper identity and six-episode result remain legible."
+    },
+    {
+      "label": "REM / HUMAN PSG",
+      "source": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_HUMAN_REM_PHYSIOLOGY_FIG6.jpg",
+      "review_crop": [
+        0,
+        0,
+        4134,
+        2464
+      ],
+      "mobile_frame": "640x360",
+      "status": "PASS_WITH_PLANNED_CLOSE_CROP",
+      "note": "Use as a tight graph crop with labels enlarged, not as a full dense page."
+    },
+    {
+      "label": "FOGO / PLACE",
+      "source": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_FOGO_TILTING_HARBOUR.jpg",
+      "review_crop": null,
+      "mobile_frame": "640x360",
+      "status": "PASS_WITH_PLANNED_CLOSE_CROP",
+      "note": "Distinct place identity reads without explanatory text."
+    },
+    {
+      "label": "SALEM / COMAN TESTIMONY",
+      "source": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_SALEM_RICHARD_COMAN_VIEW.png",
+      "review_crop": [
+        0,
+        0,
+        1123,
+        760
+      ],
+      "mobile_frame": "640x360",
+      "status": "PASS_WITH_PLANNED_CLOSE_CROP",
+      "note": "Relevant testimony context and highlighted passage survive a close crop."
+    },
+    {
+      "label": "SALEM / BISHOP RECORD",
+      "source": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_BISHOP_EXECUTION_RECORD.png",
+      "review_crop": [
+        70,
+        0,
+        760,
+        1098
+      ],
+      "mobile_frame": "640x360",
+      "status": "PASS_WITH_PLANNED_CLOSE_CROP",
+      "note": "Manuscript texture and highlighted entry require a guided close crop."
+    }
+  ]
+}

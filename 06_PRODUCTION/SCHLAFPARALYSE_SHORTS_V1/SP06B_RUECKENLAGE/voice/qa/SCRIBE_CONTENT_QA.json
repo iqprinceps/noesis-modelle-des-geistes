@@ -1,0 +1,1337 @@
+{
+  "job": "SP06B_RUECKENLAGE",
+  "purpose": "independent speech-to-text content and transition QA",
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model": "scribe_v2",
+  "expected_words": 94,
+  "heard_words": 93,
+  "sequence_similarity": 0.983957,
+  "issues": [
+    {
+      "type": "replace",
+      "expected": [
+        "fünfundfünfzig",
+        "prozent"
+      ],
+      "heard": [
+        "55"
+      ],
+      "audio_start": 0.299,
+      "audio_end": 4.139,
+      "heard_context": [
+        "italienische",
+        "Studie",
+        "fand,",
+        "55%",
+        "der",
+        "Befragten",
+        "mit"
+      ]
+    }
+  ],
+  "transcription": {
+    "language_code": "deu",
+    "language_probability": 1.0,
+    "text": "Eine italienische Studie fand, 55% der Befragten mit Schlafparalyse erlebten sie laut eigener Erinnerung in Rückenlage. Das beweist keine Ursache, zeigt aber einen überraschend einfachen Hebel für die nächste Nacht. Rückenlage trifft auf zwei bekannte Risiken: instabileren Schlaf und veränderte Atmung. Dazu kommen Schlafmangel, Jetlag sowie wechselnde Zeiten. Sie können REM und Wachheit leichter gegeneinander verschieben und die Übergänge zusätzlich unruhig machen. Die nüchterne Strategie lautet deshalb: Seitenlage testen, insgesamt sieben bis neun Stunden schlafen und feste Zeiten halten. Kein Zaubertrick, nur deutlich weniger Chancen für den falschen Moment zwischen Traum und Wachsein.",
+    "words": [
+      {
+        "text": "Eine",
+        "start": 0.079,
+        "end": 0.239,
+        "type": "word",
+        "logprob": -0.0001408954558428377
+      },
+      {
+        "text": " ",
+        "start": 0.239,
+        "end": 0.299,
+        "type": "spacing",
+        "logprob": -0.000179036331246607
+      },
+      {
+        "text": "italienische",
+        "start": 0.299,
+        "end": 0.859,
+        "type": "word",
+        "logprob": -0.00010448753042820631
+      },
+      {
+        "text": " ",
+        "start": 0.859,
+        "end": 0.979,
+        "type": "spacing",
+        "logprob": -4.0649541915627196e-05
+      },
+      {
+        "text": "Studie",
+        "start": 0.979,
+        "end": 1.319,
+        "type": "word",
+        "logprob": -4.0649541915627196e-05
+      },
+      {
+        "text": " ",
+        "start": 1.319,
+        "end": 1.379,
+        "type": "spacing",
+        "logprob": -6.818538531661034e-05
+      },
+      {
+        "text": "fand,",
+        "start": 1.379,
+        "end": 1.619,
+        "type": "word",
+        "logprob": -0.06519287042319774
+      },
+      {
+        "text": " ",
+        "start": 1.619,
+        "end": 2.019,
+        "type": "spacing",
+        "logprob": -0.6640424728393555
+      },
+      {
+        "text": "55%",
+        "start": 2.019,
+        "end": 3.279,
+        "type": "word",
+        "logprob": -0.14393523335422742
+      },
+      {
+        "text": " ",
+        "start": 3.279,
+        "end": 3.319,
+        "type": "spacing",
+        "logprob": -6.079655122448457e-06
+      },
+      {
+        "text": "der",
+        "start": 3.319,
+        "end": 3.419,
+        "type": "word",
+        "logprob": -6.079655122448457e-06
+      },
+      {
+        "text": " ",
+        "start": 3.419,
+        "end": 3.459,
+        "type": "spacing",
+        "logprob": -2.2053474822314456e-05
+      },
+      {
+        "text": "Befragten",
+        "start": 3.46,
+        "end": 3.979,
+        "type": "word",
+        "logprob": -3.976149875800022e-05
+      },
+      {
+        "text": " ",
+        "start": 3.979,
+        "end": 4.019,
+        "type": "spacing",
+        "logprob": -2.7418097943154862e-06
+      },
+      {
+        "text": "mit",
+        "start": 4.019,
+        "end": 4.139,
+        "type": "word",
+        "logprob": -2.7418097943154862e-06
+      },
+      {
+        "text": " ",
+        "start": 4.139,
+        "end": 4.179,
+        "type": "spacing",
+        "logprob": -0.0005891970940865576
+      },
+      {
+        "text": "Schlafparalyse",
+        "start": 4.179,
+        "end": 5.059,
+        "type": "word",
+        "logprob": -0.000841971870353778
+      },
+      {
+        "text": " ",
+        "start": 5.059,
+        "end": 5.42,
+        "type": "spacing",
+        "logprob": -0.0014785320963710546
+      },
+      {
+        "text": "erlebten",
+        "start": 5.42,
+        "end": 5.759,
+        "type": "word",
+        "logprob": -0.00037557854102221455
+      },
+      {
+        "text": " ",
+        "start": 5.759,
+        "end": 5.839,
+        "type": "spacing",
+        "logprob": -3.564294092939235e-05
+      },
+      {
+        "text": "sie",
+        "start": 5.839,
+        "end": 5.94,
+        "type": "word",
+        "logprob": -3.564294092939235e-05
+      },
+      {
+        "text": " ",
+        "start": 5.94,
+        "end": 5.98,
+        "type": "spacing",
+        "logprob": -6.198863957251888e-06
+      },
+      {
+        "text": "laut",
+        "start": 5.98,
+        "end": 6.179,
+        "type": "word",
+        "logprob": -6.198863957251888e-06
+      },
+      {
+        "text": " ",
+        "start": 6.179,
+        "end": 6.279,
+        "type": "spacing",
+        "logprob": -0.0008189899963326752
+      },
+      {
+        "text": "eigener",
+        "start": 6.279,
+        "end": 6.579,
+        "type": "word",
+        "logprob": -0.0008189899963326752
+      },
+      {
+        "text": " ",
+        "start": 6.579,
+        "end": 6.679,
+        "type": "spacing",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": "Erinnerung",
+        "start": 6.679,
+        "end": 7.199,
+        "type": "word",
+        "logprob": -9.536736776283305e-07
+      },
+      {
+        "text": " ",
+        "start": 7.199,
+        "end": 7.239,
+        "type": "spacing",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": "in",
+        "start": 7.239,
+        "end": 7.319,
+        "type": "word",
+        "logprob": -1.1920922133867862e-06
+      },
+      {
+        "text": " ",
+        "start": 7.319,
+        "end": 7.399,
+        "type": "spacing",
+        "logprob": -0.00010418349120300263
+      },
+      {
+        "text": "Rückenlage.",
+        "start": 7.399,
+        "end": 8.019,
+        "type": "word",
+        "logprob": -7.713572068982185e-05
+      },
+      {
+        "text": " ",
+        "start": 8.019,
+        "end": 8.639,
+        "type": "spacing",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": "Das",
+        "start": 8.639,
+        "end": 8.739,
+        "type": "word",
+        "logprob": -1.311301275563892e-06
+      },
+      {
+        "text": " ",
+        "start": 8.739,
+        "end": 8.819,
+        "type": "spacing",
+        "logprob": -6.05564855504781e-05
+      },
+      {
+        "text": "beweist",
+        "start": 8.819,
+        "end": 9.179,
+        "type": "word",
+        "logprob": -6.24296600497993e-05
+      },
+      {
+        "text": " ",
+        "start": 9.179,
+        "end": 9.259,
+        "type": "spacing",
+        "logprob": -2.7418097943154862e-06
+      },
+      {
+        "text": "keine",
+        "start": 9.26,
+        "end": 9.439,
+        "type": "word",
+        "logprob": -2.7418097943154862e-06
+      },
+      {
+        "text": " ",
+        "start": 9.439,
+        "end": 9.559,
+        "type": "spacing",
+        "logprob": -1.3351351299206726e-05
+      },
+      {
+        "text": "Ursache,",
+        "start": 9.559,
+        "end": 10.019,
+        "type": "word",
+        "logprob": -7.435640668518317e-06
+      },
+      {
+        "text": " ",
+        "start": 10.019,
+        "end": 10.399,
+        "type": "spacing",
+        "logprob": -9.65590606938349e-06
+      },
+      {
+        "text": "zeigt",
+        "start": 10.399,
+        "end": 10.659,
+        "type": "word",
+        "logprob": -9.65590606938349e-06
+      },
+      {
+        "text": " ",
+        "start": 10.659,
+        "end": 10.719,
+        "type": "spacing",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": "aber",
+        "start": 10.719,
+        "end": 10.88,
+        "type": "word",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": " ",
+        "start": 10.88,
+        "end": 10.939,
+        "type": "spacing",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": "einen",
+        "start": 10.939,
+        "end": 11.119,
+        "type": "word",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": " ",
+        "start": 11.119,
+        "end": 11.199,
+        "type": "spacing",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": "überraschend",
+        "start": 11.199,
+        "end": 11.739,
+        "type": "word",
+        "logprob": -5.861120868644321e-07
+      },
+      {
+        "text": " ",
+        "start": 11.739,
+        "end": 11.819,
+        "type": "spacing",
+        "logprob": -0.00021002470748499036
+      },
+      {
+        "text": "einfachen",
+        "start": 11.819,
+        "end": 12.219,
+        "type": "word",
+        "logprob": -0.00021002470748499036
+      },
+      {
+        "text": " ",
+        "start": 12.219,
+        "end": 12.319,
+        "type": "spacing",
+        "logprob": -5.602820692729438e-06
+      },
+      {
+        "text": "Hebel",
+        "start": 12.319,
+        "end": 12.579,
+        "type": "word",
+        "logprob": -3.242485490773106e-06
+      },
+      {
+        "text": " ",
+        "start": 12.579,
+        "end": 12.639,
+        "type": "spacing",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": "für",
+        "start": 12.639,
+        "end": 12.72,
+        "type": "word",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": " ",
+        "start": 12.72,
+        "end": 12.759,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "die",
+        "start": 12.759,
+        "end": 12.84,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 12.84,
+        "end": 12.88,
+        "type": "spacing",
+        "logprob": -2.253030106658116e-05
+      },
+      {
+        "text": "nächste",
+        "start": 12.88,
+        "end": 13.199,
+        "type": "word",
+        "logprob": -2.253030106658116e-05
+      },
+      {
+        "text": " ",
+        "start": 13.199,
+        "end": 13.299,
+        "type": "spacing",
+        "logprob": -9.536738616588991e-07
+      },
+      {
+        "text": "Nacht.",
+        "start": 13.299,
+        "end": 13.599,
+        "type": "word",
+        "logprob": -9.457044977049614e-06
+      },
+      {
+        "text": " ",
+        "start": 13.599,
+        "end": 14.299,
+        "type": "spacing",
+        "logprob": -3.075552376685664e-05
+      },
+      {
+        "text": "Rückenlage",
+        "start": 14.299,
+        "end": 14.839,
+        "type": "word",
+        "logprob": -4.9494208360556514e-05
+      },
+      {
+        "text": " ",
+        "start": 14.839,
+        "end": 14.899,
+        "type": "spacing",
+        "logprob": -8.129743218887597e-05
+      },
+      {
+        "text": "trifft",
+        "start": 14.899,
+        "end": 15.139,
+        "type": "word",
+        "logprob": -8.129743218887597e-05
+      },
+      {
+        "text": " ",
+        "start": 15.139,
+        "end": 15.199,
+        "type": "spacing",
+        "logprob": -4.291525328881107e-06
+      },
+      {
+        "text": "auf",
+        "start": 15.199,
+        "end": 15.319,
+        "type": "word",
+        "logprob": -4.291525328881107e-06
+      },
+      {
+        "text": " ",
+        "start": 15.319,
+        "end": 15.42,
+        "type": "spacing",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": "zwei",
+        "start": 15.42,
+        "end": 15.599,
+        "type": "word",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": " ",
+        "start": 15.599,
+        "end": 15.679,
+        "type": "spacing",
+        "logprob": -2.4437606043647975e-05
+      },
+      {
+        "text": "bekannte",
+        "start": 15.679,
+        "end": 16.059,
+        "type": "word",
+        "logprob": -2.4437606043647975e-05
+      },
+      {
+        "text": " ",
+        "start": 16.059,
+        "end": 16.139,
+        "type": "spacing",
+        "logprob": -0.00011705666838679463
+      },
+      {
+        "text": "Risiken:",
+        "start": 16.139,
+        "end": 16.619,
+        "type": "word",
+        "logprob": -0.0013801976937202198
+      },
+      {
+        "text": " ",
+        "start": 16.619,
+        "end": 17.039,
+        "type": "spacing",
+        "logprob": -0.015157165005803108
+      },
+      {
+        "text": "instabileren",
+        "start": 17.039,
+        "end": 17.779,
+        "type": "word",
+        "logprob": -0.01161268588227434
+      },
+      {
+        "text": " ",
+        "start": 17.779,
+        "end": 17.839,
+        "type": "spacing",
+        "logprob": -3.576272320060525e-06
+      },
+      {
+        "text": "Schlaf",
+        "start": 17.84,
+        "end": 18.42,
+        "type": "word",
+        "logprob": -3.576272320060525e-06
+      },
+      {
+        "text": " ",
+        "start": 18.42,
+        "end": 18.459,
+        "type": "spacing",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": "und",
+        "start": 18.459,
+        "end": 18.559,
+        "type": "word",
+        "logprob": -2.3841855067985307e-07
+      },
+      {
+        "text": " ",
+        "start": 18.559,
+        "end": 18.639,
+        "type": "spacing",
+        "logprob": -9.059865078597795e-06
+      },
+      {
+        "text": "veränderte",
+        "start": 18.639,
+        "end": 19.079,
+        "type": "word",
+        "logprob": -0.0002729879680828162
+      },
+      {
+        "text": " ",
+        "start": 19.079,
+        "end": 19.219,
+        "type": "spacing",
+        "logprob": -4.851700214203447e-05
+      },
+      {
+        "text": "Atmung.",
+        "start": 19.219,
+        "end": 19.579,
+        "type": "word",
+        "logprob": -2.0793000918014775e-05
+      },
+      {
+        "text": " ",
+        "start": 19.579,
+        "end": 20.259,
+        "type": "spacing",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": "Dazu",
+        "start": 20.26,
+        "end": 20.559,
+        "type": "word",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": " ",
+        "start": 20.559,
+        "end": 20.619,
+        "type": "spacing",
+        "logprob": -2.5152843591058627e-05
+      },
+      {
+        "text": "kommen",
+        "start": 20.619,
+        "end": 20.819,
+        "type": "word",
+        "logprob": -2.5152843591058627e-05
+      },
+      {
+        "text": " ",
+        "start": 20.819,
+        "end": 20.899,
+        "type": "spacing",
+        "logprob": -0.0002252801787108183
+      },
+      {
+        "text": "Schlafmangel,",
+        "start": 20.899,
+        "end": 21.5,
+        "type": "word",
+        "logprob": -0.00047658709697246266
+      },
+      {
+        "text": " ",
+        "start": 21.5,
+        "end": 21.859,
+        "type": "spacing",
+        "logprob": -7.843663479434326e-05
+      },
+      {
+        "text": "Jetlag",
+        "start": 21.859,
+        "end": 22.319,
+        "type": "word",
+        "logprob": -0.0009810377705434803
+      },
+      {
+        "text": " ",
+        "start": 22.319,
+        "end": 22.379,
+        "type": "spacing",
+        "logprob": -8.582700684200972e-05
+      },
+      {
+        "text": "sowie",
+        "start": 22.379,
+        "end": 22.559,
+        "type": "word",
+        "logprob": -8.582700684200972e-05
+      },
+      {
+        "text": " ",
+        "start": 22.559,
+        "end": 22.639,
+        "type": "spacing",
+        "logprob": -0.00010215714428341016
+      },
+      {
+        "text": "wechselnde",
+        "start": 22.639,
+        "end": 23.059,
+        "type": "word",
+        "logprob": -7.183186590964397e-05
+      },
+      {
+        "text": " ",
+        "start": 23.059,
+        "end": 23.179,
+        "type": "spacing",
+        "logprob": -0.00012146688823122531
+      },
+      {
+        "text": "Zeiten.",
+        "start": 23.18,
+        "end": 23.559,
+        "type": "word",
+        "logprob": -0.00010419962509493936
+      },
+      {
+        "text": " ",
+        "start": 23.559,
+        "end": 24.019,
+        "type": "spacing",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": "Sie",
+        "start": 24.019,
+        "end": 24.119,
+        "type": "word",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": " ",
+        "start": 24.119,
+        "end": 24.179,
+        "type": "spacing",
+        "logprob": -1.1205610462639015e-05
+      },
+      {
+        "text": "können",
+        "start": 24.18,
+        "end": 24.459,
+        "type": "word",
+        "logprob": -1.1205610462639015e-05
+      },
+      {
+        "text": " ",
+        "start": 24.459,
+        "end": 24.599,
+        "type": "spacing",
+        "logprob": -0.002636411227285862
+      },
+      {
+        "text": "REM",
+        "start": 24.6,
+        "end": 24.84,
+        "type": "word",
+        "logprob": -0.002636411227285862
+      },
+      {
+        "text": " ",
+        "start": 24.84,
+        "end": 24.879,
+        "type": "spacing",
+        "logprob": -0.0003355178632773459
+      },
+      {
+        "text": "und",
+        "start": 24.879,
+        "end": 25.0,
+        "type": "word",
+        "logprob": -0.0003355178632773459
+      },
+      {
+        "text": " ",
+        "start": 25.0,
+        "end": 25.079,
+        "type": "spacing",
+        "logprob": -0.0008291144040413201
+      },
+      {
+        "text": "Wachheit",
+        "start": 25.079,
+        "end": 25.679,
+        "type": "word",
+        "logprob": -0.0004170009865447355
+      },
+      {
+        "text": " ",
+        "start": 25.679,
+        "end": 25.76,
+        "type": "spacing",
+        "logprob": -1.9430925021879375e-05
+      },
+      {
+        "text": "leichter",
+        "start": 25.76,
+        "end": 26.079,
+        "type": "word",
+        "logprob": -1.9430925021879375e-05
+      },
+      {
+        "text": " ",
+        "start": 26.079,
+        "end": 26.119,
+        "type": "spacing",
+        "logprob": -5.9960475482512265e-05
+      },
+      {
+        "text": "gegeneinander",
+        "start": 26.119,
+        "end": 26.68,
+        "type": "word",
+        "logprob": -1.8027664186075315e-05
+      },
+      {
+        "text": " ",
+        "start": 26.68,
+        "end": 26.719,
+        "type": "spacing",
+        "logprob": -6.687417771900073e-05
+      },
+      {
+        "text": "verschieben",
+        "start": 26.719,
+        "end": 27.18,
+        "type": "word",
+        "logprob": -6.042642251651903e-05
+      },
+      {
+        "text": " ",
+        "start": 27.18,
+        "end": 27.439,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "und",
+        "start": 27.439,
+        "end": 27.539,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 27.539,
+        "end": 27.559,
+        "type": "spacing",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": "die",
+        "start": 27.559,
+        "end": 27.659,
+        "type": "word",
+        "logprob": -1.1920928244535389e-07
+      },
+      {
+        "text": " ",
+        "start": 27.659,
+        "end": 27.719,
+        "type": "spacing",
+        "logprob": -5.864924969500862e-05
+      },
+      {
+        "text": "Übergänge",
+        "start": 27.719,
+        "end": 28.219,
+        "type": "word",
+        "logprob": -3.5920764073832994e-05
+      },
+      {
+        "text": " ",
+        "start": 28.219,
+        "end": 28.279,
+        "type": "spacing",
+        "logprob": -1.537788011773955e-05
+      },
+      {
+        "text": "zusätzlich",
+        "start": 28.279,
+        "end": 28.799,
+        "type": "word",
+        "logprob": -1.537788011773955e-05
+      },
+      {
+        "text": " ",
+        "start": 28.799,
+        "end": 28.859,
+        "type": "spacing",
+        "logprob": -4.6491513785440475e-06
+      },
+      {
+        "text": "unruhig",
+        "start": 28.859,
+        "end": 29.26,
+        "type": "word",
+        "logprob": -0.0005093588406452909
+      },
+      {
+        "text": " ",
+        "start": 29.26,
+        "end": 29.319,
+        "type": "spacing",
+        "logprob": -6.556489552167477e-06
+      },
+      {
+        "text": "machen.",
+        "start": 29.319,
+        "end": 29.619,
+        "type": "word",
+        "logprob": -5.636878085064316e-06
+      },
+      {
+        "text": " ",
+        "start": 29.619,
+        "end": 30.219,
+        "type": "spacing",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": "Die",
+        "start": 30.219,
+        "end": 30.319,
+        "type": "word",
+        "logprob": -8.344646857949556e-07
+      },
+      {
+        "text": " ",
+        "start": 30.319,
+        "end": 30.359,
+        "type": "spacing",
+        "logprob": -1.9311717551317997e-05
+      },
+      {
+        "text": "nüchterne",
+        "start": 30.359,
+        "end": 30.739,
+        "type": "word",
+        "logprob": -0.00015096577610367804
+      },
+      {
+        "text": " ",
+        "start": 30.739,
+        "end": 30.799,
+        "type": "spacing",
+        "logprob": -5.674201020156033e-05
+      },
+      {
+        "text": "Strategie",
+        "start": 30.799,
+        "end": 31.299,
+        "type": "word",
+        "logprob": -4.4371093053996447e-05
+      },
+      {
+        "text": " ",
+        "start": 31.299,
+        "end": 31.379,
+        "type": "spacing",
+        "logprob": -5.960462772236497e-07
+      },
+      {
+        "text": "lautet",
+        "start": 31.379,
+        "end": 31.699,
+        "type": "word",
+        "logprob": -1.7086647593108257e-06
+      },
+      {
+        "text": " ",
+        "start": 31.699,
+        "end": 31.719,
+        "type": "spacing",
+        "logprob": -6.472854875028133e-05
+      },
+      {
+        "text": "deshalb:",
+        "start": 31.719,
+        "end": 32.419,
+        "type": "word",
+        "logprob": -0.003125023125903681
+      },
+      {
+        "text": " ",
+        "start": 32.419,
+        "end": 32.5,
+        "type": "spacing",
+        "logprob": -0.00010740180005086586
+      },
+      {
+        "text": "Seitenlage",
+        "start": 32.5,
+        "end": 33.099,
+        "type": "word",
+        "logprob": -0.0002956402793643065
+      },
+      {
+        "text": " ",
+        "start": 33.099,
+        "end": 33.139,
+        "type": "spacing",
+        "logprob": -9.417489309271332e-06
+      },
+      {
+        "text": "testen,",
+        "start": 33.139,
+        "end": 33.52,
+        "type": "word",
+        "logprob": -2.0826958072055796e-05
+      },
+      {
+        "text": " ",
+        "start": 33.52,
+        "end": 33.899,
+        "type": "spacing",
+        "logprob": -1.4066597032069694e-05
+      },
+      {
+        "text": "insgesamt",
+        "start": 33.899,
+        "end": 34.419,
+        "type": "word",
+        "logprob": -1.4066597032069694e-05
+      },
+      {
+        "text": " ",
+        "start": 34.419,
+        "end": 34.479,
+        "type": "spacing",
+        "logprob": -4.6967357775429264e-05
+      },
+      {
+        "text": "sieben",
+        "start": 34.479,
+        "end": 34.639,
+        "type": "word",
+        "logprob": -4.6967357775429264e-05
+      },
+      {
+        "text": " ",
+        "start": 34.639,
+        "end": 34.739,
+        "type": "spacing",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": "bis",
+        "start": 34.739,
+        "end": 34.899,
+        "type": "word",
+        "logprob": -4.768370445162873e-07
+      },
+      {
+        "text": " ",
+        "start": 34.899,
+        "end": 34.959,
+        "type": "spacing",
+        "logprob": -5.245195097813848e-06
+      },
+      {
+        "text": "neun",
+        "start": 34.959,
+        "end": 35.079,
+        "type": "word",
+        "logprob": -5.245195097813848e-06
+      },
+      {
+        "text": " ",
+        "start": 35.079,
+        "end": 35.219,
+        "type": "spacing",
+        "logprob": -3.2186455882765586e-06
+      },
+      {
+        "text": "Stunden",
+        "start": 35.219,
+        "end": 35.5,
+        "type": "word",
+        "logprob": -3.2186455882765586e-06
+      },
+      {
+        "text": " ",
+        "start": 35.5,
+        "end": 35.599,
+        "type": "spacing",
+        "logprob": -1.4305104514278355e-06
+      },
+      {
+        "text": "schlafen",
+        "start": 35.599,
+        "end": 36.219,
+        "type": "word",
+        "logprob": -1.4915895988565353e-05
+      },
+      {
+        "text": " ",
+        "start": 36.219,
+        "end": 36.279,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "und",
+        "start": 36.279,
+        "end": 36.38,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 36.38,
+        "end": 36.459,
+        "type": "spacing",
+        "logprob": -3.302042750874534e-05
+      },
+      {
+        "text": "feste",
+        "start": 36.459,
+        "end": 36.799,
+        "type": "word",
+        "logprob": -3.302042750874534e-05
+      },
+      {
+        "text": " ",
+        "start": 36.799,
+        "end": 36.86,
+        "type": "spacing",
+        "logprob": -0.0002411313180346042
+      },
+      {
+        "text": "Zeiten",
+        "start": 36.86,
+        "end": 37.18,
+        "type": "word",
+        "logprob": -0.0002411313180346042
+      },
+      {
+        "text": " ",
+        "start": 37.18,
+        "end": 37.2,
+        "type": "spacing",
+        "logprob": -0.00014840454969089478
+      },
+      {
+        "text": "halten.",
+        "start": 37.2,
+        "end": 37.559,
+        "type": "word",
+        "logprob": -0.00012723795952800692
+      },
+      {
+        "text": " ",
+        "start": 37.559,
+        "end": 38.159,
+        "type": "spacing",
+        "logprob": -5.125986263010418e-06
+      },
+      {
+        "text": "Kein",
+        "start": 38.159,
+        "end": 38.319,
+        "type": "word",
+        "logprob": -5.125986263010418e-06
+      },
+      {
+        "text": " ",
+        "start": 38.319,
+        "end": 38.459,
+        "type": "spacing",
+        "logprob": -5.2569914259947836e-05
+      },
+      {
+        "text": "Zaubertrick,",
+        "start": 38.459,
+        "end": 39.02,
+        "type": "word",
+        "logprob": -0.002698988239406693
+      },
+      {
+        "text": " ",
+        "start": 39.02,
+        "end": 39.319,
+        "type": "spacing",
+        "logprob": -5.483612312673358e-06
+      },
+      {
+        "text": "nur",
+        "start": 39.319,
+        "end": 39.439,
+        "type": "word",
+        "logprob": -5.483612312673358e-06
+      },
+      {
+        "text": " ",
+        "start": 39.439,
+        "end": 39.479,
+        "type": "spacing",
+        "logprob": -7.152555099310121e-07
+      },
+      {
+        "text": "deutlich",
+        "start": 39.479,
+        "end": 39.86,
+        "type": "word",
+        "logprob": -7.152555099310121e-07
+      },
+      {
+        "text": " ",
+        "start": 39.86,
+        "end": 39.879,
+        "type": "spacing",
+        "logprob": -5.245195097813848e-06
+      },
+      {
+        "text": "weniger",
+        "start": 39.879,
+        "end": 40.18,
+        "type": "word",
+        "logprob": -5.245195097813848e-06
+      },
+      {
+        "text": " ",
+        "start": 40.18,
+        "end": 40.279,
+        "type": "spacing",
+        "logprob": -7.986990567587782e-06
+      },
+      {
+        "text": "Chancen",
+        "start": 40.279,
+        "end": 40.639,
+        "type": "word",
+        "logprob": -7.986990567587782e-06
+      },
+      {
+        "text": " ",
+        "start": 40.639,
+        "end": 40.719,
+        "type": "spacing",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": "für",
+        "start": 40.719,
+        "end": 40.779,
+        "type": "word",
+        "logprob": -3.576278118089249e-07
+      },
+      {
+        "text": " ",
+        "start": 40.779,
+        "end": 40.84,
+        "type": "spacing",
+        "logprob": 0.0
+      },
+      {
+        "text": "den",
+        "start": 40.84,
+        "end": 40.939,
+        "type": "word",
+        "logprob": 0.0
+      },
+      {
+        "text": " ",
+        "start": 40.939,
+        "end": 41.039,
+        "type": "spacing",
+        "logprob": -9.417489309271332e-06
+      },
+      {
+        "text": "falschen",
+        "start": 41.04,
+        "end": 41.379,
+        "type": "word",
+        "logprob": -3.978593184683632e-06
+      },
+      {
+        "text": " ",
+        "start": 41.379,
+        "end": 41.419,
+        "type": "spacing",
+        "logprob": -3.814689989667386e-06
+      },
+      {
+        "text": "Moment",
+        "start": 41.419,
+        "end": 41.959,
+        "type": "word",
+        "logprob": -3.814689989667386e-06
+      },
+      {
+        "text": " ",
+        "start": 41.959,
+        "end": 42.04,
+        "type": "spacing",
+        "logprob": -7.510157047363464e-06
+      },
+      {
+        "text": "zwischen",
+        "start": 42.04,
+        "end": 42.319,
+        "type": "word",
+        "logprob": -7.510157047363464e-06
+      },
+      {
+        "text": " ",
+        "start": 42.319,
+        "end": 42.379,
+        "type": "spacing",
+        "logprob": -8.821448318485636e-06
+      },
+      {
+        "text": "Traum",
+        "start": 42.379,
+        "end": 42.659,
+        "type": "word",
+        "logprob": -8.821448318485636e-06
+      },
+      {
+        "text": " ",
+        "start": 42.659,
+        "end": 42.7,
+        "type": "spacing",
+        "logprob": -4.541770613286644e-05
+      },
+      {
+        "text": "und",
+        "start": 42.7,
+        "end": 42.799,
+        "type": "word",
+        "logprob": -4.541770613286644e-05
+      },
+      {
+        "text": " ",
+        "start": 42.799,
+        "end": 42.879,
+        "type": "spacing",
+        "logprob": -0.008079583756625652
+      },
+      {
+        "text": "Wachsein.",
+        "start": 42.879,
+        "end": 43.399,
+        "type": "word",
+        "logprob": -0.06885602532161607
+      }
+    ],
+    "transcription_id": "KWHCfSOzCQXi1q88dx2o",
+    "audio_duration_secs": 43.88575
+  }
+}

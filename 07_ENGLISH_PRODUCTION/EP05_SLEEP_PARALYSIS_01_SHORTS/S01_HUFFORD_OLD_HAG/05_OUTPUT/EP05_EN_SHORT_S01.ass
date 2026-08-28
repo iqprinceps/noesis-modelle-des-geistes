@@ -1,0 +1,47 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,67,&H00F1EEE5,&H000000FF,&H000B1014,&HC40B1014,-1,0,0,0,100,100,0,0,3,4,0,2,135,135,410,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.95,Default,,0,0,0,,The door opens.
+Dialogue: 0,0:00:01.12,0:00:02.49,Default,,0,0,0,,Footsteps cross the room.
+Dialogue: 0,0:00:02.96,0:00:04.83,Default,,0,0,0,,You try to move—nothing.
+Dialogue: 0,0:00:05.46,0:00:06.46,Default,,0,0,0,,Then the mattress sinks
+Dialogue: 0,0:00:06.46,0:00:07.13,Default,,0,0,0,,beside you.
+Dialogue: 0,0:00:07.64,0:00:08.64,Default,,0,0,0,,This happened to David
+Dialogue: 0,0:00:08.64,0:00:09.72,Default,,0,0,0,,Hufford before he became
+Dialogue: 0,0:00:09.72,0:00:10.53,Default,,0,0,0,,a folklorist.
+Dialogue: 0,0:00:11.04,0:00:12.43,Default,,0,0,0,,Years later, in Newfoundland,
+Dialogue: 0,0:00:12.62,0:00:14.10,Default,,0,0,0,,strangers described the same
+Dialogue: 0,0:00:14.10,0:00:15.22,Default,,0,0,0,,sequence and gave the
+Dialogue: 0,0:00:15.22,0:00:16.12,Default,,0,0,0,,visitor a name he
+Dialogue: 0,0:00:16.12,0:00:16.84,Default,,0,0,0,,said he had never
+Dialogue: 0,0:00:16.84,0:00:17.25,Default,,0,0,0,,heard:
+Dialogue: 0,0:00:17.62,0:00:18.49,Default,,0,0,0,,the Old Hag.
+Dialogue: 0,0:00:19.08,0:00:20.68,Default,,0,0,0,,REM physiology can explain
+Dialogue: 0,0:00:20.68,0:00:22.18,Default,,0,0,0,,why awareness returns while
+Dialogue: 0,0:00:22.18,0:00:23.08,Default,,0,0,0,,the muscles are still
+Dialogue: 0,0:00:23.08,0:00:23.85,Default,,0,0,0,,held quiet.
+Dialogue: 0,0:00:24.26,0:00:25.66,Default,,0,0,0,,But Hufford's puzzle begins
+Dialogue: 0,0:00:25.66,0:00:26.33,Default,,0,0,0,,after that:
+Dialogue: 0,0:00:26.84,0:00:28.10,Default,,0,0,0,,why the footsteps, the
+Dialogue: 0,0:00:28.10,0:00:29.30,Default,,0,0,0,,weight, the certainty of
+Dialogue: 0,0:00:29.30,0:00:30.94,Default,,0,0,0,,intention—and why the same
+Dialogue: 0,0:00:30.94,0:00:32.01,Default,,0,0,0,,shape in other lives?
+Dialogue: 0,0:00:32.68,0:00:33.78,Default,,0,0,0,,Does folklore teach us
+Dialogue: 0,0:00:33.78,0:00:34.51,Default,,0,0,0,,what to meet?
+Dialogue: 0,0:00:35.04,0:00:36.40,Default,,0,0,0,,Or do recurring encounters
+Dialogue: 0,0:00:36.40,0:00:37.44,Default,,0,0,0,,teach folklore what to
+Dialogue: 0,0:00:37.44,0:00:38.05,Default,,0,0,0,,remember?
+Dialogue: 0,0:00:38.47,0:00:39.72,Default,,0,0,0,,The full investigation is
+Dialogue: 0,0:00:39.72,0:00:40.17,Default,,0,0,0,,linked.
+Dialogue: 0,0:00:40.60,0:00:41.86,Default,,0,0,0,,Which came first:
+Dialogue: 0,0:00:41.86,0:00:43.61,Default,,0,0,0,,the legend—or the encounter?

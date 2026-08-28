@@ -1,0 +1,1740 @@
+{
+  "created_utc": "2026-08-27T07:08:57.348897+00:00",
+  "status": "PASS",
+  "fps": 25,
+  "master_duration_seconds": 434.632,
+  "event_count": 111,
+  "semantic_mode_counts": {
+    "PHYSICAL_CHAMBER": 23,
+    "CONTEMPORARY_CONTEXT": 2,
+    "DOCUMENT_EVIDENCE": 12,
+    "EXPLANATORY_GRAPHIC": 23,
+    "PERSON_HISTORY": 7,
+    "SUBJECTIVE_MYSTICAL": 24,
+    "EXPERIMENT_PROTOCOL": 11,
+    "TARGET_IMAGE": 5,
+    "EVIDENCE_PROCESS": 2,
+    "MAP_HANDOFF": 2
+  },
+  "clusters": [
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-001",
+      "last_event": "KZ-EDL-001",
+      "start_seconds": 0.0,
+      "end_seconds": 2.8,
+      "events": [
+        "KZ-EDL-001"
+      ],
+      "states": [
+        "KZ_CLIP_ROTATION_HOOK"
+      ],
+      "duration_seconds": 2.8,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "CONTEMPORARY_CONTEXT",
+      "first_event": "KZ-EDL-002",
+      "last_event": "KZ-EDL-002",
+      "start_seconds": 2.8,
+      "end_seconds": 9.2,
+      "events": [
+        "KZ-EDL-002"
+      ],
+      "states": [
+        "KZ_DATA_PATENT_FILING_ANCHOR"
+      ],
+      "duration_seconds": 6.4,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-003",
+      "last_event": "KZ-EDL-003",
+      "start_seconds": 9.2,
+      "end_seconds": 15.64,
+      "events": [
+        "KZ-EDL-003"
+      ],
+      "states": [
+        "KZ_DOC_002"
+      ],
+      "duration_seconds": 6.44,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-004",
+      "last_event": "KZ-EDL-004",
+      "start_seconds": 15.64,
+      "end_seconds": 20.88,
+      "events": [
+        "KZ-EDL-004"
+      ],
+      "states": [
+        "KZ_CARD_MEDICAL_TO_TIME_MACHINE"
+      ],
+      "duration_seconds": 5.24,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PERSON_HISTORY",
+      "first_event": "KZ-EDL-005",
+      "last_event": "KZ-EDL-006",
+      "start_seconds": 20.88,
+      "end_seconds": 29.72,
+      "events": [
+        "KZ-EDL-005",
+        "KZ-EDL-006"
+      ],
+      "states": [
+        "KZ_SRC_KOZYREV_PORTRAIT_1983",
+        "KZ_SRC_INVENTOR_PAIR_1996"
+      ],
+      "duration_seconds": 8.84,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-007",
+      "last_event": "KZ-EDL-007",
+      "start_seconds": 29.72,
+      "end_seconds": 35.72,
+      "events": [
+        "KZ-EDL-007"
+      ],
+      "states": [
+        "KZ_CARD_1983_1996_CONTRADICTION"
+      ],
+      "duration_seconds": 6.0,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-008",
+      "last_event": "KZ-EDL-008",
+      "start_seconds": 35.72,
+      "end_seconds": 37.76,
+      "events": [
+        "KZ-EDL-008"
+      ],
+      "states": [
+        "KZ_EN_HERO01"
+      ],
+      "duration_seconds": 2.04,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-009",
+      "last_event": "KZ-EDL-009",
+      "start_seconds": 37.76,
+      "end_seconds": 39.64,
+      "events": [
+        "KZ-EDL-009"
+      ],
+      "states": [
+        "KZ_FIG_PATENT_CYLINDER"
+      ],
+      "duration_seconds": 1.88,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-010",
+      "last_event": "KZ-EDL-011",
+      "start_seconds": 39.64,
+      "end_seconds": 43.2,
+      "events": [
+        "KZ-EDL-010",
+        "KZ-EDL-011"
+      ],
+      "states": [
+        "KZ_MODEL_CLOCKWISE_SPIRAL",
+        "KZ_MODEL_PATENT_FIG3_CCW"
+      ],
+      "duration_seconds": 3.56,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-012",
+      "last_event": "KZ-EDL-012",
+      "start_seconds": 43.2,
+      "end_seconds": 47.08,
+      "events": [
+        "KZ-EDL-012"
+      ],
+      "states": [
+        "KZ_FIG_PATENT_MOTORIZED_PLATFORM"
+      ],
+      "duration_seconds": 3.88,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-013",
+      "last_event": "KZ-EDL-013",
+      "start_seconds": 47.08,
+      "end_seconds": 48.84,
+      "events": [
+        "KZ-EDL-013"
+      ],
+      "states": [
+        "KZ_EN_REC01_ENTERING"
+      ],
+      "duration_seconds": 1.76,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-014",
+      "last_event": "KZ-EDL-014",
+      "start_seconds": 48.84,
+      "end_seconds": 55.68,
+      "events": [
+        "KZ-EDL-014"
+      ],
+      "states": [
+        "KZ_FILM_LUNAR_STORM_SESSION"
+      ],
+      "duration_seconds": 6.84,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-015",
+      "last_event": "KZ-EDL-015",
+      "start_seconds": 55.68,
+      "end_seconds": 58.12,
+      "events": [
+        "KZ-EDL-015"
+      ],
+      "states": [
+        "KZ_CARD_THREE_THEORIES_OPEN"
+      ],
+      "duration_seconds": 2.44,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-016",
+      "last_event": "KZ-EDL-016",
+      "start_seconds": 58.12,
+      "end_seconds": 60.44,
+      "events": [
+        "KZ-EDL-016"
+      ],
+      "states": [
+        "KZ_MYSTIC_THEORY_ISOLATION"
+      ],
+      "duration_seconds": 2.32,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-017",
+      "last_event": "KZ-EDL-017",
+      "start_seconds": 60.44,
+      "end_seconds": 62.68,
+      "events": [
+        "KZ-EDL-017"
+      ],
+      "states": [
+        "KZ_PHYSICAL_THEORY_BODY_BOUNDARY"
+      ],
+      "duration_seconds": 2.24,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-018",
+      "last_event": "KZ-EDL-018",
+      "start_seconds": 62.68,
+      "end_seconds": 65.52,
+      "events": [
+        "KZ-EDL-018"
+      ],
+      "states": [
+        "KZ_MYSTIC_THEORY_INFORMATION_REFLECTION"
+      ],
+      "duration_seconds": 2.84,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PERSON_HISTORY",
+      "first_event": "KZ-EDL-019",
+      "last_event": "KZ-EDL-020",
+      "start_seconds": 65.52,
+      "end_seconds": 75.68,
+      "events": [
+        "KZ-EDL-019",
+        "KZ-EDL-020"
+      ],
+      "states": [
+        "KZ_HISTORY_PULKOVO_OBSERVATORY",
+        "KZ_HISTORY_PULKOVO_REFRACTOR"
+      ],
+      "duration_seconds": 10.16,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-021",
+      "last_event": "KZ-EDL-022",
+      "start_seconds": 75.68,
+      "end_seconds": 89.4,
+      "events": [
+        "KZ-EDL-021",
+        "KZ-EDL-022"
+      ],
+      "states": [
+        "KZ_MYSTIC_TIME_ACTIVE_AFTERIMAGE",
+        "KZ_CLIP_INTERNAL_TIME_CONTINUOUS"
+      ],
+      "duration_seconds": 13.72,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PERSON_HISTORY",
+      "first_event": "KZ-EDL-023",
+      "last_event": "KZ-EDL-023",
+      "start_seconds": 89.4,
+      "end_seconds": 94.8,
+      "events": [
+        "KZ-EDL-023"
+      ],
+      "states": [
+        "KZ_SRC_KAZNACHEEV_TROFIMOV_PAIR"
+      ],
+      "duration_seconds": 5.4,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-024",
+      "last_event": "KZ-EDL-024",
+      "start_seconds": 94.8,
+      "end_seconds": 100.28,
+      "events": [
+        "KZ-EDL-024"
+      ],
+      "states": [
+        "KZ_DOC_028"
+      ],
+      "duration_seconds": 5.48,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-025",
+      "last_event": "KZ-EDL-025",
+      "start_seconds": 100.28,
+      "end_seconds": 104.44,
+      "events": [
+        "KZ-EDL-025"
+      ],
+      "states": [
+        "KZ_MYSTIC_THREE_STORIES_COLLAPSE"
+      ],
+      "duration_seconds": 4.16,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PERSON_HISTORY",
+      "first_event": "KZ-EDL-026",
+      "last_event": "KZ-EDL-026",
+      "start_seconds": 104.44,
+      "end_seconds": 106.04,
+      "events": [
+        "KZ-EDL-026"
+      ],
+      "states": [
+        "KZ_CARD_STREAM_KOZYREV_TIME"
+      ],
+      "duration_seconds": 1.6,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-027",
+      "last_event": "KZ-EDL-027",
+      "start_seconds": 106.04,
+      "end_seconds": 109.6,
+      "events": [
+        "KZ-EDL-027"
+      ],
+      "states": [
+        "KZ_RESEARCHERS_NIGHT_LAB"
+      ],
+      "duration_seconds": 3.56,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-028",
+      "last_event": "KZ-EDL-028",
+      "start_seconds": 109.6,
+      "end_seconds": 113.08,
+      "events": [
+        "KZ-EDL-028"
+      ],
+      "states": [
+        "KZ_CARD_STREAM_PATENT"
+      ],
+      "duration_seconds": 3.48,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-029",
+      "last_event": "KZ-EDL-029",
+      "start_seconds": 113.08,
+      "end_seconds": 114.88,
+      "events": [
+        "KZ-EDL-029"
+      ],
+      "states": [
+        "KZ_MYSTIC_SEPARATE_THREADS"
+      ],
+      "duration_seconds": 1.8,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-030",
+      "last_event": "KZ-EDL-032",
+      "start_seconds": 114.88,
+      "end_seconds": 124.72,
+      "events": [
+        "KZ-EDL-030",
+        "KZ-EDL-031",
+        "KZ-EDL-032"
+      ],
+      "states": [
+        "KZ_EN_REC04_CHAMBER_REVERSE_WIDE",
+        "KZ_PHYSICAL_PANEL_SCALE",
+        "KZ_FILM_ALUMINUM_SURFACE_MACRO"
+      ],
+      "duration_seconds": 9.84,
+      "event_count": 3,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-033",
+      "last_event": "KZ-EDL-033",
+      "start_seconds": 124.72,
+      "end_seconds": 130.36,
+      "events": [
+        "KZ-EDL-033"
+      ],
+      "states": [
+        "KZ_DOC_032"
+      ],
+      "duration_seconds": 5.64,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-034",
+      "last_event": "KZ-EDL-034",
+      "start_seconds": 130.36,
+      "end_seconds": 134.12,
+      "events": [
+        "KZ-EDL-034"
+      ],
+      "states": [
+        "KZ_PHYSICAL_PANEL_ARRAY"
+      ],
+      "duration_seconds": 3.76,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-035",
+      "last_event": "KZ-EDL-036",
+      "start_seconds": 134.12,
+      "end_seconds": 138.96,
+      "events": [
+        "KZ-EDL-035",
+        "KZ-EDL-036"
+      ],
+      "states": [
+        "KZ_MODEL_DIRECTION_COMPARE",
+        "KZ_MODEL_ROTATION_CUTAWAY"
+      ],
+      "duration_seconds": 4.84,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-037",
+      "last_event": "KZ-EDL-038",
+      "start_seconds": 138.96,
+      "end_seconds": 146.64,
+      "events": [
+        "KZ-EDL-037",
+        "KZ-EDL-038"
+      ],
+      "states": [
+        "KZ_MYSTIC_DIRECTION_REFLECTION",
+        "KZ_MYSTIC_LUNAR_REFLECTION"
+      ],
+      "duration_seconds": 7.68,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-039",
+      "last_event": "KZ-EDL-039",
+      "start_seconds": 146.64,
+      "end_seconds": 155.84,
+      "events": [
+        "KZ-EDL-039"
+      ],
+      "states": [
+        "KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL"
+      ],
+      "duration_seconds": 9.2,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-040",
+      "last_event": "KZ-EDL-040",
+      "start_seconds": 155.84,
+      "end_seconds": 160.8,
+      "events": [
+        "KZ-EDL-040"
+      ],
+      "states": [
+        "KZ_FILM_HELIOGEOPHYSICAL_CHAMBER"
+      ],
+      "duration_seconds": 4.96,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-041",
+      "last_event": "KZ-EDL-042",
+      "start_seconds": 160.8,
+      "end_seconds": 166.68,
+      "events": [
+        "KZ-EDL-041",
+        "KZ-EDL-042"
+      ],
+      "states": [
+        "KZ_CARD_PATENT_RECORDS_CLAIM",
+        "KZ_CARD_CLAIM_NOT_PROOF"
+      ],
+      "duration_seconds": 5.88,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-043",
+      "last_event": "KZ-EDL-044",
+      "start_seconds": 166.68,
+      "end_seconds": 175.52,
+      "events": [
+        "KZ-EDL-043",
+        "KZ-EDL-044"
+      ],
+      "states": [
+        "KZ_DOC_013",
+        "KZ_DOC_014"
+      ],
+      "duration_seconds": 8.84,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-045",
+      "last_event": "KZ-EDL-046",
+      "start_seconds": 175.52,
+      "end_seconds": 185.64,
+      "events": [
+        "KZ-EDL-045",
+        "KZ-EDL-046"
+      ],
+      "states": [
+        "KZ_MYSTIC_INTERNAL_TIME_REFRACTION",
+        "KZ_CLIP_DISTANT_IMAGE_CONTINUOUS"
+      ],
+      "duration_seconds": 10.12,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-047",
+      "last_event": "KZ-EDL-048",
+      "start_seconds": 185.64,
+      "end_seconds": 192.88,
+      "events": [
+        "KZ-EDL-047",
+        "KZ-EDL-048"
+      ],
+      "states": [
+        "KZ_HERO01_REFLECTION_STATE",
+        "KZ_EN_REC02_SEATED_NEUTRAL"
+      ],
+      "duration_seconds": 7.24,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-049",
+      "last_event": "KZ-EDL-050",
+      "start_seconds": 192.88,
+      "end_seconds": 198.56,
+      "events": [
+        "KZ-EDL-049",
+        "KZ-EDL-050"
+      ],
+      "states": [
+        "KZ_CARD_THEORY_FORK_RETURN",
+        "KZ_CARD_THEORY_ISOLATION_ACTIVE"
+      ],
+      "duration_seconds": 5.68,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-051",
+      "last_event": "KZ-EDL-052",
+      "start_seconds": 198.56,
+      "end_seconds": 213.04,
+      "events": [
+        "KZ-EDL-051",
+        "KZ-EDL-052"
+      ],
+      "states": [
+        "KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS",
+        "KZ_SENSORY_HAND_ON_ALUMINUM"
+      ],
+      "duration_seconds": 14.48,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-053",
+      "last_event": "KZ-EDL-053",
+      "start_seconds": 213.04,
+      "end_seconds": 216.36,
+      "events": [
+        "KZ-EDL-053"
+      ],
+      "states": [
+        "KZ_CARD_THEORY_PHYSICAL_ACTIVE"
+      ],
+      "duration_seconds": 3.32,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-054",
+      "last_event": "KZ-EDL-054",
+      "start_seconds": 216.36,
+      "end_seconds": 224.12,
+      "events": [
+        "KZ-EDL-054"
+      ],
+      "states": [
+        "KZ_CLIP_PHYSICAL_VARIABLES_SENSOR_RIG"
+      ],
+      "duration_seconds": 7.76,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-055",
+      "last_event": "KZ-EDL-055",
+      "start_seconds": 224.12,
+      "end_seconds": 225.6,
+      "events": [
+        "KZ-EDL-055"
+      ],
+      "states": [
+        "KZ_CARD_PHYSICAL_VARIABLES"
+      ],
+      "duration_seconds": 1.48,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-056",
+      "last_event": "KZ-EDL-056",
+      "start_seconds": 225.6,
+      "end_seconds": 227.64,
+      "events": [
+        "KZ-EDL-056"
+      ],
+      "states": [
+        "KZ_MYSTIC_MEASURABLE_NOT_TRAVEL"
+      ],
+      "duration_seconds": 2.04,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-057",
+      "last_event": "KZ-EDL-057",
+      "start_seconds": 227.64,
+      "end_seconds": 231.24,
+      "events": [
+        "KZ-EDL-057"
+      ],
+      "states": [
+        "KZ_CARD_THEORY_INFORMATION_ACTIVE"
+      ],
+      "duration_seconds": 3.6,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-058",
+      "last_event": "KZ-EDL-059",
+      "start_seconds": 231.24,
+      "end_seconds": 238.12,
+      "events": [
+        "KZ-EDL-058",
+        "KZ-EDL-059"
+      ],
+      "states": [
+        "KZ_OBSERVER_DISTANCE_REFLECTION",
+        "KZ_MYSTIC_EXTRAORDINARY_POSSIBILITY"
+      ],
+      "duration_seconds": 6.88,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-060",
+      "last_event": "KZ-EDL-060",
+      "start_seconds": 238.12,
+      "end_seconds": 241.6,
+      "events": [
+        "KZ-EDL-060"
+      ],
+      "states": [
+        "KZ_CARD_CLEAN_TEST"
+      ],
+      "duration_seconds": 3.48,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-061",
+      "last_event": "KZ-EDL-061",
+      "start_seconds": 241.6,
+      "end_seconds": 244.08,
+      "events": [
+        "KZ-EDL-061"
+      ],
+      "states": [
+        "KZ_SUBJECTIVE_REPORT_HAND"
+      ],
+      "duration_seconds": 2.48,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-062",
+      "last_event": "KZ-EDL-062",
+      "start_seconds": 244.08,
+      "end_seconds": 248.56,
+      "events": [
+        "KZ-EDL-062"
+      ],
+      "states": [
+        "KZ_CLIP_INFORMATION_BEFORE_REVEAL"
+      ],
+      "duration_seconds": 4.48,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPERIMENT_PROTOCOL",
+      "first_event": "KZ-EDL-063",
+      "last_event": "KZ-EDL-063",
+      "start_seconds": 248.56,
+      "end_seconds": 250.88,
+      "events": [
+        "KZ-EDL-063"
+      ],
+      "states": [
+        "KZ_TARGET_GRID_SEALED"
+      ],
+      "duration_seconds": 2.32,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "TARGET_IMAGE",
+      "first_event": "KZ-EDL-064",
+      "last_event": "KZ-EDL-067",
+      "start_seconds": 250.88,
+      "end_seconds": 259.04,
+      "events": [
+        "KZ-EDL-064",
+        "KZ-EDL-065",
+        "KZ-EDL-066",
+        "KZ-EDL-067"
+      ],
+      "states": [
+        "KZ_TARGET01_LIGHTHOUSE",
+        "KZ_TARGET02_VIOLIN",
+        "KZ_TARGET03_BURNING_CAR",
+        "KZ_TARGET04_WHITE_HORSE"
+      ],
+      "duration_seconds": 8.16,
+      "event_count": 4,
+      "review_required": true,
+      "manual_review": "PASS_VIEWER_LED",
+      "manual_review_reason": "Four mutually distinct targets appear once for roughly two seconds each while the viewer forms a private choice. The cluster is an interaction sequence, not a repeated visual mode.",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPERIMENT_PROTOCOL",
+      "first_event": "KZ-EDL-068",
+      "last_event": "KZ-EDL-071",
+      "start_seconds": 259.04,
+      "end_seconds": 270.6,
+      "events": [
+        "KZ-EDL-068",
+        "KZ-EDL-069",
+        "KZ-EDL-070",
+        "KZ-EDL-071"
+      ],
+      "states": [
+        "KZ_TARGET_GRID_CHOOSE",
+        "KZ_TARGET_GRID_HOLD",
+        "KZ_PROTOCOL_RANDOM_SELECTION",
+        "KZ_PROTOCOL_DOUBLE_BLIND"
+      ],
+      "duration_seconds": 11.56,
+      "event_count": 4,
+      "review_required": true,
+      "manual_review": "PASS_VIEWER_LED",
+      "manual_review_reason": "The test advances causally through choose, hold, post-entry random selection and double blind. Every state adds a different rule and the complete setup lasts only 11.56 seconds.",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-072",
+      "last_event": "KZ-EDL-072",
+      "start_seconds": 270.6,
+      "end_seconds": 274.16,
+      "events": [
+        "KZ-EDL-072"
+      ],
+      "states": [
+        "KZ_EN_REC03_PARTICIPANT_REPORT"
+      ],
+      "duration_seconds": 3.56,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPERIMENT_PROTOCOL",
+      "first_event": "KZ-EDL-073",
+      "last_event": "KZ-EDL-074",
+      "start_seconds": 274.16,
+      "end_seconds": 282.76,
+      "events": [
+        "KZ-EDL-073",
+        "KZ-EDL-074"
+      ],
+      "states": [
+        "KZ_PROTOCOL_JUDGING",
+        "KZ_REPLICATION_CHAIN_LAB2"
+      ],
+      "duration_seconds": 8.6,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "TARGET_IMAGE",
+      "first_event": "KZ-EDL-075",
+      "last_event": "KZ-EDL-075",
+      "start_seconds": 282.76,
+      "end_seconds": 289.56,
+      "events": [
+        "KZ-EDL-075"
+      ],
+      "states": [
+        "KZ_TARGET_MATCH_LIGHTHOUSE"
+      ],
+      "duration_seconds": 6.8,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-076",
+      "last_event": "KZ-EDL-077",
+      "start_seconds": 289.56,
+      "end_seconds": 295.68,
+      "events": [
+        "KZ-EDL-076",
+        "KZ-EDL-077"
+      ],
+      "states": [
+        "KZ_CARD_ONE_MATCH_CHANCE",
+        "KZ_CARD_POSTHOC_INTERPRETATION"
+      ],
+      "duration_seconds": 6.12,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPERIMENT_PROTOCOL",
+      "first_event": "KZ-EDL-078",
+      "last_event": "KZ-EDL-078",
+      "start_seconds": 295.68,
+      "end_seconds": 299.88,
+      "events": [
+        "KZ-EDL-078"
+      ],
+      "states": [
+        "KZ_REPLICATION_REPEATED_BLIND"
+      ],
+      "duration_seconds": 4.2,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-079",
+      "last_event": "KZ-EDL-079",
+      "start_seconds": 299.88,
+      "end_seconds": 302.24,
+      "events": [
+        "KZ-EDL-079"
+      ],
+      "states": [
+        "KZ_MYSTIC_THEORIES_FORCED_APART"
+      ],
+      "duration_seconds": 2.36,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-080",
+      "last_event": "KZ-EDL-081",
+      "start_seconds": 302.24,
+      "end_seconds": 308.44,
+      "events": [
+        "KZ-EDL-080",
+        "KZ-EDL-081"
+      ],
+      "states": [
+        "KZ_PSYCHOLOGY_ISOLATION_BODY",
+        "KZ_PHYSICAL_MEASUREMENT_CLOSEUP"
+      ],
+      "duration_seconds": 6.2,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPERIMENT_PROTOCOL",
+      "first_event": "KZ-EDL-082",
+      "last_event": "KZ-EDL-082",
+      "start_seconds": 308.44,
+      "end_seconds": 311.96,
+      "events": [
+        "KZ-EDL-082"
+      ],
+      "states": [
+        "KZ_RANDOM_TARGET_SEALED_VAULT"
+      ],
+      "duration_seconds": 3.52,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-083",
+      "last_event": "KZ-EDL-083",
+      "start_seconds": 311.96,
+      "end_seconds": 317.28,
+      "events": [
+        "KZ-EDL-083"
+      ],
+      "states": [
+        "KZ_CLIP_MISSING_EXPERIMENT_VOID"
+      ],
+      "duration_seconds": 5.32,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-084",
+      "last_event": "KZ-EDL-085",
+      "start_seconds": 317.28,
+      "end_seconds": 326.72,
+      "events": [
+        "KZ-EDL-084",
+        "KZ-EDL-085"
+      ],
+      "states": [
+        "KZ_DOC_016",
+        "KZ_DOC_029"
+      ],
+      "duration_seconds": 9.44,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPERIMENT_PROTOCOL",
+      "first_event": "KZ-EDL-086",
+      "last_event": "KZ-EDL-086",
+      "start_seconds": 326.72,
+      "end_seconds": 333.6,
+      "events": [
+        "KZ-EDL-086"
+      ],
+      "states": [
+        "KZ_REPLICATION_CHAIN_MISSING"
+      ],
+      "duration_seconds": 6.88,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-087",
+      "last_event": "KZ-EDL-088",
+      "start_seconds": 333.6,
+      "end_seconds": 338.72,
+      "events": [
+        "KZ-EDL-087",
+        "KZ-EDL-088"
+      ],
+      "states": [
+        "KZ_CARD_APPARATUS_NOT_EVIDENCE",
+        "KZ_CARD_INDEPENDENT_RESULT"
+      ],
+      "duration_seconds": 5.12,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EVIDENCE_PROCESS",
+      "first_event": "KZ-EDL-089",
+      "last_event": "KZ-EDL-089",
+      "start_seconds": 338.72,
+      "end_seconds": 343.36,
+      "events": [
+        "KZ-EDL-089"
+      ],
+      "states": [
+        "KZ_FILM_PATENT_AUTHORITY_LIGHTTABLE"
+      ],
+      "duration_seconds": 4.64,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-090",
+      "last_event": "KZ-EDL-091",
+      "start_seconds": 343.36,
+      "end_seconds": 347.56,
+      "events": [
+        "KZ-EDL-090",
+        "KZ-EDL-091"
+      ],
+      "states": [
+        "KZ_DOC_030",
+        "KZ_FIG_PATENT_DRAWING_FIG3"
+      ],
+      "duration_seconds": 4.2,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-092",
+      "last_event": "KZ-EDL-092",
+      "start_seconds": 347.56,
+      "end_seconds": 349.44,
+      "events": [
+        "KZ-EDL-092"
+      ],
+      "states": [
+        "KZ_CARD_LANGUAGE_OF_AUTHORITY"
+      ],
+      "duration_seconds": 1.88,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "CONTEMPORARY_CONTEXT",
+      "first_event": "KZ-EDL-093",
+      "last_event": "KZ-EDL-093",
+      "start_seconds": 349.44,
+      "end_seconds": 354.52,
+      "events": [
+        "KZ-EDL-093"
+      ],
+      "states": [
+        "KZ_ONLINE_PATENT_AUTHORITY"
+      ],
+      "duration_seconds": 5.08,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "first_event": "KZ-EDL-094",
+      "last_event": "KZ-EDL-094",
+      "start_seconds": 354.52,
+      "end_seconds": 355.4,
+      "events": [
+        "KZ-EDL-094"
+      ],
+      "states": [
+        "KZ_CARD_IT_DOES_NOT"
+      ],
+      "duration_seconds": 0.88,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EVIDENCE_PROCESS",
+      "first_event": "KZ-EDL-095",
+      "last_event": "KZ-EDL-095",
+      "start_seconds": 355.4,
+      "end_seconds": 369.36,
+      "events": [
+        "KZ-EDL-095"
+      ],
+      "states": [
+        "KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS"
+      ],
+      "duration_seconds": 13.96,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "DOCUMENT_EVIDENCE",
+      "first_event": "KZ-EDL-096",
+      "last_event": "KZ-EDL-096",
+      "start_seconds": 369.36,
+      "end_seconds": 371.16,
+      "events": [
+        "KZ-EDL-096"
+      ],
+      "states": [
+        "KZ_DOC_031"
+      ],
+      "duration_seconds": 1.8,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-097",
+      "last_event": "KZ-EDL-100",
+      "start_seconds": 371.16,
+      "end_seconds": 385.84,
+      "events": [
+        "KZ-EDL-097",
+        "KZ-EDL-098",
+        "KZ-EDL-099",
+        "KZ-EDL-100"
+      ],
+      "states": [
+        "KZ_EN_HERO02",
+        "KZ_CLIP_PATENT_FEATURES_RECAP",
+        "KZ_EN_REC05_SCREWS_MACRO",
+        "KZ_EN_REC18_EMPTY_CHAMBER_A"
+      ],
+      "duration_seconds": 14.68,
+      "event_count": 4,
+      "review_required": true,
+      "manual_review": "PASS_VIEWER_LED",
+      "manual_review_reason": "The 14.68-second physical recap visibly advances from full apparatus to an animated measurement/direction/drive state, then a unique fastener macro and finally an empty-chamber payoff. No export returns and no shot relies on a cosmetic zoom.",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-101",
+      "last_event": "KZ-EDL-102",
+      "start_seconds": 385.84,
+      "end_seconds": 396.32,
+      "events": [
+        "KZ-EDL-101",
+        "KZ-EDL-102"
+      ],
+      "states": [
+        "KZ_MYSTIC_CLAIMS_TRIAD",
+        "KZ_MYSTIC_INTENSE_EXPERIENCE_HISTORY"
+      ],
+      "duration_seconds": 10.48,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PERSON_HISTORY",
+      "first_event": "KZ-EDL-103",
+      "last_event": "KZ-EDL-103",
+      "start_seconds": 396.32,
+      "end_seconds": 399.76,
+      "events": [
+        "KZ-EDL-103"
+      ],
+      "states": [
+        "KZ_HISTORY_KOZYREV_NOT_CHAMBER_BUILDER"
+      ],
+      "duration_seconds": 3.44,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-104",
+      "last_event": "KZ-EDL-104",
+      "start_seconds": 399.76,
+      "end_seconds": 402.56,
+      "events": [
+        "KZ-EDL-104"
+      ],
+      "states": [
+        "KZ_EN_REC18_EMPTY_CHAMBER_B"
+      ],
+      "duration_seconds": 2.8,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-105",
+      "last_event": "KZ-EDL-105",
+      "start_seconds": 402.56,
+      "end_seconds": 408.48,
+      "events": [
+        "KZ-EDL-105"
+      ],
+      "states": [
+        "KZ_MYSTIC_DECISIVE_INFORMATION_QUESTION"
+      ],
+      "duration_seconds": 5.92,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPERIMENT_PROTOCOL",
+      "first_event": "KZ-EDL-106",
+      "last_event": "KZ-EDL-106",
+      "start_seconds": 408.48,
+      "end_seconds": 410.32,
+      "events": [
+        "KZ-EDL-106"
+      ],
+      "states": [
+        "KZ_PROTOCOL_CLEAN_TEST"
+      ],
+      "duration_seconds": 1.84,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-107",
+      "last_event": "KZ-EDL-108",
+      "start_seconds": 410.32,
+      "end_seconds": 421.6,
+      "events": [
+        "KZ-EDL-107",
+        "KZ-EDL-108"
+      ],
+      "states": [
+        "KZ_MYSTIC_RESULT_STILL_MISSING",
+        "KZ_CLIP_EMPTY_SPIRAL_PAYOFF"
+      ],
+      "duration_seconds": 11.28,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "MAP_HANDOFF",
+      "first_event": "KZ-EDL-109",
+      "last_event": "KZ-EDL-110",
+      "start_seconds": 421.6,
+      "end_seconds": 427.44,
+      "events": [
+        "KZ-EDL-109",
+        "KZ-EDL-110"
+      ],
+      "states": [
+        "KZ_MAP_NOVOSIBIRSK_TO_FORT_MEADE",
+        "KZ_MAP_FORT_MEADE_ZOOM"
+      ],
+      "duration_seconds": 5.84,
+      "event_count": 2,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "first_event": "KZ-EDL-111",
+      "last_event": "KZ-EDL-111",
+      "start_seconds": 427.44,
+      "end_seconds": 434.64,
+      "events": [
+        "KZ-EDL-111"
+      ],
+      "states": [
+        "KZ_CLIP_THREE_OBSERVERS_TRANSITION"
+      ],
+      "duration_seconds": 7.2,
+      "event_count": 1,
+      "review_required": false,
+      "manual_review": "NOT_REQUIRED",
+      "manual_review_reason": "",
+      "unresolved_review": false
+    }
+  ],
+  "clusters_requiring_review": [],
+  "clusters_reviewed_and_accepted": [
+    {
+      "semantic_mode": "TARGET_IMAGE",
+      "first_event": "KZ-EDL-064",
+      "last_event": "KZ-EDL-067",
+      "start_seconds": 250.88,
+      "end_seconds": 259.04,
+      "events": [
+        "KZ-EDL-064",
+        "KZ-EDL-065",
+        "KZ-EDL-066",
+        "KZ-EDL-067"
+      ],
+      "states": [
+        "KZ_TARGET01_LIGHTHOUSE",
+        "KZ_TARGET02_VIOLIN",
+        "KZ_TARGET03_BURNING_CAR",
+        "KZ_TARGET04_WHITE_HORSE"
+      ],
+      "duration_seconds": 8.16,
+      "event_count": 4,
+      "review_required": true,
+      "manual_review": "PASS_VIEWER_LED",
+      "manual_review_reason": "Four mutually distinct targets appear once for roughly two seconds each while the viewer forms a private choice. The cluster is an interaction sequence, not a repeated visual mode.",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "EXPERIMENT_PROTOCOL",
+      "first_event": "KZ-EDL-068",
+      "last_event": "KZ-EDL-071",
+      "start_seconds": 259.04,
+      "end_seconds": 270.6,
+      "events": [
+        "KZ-EDL-068",
+        "KZ-EDL-069",
+        "KZ-EDL-070",
+        "KZ-EDL-071"
+      ],
+      "states": [
+        "KZ_TARGET_GRID_CHOOSE",
+        "KZ_TARGET_GRID_HOLD",
+        "KZ_PROTOCOL_RANDOM_SELECTION",
+        "KZ_PROTOCOL_DOUBLE_BLIND"
+      ],
+      "duration_seconds": 11.56,
+      "event_count": 4,
+      "review_required": true,
+      "manual_review": "PASS_VIEWER_LED",
+      "manual_review_reason": "The test advances causally through choose, hold, post-entry random selection and double blind. Every state adds a different rule and the complete setup lasts only 11.56 seconds.",
+      "unresolved_review": false
+    },
+    {
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "first_event": "KZ-EDL-097",
+      "last_event": "KZ-EDL-100",
+      "start_seconds": 371.16,
+      "end_seconds": 385.84,
+      "events": [
+        "KZ-EDL-097",
+        "KZ-EDL-098",
+        "KZ-EDL-099",
+        "KZ-EDL-100"
+      ],
+      "states": [
+        "KZ_EN_HERO02",
+        "KZ_CLIP_PATENT_FEATURES_RECAP",
+        "KZ_EN_REC05_SCREWS_MACRO",
+        "KZ_EN_REC18_EMPTY_CHAMBER_A"
+      ],
+      "duration_seconds": 14.68,
+      "event_count": 4,
+      "review_required": true,
+      "manual_review": "PASS_VIEWER_LED",
+      "manual_review_reason": "The 14.68-second physical recap visibly advances from full apparatus to an animated measurement/direction/drive state, then a unique fastener macro and finally an empty-chamber payoff. No export returns and no shot relies on a cosmetic zoom.",
+      "unresolved_review": false
+    }
+  ],
+  "events_at_or_above_8_seconds": [
+    {
+      "event": "KZ-EDL-022",
+      "record_in_seconds": "77.920",
+      "record_out_seconds": "89.400",
+      "duration_seconds": "11.480",
+      "record_in_frame": 1948,
+      "record_out_frame": 2235,
+      "visual_state_id": "KZ_CLIP_INTERNAL_TIME_CONTINUOUS",
+      "primary_asset_id": "KZ_INNER01_INTERNAL_TIME",
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "internal_mode": "INNER_HYPOTHESIS",
+      "motion_class": "PROGRESSIVE_MOTION",
+      "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_INTERNAL_TIME_CONTINUOUS.mp4",
+      "first_cue": "KZ-CUE-023",
+      "last_cue": "KZ-CUE-025",
+      "viewer_function": "One continuously evolving internal-time sequence; never restart or recycle it",
+      "long_hold_reason": "The single uninterrupted sequence visibly evolves through dust, condensation and delayed reflection as the three spoken claims escalate; a camera move alone is insufficient."
+    },
+    {
+      "event": "KZ-EDL-039",
+      "record_in_seconds": "146.640",
+      "record_out_seconds": "155.840",
+      "duration_seconds": "9.200",
+      "record_in_frame": 3666,
+      "record_out_frame": 3896,
+      "visual_state_id": "KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL",
+      "primary_asset_id": "KZ_SEQ_PATENT_CLAIMS_BOUNDARY",
+      "semantic_mode": "EXPLANATORY_GRAPHIC",
+      "internal_mode": "CLAIM_VISUALIZATION",
+      "motion_class": "PROGRESSIVE_MOTION",
+      "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_FIELD_CONCENTRATION_PROPOSAL.mp4",
+      "first_cue": "KZ-CUE-043",
+      "last_cue": "KZ-CUE-044",
+      "viewer_function": "Frame the next explanation explicitly as the inventors' answer",
+      "long_hold_reason": "One continuous 9.20-second proposal sequence adds field paths and convergence instead of holding a static graphic."
+    },
+    {
+      "event": "KZ-EDL-051",
+      "record_in_seconds": "198.560",
+      "record_out_seconds": "208.520",
+      "duration_seconds": "9.960",
+      "record_in_frame": 4964,
+      "record_out_frame": 5213,
+      "visual_state_id": "KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS",
+      "primary_asset_id": "KZ_SEQ_THEORY_PSYCHOLOGY",
+      "semantic_mode": "PHYSICAL_CHAMBER",
+      "internal_mode": "RECONSTRUCTION",
+      "motion_class": "PROGRESSIVE_MOTION",
+      "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_ISOLATION_SENSORY_CONTINUOUS.mp4",
+      "first_cue": "KZ-CUE-058",
+      "last_cue": "KZ-CUE-058",
+      "viewer_function": "One evolving sensory-isolation sequence with new information throughout the long sentence",
+      "long_hold_reason": "The participant, acoustics, light and body-orientation cues develop across the sentence; the sequence cannot be a held still or simple zoom."
+    },
+    {
+      "event": "KZ-EDL-095",
+      "record_in_seconds": "355.400",
+      "record_out_seconds": "369.360",
+      "duration_seconds": "13.960",
+      "record_in_frame": 8885,
+      "record_out_frame": 9234,
+      "visual_state_id": "KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS",
+      "primary_asset_id": "KZ_SEQ_PATENT_AUTHORITY_TRAP",
+      "semantic_mode": "EVIDENCE_PROCESS",
+      "internal_mode": "EVIDENCE_PROCESS",
+      "motion_class": "PROGRESSIVE_MOTION",
+      "selected_file_path": "04_ASSETS/CLIPS/LOCAL_PROGRESSIVE/KZ_CLIP_PATENT_VALUE_LIMITS_CONTINUOUS.mp4",
+      "first_cue": "KZ-CUE-105",
+      "last_cue": "KZ-CUE-107",
+      "viewer_function": "List the legitimate provenance uses of a patent",
+      "long_hold_reason": "A 13.96-second continuous sequence is justified by three visible phases: scope card, provenance desk, then empty empirical result."
+    },
+    {
+      "event": "KZ-EDL-108",
+      "record_in_seconds": "412.440",
+      "record_out_seconds": "421.600",
+      "duration_seconds": "9.160",
+      "record_in_frame": 10311,
+      "record_out_frame": 10540,
+      "visual_state_id": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+      "primary_asset_id": "KZ_CLIP_EMPTY_SPIRAL_PAYOFF",
+      "semantic_mode": "SUBJECTIVE_MYSTICAL",
+      "internal_mode": "RECONSTRUCTION",
+      "motion_class": "PROGRESSIVE_MOTION",
+      "selected_file_path": "04_ASSETS/CLIPS/CONFORMED_25FPS/KZ_CLIP_EMPTY_SPIRAL_PAYOFF.mp4",
+      "first_cue": "KZ-CUE-125",
+      "last_cue": "KZ-CUE-126",
+      "viewer_function": "Unresolved empty chamber payoff across the final two questions",
+      "long_hold_reason": "The final chamber action advances continuously from mechanical stillness to a changing reflection/shadow and unresolved darkness across two questions; it is never restarted."
+    }
+  ],
+  "note": "Cluster thresholds are diagnostic. Viewer review, semantic development and actual movement determine acceptance."
+}

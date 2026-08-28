@@ -1,0 +1,117 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "83831513": {
+          "pageid": 83831513,
+          "ns": 6,
+          "title": "File:Admiralty Chart No 293 Fogo Island to Cape Bonavista, Puublished 1873.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 16934937,
+              "width": 9697,
+              "height": 14974,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Admiralty_Chart_No_293_Fogo_Island_to_Cape_Bonavista%2C_Puublished_1873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_293_Fogo_Island_to_Cape_Bonavista,_Puublished_1873.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83831513",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-11-10 10:40:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Admiralty Chart No 293 Fogo Island to Cape Bonavista, Puublished 1873",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Fogo Island|Cape Bonavista|William Frederick Maxwell|UK Government artistic works|Large images|Old maps of Newfoundland|Admiralty Charts 201-400|Admiralty Charts Region U: North America east coast",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Nautical chart of Fogo Island to Cape Bonavista, Newfoundland. Surveyed by Staff Commander J.H. Kerr assisted by Nav. Lieuts. G.Robinson &amp; W.F. Maxwell 1869-71. Not current - not to be used for navigation!",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1873-03-31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/McGillLibrary-rbsc_map_bayfield-010-18883\">https://archive.org/details/McGillLibrary-rbsc_map_bayfield-010-18883</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:United_Kingdom_Hydrographic_Office\" class=\"extiw\" title=\"w:en:United Kingdom Hydrographic Office\"><span title=\"UK government agency concerned with providing hydrographic and marine geospatial data\">United Kingdom Hydrographic Office</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_FOGO_MAP_1873",
+    "title": "File:Admiralty Chart No 293 Fogo Island to Cape Bonavista, Puublished 1873.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_293_Fogo_Island_to_Cape_Bonavista,_Puublished_1873.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Admiralty_Chart_No_293_Fogo_Island_to_Cape_Bonavista%2C_Puublished_1873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:United_Kingdom_Hydrographic_Office\" class=\"extiw\" title=\"w:en:United Kingdom Hydrographic Office\"><span title=\"UK government agency concerned with providing hydrographic and marine geospatial data\">United Kingdom Hydrographic Office</span></a></bdi>",
+    "date": "1873-03-31",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_FOGO_MAP_1873.jpg",
+    "sha256": "ad3da5b0e3c41bae7ad1e9550846741a3c26bc0fd8f357878780dcc05a030cf5",
+    "width": "9697",
+    "height": "14974",
+    "voice_beat": "On Fogo Island, he encountered an expression...",
+    "picture_function": "Historical geographic anchor",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

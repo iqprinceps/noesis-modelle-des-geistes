@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 26,
+  "phrase": "Some of the distortions occurring",
+  "match_count": 5,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.1,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    39.0,
+    612.1,
+    217.5
+  ],
+  "highlight_rects": [
+    [
+      230.19,
+      164.55,
+      253.57,
+      173.79
+    ],
+    [
+      259.33,
+      164.3,
+      271.83,
+      173.36
+    ],
+    [
+      277.28,
+      163.95,
+      294.74,
+      173.09
+    ],
+    [
+      300.35,
+      162.82,
+      363.83,
+      172.74
+    ],
+    [
+      370.5,
+      162.05,
+      417.6,
+      171.69
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

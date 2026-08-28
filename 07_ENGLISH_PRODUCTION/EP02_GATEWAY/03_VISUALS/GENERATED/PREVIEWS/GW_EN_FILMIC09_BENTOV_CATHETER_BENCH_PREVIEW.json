@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_FILMIC09_BENTOV_CATHETER_BENCH",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Late-1960s biomedical inventor's workshop. Object-focused close photograph of a flexible steerable catheter prototype curving under mechanical tension beside a small brass joystick linkage and precision hand tools. No person or medical procedure. White polymer tubing, stainless guide wires, worn green cutting mat, period-correct analogue workspace, exact plausible geometry, no text.",
+  "prompt_sha256": "85b4fed70fc6dacba714296c424a396a33cc6f9d7db1455e8e432638ba5f4b56",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_FILMIC09_BENTOV_CATHETER_BENCH_PREVIEW.png",
+  "output_sha256": "62f05039bdf21ef8dbc91f766dcd2bb41d222209243700a178f9e5a560a7a86c",
+  "seconds": 7.082,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

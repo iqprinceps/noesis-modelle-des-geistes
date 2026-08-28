@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\04_VOICE\\CANDIDATES\\GW_EN_AUDITION_B_GEORGE.mp3",
+  "sha256": "f3f5b56ce790734ac7846f35e26cb8084e099a68dbe3e6b02e6a31d0983f10cd",
+  "bytes": 227831,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.66,
+    "similarity_boost": 0.82,
+    "style": 0.04,
+    "use_speaker_boost": true,
+    "speed": 1.03
+  },
+  "seed": 260822,
+  "request_id": "UyakPPDE6J6NHLM8GOAL",
+  "text_sha256": "dc1b724ab097857eca681ed044054008c06a7f14a29db1b16f8baec5471c3c59",
+  "characters": 203
+}

@@ -1,0 +1,9 @@
+{
+  "status": "FAIL",
+  "edl_document_events": 27,
+  "document_shots_including_clip_substates": 31,
+  "corrected_assets": 11,
+  "failed_assets": 20,
+  "render_started": false,
+  "paid_generation_started": false
+}

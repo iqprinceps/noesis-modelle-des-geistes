@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP08B_UNSICHTBARE_PERSON\\voice\\SP08B_UNSICHTBARE_PERSON_GEORGE.mp3",
+  "sha256": "c2f19becc54cf606b88a10cb69b624ee05e8424cd613a7cdc771b63585a1395b",
+  "bytes": 691348,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "use_speaker_boost": true,
+    "speed": 1.06
+  },
+  "seed": 2402,
+  "request_id": "rEAbapUp2t3aoIuoJ0Zf",
+  "text_sha256": "65c2adc009a46ef6193cf935da8a943c163561633ee64287b82b7c05aa86608d",
+  "characters": 709
+}

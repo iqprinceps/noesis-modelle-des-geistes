@@ -1,0 +1,58 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,62,&H00F5F2EB,&H00F5F2EB,&H00101014,&H8C000000,-1,0,0,0,100,100,0,0,1,5,2,2,105,210,420,1
+Style: Hook,Arial Black,96,&H00F5F2EB,&H00F5F2EB,&H00101014,&HA0000000,-1,0,0,0,100,100,0,0,3,6,0,8,70,70,168,1
+Style: Badge,Segoe UI Semibold,34,&H00BEBAAE,&H00BEBAAE,&H00101014,&H60000000,0,0,0,0,100,100,3,0,1,3,0,8,70,70,64,1
+Style: CtaHead,Arial Black,52,&H00F5F2EB,&H00F5F2EB,&H00101014,&HA8000000,-1,0,0,0,100,100,0,0,3,6,0,2,90,90,486,1
+Style: CtaSub,Segoe UI Semibold,42,&H00C9C08C,&H00C9C08C,&H00101014,&HA8000000,-1,0,0,0,100,100,0,0,3,5,0,2,90,90,414,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:42.51,Badge,,0,0,0,,SCHLAFPARALYSE  ·  5/6
+Dialogue: 4,0:00:00.00,0:00:02.60,Hook,,0,0,0,,{\fad(160,260)}WARUM DER\NHUT?
+Dialogue: 0,0:00:00.34,0:00:01.04,Caption,,0,0,0,,Warum trägt der
+Dialogue: 0,0:00:01.08,0:00:01.72,Caption,,0,0,0,,Hat Man einen
+Dialogue: 0,0:00:01.82,0:00:02.12,Caption,,0,0,0,,Hut?
+Dialogue: 0,0:00:02.78,0:00:03.56,Caption,,0,0,0,,Ehrliche Antwort:
+Dialogue: 0,0:00:03.88,0:00:04.74,Caption,,0,0,0,,Das weiß niemand.
+Dialogue: 0,0:00:05.38,0:00:06.20,Caption,,0,0,0,,Es gibt Forschung
+Dialogue: 0,0:00:06.26,0:00:07.50,Caption,,0,0,0,,zu Schattenfiguren und
+Dialogue: 0,0:00:07.52,0:00:08.28,Caption,,0,0,0,,zu diesem Gefühl,
+Dialogue: 0,0:00:08.36,0:00:09.46,Caption,,0,0,0,,beobachtet zu werden.
+Dialogue: 0,0:00:10.08,0:00:10.64,Caption,,0,0,0,,Zum Hut gibt
+Dialogue: 0,0:00:10.70,0:00:11.26,Caption,,0,0,0,,es nichts.
+Dialogue: 0,0:00:11.98,0:00:12.52,Caption,,0,0,0,,Was es gibt,
+Dialogue: 0,0:00:12.66,0:00:13.48,Caption,,0,0,0,,ist eine plausible
+Dialogue: 0,0:00:13.58,0:00:14.14,Caption,,0,0,0,,Vermutung.
+Dialogue: 0,0:00:14.76,0:00:15.62,Caption,,0,0,0,,Im Dunkeln bekommt
+Dialogue: 0,0:00:15.66,0:00:16.54,Caption,,0,0,0,,dein Gehirn kaum
+Dialogue: 0,0:00:16.60,0:00:17.38,Caption,,0,0,0,,Information.
+Dialogue: 0,0:00:17.82,0:00:18.40,Caption,,0,0,0,,Es braucht eine
+Dialogue: 0,0:00:18.50,0:00:19.34,Caption,,0,0,0,,Kontur, an der
+Dialogue: 0,0:00:19.38,0:00:20.32,Caption,,0,0,0,,es andocken kann.
+Dialogue: 0,0:00:20.82,0:00:21.50,Caption,,0,0,0,,Und eine Krempe
+Dialogue: 0,0:00:21.56,0:00:22.08,Caption,,0,0,0,,macht aus einem
+Dialogue: 0,0:00:22.20,0:00:23.42,Caption,,0,0,0,,formlosen Schatten\Nsofort
+Dialogue: 0,0:00:23.46,0:00:23.98,Caption,,0,0,0,,jemanden.
+Dialogue: 0,0:00:24.42,0:00:25.30,Caption,,0,0,0,,Einen Erwachsenen.
+Dialogue: 0,0:00:25.64,0:00:26.46,Caption,,0,0,0,,Mit Blickrichtung.
+Dialogue: 0,0:00:27.10,0:00:27.76,Caption,,0,0,0,,Mit Absicht.
+Dialogue: 0,0:00:28.36,0:00:29.10,Caption,,0,0,0,,Und dann übernimmt
+Dialogue: 0,0:00:29.14,0:00:29.82,Caption,,0,0,0,,die Kultur.
+Dialogue: 0,0:00:30.46,0:00:32.22,Caption,,0,0,0,,Bilder, Podcasts, Foren,
+Dialogue: 0,0:00:32.54,0:00:33.94,Caption,,0,0,0,,überall dieselbe\NSilhouette.
+Dialogue: 0,0:00:34.80,0:00:35.40,Caption,,0,0,0,,Vielleicht ist der
+Dialogue: 0,0:00:35.46,0:00:36.06,Caption,,0,0,0,,Hut also gar
+Dialogue: 0,0:00:36.12,0:00:36.90,Caption,,0,0,0,,keine Botschaft.
+Dialogue: 0,0:00:37.44,0:00:38.04,Caption,,0,0,0,,Vielleicht ist er
+Dialogue: 0,0:00:38.08,0:00:38.80,Caption,,0,0,0,,nur das, woran
+Dialogue: 0,0:00:38.86,0:00:39.84,Caption,,0,0,0,,wir ihn wiedererkennen.
+Dialogue: 2,0:00:40.41,0:00:42.51,CtaHead,,0,0,0,,{\fad(280,0)}GANZE FOLGE IM KANAL
+Dialogue: 2,0:00:40.55,0:00:42.51,CtaSub,,0,0,0,,{\fad(380,0)}Shadow People: Warum viele den Hat Man sehen

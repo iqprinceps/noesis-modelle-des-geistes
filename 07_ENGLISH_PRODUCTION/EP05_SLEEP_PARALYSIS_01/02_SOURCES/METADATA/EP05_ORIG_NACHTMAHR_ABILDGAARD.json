@@ -1,0 +1,120 @@
+{
+  "api": {
+    "continue": {
+      "iistart": "2009-02-23T03:41:58Z",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "6022669": {
+          "pageid": 6022669,
+          "ns": 6,
+          "title": "File:Nachtmahr (Abildgaard).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14234585,
+              "width": 3748,
+              "height": 3160,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nachtmahr_%28Abildgaard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nachtmahr_(Abildgaard).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6022669",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-09-16 15:54:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Nightmare <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q21747078#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Nightmare <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q21747078#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Nightmare <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q21747078#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lja,\"悪夢\"</div><div style=\"display: none;\">label QS:Lfr,\"Cauchemar\"</div><div style=\"display: none;\">label QS:Lnl,\"Nachtmerrie\"</div><div style=\"display: none;\">label QS:Lel,\"Εφιάλτης\"</div><div style=\"display: none;\">label QS:Lbg,\"Кошмар\"</div><div style=\"display: none;\">label QS:Leo,\"Koŝmaro\"</div><div style=\"display: none;\">label QS:Lda,\"Mareridt\"</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Nightmare (Abildgaard)|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks with Wikidata item missing author|Artworks with Wikidata item missing genre|Mare (folklore)|Artworks digital representation of 2D work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nicolai_Abildgaard\" class=\"extiw\" title=\"w:en:Nicolai Abildgaard\"><span title=\"Danish painter, sculptor and architect (1743–1809)\">Nicolai Abildgaard</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<i>Nightmare</i> (1800) by Nicolai Abraham Abildgaard",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1800<div style=\"display: none;\">date QS:P571,+1800-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Vestjaellands Art Museum, Sorø",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_NACHTMAHR_ABILDGAARD",
+    "title": "File:Nachtmahr (Abildgaard).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Nachtmahr_(Abildgaard).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nachtmahr_%28Abildgaard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nicolai_Abildgaard\" class=\"extiw\" title=\"w:en:Nicolai Abildgaard\"><span title=\"Danish painter, sculptor and architect (1743–1809)\">Nicolai Abildgaard</span></a></bdi>",
+    "date": "1800<div style=\"display: none;\">date QS:P571,+1800-00-00T00:00:00Z/9</div>",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_NACHTMAHR_ABILDGAARD.jpg",
+    "sha256": "3491a17dbd97207e4d2e1b9c02af3ea5bbd36966ca6e30d646411cd2792cc074",
+    "width": "3748",
+    "height": "3160",
+    "voice_beat": "Long before sleep laboratories, people were describing the same architecture.",
+    "picture_function": "Dated historical nightmare / chest-pressure iconography",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

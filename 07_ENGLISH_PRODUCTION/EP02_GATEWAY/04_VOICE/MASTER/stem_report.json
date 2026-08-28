@@ -1,0 +1,77 @@
+{
+  "candidate": "A",
+  "voice": "George",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.58,
+    "similarity_boost": 0.8,
+    "style": 0.08,
+    "speed": 1.06,
+    "use_speaker_boost": true
+  },
+  "duration": 481.037,
+  "loudness": {
+    "input_i": "-18.38",
+    "input_tp": "-1.99",
+    "input_lra": "2.10",
+    "input_thresh": "-28.76",
+    "output_i": "-18.02",
+    "output_tp": "-2.00",
+    "output_lra": "2.00",
+    "output_thresh": "-28.40",
+    "normalization_type": "dynamic",
+    "target_offset": "0.02"
+  },
+  "sha256": "57f441eed5ebc57774fbf36a827b3a86b84e694020e70820a90bd4b97ca921f7",
+  "stems": [
+    {
+      "id": "GW_EN_TAKE_01",
+      "start": 0.0,
+      "end": 69.381,
+      "duration": 69.381,
+      "sha256": "7a3d56b6ae47eccc4d7d780ab4a283c495f00fdfb870630f73b1ecbde2a6dbce"
+    },
+    {
+      "id": "GW_EN_TAKE_02",
+      "start": 69.801,
+      "end": 141.365,
+      "duration": 71.564,
+      "sha256": "32a390a40eae4a6dde6c29eaf26bc6da3ba208497c7955259e6a83e4c8d0d7f2"
+    },
+    {
+      "id": "GW_EN_TAKE_03",
+      "start": 141.785,
+      "end": 214.649,
+      "duration": 72.864,
+      "sha256": "915d452b3d62e86b648f28cab2aaee0dafdc422ededbd4c78a1c9189fd81231e"
+    },
+    {
+      "id": "GW_EN_TAKE_04",
+      "start": 215.069,
+      "end": 287.005,
+      "duration": 71.935,
+      "sha256": "dc7572c7cb57db8315b03d8bfc0456a85be7bd944ce1cc325a686b3a1e88bd97"
+    },
+    {
+      "id": "GW_EN_TAKE_05",
+      "start": 287.425,
+      "end": 357.781,
+      "duration": 70.356,
+      "sha256": "38982d3a92d82235a66e1ebb86a780eef5af8be71f342c80ac2e27f4f73462f0"
+    },
+    {
+      "id": "GW_EN_TAKE_06",
+      "start": 358.201,
+      "end": 429.161,
+      "duration": 70.96,
+      "sha256": "8134ebb19550b004a84062f79b2fbf81b78ac1177f8fd42aa23b860caf0b71bc"
+    },
+    {
+      "id": "GW_EN_TAKE_07",
+      "start": 429.581,
+      "end": 481.037,
+      "duration": 51.455,
+      "sha256": "c100256750347d5dafbbfecf21fb7674dff460ad2c21094e6658d353a078acc0"
+    }
+  ]
+}

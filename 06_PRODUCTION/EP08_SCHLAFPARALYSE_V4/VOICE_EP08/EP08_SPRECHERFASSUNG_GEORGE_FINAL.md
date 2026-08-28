@@ -69,7 +69,7 @@ Unter den Shadow-People-Berichten sticht eine Figur heraus. Groß, dunkel, oft u
 
 ## TAKE 016 — S5 — EIN ZWEITER KONTEXT
 
-Online erscheint diese Figur nicht nur in Berichten über Schlafparalyse. Sie taucht auch in Foren über starke anticholinerge Halluzinationen nach hohen Dosen von Diphenhydramin auf. Hier muss man sauber trennen: Solche Dosen können Delirium und lebhafte Halluzinationen auslösen. Das ist medizinisch dokumentiert.
+Online erscheint diese Figur nicht nur in Berichten über Schlafparalyse. Sie taucht auch in Foren über starke anticholinerge Halluzinationen nach hohen Dosen von Diphenhydramin auf. Hier muss man sauber trennen: Solche Dosen können Delirium und lebhafte Halluzinationen auslösen.
 
 ## TAKE 017 — S5 — WAS NICHT BELEGT IST
 

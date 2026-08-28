@@ -1,0 +1,37 @@
+{
+  "topic": "Die ältere Bedeutung von Albtraum und Nightmare als nächtliches Wesen statt bloß schlechter Traum",
+  "channel_type": "explainer",
+  "style": "Editorial Motion Graphics — deep crimson",
+  "through_line": {"name": "Mara-Hufspur", "asset": "P03_MARA_HOOFPRINT", "progression": "ein einzelner Abdruck → eine Spur bis zum Bett → die Spur zerfällt in eine moderne Traumblase", "resolution": "Der alte Besucher verschwindet, aber seine Spur bleibt im heutigen Wort erhalten."},
+  "arc": {"hook": 1, "build": [], "turn": 2, "payoff": 3},
+  "blocks": [
+    {
+      "n": 1,
+      "arc_role": "hook",
+      "vo_line": "Das Wort Albtraum meinte ursprünglich keinen schlechten Traum. Die alte Mære war ein nächtliches Wesen, das Menschen bedrängte — der Schrecken bekam also erst einen Körper und später eine moderne Diagnose.",
+      "location": "L05_ETYMOLOGY_NIGHT_STAGE",
+      "through_line_state": "Ein einzelner dunkler Hufabdruck erscheint am Rand der Nachtbühne.",
+      "shots": ["FULL-SPREAD WIDE: a sleeping cutout enters while one hoofprint stamps at the paper edge", "LOW CU: the hoofprint grows a long shadow toward the bed", "TOP-DOWN MEDIUM: a faceless night cutout rises from the shadow without speaking", "LATERAL ECU: pressure rings press the bedding while the print remains fixed", "HIGH MEDIUM: the night figure settles behind a deep-crimson disc as the print pulses"],
+      "assets_used": ["L05_ETYMOLOGY_NIGHT_STAGE", "CHAR_SLEEPER", "P03_MARA_HOOFPRINT"]
+    },
+    {
+      "n": 2,
+      "arc_role": "turn",
+      "vo_line": "Verwandte Namen tauchen quer durch germanische Sprachen auf: Mara, Mare, Mahr. Gemeint war kein Pferd, sondern ein unsichtbarer Besucher im eigenen Bett, auf deiner Brust sitzend und den Schlafenden lähmend.",
+      "location": "L06_LANGUAGE_MAP_STAGE",
+      "through_line_state": "Der Abdruck vervielfacht sich zu einer Route über eine unbeschriftete Karte.",
+      "shots": ["TOP-DOWN WIDE: an unlabeled map unfolds and the first hoofprint lands", "MACRO: two more related prints stamp along a route", "LATERAL MEDIUM: a horse cutout slides in and is rejected by a deep-crimson cross", "HIGH CU: the shadow visitor cutout replaces it with a sharp paper snap", "FULL-SPREAD MEDIUM: the route reaches a small bed icon and settles"],
+      "assets_used": ["L06_LANGUAGE_MAP_STAGE", "CHAR_SLEEPER", "P03_MARA_HOOFPRINT"]
+    },
+    {
+      "n": 3,
+      "arc_role": "payoff",
+      "vo_line": "Heute bezeichnet Nightmare fast jeden schlimmen Traum. Doch im Wort steckt noch die ältere Szene: Wachheit, Brustdruck und ein nächtlicher Verursacher, den die eigene Kultur bereits lange vor jeder Diagnose benannt hatte.",
+      "location": "L05_ETYMOLOGY_NIGHT_STAGE_COVERAGE",
+      "through_line_state": "Die Hufspur zerfällt in eine abstrakte Traumblase, ein Abdruck bleibt sichtbar.",
+      "shots": ["MEDIUM HIGH: the trail of prints lifts from the floor like loose paper", "ECU: all but one print dissolve into abstract dream shapes", "LATERAL WIDE: the old visitor cutout folds flat into a modern thought bubble", "TOP-DOWN CU: one surviving print stamps inside the bubble", "FULL-SPREAD FRONT: the sleeper wakes as the bubble retreats but the final print remains"],
+      "assets_used": ["L05_ETYMOLOGY_NIGHT_STAGE_COVERAGE", "CHAR_SLEEPER", "P03_MARA_HOOFPRINT"]
+    }
+  ],
+  "sources": ["https://www.alarichall.org.uk/Hall_2007_maere.pdf", "https://dsl.ac.uk/entry/snd/mare", "https://academic.oup.com/book/24530/chapter/187680252"]
+}

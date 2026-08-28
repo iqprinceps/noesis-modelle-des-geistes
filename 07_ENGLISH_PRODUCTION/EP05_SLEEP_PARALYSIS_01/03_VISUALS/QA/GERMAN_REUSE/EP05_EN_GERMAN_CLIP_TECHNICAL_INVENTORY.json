@@ -1,0 +1,422 @@
+[
+  {
+    "index": 1,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP001_SOUL_BODY_OFFSET.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP001_SOUL_BODY_OFFSET.mp4",
+    "name": "CLIP001_SOUL_BODY_OFFSET.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 8270086,
+    "sample_luma": [
+      124.3,
+      128.1,
+      138.5,
+      148.4,
+      144.3
+    ]
+  },
+  {
+    "index": 2,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP002_REM_SIGNAL_GATE.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP002_REM_SIGNAL_GATE.mp4",
+    "name": "CLIP002_REM_SIGNAL_GATE.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 5723223,
+    "sample_luma": [
+      49.5,
+      49.2,
+      40.5,
+      42.1,
+      45.6
+    ]
+  },
+  {
+    "index": 3,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP003_OLD_HAG_THRESHOLD.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP003_OLD_HAG_THRESHOLD.mp4",
+    "name": "CLIP003_OLD_HAG_THRESHOLD.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 10034917,
+    "sample_luma": [
+      65.5,
+      66.8,
+      69.9,
+      71.3,
+      73.9
+    ]
+  },
+  {
+    "index": 4,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP004_PRESENCE_GEOMETRY.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP004_PRESENCE_GEOMETRY.mp4",
+    "name": "CLIP004_PRESENCE_GEOMETRY.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 21414639,
+    "sample_luma": [
+      126.3,
+      125.2,
+      121.8,
+      120.6,
+      113.7
+    ]
+  },
+  {
+    "index": 5,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP005_MOTOR_FREEZE.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP005_MOTOR_FREEZE.mp4",
+    "name": "CLIP005_MOTOR_FREEZE.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 7404244,
+    "sample_luma": [
+      48.7,
+      50.3,
+      54.7,
+      44.3,
+      38.4
+    ]
+  },
+  {
+    "index": 6,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP007_INTERRUPTION_CYCLE.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP007_INTERRUPTION_CYCLE.mp4",
+    "name": "CLIP007_INTERRUPTION_CYCLE.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 2988443,
+    "sample_luma": [
+      82.0,
+      82.1,
+      82.1,
+      82.2,
+      82.5
+    ]
+  },
+  {
+    "index": 7,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP008_SIX_EPISODES_SIGNAL.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP008_SIX_EPISODES_SIGNAL.mp4",
+    "name": "CLIP008_SIX_EPISODES_SIGNAL.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 2127774,
+    "sample_luma": [
+      91.2,
+      93.5,
+      94.3,
+      93.1,
+      90.8
+    ]
+  },
+  {
+    "index": 8,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\RESERVE_CLIPS\\CLIP002_SLEEP_LAB_SENSOR_MACRO.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/RESERVE_CLIPS/CLIP002_SLEEP_LAB_SENSOR_MACRO.mp4",
+    "name": "CLIP002_SLEEP_LAB_SENSOR_MACRO.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 5249583,
+    "sample_luma": [
+      108.0,
+      107.4,
+      106.3,
+      105.6,
+      106.0
+    ]
+  },
+  {
+    "index": 9,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\RESERVE_CLIPS\\CLIP004_DAWN_AFTER_PARALYSIS.mp4",
+    "relative_source": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/RESERVE_CLIPS/CLIP004_DAWN_AFTER_PARALYSIS.mp4",
+    "name": "CLIP004_DAWN_AFTER_PARALYSIS.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 4409595,
+    "sample_luma": [
+      74.1,
+      71.8,
+      69.0,
+      66.3,
+      63.9
+    ]
+  },
+  {
+    "index": 10,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\CLIP001_CULTURAL_MASKS.mp4",
+    "relative_source": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/CLIP001_CULTURAL_MASKS.mp4",
+    "name": "CLIP001_CULTURAL_MASKS.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 12602186,
+    "sample_luma": [
+      67.5,
+      89.6,
+      111.8,
+      112.9,
+      113.7
+    ]
+  },
+  {
+    "index": 11,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\CLIP002_NIGHTMARE_PRESSURE.mp4",
+    "relative_source": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/CLIP002_NIGHTMARE_PRESSURE.mp4",
+    "name": "CLIP002_NIGHTMARE_PRESSURE.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 13917042,
+    "sample_luma": [
+      87.1,
+      79.9,
+      64.2,
+      73.2,
+      76.4
+    ]
+  },
+  {
+    "index": 12,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4",
+    "relative_source": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4",
+    "name": "CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 6586061,
+    "sample_luma": [
+      70.3,
+      68.8,
+      59.6,
+      77.3,
+      82.1
+    ]
+  },
+  {
+    "index": 13,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\CLIP004_FEEDBACK_ENTITY.mp4",
+    "relative_source": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/CLIP004_FEEDBACK_ENTITY.mp4",
+    "name": "CLIP004_FEEDBACK_ENTITY.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 6350780,
+    "sample_luma": [
+      185.1,
+      177.8,
+      171.9,
+      165.3,
+      185.7
+    ]
+  },
+  {
+    "index": 14,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\RESERVE_CLIPS\\CLIP003_HUFFORD_FIELDWORK_DOLLY.mp4",
+    "relative_source": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/RESERVE_CLIPS/CLIP003_HUFFORD_FIELDWORK_DOLLY.mp4",
+    "name": "CLIP003_HUFFORD_FIELDWORK_DOLLY.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 11379907,
+    "sample_luma": [
+      91.9,
+      92.8,
+      91.7,
+      92.0,
+      92.8
+    ]
+  },
+  {
+    "index": 15,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\RESERVE_CLIPS\\CLIP004_FUSELI_SCREEN_LIGHT_SHIFT.mp4",
+    "relative_source": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/RESERVE_CLIPS/CLIP004_FUSELI_SCREEN_LIGHT_SHIFT.mp4",
+    "name": "CLIP004_FUSELI_SCREEN_LIGHT_SHIFT.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 5386701,
+    "sample_luma": [
+      81.2,
+      84.9,
+      80.2,
+      83.9,
+      84.0
+    ]
+  },
+  {
+    "index": 16,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\CLIP002_SHADOW_DETACHES.mp4",
+    "relative_source": "06_PRODUCTION/EP08_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/CLIP002_SHADOW_DETACHES.mp4",
+    "name": "CLIP002_SHADOW_DETACHES.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 5045309,
+    "sample_luma": [
+      39.0,
+      50.3,
+      52.5,
+      53.8,
+      54.3
+    ]
+  },
+  {
+    "index": 17,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\EDITORIAL_SEQUENCES\\EDIT007_BLANK_SKETCH_TO_SHADOW.mp4",
+    "relative_source": "06_PRODUCTION/EP08_SCHLAFPARALYSE_V4/EDITORIAL_SEQUENCES/EDIT007_BLANK_SKETCH_TO_SHADOW.mp4",
+    "name": "EDIT007_BLANK_SKETCH_TO_SHADOW.mp4",
+    "duration": 3.5,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 2043984,
+    "sample_luma": [
+      83.3,
+      83.3,
+      86.2,
+      89.5,
+      89.5
+    ]
+  },
+  {
+    "index": 18,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\EDITORIAL_SEQUENCES\\EDIT009_VESTIBULAR_LAYER_REVEAL.mp4",
+    "relative_source": "06_PRODUCTION/EP08_SCHLAFPARALYSE_V4/EDITORIAL_SEQUENCES/EDIT009_VESTIBULAR_LAYER_REVEAL.mp4",
+    "name": "EDIT009_VESTIBULAR_LAYER_REVEAL.mp4",
+    "duration": 3.5,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 1084837,
+    "sample_luma": [
+      44.3,
+      44.3,
+      47.7,
+      52.0,
+      52.0
+    ]
+  },
+  {
+    "index": 19,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\EDITORIAL_SEQUENCES\\EDIT019_BODY_STORY_THRESHOLD.mp4",
+    "relative_source": "06_PRODUCTION/EP08_SCHLAFPARALYSE_V4/EDITORIAL_SEQUENCES/EDIT019_BODY_STORY_THRESHOLD.mp4",
+    "name": "EDIT019_BODY_STORY_THRESHOLD.mp4",
+    "duration": 3.5,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 1658483,
+    "sample_luma": [
+      54.5,
+      54.5,
+      67.8,
+      85.4,
+      85.3
+    ]
+  },
+  {
+    "index": 20,
+    "source": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\RESERVE_CLIPS\\CLIP003_CAUSE_SHADOW_ASSEMBLY.mp4",
+    "relative_source": "06_PRODUCTION/EP08_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/RESERVE_CLIPS/CLIP003_CAUSE_SHADOW_ASSEMBLY.mp4",
+    "name": "CLIP003_CAUSE_SHADOW_ASSEMBLY.mp4",
+    "duration": 6.0,
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "codec": "h264",
+    "size": 3439309,
+    "sample_luma": [
+      68.0,
+      67.0,
+      64.1,
+      68.9,
+      75.0
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\auditions\\EP01_AUDITION_B_GEORGE_URGENT.mp3",
+  "sha256": "90753c264cd6f55fa1f38e5e84abdb394649be405d52e09d4c0b402aab6be155",
+  "bytes": 361578,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.52,
+    "similarity_boost": 0.82,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 1.08
+  },
+  "seed": 2403,
+  "request_id": "ChoWwYQ7lOK3xihIKowr",
+  "text_sha256": "3c2707b4102ffa2e7e3dab829e266ef22492bd187b13d5b554c4ded3c7f64a57",
+  "characters": 343
+}

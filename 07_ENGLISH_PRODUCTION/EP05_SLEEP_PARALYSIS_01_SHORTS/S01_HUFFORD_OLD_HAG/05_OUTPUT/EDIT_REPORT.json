@@ -1,0 +1,190 @@
+{
+  "stem": "EP05_EN_SHORT_S01",
+  "duration": 43.8,
+  "voice": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\02_VOICE\\raw\\EP05_EN_SHORT_S01.mp3",
+  "mix": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_AUDIO\\EP05_EN_SHORT_S01_FINAL_MIX_48K_STEREO.wav",
+  "master": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\05_OUTPUT\\EP05_EN_SHORT_S01_MASTER_1080x1920_30.mp4",
+  "shots": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 1.159,
+      "duration": 1.159,
+      "anchor": "The door opens",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\GENERATED\\A01_DOOR_EYE.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\00.mp4"
+    },
+    {
+      "index": 2,
+      "start": 1.159,
+      "end": 3.0,
+      "duration": 1.841,
+      "anchor": "Footsteps cross",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A02_FOOTSTEPS.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\01.mp4"
+    },
+    {
+      "index": 3,
+      "start": 3.0,
+      "end": 5.5,
+      "duration": 2.5,
+      "anchor": "You try to move",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\GENERATED\\A03_FAILED_HAND.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\02.mp4"
+    },
+    {
+      "index": 4,
+      "start": 5.5,
+      "end": 7.679,
+      "duration": 2.179,
+      "anchor": "Then the mattress sinks",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\GENERATED\\A04_MATTRESS.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\03.mp4"
+    },
+    {
+      "index": 5,
+      "start": 7.679,
+      "end": 11.079,
+      "duration": 3.4,
+      "anchor": "This happened to David Hufford",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A05_HUFFORD_IDENTITY.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\04.mp4"
+    },
+    {
+      "index": 6,
+      "start": 11.079,
+      "end": 12.659,
+      "duration": 1.58,
+      "anchor": "Years later",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A06_FOGO_COAST.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\05.mp4"
+    },
+    {
+      "index": 7,
+      "start": 12.659,
+      "end": 14.92,
+      "duration": 2.261,
+      "anchor": "strangers described",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A07_ORAL_HISTORY.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\06.mp4"
+    },
+    {
+      "index": 8,
+      "start": 14.92,
+      "end": 17.659,
+      "duration": 2.739,
+      "anchor": "gave the visitor a name",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\GENERATED\\A08_NAME_BEFORE.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\07.mp4"
+    },
+    {
+      "index": 9,
+      "start": 17.659,
+      "end": 19.119,
+      "duration": 1.46,
+      "anchor": "the Old Hag",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A09_OLD_HAG_REVEAL.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\08.mp4"
+    },
+    {
+      "index": 10,
+      "start": 19.119,
+      "end": 24.299,
+      "duration": 5.18,
+      "anchor": "REM physiology",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A10_REM_ATONIA.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\09.mp4"
+    },
+    {
+      "index": 11,
+      "start": 24.299,
+      "end": 26.879,
+      "duration": 2.58,
+      "anchor": "But Hufford's puzzle",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\GENERATED\\A11_INTENTION.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\10.mp4"
+    },
+    {
+      "index": 12,
+      "start": 26.879,
+      "end": 27.979,
+      "duration": 1.1,
+      "anchor": "why the footsteps",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A11B_FOOTSTEPS_QUESTION.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\11.mp4"
+    },
+    {
+      "index": 13,
+      "start": 27.979,
+      "end": 28.639,
+      "duration": 0.66,
+      "anchor": "the weight",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A11C_WEIGHT_QUESTION.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\12.mp4"
+    },
+    {
+      "index": 14,
+      "start": 28.639,
+      "end": 32.719,
+      "duration": 4.08,
+      "anchor": "the certainty",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A11D_INTENTION_QUESTION.png",
+      "static": false,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\13.mp4"
+    },
+    {
+      "index": 15,
+      "start": 32.719,
+      "end": 35.079,
+      "duration": 2.36,
+      "anchor": "Does folklore",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A12_FOLKLORE_MASK.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\14.mp4"
+    },
+    {
+      "index": 16,
+      "start": 35.079,
+      "end": 38.5,
+      "duration": 3.421,
+      "anchor": "Or do recurring encounters",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A13_ENCOUNTER_LOOP.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\15.mp4"
+    },
+    {
+      "index": 17,
+      "start": 38.5,
+      "end": 40.639,
+      "duration": 2.139,
+      "anchor": "The full investigation",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A14_LONGFORM_BRIDGE.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\16.mp4"
+    },
+    {
+      "index": 18,
+      "start": 40.639,
+      "end": 43.793,
+      "duration": 3.154,
+      "anchor": "Which came first",
+      "visual": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\03_ASSETS\\VERTICAL\\A15_LEGEND_OR_ENCOUNTER.png",
+      "static": true,
+      "segment": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\04_EDIT\\segments\\17.mp4"
+    }
+  ],
+  "count_signal_times": []
+}

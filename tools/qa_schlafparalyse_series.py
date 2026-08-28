@@ -93,20 +93,30 @@ def main() -> int:
         clips = sorted(output.glob("CLIP*.mp4"))
         reserve = sorted((output / "RESERVE_CLIPS").glob("CLIP*.mp4"))
 
+        with (kit / "GENERATION_QUEUE.csv").open(encoding="utf-8-sig", newline="") as handle:
+            queue = list(csv.DictReader(handle))
+        queue_outputs = [row["output_filename"] for row in queue if row["kind"] != "STYLE_MASTER"]
+        required_names = set(queue_outputs)
+
         hashes: dict[str, list[str]] = {}
         wrong_sizes: list[dict[str, object]] = []
         for path in core:
             hashes.setdefault(sha256(path), []).append(path.name)
-            with Image.open(path) as image:
-                if image.size != config["size"]:
-                    wrong_sizes.append({"file": path.name, "size": list(image.size)})
+            # Varianten und spaetere Retention-Ergaenzungen duerfen andere
+            # native Groessen besitzen. Das harte Aufloesungs-Gate gilt fuer
+            # die verpflichtenden Dateien der Generation Queue.
+            if path.name in required_names:
+                with Image.open(path) as image:
+                    if image.size != config["size"]:
+                        wrong_sizes.append({"file": path.name, "size": list(image.size)})
         duplicate_groups = [names for names in hashes.values() if len(names) > 1]
 
         card_wrong_sizes: list[dict[str, object]] = []
         for path in cards:
-            with Image.open(path) as image:
-                if image.size != (2560, 1440):
-                    card_wrong_sizes.append({"file": path.name, "size": list(image.size)})
+            if path.name in required_names:
+                with Image.open(path) as image:
+                    if image.size != (2560, 1440):
+                        card_wrong_sizes.append({"file": path.name, "size": list(image.size)})
 
         clip_details = {path.name: probe_clip(path) for path in clips}
         bad_clips = {
@@ -119,27 +129,24 @@ def main() -> int:
             or details["has_audio"]
         }
 
-        with (kit / "GENERATION_QUEUE.csv").open(encoding="utf-8-sig", newline="") as handle:
-            queue = list(csv.DictReader(handle))
-        queue_outputs = [row["output_filename"] for row in queue if row["kind"] != "STYLE_MASTER"]
         queue_bad_prefix = [name for name in queue_outputs if BAD_PREFIX.match(name)]
         queue_missing = [name for name in queue_outputs if not (output / name).is_file()]
 
         failures: list[str] = []
-        if len(core) != config["core"]:
-            failures.append(f"Core-Stills {len(core)}/{config['core']}")
+        if len(core) < config["core"]:
+            failures.append(f"Core-Stills {len(core)}/{config['core']} Mindestzahl")
         if wrong_sizes:
             failures.append(f"{len(wrong_sizes)} Core-Stills mit falscher Auflösung")
         if duplicate_groups:
             failures.append(f"{len(duplicate_groups)} exakte Duplikatgruppe(n)")
         if any(BAD_PREFIX.match(path.name) for path in [*core, *clips]):
             failures.append("EP-Präfix in verwendbarem Outputnamen")
-        if len(cards) != config["cards"]:
-            failures.append(f"Karten {len(cards)}/{config['cards']}")
+        if len(cards) < config["cards"]:
+            failures.append(f"Karten {len(cards)}/{config['cards']} Mindestzahl")
         if card_wrong_sizes:
             failures.append(f"{len(card_wrong_sizes)} Karten mit falscher Auflösung")
-        if len(clips) != 4:
-            failures.append(f"MAIN-Clips {len(clips)}/4")
+        if len(clips) < 4:
+            failures.append(f"MAIN-Clips {len(clips)}/4 Mindestzahl")
         if bad_clips:
             failures.append(f"{len(bad_clips)} technisch fehlerhafte MAIN-Clips")
         if queue_bad_prefix:

@@ -1,0 +1,13 @@
+{
+  "asset": "GW_EN_CLIP04_BEAT_RESONANCE.mp4",
+  "provider": "deterministic Python/Pillow + FFmpeg",
+  "duration": 8.0,
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "audio": false,
+  "visible_mode_badge": false,
+  "use": "400/410 Hz to 10 beats per second"
+}

@@ -1,0 +1,13 @@
+{
+  "asset": "GW_EN_CLIP07_TEN_DIGITS.mp4",
+  "provider": "deterministic Python/Pillow + FFmpeg",
+  "duration": 9.0,
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "audio": false,
+  "visible_mode_badge": false,
+  "use": "reported partial match; incomplete sequence"
+}

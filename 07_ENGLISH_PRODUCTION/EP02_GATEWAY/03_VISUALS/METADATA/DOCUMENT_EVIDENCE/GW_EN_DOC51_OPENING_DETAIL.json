@@ -1,0 +1,72 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 25,
+  "phrase": "sliding out through either end of his body",
+  "match_count": 8,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    53.0,
+    612.0,
+    95.0
+  ],
+  "highlight_rects": [
+    [
+      232.08,
+      74.02,
+      274.19,
+      83.44
+    ],
+    [
+      280.07,
+      73.71,
+      298.56,
+      82.82
+    ],
+    [
+      304.09,
+      73.07,
+      347.13,
+      82.51
+    ],
+    [
+      352.57,
+      72.54,
+      388.46,
+      81.88
+    ],
+    [
+      394.81,
+      72.21,
+      413.78,
+      81.33
+    ],
+    [
+      419.05,
+      71.97,
+      431.89,
+      81.01
+    ],
+    [
+      437.3,
+      71.67,
+      455.51,
+      80.78
+    ],
+    [
+      461.3,
+      71.34,
+      480.65,
+      80.46
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

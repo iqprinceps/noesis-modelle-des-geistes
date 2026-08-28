@@ -1,0 +1,472 @@
+{
+  "created_utc": "2026-08-26T21:47:31.651641+00:00",
+  "reviewer": "EP01 production visual QA",
+  "review_basis": [
+    "05_QA/CONTACT_SHEETS/deterministic_contact_01.jpg through deterministic_contact_07.jpg",
+    "individual original-resolution inspection of the strongest dual-hash candidates",
+    "05_QA/CONTACT_SHEETS/clip_start_mid_end_contact.jpg"
+  ],
+  "scope": "Current content hashes only; any modified asset loses this review match automatically.",
+  "reviews": [
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "right_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_sha256": "17f412027f962b908bb5612265a6a724bcc91ae2598f95f9e44faf16bf15f696",
+      "right_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "right_asset": "KZ_SRC_EVIDENCE_PUBLICATIONS",
+      "left_sha256": "17f412027f962b908bb5612265a6a724bcc91ae2598f95f9e44faf16bf15f696",
+      "right_sha256": "4b9390128aacb4bdab841e5bd69ed873d92c9eeb39e9aac441a097a399d67222",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "left_sha256": "17f412027f962b908bb5612265a6a724bcc91ae2598f95f9e44faf16bf15f696",
+      "right_sha256": "6c61e88528992b63c36b0e17135d65295d6d02500d9687ccf89fd59d7476368a",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG2_CYLINDER",
+      "right_asset": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "left_sha256": "17f412027f962b908bb5612265a6a724bcc91ae2598f95f9e44faf16bf15f696",
+      "right_sha256": "15e64aa09b4cf9b54639a35dc02cf87730f274069de647991cc391623bb23b6f",
+      "dhash_hamming": 5,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG3_CW",
+      "right_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "left_sha256": "1476547c992fae0fe94bf553ce49cfbd2f90ff601df7617128e6329da2cd3e16",
+      "right_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG3_CW",
+      "right_asset": "KZ_SRC_PATENT_POLISHED_SURFACE_TEXT",
+      "left_sha256": "1476547c992fae0fe94bf553ce49cfbd2f90ff601df7617128e6329da2cd3e16",
+      "right_sha256": "13e2c01d51dcc42e5debc99d4399345478ec8165aeea89167901e732376c78b1",
+      "dhash_hamming": 1,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG3_CW",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "left_sha256": "1476547c992fae0fe94bf553ce49cfbd2f90ff601df7617128e6329da2cd3e16",
+      "right_sha256": "ecbe685c41ba317923139ed95632aae11f02f826e7d216e8de80d1b8b16b62e6",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_MODEL_PATENT_FIG3_CCW",
+      "right_asset": "KZ_MODEL_DIRECTION_COMPARE",
+      "left_sha256": "879d947a975df85c6f0cb1d9776977ce2b1cf9e077fa20bdba430491be03102f",
+      "right_sha256": "1c7e158dd4d695a879f9b0832f185001990962494e07dd4c6aba81619776d3b1",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "c5ad0b2067bbdc5ec521dc0c2c70773bcc24956e43912291ffe51a33576f318d",
+      "dhash_hamming": 3,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "dhash_hamming": 3,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "d5b13bf46e28e8ca21df144cd8ca7c3f9d62ab83903b200d3308568fbfac8a26",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "2cbb4874a870b8720e0df0e702b7c8feb01e8b87eb483b1963a75411c6d9ef7b",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "4b816592d40e8ed19934e0f4c4bbdac302ee247039d1edafb3ad27b3c208b470",
+      "dhash_hamming": 5,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "ecbe685c41ba317923139ed95632aae11f02f826e7d216e8de80d1b8b16b62e6",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "6c61e88528992b63c36b0e17135d65295d6d02500d9687ccf89fd59d7476368a",
+      "dhash_hamming": 2,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "15e64aa09b4cf9b54639a35dc02cf87730f274069de647991cc391623bb23b6f",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_FIG4_ROTATION",
+      "right_asset": "KZ_SRC_CLAIM_HISTORY_PUBLICATIONS",
+      "left_sha256": "ad3e09c7d62ebe7018a13821bed4973315f04ea05160916c93548ed08b3115ca",
+      "right_sha256": "34339741e314545e5ae2abd378b97f7bee1af866cd9c6ebebbd7ee91f701e071",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "left_sha256": "c5ad0b2067bbdc5ec521dc0c2c70773bcc24956e43912291ffe51a33576f318d",
+      "right_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "left_sha256": "c5ad0b2067bbdc5ec521dc0c2c70773bcc24956e43912291ffe51a33576f318d",
+      "right_sha256": "9245b25544a5f7a7adbd76dc5ae013aab6f13683c6bfcf9188add1a7ed1a9d09",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "left_sha256": "c5ad0b2067bbdc5ec521dc0c2c70773bcc24956e43912291ffe51a33576f318d",
+      "right_sha256": "ecbe685c41ba317923139ed95632aae11f02f826e7d216e8de80d1b8b16b62e6",
+      "dhash_hamming": 1,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_LUNAR_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "left_sha256": "c5ad0b2067bbdc5ec521dc0c2c70773bcc24956e43912291ffe51a33576f318d",
+      "right_sha256": "6c61e88528992b63c36b0e17135d65295d6d02500d9687ccf89fd59d7476368a",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_POLISHED_SURFACE_TEXT",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "left_sha256": "13e2c01d51dcc42e5debc99d4399345478ec8165aeea89167901e732376c78b1",
+      "right_sha256": "ecbe685c41ba317923139ed95632aae11f02f826e7d216e8de80d1b8b16b62e6",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_POLISHED_SURFACE_TEXT",
+      "right_asset": "KZ_SRC_PATENT_DIMENSIONS",
+      "left_sha256": "13e2c01d51dcc42e5debc99d4399345478ec8165aeea89167901e732376c78b1",
+      "right_sha256": "dc826fa5c387c19ce906122bdf0b9307a10a84aa171dc620ed2e3ba1b05cb4d1",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "left_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "right_sha256": "d5b13bf46e28e8ca21df144cd8ca7c3f9d62ab83903b200d3308568fbfac8a26",
+      "dhash_hamming": 2,
+      "phash_hamming": 2,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "left_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "right_sha256": "2cbb4874a870b8720e0df0e702b7c8feb01e8b87eb483b1963a75411c6d9ef7b",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "left_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "right_sha256": "4b816592d40e8ed19934e0f4c4bbdac302ee247039d1edafb3ad27b3c208b470",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "left_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "right_sha256": "ecbe685c41ba317923139ed95632aae11f02f826e7d216e8de80d1b8b16b62e6",
+      "dhash_hamming": 5,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_EVIDENCE_STACK",
+      "left_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "right_sha256": "3d10e229d30df13c9d1790ba7e3e90c110759d09f68fc7600953e10855ee7357",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "left_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "right_sha256": "6c61e88528992b63c36b0e17135d65295d6d02500d9687ccf89fd59d7476368a",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "left_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "right_sha256": "c8822375610198da68aab5a6047281dd7f14c3af3ce1da3862d286f1b2e9363e",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_GEOMAGNETIC",
+      "right_asset": "KZ_SRC_CLAIM_HISTORY_PUBLICATIONS",
+      "left_sha256": "dc6ff24d2a3ebff73b1a529d3db2fe0e8127849752a5c2e86012ae2cf145e71b",
+      "right_sha256": "34339741e314545e5ae2abd378b97f7bee1af866cd9c6ebebbd7ee91f701e071",
+      "dhash_hamming": 2,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "right_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "left_sha256": "9245b25544a5f7a7adbd76dc5ae013aab6f13683c6bfcf9188add1a7ed1a9d09",
+      "right_sha256": "4b816592d40e8ed19934e0f4c4bbdac302ee247039d1edafb3ad27b3c208b470",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "left_sha256": "9245b25544a5f7a7adbd76dc5ae013aab6f13683c6bfcf9188add1a7ed1a9d09",
+      "right_sha256": "ecbe685c41ba317923139ed95632aae11f02f826e7d216e8de80d1b8b16b62e6",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_INVENTOR_CLAIM",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "left_sha256": "9245b25544a5f7a7adbd76dc5ae013aab6f13683c6bfcf9188add1a7ed1a9d09",
+      "right_sha256": "c8822375610198da68aab5a6047281dd7f14c3af3ce1da3862d286f1b2e9363e",
+      "dhash_hamming": 4,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "right_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "left_sha256": "d5b13bf46e28e8ca21df144cd8ca7c3f9d62ab83903b200d3308568fbfac8a26",
+      "right_sha256": "2cbb4874a870b8720e0df0e702b7c8feb01e8b87eb483b1963a75411c6d9ef7b",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "right_asset": "KZ_SRC_EVIDENCE_STACK",
+      "left_sha256": "d5b13bf46e28e8ca21df144cd8ca7c3f9d62ab83903b200d3308568fbfac8a26",
+      "right_sha256": "3d10e229d30df13c9d1790ba7e3e90c110759d09f68fc7600953e10855ee7357",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_HELIOGEOPHYSICAL",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "left_sha256": "d5b13bf46e28e8ca21df144cd8ca7c3f9d62ab83903b200d3308568fbfac8a26",
+      "right_sha256": "c8822375610198da68aab5a6047281dd7f14c3af3ce1da3862d286f1b2e9363e",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "right_asset": "KZ_SRC_EVIDENCE_STACK",
+      "left_sha256": "2cbb4874a870b8720e0df0e702b7c8feb01e8b87eb483b1963a75411c6d9ef7b",
+      "right_sha256": "3d10e229d30df13c9d1790ba7e3e90c110759d09f68fc7600953e10855ee7357",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_RESEARCHERS_LATER_WORK",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "left_sha256": "2cbb4874a870b8720e0df0e702b7c8feb01e8b87eb483b1963a75411c6d9ef7b",
+      "right_sha256": "c8822375610198da68aab5a6047281dd7f14c3af3ce1da3862d286f1b2e9363e",
+      "dhash_hamming": 4,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "right_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "left_sha256": "4b816592d40e8ed19934e0f4c4bbdac302ee247039d1edafb3ad27b3c208b470",
+      "right_sha256": "6c61e88528992b63c36b0e17135d65295d6d02500d9687ccf89fd59d7476368a",
+      "dhash_hamming": 5,
+      "phash_hamming": 4,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_2006_MODELED_SPACE",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "left_sha256": "4b816592d40e8ed19934e0f4c4bbdac302ee247039d1edafb3ad27b3c208b470",
+      "right_sha256": "c8822375610198da68aab5a6047281dd7f14c3af3ce1da3862d286f1b2e9363e",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_EVIDENCE_PATENT",
+      "right_asset": "KZ_CLIP_PATENT_EVIDENCE_DECONSTRUCTION",
+      "left_sha256": "749bcec8c9fa74d6acffa66ec574bfc510b9d8dfc9be9e14beb365be17a7b1ad",
+      "right_sha256": "ecbe685c41ba317923139ed95632aae11f02f826e7d216e8de80d1b8b16b62e6",
+      "dhash_hamming": 2,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: materially different geometry, evidence, or semantic composition; no crop, zoom, overlay, or restarted-sequence duplicate."
+    },
+    {
+      "left_asset": "KZ_SRC_EVIDENCE_STACK",
+      "right_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "left_sha256": "3d10e229d30df13c9d1790ba7e3e90c110759d09f68fc7600953e10855ee7357",
+      "right_sha256": "c8822375610198da68aab5a6047281dd7f14c3af3ce1da3862d286f1b2e9363e",
+      "dhash_hamming": 2,
+      "phash_hamming": 2,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_EVIDENCE_STACK",
+      "right_asset": "KZ_SRC_CLAIM_HISTORY_PUBLICATIONS",
+      "left_sha256": "3d10e229d30df13c9d1790ba7e3e90c110759d09f68fc7600953e10855ee7357",
+      "right_sha256": "34339741e314545e5ae2abd378b97f7bee1af866cd9c6ebebbd7ee91f701e071",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_DIRECTION_TEXT_DETAIL",
+      "right_asset": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "left_sha256": "6c61e88528992b63c36b0e17135d65295d6d02500d9687ccf89fd59d7476368a",
+      "right_sha256": "15e64aa09b4cf9b54639a35dc02cf87730f274069de647991cc391623bb23b6f",
+      "dhash_hamming": 3,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    },
+    {
+      "left_asset": "KZ_SRC_PATENT_ROTATION_TEXT_DETAIL",
+      "right_asset": "KZ_SRC_PATENT_DOCUMENTED_CHAMBER",
+      "left_sha256": "c8822375610198da68aab5a6047281dd7f14c3af3ce1da3862d286f1b2e9363e",
+      "right_sha256": "15e64aa09b4cf9b54639a35dc02cf87730f274069de647991cc391623bb23b6f",
+      "dhash_hamming": 5,
+      "phash_hamming": 6,
+      "verdict": "PASS_DISTINCT",
+      "reason": "Manual visual review: distinct source page, figure, line-level claim, portrait, or publication context; the near hash is caused by the shared dark evidence-card layout and not by recycled viewer content."
+    }
+  ]
+}

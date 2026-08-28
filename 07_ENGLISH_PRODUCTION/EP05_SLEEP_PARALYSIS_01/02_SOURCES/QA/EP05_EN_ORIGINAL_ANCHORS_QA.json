@@ -1,0 +1,282 @@
+{
+  "gate": "PASS",
+  "items": [
+    {
+      "asset_id": "EP05_ORIG_FOGO_VILLAGE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_FOGO_VILLAGE.jpg",
+      "width": 640,
+      "height": 421,
+      "sha256": "6781121198daa5a564f4aab391741f905ba3324edcb43fcfe53149c2c2bf98cc",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Fogo / Old Hag place anchor"
+    },
+    {
+      "asset_id": "EP05_ORIG_FOGO_MAP_1873",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_FOGO_MAP_1873.jpg",
+      "width": 9697,
+      "height": 14974,
+      "sha256": "ad3da5b0e3c41bae7ad1e9550846741a3c26bc0fd8f357878780dcc05a030cf5",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Historical geographic anchor"
+    },
+    {
+      "asset_id": "EP05_ORIG_NHLBI_SLEEP_STUDY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_NHLBI_SLEEP_STUDY.jpg",
+      "width": 475,
+      "height": 592,
+      "sha256": "d42439287d97350e4210d070d65db9ba9da36cf6c502b54959d03d8ec67f59d4",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Polysomnography context"
+    },
+    {
+      "asset_id": "EP05_ORIG_REM_PSG",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_REM_PSG.png",
+      "width": 821,
+      "height": 601,
+      "sha256": "fb0195de6ae1f85a5acf9c30fe14e6db6e8a3e2aaedeeb40876352f282a50cbf",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Real REM polysomnography trace"
+    },
+    {
+      "asset_id": "EP05_ORIG_PSG_CONNECTIONS",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_PSG_CONNECTIONS.jpg",
+      "width": 756,
+      "height": 882,
+      "sha256": "90d8bbd0944b56976bd1744e41b9e0bd95b771c6d8d01119c0b3a1959a7f64c0",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Real sleep-study sensors"
+    },
+    {
+      "asset_id": "EP05_ORIG_FUSELI_NIGHTMARE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_FUSELI_NIGHTMARE.jpg",
+      "width": 3013,
+      "height": 2442,
+      "sha256": "57dcdf9c6299b71fddec5dddc33b92a2b271a53c382a75563cbdf155b6b3c127",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Historically relevant night-pressure iconography"
+    },
+    {
+      "asset_id": "EP05_ORIG_BRIDGET_BISHOP_LITHO",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_BRIDGET_BISHOP_LITHO.jpg",
+      "width": 300,
+      "height": 394,
+      "sha256": "c298afa2f3b3930aba7ed96505d53ae426871c868132d8b46bbdcac86d412ba7",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Later historical depiction, never a contemporary portrait"
+    },
+    {
+      "asset_id": "EP05_ORIG_BISHOP_EXECUTION_RECORD",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_BISHOP_EXECUTION_RECORD.png",
+      "width": 792,
+      "height": 1098,
+      "sha256": "1165ff504cc43852141e2c29080e508e07cb803549faa8cf7a23293901aaa213",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Public-domain Salem record"
+    },
+    {
+      "asset_id": "EP05_ORIG_SALEM_COURTROOM_1876",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_SALEM_COURTROOM_1876.jpg",
+      "width": 2356,
+      "height": 1637,
+      "sha256": "e6bd9565809719bc322eee8e9a1e225e08cde51cef0ef416d6e2330586e32553",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Later Salem courtroom engraving"
+    },
+    {
+      "asset_id": "EP05_ORIG_FOGO_TILTING_HARBOUR",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_FOGO_TILTING_HARBOUR.jpg",
+      "width": 6000,
+      "height": 4000,
+      "sha256": "509392f7a31a359d9f71453ebfcffb6fbc2fdd196d2f1f428862505c52955179",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Contemporary Tilting harbour / Fogo place texture"
+    },
+    {
+      "asset_id": "EP05_ORIG_FOGO_FOG_HARBOUR",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_FOGO_FOG_HARBOUR.jpg",
+      "width": 6000,
+      "height": 4000,
+      "sha256": "7c8eca92b0ccf5499326754c267223684bf696622eb27e7c16a9f8806b3ea980",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Fogo weather and harbour atmosphere"
+    },
+    {
+      "asset_id": "EP05_ORIG_FOGO_ROAD_TILTING",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_FOGO_ROAD_TILTING.jpg",
+      "width": 6000,
+      "height": 4000,
+      "sha256": "759dc48bdb5fe1d9a17fd0e5dc9d5e60f257f59480b9d3ecb949277a9677043e",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Contemporary road and coastal terrain on Fogo Island"
+    },
+    {
+      "asset_id": "EP05_ORIG_FOGO_INN_WALK",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_FOGO_INN_WALK.jpg",
+      "width": 6000,
+      "height": 4000,
+      "sha256": "c53c8b77b5f0f8665627b98947487e1d6357c6adcc2fb398a6b4444a8b7c6c4c",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Contemporary Fogo coast and material landscape"
+    },
+    {
+      "asset_id": "EP05_ORIG_PSG_TESTER",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_PSG_TESTER.jpg",
+      "width": 2312,
+      "height": 2036,
+      "sha256": "b01dfbcc4672923ab9a9da9aeef51414d9ecd14a6e5b5cb68c8d29cb42e0b040",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Real polysomnography testing equipment and subject"
+    },
+    {
+      "asset_id": "EP05_ORIG_SLEEP_STUDY_WIRED_01",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_SLEEP_STUDY_WIRED_01.jpg",
+      "width": 1540,
+      "height": 2926,
+      "sha256": "b6e3d600a50027079dd66194c1eb897f88f782cd1c8c5edb5674bef2c6016714",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Real sleep-study sensor application"
+    },
+    {
+      "asset_id": "EP05_ORIG_SLEEP_STUDY_WIRED_02",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_SLEEP_STUDY_WIRED_02.jpg",
+      "width": 1639,
+      "height": 2491,
+      "sha256": "f22c9eaac5c424994c044cd55f4294a077c2a02ff0e0b9947c8a0bc00ec90cb1",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Real sleep-study sensor context, second distinct view"
+    },
+    {
+      "asset_id": "EP05_ORIG_EEG_CAP",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_EEG_CAP.jpg",
+      "width": 289,
+      "height": 423,
+      "sha256": "5e470ccf10e088b8fe983c8dc16f11a421eee97a358862680e3dcb7b9283e5a5",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Real EEG cap and electrode layout"
+    },
+    {
+      "asset_id": "EP05_ORIG_NACHTMAHR_ABILDGAARD",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_NACHTMAHR_ABILDGAARD.jpg",
+      "width": 3748,
+      "height": 3160,
+      "sha256": "3491a17dbd97207e4d2e1b9c02af3ea5bbd36966ca6e30d646411cd2792cc074",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Dated historical nightmare / chest-pressure iconography"
+    },
+    {
+      "asset_id": "EP05_ORIG_SALEM_EXECUTION_RECORD_ALT",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_SALEM_EXECUTION_RECORD_ALT.png",
+      "width": 792,
+      "height": 1098,
+      "sha256": "1165ff504cc43852141e2c29080e508e07cb803549faa8cf7a23293901aaa213",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Archival execution-record anchor"
+    },
+    {
+      "asset_id": "EP05_ORIG_HUFFORD_OFFICIAL_PHOTO",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_HUFFORD_OFFICIAL_PHOTO.jpg",
+      "width": 300,
+      "height": 300,
+      "sha256": "84a1a78081a6bfc10c676782a3ad1ab7911f93ad973c2ee0a32a8801743b7458",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Authentic Hufford identity anchor; do not crop or imply the second person is Hufford"
+    },
+    {
+      "asset_id": "EP05_ORIG_HUMAN_REM_PHYSIOLOGY_FIG6",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_HUMAN_REM_PHYSIOLOGY_FIG6.jpg",
+      "width": 4134,
+      "height": 4264,
+      "sha256": "ac998c3b196e13a419fc8631b4faf54a723142f470bbf975967d0a8e00687c02",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Open-science human REM hypnogram and polysomnography anchor"
+    },
+    {
+      "asset_id": "EP05_ORIG_HUFFORD_BOOK_COVER",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\ORIGINALS\\EP05_ORIG_HUFFORD_BOOK_COVER.jpg",
+      "width": 201,
+      "height": 304,
+      "sha256": "8f4bc60ed51088686c04b680904feaf2244760f7677d05223b50ec9fcb03666f",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Authentic Hufford identity and book anchor"
+    },
+    {
+      "asset_id": "HUFFORD FIRST-PERSON SOURCE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\RENDERS\\HUFFORD_LOC_P24-024.png",
+      "width": 1100,
+      "height": 1700,
+      "sha256": "af012ac8b0d8a422018a0b0d1de543bba59e2b9226119f89d5b3a2d330bd283a",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Old Hag features and culture-independent pattern"
+    },
+    {
+      "asset_id": "CHEYNE IDENTITY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_CHEYNE_WATERLOO_PROFILE_FULL.png",
+      "width": 1123,
+      "height": 1542,
+      "sha256": "824fa05c95c87057860712bf6b83f60d478a6ab509addd42c5f850a2049d9d8d",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Official Waterloo profile; source-identifying editorial use"
+    },
+    {
+      "asset_id": "HUFFORD OFFICIAL BIO",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_HUFFORD_OFFICIAL_BIO_VIEW.png",
+      "width": 1440,
+      "height": 1800,
+      "sha256": "7d04aa3a86cc08292e985670fe6d38fb3e271070ba641913e59ede042ddaaaa9",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Official biography and contextual two-person photograph"
+    },
+    {
+      "asset_id": "CHEYNE 1999 PAPER",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_CHEYNE_PUBMED_1999_CARD.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "95600bc4774c5d3e5e21ad42f32858d32ed00c88c0e13d213674b51e53528bc7",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Official NCBI XML extraction; complete three-factor abstract"
+    },
+    {
+      "asset_id": "CHEYNE 2007 PAPER",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_CHEYNE_PUBMED_2007_CARD.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0773a010e1a9916ad5ab37b6c1c6c1efa9a731dd2b5d3e0b693f5de22f62b139",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Official NCBI XML extraction; felt-presence result"
+    },
+    {
+      "asset_id": "TAKEUCHI PAPER",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_TAKEUCHI_PUBMED_1992_CARD.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "410cfae0b3191958a8e43e4cf8f83e96188a6c4b470977086544b13c2c674276",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Official NCBI XML extraction; protocol, six episodes and PSG result"
+    },
+    {
+      "asset_id": "SALEM TESTIMONY",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_SALEM_RICHARD_COMAN_VIEW.png",
+      "width": 1123,
+      "height": 1018,
+      "sha256": "273421f4871a8041687fb4f4bcb0e6eef72598e84ddf7f3b0b31a6e23b262e48",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Complete relevant Richard Coman transcription context"
+    },
+    {
+      "asset_id": "MASSACHUSETTS ARCHIVE GUIDE",
+      "path": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\CAPTURES\\SRC_MASS_SALEM_ARCHIVE_GUIDE_VIEW.png",
+      "width": 1440,
+      "height": 1800,
+      "sha256": "cf7dde9b420eab73f417d4abab5fb5a5053be457d4a0937a3fd2d840d260309f",
+      "contact_sheet_acceptance": "PASS",
+      "review_note": "Official Commonwealth guide to original Salem records"
+    }
+  ],
+  "resolved_alternatives": [
+    "No reuse-cleared Tomoka Takeuchi portrait; use the PubMed paper and neutral laboratory action.",
+    "Hufford is anchored by his own official biography page, contextual official-site photograph, book and first-person publication; no invented portrait.",
+    "Cheyne official portrait is source-identifying editorial context only; two actual publications remain the scientific anchors.",
+    "Massachusetts direct Coman media endpoint remains unavailable; the official Mass.gov archive guide plus UVA primary-source transcription provide the documented alternative.",
+    "The blocked Jacobs Commons file is replaced by the official Mass.gov guide's labeled Matteson/Peabody Essex Museum image and a distinct public-domain Salem courtroom engraving."
+  ]
+}

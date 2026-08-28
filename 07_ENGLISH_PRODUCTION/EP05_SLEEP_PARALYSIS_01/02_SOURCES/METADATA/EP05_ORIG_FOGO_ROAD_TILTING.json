@@ -1,0 +1,134 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "94622333": {
+          "pageid": 94622333,
+          "ns": 6,
+          "title": "File:Between Joe Batt's Arm and Tilting (47796953891).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11086393,
+              "width": 6000,
+              "height": 4000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Between_Joe_Batt%27s_Arm_and_Tilting_%2847796953891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Between_Joe_Batt%27s_Arm_and_Tilting_(47796953891).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94622333",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-09-30 18:55:46",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Between Joe Batt's Arm and Tilting (47796953891)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Fogo Island|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|March 2019 in Newfoundland and Labrador",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "49.714670",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-54.112925",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "taken on snowshoes as we made our own trail",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-03-13 09:11",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pauljill/47796953891/\">between Joe Batt's Arm and Tilting</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39136124@N00\">Paul Asman and Jill Lenoble</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_FOGO_ROAD_TILTING",
+    "title": "File:Between Joe Batt's Arm and Tilting (47796953891).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Between_Joe_Batt%27s_Arm_and_Tilting_(47796953891).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Between_Joe_Batt%27s_Arm_and_Tilting_%2847796953891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39136124@N00\">Paul Asman and Jill Lenoble</a>",
+    "date": "2019-03-13 09:11",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_FOGO_ROAD_TILTING.jpg",
+    "sha256": "759dc48bdb5fe1d9a17fd0e5dc9d5e60f257f59480b9d3ecb949277a9677043e",
+    "width": "6000",
+    "height": "4000",
+    "voice_beat": "Hufford worked with local accounts and archives in Newfoundland.",
+    "picture_function": "Contemporary road and coastal terrain on Fogo Island",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

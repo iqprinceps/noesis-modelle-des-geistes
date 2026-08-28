@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 7,
+  "phrase": "Role of Resonance",
+  "match_count": 3,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    502.5,
+    612.0,
+    747.5
+  ],
+  "highlight_rects": [
+    [
+      73.91,
+      517.77,
+      98.07,
+      526.0
+    ],
+    [
+      103.91,
+      517.54,
+      116.72,
+      525.64
+    ],
+    [
+      121.9,
+      516.91,
+      169.59,
+      525.42
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

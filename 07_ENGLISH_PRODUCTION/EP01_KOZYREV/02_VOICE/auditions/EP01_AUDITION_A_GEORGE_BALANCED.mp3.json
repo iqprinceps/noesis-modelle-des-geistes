@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\0712\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP01_KOZYREV\\02_VOICE\\auditions\\EP01_AUDITION_A_GEORGE_BALANCED.mp3",
+  "sha256": "04af3ed5d2ff30ae16f452f650368cfd361a442d8139a693d8fc7c3319feb11c",
+  "bytes": 361996,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.6,
+    "similarity_boost": 0.82,
+    "style": 0.05,
+    "use_speaker_boost": true,
+    "speed": 1.03
+  },
+  "seed": 2402,
+  "request_id": "3sVpMZuRNG0SMrQJoHsJ",
+  "text_sha256": "3c2707b4102ffa2e7e3dab829e266ef22492bd187b13d5b554c4ded3c7f64a57",
+  "characters": 343
+}

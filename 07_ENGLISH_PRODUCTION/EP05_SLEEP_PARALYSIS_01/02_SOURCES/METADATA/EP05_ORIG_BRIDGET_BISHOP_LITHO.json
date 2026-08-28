@@ -1,0 +1,120 @@
+{
+  "api": {
+    "continue": {
+      "iistart": "2014-04-04T04:17:37Z",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "31982375": {
+          "pageid": 31982375,
+          "ns": 6,
+          "title": "File:Bridget Bishop.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 94842,
+              "width": 300,
+              "height": 394,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bridget_Bishop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bridget_Bishop.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31982375",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-10-20 18:55:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Bridget Bishop",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Bridget Bishop|PD US expired|Template Unknown (author)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Bridget Bishop",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1632 and 1692<div style=\"display: none;\">date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1632-00-00T00:00:00Z/9,P1326,+1692-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><b>Original publication</b>: old photo <br>\n</p>\n<b>Immediate source</b>: <a rel=\"nofollow\" class=\"external free\" href=\"http://law2.umkc.edu/faculty/projects/ftrials/salem/sal_bbis.htm\">http://law2.umkc.edu/faculty/projects/ftrials/salem/sal_bbis.htm</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_BRIDGET_BISHOP_LITHO",
+    "title": "File:Bridget Bishop.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bridget_Bishop.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bridget_Bishop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "date": "between 1632 and 1692<div style=\"display: none;\">date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1632-00-00T00:00:00Z/9,P1326,+1692-00-00T00:00:00Z/9</div>",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_BRIDGET_BISHOP_LITHO.jpg",
+    "sha256": "c298afa2f3b3930aba7ed96505d53ae426871c868132d8b46bbdcac86d412ba7",
+    "width": "300",
+    "height": "394",
+    "voice_beat": "Her name was Bridget Bishop.",
+    "picture_function": "Later historical depiction, never a contemporary portrait",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "assets": [
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_01_ID",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_01_ID.png",
+      "sha256": "eae9928b034e626919dd3aaacedaeff919a21c7214bcc6b67b143e7744ec3657",
+      "voice_beat": "THE SLEEP INTERRUPTION STUDY",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_02_QUESTION",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_02_QUESTION.png",
+      "sha256": "cc906b7a2f4c5bd27cf3237bddfd20c351b46379ccd20d8f88633a5437c12822",
+      "voice_beat": "CAN DISRUPTED REM OPEN THE STATE?",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_03_SLEEP",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_03_SLEEP.png",
+      "sha256": "143baefe1b8340696730b8311fa5b170a4779e5bc370a930471799daeda63d68",
+      "voice_beat": "SLEEP",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_04_AWAKEN",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_04_AWAKEN.png",
+      "sha256": "e0d0d056ae57336799aeac0347a8dc1894ac80f9cf21eb25be20184129287f41",
+      "voice_beat": "SELECTED AWAKENING",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_05_60MIN",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_05_60MIN.png",
+      "sha256": "a0f0ae44f1d0a90a14db751463958ffd1eff135f5cc4227f5059de03b211705a",
+      "voice_beat": "60 MINUTES AWAKE",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_06_RETURN",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_06_RETURN.png",
+      "sha256": "cb961b83bc7b9acf2881593fc0e9a34f49cd92ca18fa075a619f721f9a6d6f56",
+      "voice_beat": "RETURN TO BED",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_07_EEG",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_07_EEG.png",
+      "sha256": "c40081cc0e9e02114433127276b67254f9939f4656c72ef3ce2cee28e9661b55",
+      "voice_beat": "BRAIN ACTIVITY",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_08_EMG",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_08_EMG.png",
+      "sha256": "1df51200b35dd34634086bfc1ecbb223d15e6a4712826c25906f76fde0f917d5",
+      "voice_beat": "MUSCLE TONE",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_09_NOT_COMMAND",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_09_NOT_COMMAND.png",
+      "sha256": "e769c3d009b796e6531a9d2743e224774ae025938215e618cc6ac324066a551c",
+      "voice_beat": "NOT ON COMMAND",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_10_NOT_EVERYONE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_10_NOT_EVERYONE.png",
+      "sha256": "8de1334d000e1a368f5d99ed6c5952f6f43fac1eaeb30225476b8b06f2347d9d",
+      "voice_beat": "NOT EVERYONE",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_11_INTERRUPTED",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_11_INTERRUPTED.png",
+      "sha256": "eba8ac98383b647173b201b2def5d4dc6d9d59ff2a41e9549435d1f2042bf6cb",
+      "voice_beat": "INTERRUPTED SLEEP",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_12_SIX",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_12_SIX.png",
+      "sha256": "eda51ea4676e1b1cc008e8e2b13ef9c5261aca2fa8c0283f9bf54e3c82ba3c9d",
+      "voice_beat": "6 EPISODES",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_13_LAB",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_13_LAB.png",
+      "sha256": "5734b630c6145f83b8bb3639db69e881387abf040f49d08cdca02ee0f0121565",
+      "voice_beat": "THEY WERE IN A LABORATORY",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_14_AWARE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_14_AWARE.png",
+      "sha256": "f60afaf9f07601a30cc7f29331e4b2a6c565679f92e5b7108040db16ec60ede2",
+      "voice_beat": "WAKING AWARENESS",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_15_IMMOBILE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_15_IMMOBILE.png",
+      "sha256": "3477e83a3b0b355e63130832f2b3757f9f35174d10942424e1993a87f44f1f78",
+      "voice_beat": "BODY IMMOBILIZED",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_16_VISUAL",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_16_VISUAL.png",
+      "sha256": "634fad8396cec6f7911f91a615477b04fb65c8cd928525299cbf5073ea36a322",
+      "voice_beat": "VISUAL",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_17_AUDITORY",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_17_AUDITORY.png",
+      "sha256": "c72716e5e70fe5ec590a0156911341c211a1d3ef92b9e836469a271477c8e25b",
+      "voice_beat": "AUDITORY",
+      "picture_function": "Takeuchi progressive research reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_18_SOURCE_CONTEXT",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_18_SOURCE_CONTEXT.png",
+      "sha256": "756020aa5e2ac05251c04b9370e30f8971040436fbff602f930cb17354fc10ec",
+      "voice_beat": "reports and polysomnograms captured the contradiction",
+      "picture_function": "Actual-source context before highlights",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_19_WAKING",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_19_WAKING.png",
+      "sha256": "2e7617c87f252dba8da13e161e83d46c0ee2843364f22d7bfdfd1f7480a497b6",
+      "voice_beat": "waking awareness",
+      "picture_function": "First source highlight",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_TAKEUCHI_20_ATONIA",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_TAKEUCHI_20_ATONIA.png",
+      "sha256": "4039bfba07fe4492023c9afcfd3de82e0ab60c05a8b0fb75b4c3370ae3bc5573",
+      "voice_beat": "muscular atonia persisted",
+      "picture_function": "Second source highlight",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_VIEWER_PRESSURE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_VIEWER_PRESSURE.png",
+      "sha256": "84a76d46ecceccd1d28d1372c5e704b72a9b833dad8bffb2c9f2a5fe4f6379b1",
+      "voice_beat": "PRESSURE",
+      "picture_function": "Viewer interaction",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_VIEWER_SOUND",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_VIEWER_SOUND.png",
+      "sha256": "fb939335598db0dc5dc49f5fb4e5f1b47caf5f0a5de71ce1c73fea5ca9d6c6b0",
+      "voice_beat": "SOUND",
+      "picture_function": "Viewer interaction",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_VIEWER_PRESENCE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_VIEWER_PRESENCE.png",
+      "sha256": "a2816c3eed49bb5993c51cc02b1f3da311575944f4741ad6213f89bd60e9a150",
+      "voice_beat": "PRESENCE",
+      "picture_function": "Viewer interaction",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_VIEWER_CHOICE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_VIEWER_CHOICE.png",
+      "sha256": "adda59d394a612bdb1f56534b5d6887494ace3587679cff7107f26141810f5d0",
+      "voice_beat": "PRESSURE  /  SOUND  /  PRESENCE",
+      "picture_function": "Viewer interaction",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_FEEDBACK_01_BODY",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_FEEDBACK_01_BODY.png",
+      "sha256": "58787710b5d7d53f7a0bdf3e575a462ad8a00289d3050d7358da18e4f32c5712",
+      "voice_beat": "BODY",
+      "picture_function": "Progressive body-to-expectation model",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_FEEDBACK_02_EXPERIENCE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_FEEDBACK_02_EXPERIENCE.png",
+      "sha256": "db9ece8c6b11c5d494ba9cc66ddab3f639170ed155ecb1f86647a96602810777",
+      "voice_beat": "EXPERIENCE",
+      "picture_function": "Progressive body-to-expectation model",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_FEEDBACK_03_STORY",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_FEEDBACK_03_STORY.png",
+      "sha256": "2a3071d8ffe9117a510f524e1fcb81edd5b7da5a038b2e98aabc525f2fd1a6af",
+      "voice_beat": "STORY",
+      "picture_function": "Progressive body-to-expectation model",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_FEEDBACK_04_EXPECTATION",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_FEEDBACK_04_EXPECTATION.png",
+      "sha256": "5efa4d7a2db2c8401cfda60944c0c3ed344dcb3a445e786d08f189a8f86062c0",
+      "voice_beat": "EXPECTATION",
+      "picture_function": "Progressive body-to-expectation model",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_CHEYNE_SUMMARY_01",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_CHEYNE_SUMMARY_01.png",
+      "sha256": "c0d84c1bfe70770b5de402a098ab63944853845f1c26d16289a73b77549bd0be",
+      "voice_beat": "A VISITOR",
+      "picture_function": "Cheyne three-family summary reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_CHEYNE_SUMMARY_02",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_CHEYNE_SUMMARY_02.png",
+      "sha256": "abbc3bbd219cd9cb44cc27313af7c6f99a49661cee92db9f5158e9d01b591f2f",
+      "voice_beat": "AN ATTACK",
+      "picture_function": "Cheyne three-family summary reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_CHEYNE_SUMMARY_03",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_CHEYNE_SUMMARY_03.png",
+      "sha256": "ed15cc0928dceda6e759f6b1cbe6eefb4e39acb18cc12c5a9097795f6b303227",
+      "voice_beat": "AN ESCAPE",
+      "picture_function": "Cheyne three-family summary reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_AGENCY_WATCHED_BEFORE_SEEN",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_AGENCY_WATCHED_BEFORE_SEEN.png",
+      "sha256": "0daf24814b43bcdad7535ea6ccc1053c7b6ad7884837385946bbfd30ec33bc3c",
+      "voice_beat": "feel watched before they see anything",
+      "picture_function": "Agency-model question",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_SALEM_01_RECORD",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_SALEM_01_RECORD.png",
+      "sha256": "eb018d989d02e07ecf9a590a4f67f88b8b00b3a42e0d6a9bb609a0090d455035",
+      "voice_beat": "A PRIVATE NIGHT ENTERS THE PUBLIC RECORD",
+      "picture_function": "Progressive Salem source reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_SALEM_02_PRESSURE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_SALEM_02_PRESSURE.png",
+      "sha256": "b14c53ed32fe884b8bb08b676c04b3b539025cb8e80536c0343d90fa43479564",
+      "voice_beat": "PRESSING ONTO HIS CHEST",
+      "picture_function": "Progressive Salem source reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_SALEM_03_SPEECH",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_SALEM_03_SPEECH.png",
+      "sha256": "c18ab4c5e20a1170f73f39eca918488bf5b2d515178bd005d25f38472684cf44",
+      "voice_beat": "COULD NOT SPEAK NOR STIR",
+      "picture_function": "Progressive Salem source reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_SALEM_04_BISHOP",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_SALEM_04_BISHOP.png",
+      "sha256": "738e54d92c5c92d0ae95829ea1e90b80a03e4d98f20485769f3aca7b24e20249",
+      "voice_beat": "HER NAME WAS BRIDGET BISHOP",
+      "picture_function": "Progressive Salem source reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_HUFFORD_CALLBACK",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_HUFFORD_CALLBACK.png",
+      "sha256": "6e54ce4d85f06a0dbf0c54ac91c06e58e41ae3a68254c714559a27ec8987f707",
+      "voice_beat": "awake and paralyzed in the presence of a frightening being",
+      "picture_function": "Hufford callback through a new published source state",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_HUFFORD_IDENTITY",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_HUFFORD_IDENTITY.png",
+      "sha256": "3b85995017071bdcb59768464fc77f91d49628945fbf3a6977421e24231b319e",
+      "voice_beat": "David Hufford / authentic identity",
+      "picture_function": "Filmic authentic identity reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_HUFFORD_SEQUENCE",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_HUFFORD_SEQUENCE.png",
+      "sha256": "93e0916508eec1f5eb662259e7aebeb8e70a1793468629e9bec9b6cdbffce138",
+      "voice_beat": "opening door / approaching steps / body / weight",
+      "picture_function": "Guided Hufford text reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_CHEYNE_IDENTITY",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_CHEYNE_IDENTITY.png",
+      "sha256": "4df266a004fdb3ab1e4082abf9e387300fefe56309749d547f22f69e8dbe97d6",
+      "voice_beat": "J. Allan Cheyne / authentic identity",
+      "picture_function": "Filmic authentic identity reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_CHEYNE_PUBLICATION",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_CHEYNE_PUBLICATION.png",
+      "sha256": "0d23f07ec4158abb788f33babd1e1d95176a9b026e1cbf44ca8083cc09b06596",
+      "voice_beat": "three broad families",
+      "picture_function": "Filmic publication reveal",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_CHEYNE_OPEN_QUESTION",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_CHEYNE_OPEN_QUESTION.png",
+      "sha256": "79a3f55550ccbdf3a646af1846c8877a13f664ef534ba4ec9d9fb2c9d84f9ad9",
+      "voice_beat": "Why does one unstable border keep opening into these particular rooms?",
+      "picture_function": "Contiguous three-family transformation into one viewer question",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    },
+    {
+      "asset_id": "EP05_CARD_CHEYNE_RESEARCH_LIMIT",
+      "path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/03_VISUALS/CARDS/EP05_CARD_CHEYNE_RESEARCH_LIMIT.png",
+      "sha256": "f7b8bde61f4610e324c8dcc24ba4383896eff7266b91d5feacc43a9ac03bf36e",
+      "voice_beat": "Research can classify the pattern but cannot inhabit every subjective second",
+      "picture_function": "Warm, one-task research-to-lived-experience relief",
+      "viewer_facing": true,
+      "internal_metadata_visible": false
+    }
+  ],
+  "policy": "No internal production/provenance metadata appears in viewer-facing frames."
+}

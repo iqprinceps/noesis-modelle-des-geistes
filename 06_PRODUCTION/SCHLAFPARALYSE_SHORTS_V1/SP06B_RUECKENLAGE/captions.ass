@@ -1,0 +1,51 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,62,&H00F5F2EB,&H00F5F2EB,&H00101014,&H8C000000,-1,0,0,0,100,100,0,0,1,5,2,2,105,210,420,1
+Style: Hook,Arial Black,58,&H00F5F2EB,&H00F5F2EB,&H00101014,&H98000000,-1,0,0,0,100,100,0,0,3,4,0,8,64,64,105,1
+Style: CTA,Segoe UI Semibold,42,&H00C7C28D,&H00C7C28D,&H00101014,&H9A000000,-1,0,0,0,100,100,0,0,1,4,1,8,80,210,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:01.75,Hook,,0,0,0,,RÜCKENLAGE?
+Dialogue: 0,0:00:00.30,0:00:01.54,Caption,,0,0,0,,Eine italienische Studie
+Dialogue: 0,0:00:01.60,0:00:03.50,Caption,,0,0,0,,fand, 55%
+Dialogue: 0,0:00:03.54,0:00:04.36,Caption,,0,0,0,,der Befragten mit
+Dialogue: 0,0:00:04.40,0:00:06.16,Caption,,0,0,0,,Schlafparalyse erlebten\Nsie
+Dialogue: 0,0:00:06.20,0:00:07.42,Caption,,0,0,0,,laut eigener Erinnerung
+Dialogue: 0,0:00:07.46,0:00:08.24,Caption,,0,0,0,,in Rückenlage.
+Dialogue: 0,0:00:08.86,0:00:09.66,Caption,,0,0,0,,Das beweist keine
+Dialogue: 0,0:00:09.78,0:00:11.10,Caption,,0,0,0,,Ursache, zeigt aber
+Dialogue: 0,0:00:11.16,0:00:12.44,Caption,,0,0,0,,einen überraschend\Neinfachen
+Dialogue: 0,0:00:12.54,0:00:13.06,Caption,,0,0,0,,Hebel für die
+Dialogue: 0,0:00:13.10,0:00:13.82,Caption,,0,0,0,,nächste Nacht.
+Dialogue: 0,0:00:14.52,0:00:15.54,Caption,,0,0,0,,Rückenlage trifft auf
+Dialogue: 0,0:00:15.64,0:00:16.84,Caption,,0,0,0,,zwei bekannte Risiken:
+Dialogue: 0,0:00:17.26,0:00:18.78,Caption,,0,0,0,,instabileren Schlaf und
+Dialogue: 0,0:00:18.86,0:00:19.80,Caption,,0,0,0,,veränderte Atmung.
+Dialogue: 0,0:00:20.48,0:00:21.72,Caption,,0,0,0,,Dazu kommen\NSchlafmangel,
+Dialogue: 0,0:00:22.08,0:00:23.28,Caption,,0,0,0,,Jetlag sowie wechselnde
+Dialogue: 0,0:00:23.40,0:00:23.78,Caption,,0,0,0,,Zeiten.
+Dialogue: 0,0:00:24.24,0:00:25.06,Caption,,0,0,0,,Sie können REM
+Dialogue: 0,0:00:25.10,0:00:26.30,Caption,,0,0,0,,und Wachheit leichter
+Dialogue: 0,0:00:26.34,0:00:27.76,Caption,,0,0,0,,gegeneinander\Nverschieben und
+Dialogue: 0,0:00:27.78,0:00:29.02,Caption,,0,0,0,,die Übergänge zusätzlich
+Dialogue: 0,0:00:29.08,0:00:29.84,Caption,,0,0,0,,unruhig machen.
+Dialogue: 0,0:00:30.44,0:00:31.52,Caption,,0,0,0,,Die nüchterne Strategie
+Dialogue: 0,0:00:31.60,0:00:32.64,Caption,,0,0,0,,lautet deshalb:
+Dialogue: 0,0:00:32.72,0:00:34.64,Caption,,0,0,0,,Seitenlage testen,\Ninsgesamt
+Dialogue: 0,0:00:34.70,0:00:35.30,Caption,,0,0,0,,sieben bis neun
+Dialogue: 0,0:00:35.44,0:00:36.60,Caption,,0,0,0,,Stunden schlafen und
+Dialogue: 0,0:00:36.68,0:00:37.78,Caption,,0,0,0,,feste Zeiten halten.
+Dialogue: 0,0:00:38.38,0:00:39.66,Caption,,0,0,0,,Kein Zaubertrick, nur
+Dialogue: 0,0:00:39.70,0:00:40.86,Caption,,0,0,0,,deutlich weniger Chancen
+Dialogue: 0,0:00:40.94,0:00:41.60,Caption,,0,0,0,,für den falschen
+Dialogue: 0,0:00:41.64,0:00:42.88,Caption,,0,0,0,,Moment zwischen Traum
+Dialogue: 0,0:00:42.92,0:00:43.62,Caption,,0,0,0,,und Wachsein.
+Dialogue: 1,0:00:41.54,0:00:44.34,CTA,,0,0,0,,Mehr: Schlafparalyse EP06

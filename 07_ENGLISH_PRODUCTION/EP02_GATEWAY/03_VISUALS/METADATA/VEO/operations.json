@@ -1,0 +1,62 @@
+{
+  "GW_EN_CLIP03_MONROE_EXIT.mp4": {
+    "operation": "projects/project-453dce68-02cd-498d-86d/locations/global/publishers/google/models/veo-3.1-generate-001/operations/5ae1ee15-404d-430d-adf9-fc666a9e89df",
+    "start": "GW_EN_INNER01_MONROE_EXIT_NATIVE.png",
+    "prompt": "Six-second clearly subjective visualisation beginning exactly from the supplied 1970s laboratory image. Keep the resting adult body, cot and listening equipment anatomically stable. The elevated first-person viewpoint rises only a little farther while the room gains real spatial parallax; the cable and headphone remain physically connected below. A soft double boundary around the cot separates once, then settles, communicating the reported sensation of leaving the body without showing a spirit, monster or literal proof. Slow controlled motion, restrained amber and blue-grey light, tactile period materials, no text.",
+    "negative_prompt": "captions, title, labels, letters, numbers, readable text, logo, watermark, mode badge, new person, changed anatomy, distorted body, duplicated limbs, monster, ghost face, generic occult symbols, zodiac, chakra, crystal, glowing orb, energy beam, jump scare, camera shake, fast motion, simple zoom, Ken Burns effect, crushed blacks, audio",
+    "use": "Monroe introduction: clearly subjective out-of-body experience, not archival fact",
+    "provider": "Vertex AI",
+    "model": "veo-3.1-generate-001",
+    "duration_seconds": 6,
+    "resolution": "1080p",
+    "seed": null,
+    "done": true,
+    "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\CLIPS\\GW_EN_CLIP03_MONROE_EXIT.mp4",
+    "bytes": 7363374
+  },
+  "GW_EN_CLIP05_CROSSING.mp4": {
+    "operation": "projects/project-453dce68-02cd-498d-86d/locations/global/publishers/google/models/veo-3.1-generate-001/operations/9f1ba856-cada-4c6e-bce9-7898e39c5f5f",
+    "start": "GW_EN_INNER02_ACOUSTICS_COSMOLOGY_NATIVE.png",
+    "prompt": "Six-second conceptual transformation beginning exactly from the supplied acoustic-to-cosmology image. At left, one precise analogue sound wave travels through the tangible paper-and-brass apparatus. As it crosses the central threshold, the same waveform folds continuously into a deep impossible lattice of curved spacetime planes on the right. Make the transformation legible as one chain of reasoning, not an explosion or magic portal. Real material depth, slow lateral parallax, stable geometry, no symbols or text.",
+    "negative_prompt": "captions, title, labels, letters, numbers, readable text, logo, watermark, mode badge, new person, changed anatomy, distorted body, duplicated limbs, monster, ghost face, generic occult symbols, zodiac, chakra, crystal, glowing orb, energy beam, jump scare, camera shake, fast motion, simple zoom, Ken Burns effect, crushed blacks, audio",
+    "use": "McDonnell's conceptual transition from acoustics to cosmology",
+    "provider": "Vertex AI",
+    "model": "veo-3.1-generate-001",
+    "duration_seconds": 6,
+    "resolution": "1080p",
+    "seed": null,
+    "done": true,
+    "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\CLIPS\\GW_EN_CLIP05_CROSSING.mp4",
+    "bytes": 24248011
+  },
+  "GW_EN_CLIP06_FOCUS_WHEEL.mp4": {
+    "operation": "projects/project-453dce68-02cd-498d-86d/locations/global/publishers/google/models/veo-3.1-generate-001/operations/2970aa95-f178-429e-acba-0eeb6ea1bfa3",
+    "start": "GW_EN_INNER03_FOCUS_WHEEL_NATIVE.png",
+    "prompt": "Six-second abstract explanatory motion beginning exactly from the supplied brass time-wheel image. The central anonymous figure stays stable while the outer engraved rings rotate at different slow rates. Several translucent phase echoes move around the circumference, briefly align across nonadjacent positions, then separate again. The hub remains calm as ordinary clock order loosens at the rim. Sophisticated mechanical motion, shallow orbital camera arc, no face, no numerals, no clock text, no supernatural iconography.",
+    "negative_prompt": "captions, title, labels, letters, numbers, readable text, logo, watermark, mode badge, new person, changed anatomy, distorted body, duplicated limbs, monster, ghost face, generic occult symbols, zodiac, chakra, crystal, glowing orb, energy beam, jump scare, camera shake, fast motion, simple zoom, Ken Burns effect, crushed blacks, audio",
+    "use": "Focus-level model: attention decouples from ordinary time sequence",
+    "provider": "Vertex AI",
+    "model": "veo-3.1-generate-001",
+    "duration_seconds": 6,
+    "resolution": "1080p",
+    "seed": null,
+    "done": true,
+    "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\CLIPS\\GW_EN_CLIP06_FOCUS_WHEEL.mp4",
+    "bytes": 20623549
+  },
+  "GW_EN_CLIP09_NONPHYSICAL_DOCTRINE.mp4": {
+    "operation": "projects/project-453dce68-02cd-498d-86d/locations/global/publishers/google/models/veo-3.1-generate-001/operations/5fdd2eb7-d9dc-450a-98c4-6346f2f8c59b",
+    "start": "GW_EN_INNER04_NONPHYSICAL_PRESENCE_NATIVE.png",
+    "prompt": "Six-second restrained military-threshold visualisation beginning exactly from the supplied 1980s perimeter image. Keep the empty corridor, fence geometry and analogue surveillance materials stable. A responsive negative-space pressure crosses the threshold: dust, hanging cable and reflected light each react in sequence, suggesting an unseen presence without forming a body or face. The distortion approaches the guarded boundary, pauses, then recedes. This is an ambiguous conceptual image, not documentary evidence. No text or creature.",
+    "negative_prompt": "captions, title, labels, letters, numbers, readable text, logo, watermark, mode badge, new person, changed anatomy, distorted body, duplicated limbs, monster, ghost face, generic occult symbols, zodiac, chakra, crystal, glowing orb, energy beam, jump scare, camera shake, fast motion, simple zoom, Ken Burns effect, crushed blacks, audio",
+    "use": "Recommendation J: doctrine for encounters framed as nonphysical presences",
+    "provider": "Vertex AI",
+    "model": "veo-3.1-generate-001",
+    "duration_seconds": 6,
+    "resolution": "1080p",
+    "seed": null,
+    "done": true,
+    "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\CLIPS\\GW_EN_CLIP09_NONPHYSICAL_DOCTRINE.mp4",
+    "bytes": 13457651
+  }
+}

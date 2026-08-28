@@ -1,0 +1,52 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Arial,62,&H00F5F2EB,&H00F5F2EB,&H00101014,&H8C000000,-1,0,0,0,100,100,0,0,1,5,2,2,105,210,420,1
+Style: Hook,Arial Black,58,&H00F5F2EB,&H00F5F2EB,&H00101014,&H98000000,-1,0,0,0,100,100,0,0,3,4,0,8,64,64,105,1
+Style: CTA,Segoe UI Semibold,42,&H00C7C28D,&H00C7C28D,&H00101014,&H9A000000,-1,0,0,0,100,100,0,0,1,4,1,8,80,210,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:01.75,Hook,,0,0,0,,DER UNSICHTBARE ZEUGE
+Dialogue: 0,0:00:00.30,0:00:01.38,Caption,,0,0,0,,Der gefährlichste Zeuge
+Dialogue: 0,0:00:01.44,0:00:02.10,Caption,,0,0,0,,in Salem war
+Dialogue: 0,0:00:02.16,0:00:02.74,Caption,,0,0,0,,unsichtbar.
+Dialogue: 0,0:00:03.22,0:00:04.24,Caption,,0,0,0,,Menschen sagten aus,
+Dialogue: 0,0:00:04.54,0:00:05.22,Caption,,0,0,0,,der Geist einer
+Dialogue: 0,0:00:05.28,0:00:06.32,Caption,,0,0,0,,Angeklagten habe sie
+Dialogue: 0,0:00:06.36,0:00:07.16,Caption,,0,0,0,,nachts im eigenen
+Dialogue: 0,0:00:07.24,0:00:08.96,Caption,,0,0,0,,Schlafzimmer bedrängt,\Nobwohl
+Dialogue: 0,0:00:09.08,0:00:10.18,Caption,,0,0,0,,Türen verschlossen waren
+Dialogue: 0,0:00:10.44,0:00:11.02,Caption,,0,0,0,,und niemand den
+Dialogue: 0,0:00:11.10,0:00:12.40,Caption,,0,0,0,,Angriff beobachten\Nkonnte.
+Dialogue: 0,0:00:13.04,0:00:14.20,Caption,,0,0,0,,Solche Aussagen hießen
+Dialogue: 0,0:00:14.28,0:00:16.20,Caption,,0,0,0,,spectral evidence,\NErlebnis
+Dialogue: 0,0:00:16.26,0:00:17.40,Caption,,0,0,0,,statt sichtbarer Tat.
+Dialogue: 0,0:00:18.16,0:00:19.12,Caption,,0,0,0,,Bei Bridget Bishop
+Dialogue: 0,0:00:19.18,0:00:19.88,Caption,,0,0,0,,wurden nächtliche
+Dialogue: 0,0:00:19.92,0:00:20.90,Caption,,0,0,0,,Erscheinungen vor einem
+Dialogue: 0,0:00:20.96,0:00:22.32,Caption,,0,0,0,,kolonialen Gericht Teil
+Dialogue: 0,0:00:22.38,0:00:23.98,Caption,,0,0,0,,eines größeren\NBeweisbündels,
+Dialogue: 0,0:00:24.46,0:00:25.16,Caption,,0,0,0,,nicht der einzige
+Dialogue: 0,0:00:25.26,0:00:26.08,Caption,,0,0,0,,Grund für Verhör
+Dialogue: 0,0:00:26.12,0:00:26.96,Caption,,0,0,0,,und Verurteilung.
+Dialogue: 0,0:00:27.52,0:00:28.08,Caption,,0,0,0,,Die Wendung:
+Dialogue: 0,0:00:28.44,0:00:29.44,Caption,,0,0,0,,Selbst damals galt
+Dialogue: 0,0:00:29.48,0:00:30.68,Caption,,0,0,0,,diese Beweisform nur
+Dialogue: 0,0:00:30.74,0:00:31.80,Caption,,0,0,0,,für wenige entscheidende
+Dialogue: 0,0:00:31.90,0:00:33.48,Caption,,0,0,0,,Monate als zulässig
+Dialogue: 0,0:00:33.52,0:00:34.50,Caption,,0,0,0,,und blieb umstritten.
+Dialogue: 0,0:00:35.54,0:00:36.32,Caption,,0,0,0,,Salem wurde nicht
+Dialogue: 0,0:00:36.40,0:00:37.86,Caption,,0,0,0,,irrational, weil\NMenschen
+Dialogue: 0,0:00:37.92,0:00:39.18,Caption,,0,0,0,,träumten, sondern durch
+Dialogue: 0,0:00:39.26,0:00:40.20,Caption,,0,0,0,,ein Gericht, das
+Dialogue: 0,0:00:40.26,0:00:41.90,Caption,,0,0,0,,private Gewissheit\Nkurzzeitig
+Dialogue: 0,0:00:41.96,0:00:43.12,Caption,,0,0,0,,wie öffentliche Tatsache
+Dialogue: 0,0:00:43.16,0:00:43.76,Caption,,0,0,0,,behandelte.
+Dialogue: 1,0:00:41.49,0:00:44.29,CTA,,0,0,0,,Mehr: Schlafparalyse EP07

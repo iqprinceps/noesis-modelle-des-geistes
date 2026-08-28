@@ -1,0 +1,42 @@
+{
+  "topic": "Rückenlage als möglicher Risikofaktor für Schlafparalyse und die nüchternen Präventionshebel",
+  "channel_type": "explainer",
+  "style": "Editorial Motion Graphics — deep crimson",
+  "through_line": {
+    "name": "Schläfer-Chip",
+    "asset": "P02_SLEEPER_TOKEN",
+    "progression": "Chip liegt flach auf dem Rücken → kippt aus einer instabilen REM-Spur → rastet stabil in Seitenlage ein",
+    "resolution": "Der Chip bleibt in Seitenlage stabil, ohne eine Garantie zu behaupten."
+  },
+  "arc": {"hook": 1, "build": [], "turn": 2, "payoff": 3},
+  "blocks": [
+    {
+      "n": 1,
+      "arc_role": "hook",
+      "vo_line": "Eine italienische Studie fand: fünfundfünfzig Prozent der Befragten mit Schlafparalyse erlebten sie laut eigener Erinnerung in Rückenlage. Das beweist keine Ursache, zeigt aber einen überraschend einfachen Hebel für die nächste Nacht.",
+      "location": "L04_SIDE_SLEEP_STAGE",
+      "through_line_state": "Der Schläfer-Chip liegt flach in einer markierten Rückenlage.",
+      "shots": ["TOP-DOWN WIDE: a sleeper token drops flat onto a bed cutout", "LATERAL CU: a majority of abstract dots snap toward the back-sleeping silhouette", "MACRO HIGH: an uncertainty ring draws around the dots", "SIDE MEDIUM: the token wobbles as a REM ribbon passes beneath it", "TOP-DOWN CU: a giant hand begins tilting the token but stops before the answer"],
+      "assets_used": ["L04_SIDE_SLEEP_STAGE", "CHAR_SLEEPER", "P02_SLEEPER_TOKEN"]
+    },
+    {
+      "n": 2,
+      "arc_role": "turn",
+      "vo_line": "Rückenlage trifft auf zwei bekannte Risiken: instabileren Schlaf und veränderte Atmung. Dazu kommen Schlafmangel, Jetlag sowie wechselnde Zeiten, die REM und Wachheit leichter gegeneinander verschieben; Übergänge werden dadurch zusätzlich unruhig.",
+      "location": "L02_REM_LAB_STAGE",
+      "through_line_state": "Der Chip rutscht zwischen zwei gegeneinander laufenden REM- und Wach-Ribbons.",
+      "shots": ["LATERAL MEDIUM: two timeline ribbons slide out of sync beneath the sleeper token", "ECU LOW: the token catches on a raised REM marker", "TOP-DOWN CU: moon, clock and travel cutouts arrive staggered around it", "HIGH WIDE: the ribbons pull in opposite directions and the token spins once", "SIDE CU: a deep-crimson hand catches the token before it falls"],
+      "assets_used": ["L02_REM_LAB_STAGE", "CHAR_SLEEPER", "P02_SLEEPER_TOKEN"]
+    },
+    {
+      "n": 3,
+      "arc_role": "payoff",
+      "vo_line": "Die nüchterne Strategie lautet deshalb: Seitenlage testen, insgesamt sieben bis neun Stunden schlafen und feste Zeiten halten. Kein Zaubertrick, nur deutlich weniger Chancen für den falschen Moment zwischen Traum und Wachsein.",
+      "location": "L03_SLEEP_ROUTINE_STAGE",
+      "through_line_state": "Der Chip rastet stabil in Seitenlage ein, während drei Routine-Marker geordnet einrasten.",
+      "shots": ["MEDIUM FRONT: the giant hand rotates the token onto its side", "MACRO: a side notch snaps into the bed silhouette", "TOP-DOWN HIGH: three routine markers arrive one after another", "LATERAL CU: the REM and wake ribbons align beneath the stable token", "FULL-SPREAD MEDIUM: the token rests in side position as the markers keep a quiet rhythmic pulse"],
+      "assets_used": ["L03_SLEEP_ROUTINE_STAGE", "CHAR_SLEEPER", "P02_SLEEPER_TOKEN"]
+    }
+  ],
+  "sources": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC8060733/", "https://www.nhs.uk/conditions/sleep-paralysis/", "https://www.rightdecisions.scot.nhs.uk/borders-ref-help-toolkit/neurology/sleep-symptoms/sleep-paralysis/"]
+}

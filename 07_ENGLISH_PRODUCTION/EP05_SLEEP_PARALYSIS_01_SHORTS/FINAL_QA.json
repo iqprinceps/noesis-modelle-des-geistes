@@ -1,0 +1,24 @@
+{
+  "overall_status": "PASS",
+  "longform_video_id": "dXwqAWc74Ts",
+  "shorts": {
+    "S01_HUFFORD_OLD_HAG": {
+      "status": "PASS",
+      "duration_seconds": 43.8,
+      "integrated_lufs": -14.4,
+      "true_peak_dbtp": -1.0,
+      "sha256": "30fa3584cda689303956cdb9000f87663d67b9a530f7332e60028b197c1f4757",
+      "qa_json": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S01_HUFFORD_OLD_HAG\\05_OUTPUT\\FINAL_QA.json"
+    },
+    "S02_TAKEUCHI_LAB": {
+      "status": "PASS",
+      "duration_seconds": 48.633,
+      "integrated_lufs": -14.0,
+      "true_peak_dbtp": -1.0,
+      "sha256": "18ba0dbc0e83bf4910b5bdd6e582ccd466e4a4a9d035336b5bb1e2471986e35a",
+      "qa_json": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\d7fe\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01_SHORTS\\S02_TAKEUCHI_LAB\\05_OUTPUT\\FINAL_QA.json"
+    }
+  },
+  "cross_short_exact_duplicate_assets": [],
+  "cross_short_duplicate_status": "PASS"
+}

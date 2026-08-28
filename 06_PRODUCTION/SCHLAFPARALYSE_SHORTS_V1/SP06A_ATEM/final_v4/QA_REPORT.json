@@ -1,0 +1,243 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP06A_ATEM\\final_v4\\SP06A_ATEM_FINAL_V4.mp4",
+  "duration": 42.28,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "shots": 18,
+  "shot_min": 1.561,
+  "shot_max": 3.74,
+  "shot_mean": 2.349,
+  "distinct_assets": 16,
+  "kenburns": "3x supersampled zoompan, travel scaled with shot length",
+  "hook": "DU ERSTICKST NICHT",
+  "cta": "GANZE FOLGE IM KANAL / Warum du jemanden im Zimmer spürst",
+  "tail_seconds": 2.4,
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_take": "V4 (re-recorded for the rewritten script)",
+  "blackdetect_events": [],
+  "loudness": {
+    "integrated_lufs": -14.7,
+    "lra": 2.5,
+    "true_peak_dbtp": -1.5
+  },
+  "contact_sheet": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP06A_ATEM\\final_v4\\SP06A_ATEM_CONTACT_SHEET.jpg",
+  "plan": [
+    {
+      "index": 1,
+      "asset": "SHOT01.png",
+      "start": 0.0,
+      "seconds": 2.259,
+      "framing": "wide",
+      "direction": "push",
+      "zoom": [
+        1.005,
+        1.056
+      ]
+    },
+    {
+      "index": 2,
+      "asset": "SHOT01.png",
+      "start": 2.259,
+      "seconds": 2.061,
+      "framing": "tight",
+      "direction": "pull",
+      "zoom": [
+        1.327,
+        1.255
+      ]
+    },
+    {
+      "index": 3,
+      "asset": "SHOT02.png",
+      "start": 4.32,
+      "seconds": 1.739,
+      "framing": "mid",
+      "direction": "push",
+      "zoom": [
+        1.136,
+        1.185
+      ]
+    },
+    {
+      "index": 4,
+      "asset": "SHOT02.png",
+      "start": 6.059,
+      "seconds": 3.071,
+      "framing": "wide",
+      "direction": "pull",
+      "zoom": [
+        1.069,
+        1.0
+      ]
+    },
+    {
+      "index": 5,
+      "asset": "SHOT03.png",
+      "start": 9.13,
+      "seconds": 1.69,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.261,
+        1.32
+      ]
+    },
+    {
+      "index": 6,
+      "asset": "SHOT04.png",
+      "start": 10.82,
+      "seconds": 1.979,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.189,
+        1.133
+      ]
+    },
+    {
+      "index": 7,
+      "asset": "SHOT05.png",
+      "start": 12.799,
+      "seconds": 2.401,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.249,
+        1.333
+      ]
+    },
+    {
+      "index": 8,
+      "asset": "SHOT06.png",
+      "start": 15.2,
+      "seconds": 3.04,
+      "framing": "wide",
+      "direction": "pull",
+      "zoom": [
+        1.068,
+        1.0
+      ]
+    },
+    {
+      "index": 9,
+      "asset": "SHOT07.png",
+      "start": 18.24,
+      "seconds": 2.379,
+      "framing": "mid",
+      "direction": "push",
+      "zoom": [
+        1.127,
+        1.195
+      ]
+    },
+    {
+      "index": 10,
+      "asset": "SHOT08.png",
+      "start": 20.619,
+      "seconds": 2.02,
+      "framing": "tight",
+      "direction": "pull",
+      "zoom": [
+        1.326,
+        1.256
+      ]
+    },
+    {
+      "index": 11,
+      "asset": "SHOT09.png",
+      "start": 22.639,
+      "seconds": 3.0,
+      "framing": "wide",
+      "direction": "push",
+      "zoom": [
+        1.0,
+        1.067
+      ]
+    },
+    {
+      "index": 12,
+      "asset": "SHOT10.png",
+      "start": 25.639,
+      "seconds": 2.08,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.19,
+        1.131
+      ]
+    },
+    {
+      "index": 13,
+      "asset": "SHOT11.png",
+      "start": 27.719,
+      "seconds": 1.72,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.261,
+        1.321
+      ]
+    },
+    {
+      "index": 14,
+      "asset": "SHOT12.png",
+      "start": 29.439,
+      "seconds": 2.82,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.201,
+        1.121
+      ]
+    },
+    {
+      "index": 15,
+      "asset": "SHOT13.png",
+      "start": 32.259,
+      "seconds": 1.72,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.261,
+        1.321
+      ]
+    },
+    {
+      "index": 16,
+      "asset": "SHOT14.png",
+      "start": 33.979,
+      "seconds": 3.74,
+      "framing": "wide",
+      "direction": "pull",
+      "zoom": [
+        1.085,
+        1.0
+      ]
+    },
+    {
+      "index": 17,
+      "asset": "SHOT15.png",
+      "start": 37.719,
+      "seconds": 1.561,
+      "framing": "mid",
+      "direction": "push",
+      "zoom": [
+        1.138,
+        1.182
+      ]
+    },
+    {
+      "index": 18,
+      "asset": "SHOT16.png",
+      "start": 39.28,
+      "seconds": 3.0,
+      "framing": "tight",
+      "direction": "pull",
+      "zoom": [
+        1.34,
+        1.236
+      ]
+    }
+  ]
+}

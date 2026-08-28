@@ -1,0 +1,121 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "34459662": {
+          "pageid": 34459662,
+          "ns": 6,
+          "title": "File:Polysomnography connections.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 349115,
+              "width": 756,
+              "height": 882,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Polysomnography_connections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Polysomnography_connections.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34459662",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-08-03 02:43:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Polysomnography connections",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Polysomnography|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Connections of polysomnography wires on an adult patient",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-08-02 22:41:03",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Z22\" title=\"User:Z22\">Z22</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_PSG_CONNECTIONS",
+    "title": "File:Polysomnography connections.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Polysomnography_connections.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Polysomnography_connections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<a href=\"//commons.wikimedia.org/wiki/User:Z22\" title=\"User:Z22\">Z22</a>",
+    "date": "2014-08-02 22:41:03",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_PSG_CONNECTIONS.jpg",
+    "sha256": "90d8bbd0944b56976bd1744e41b9e0bd95b771c6d8d01119c0b3a1959a7f64c0",
+    "width": "756",
+    "height": "882",
+    "voice_beat": "researchers monitored brain activity and muscle tone",
+    "picture_function": "Real sleep-study sensors",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

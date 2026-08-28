@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_STILL03_TEN_DIGIT_PARTICIPANT",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Controlled early-1980s consciousness experiment room. One anonymous adult participant reclines with headphones while a sealed opaque target envelope and an inactive ten-position display box sit across the room. No digits are visible; editor adds the actual sequence. A technician's empty chair emphasizes that nobody present knows the target. Clinical, restrained, plausible geometry, no paranormal effect.",
+  "prompt_sha256": "42ce64430a7811e0d00ee690d836650e07e85a465148b09971d1984517abdb17",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_STILL03_TEN_DIGIT_PARTICIPANT_PREVIEW.png",
+  "output_sha256": "3d9bb005eab0f5496d0c3bba307654e574046402df940be0495945f54d094ad8",
+  "seconds": 240.384,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

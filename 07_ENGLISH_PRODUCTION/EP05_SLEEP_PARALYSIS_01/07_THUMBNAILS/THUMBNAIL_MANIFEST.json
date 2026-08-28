@@ -1,0 +1,23 @@
+{
+  "variants": [
+    {
+      "file": "EP05_EN_THUMB_A_PRESENCE.jpg",
+      "concept": "intimate waking face + unseen direction",
+      "sha256": "51c91b6bac9ba575d45fdad2e4bbf3e6d760644ccda704665c03753ba0c93e9e",
+      "size": "3840x2160"
+    },
+    {
+      "file": "EP05_EN_THUMB_B_OLD_HAG.jpg",
+      "concept": "warm embodied folklore / Old Hag",
+      "sha256": "af773e59f44c3f935541911c3d1d41ca805079da595d6d6266693e4abe45c5b9",
+      "size": "3840x2160"
+    },
+    {
+      "file": "EP05_EN_THUMB_C_LAB_CONTRADICTION.jpg",
+      "concept": "bright measurable laboratory contradiction",
+      "sha256": "e166e99b505d585e884027d2feaec55a4740c669190aee94960950f6d1c62830",
+      "size": "3840x2160"
+    }
+  ],
+  "mobile_qa": "PASS: face/subject and headline remain distinct at 25% and 18.75%"
+}

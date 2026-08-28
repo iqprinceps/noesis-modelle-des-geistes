@@ -1,0 +1,20 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP08A_HAT_MAN_HUT\\voice_v4\\SP08A_HAT_MAN_HUT_GEORGE_V4.mp3",
+  "sha256": "f13d1330f98ca0f2d746027811fea84098626096b3992bcf8dabfb18f38f8a14",
+  "bytes": 639521,
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "settings": {
+    "stability": 0.52,
+    "similarity_boost": 0.8,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 1.02
+  },
+  "seed": 2406,
+  "request_id": "I0JatET6eJRdQsoOgDxf",
+  "text_sha256": "f65cc6a6258e6ec5738f738b45ff7996f1608a1512709503155ee4fb072de934",
+  "characters": 630
+}

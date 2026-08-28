@@ -1,0 +1,81 @@
+EP01 — KOZYREV MIRRORS — SOURCES AND CREDITS
+
+KZ-SRC-001 — Russian patent office / Google Patents mirror (1998-11-27)
+Source: https://patentimages.storage.googleapis.com/4b/09/bb/a36f136bf184bb/RU2122446C1.pdf
+Rights/status: Official legal document; reproduction status not expressly licensed — CLEARED_FOR_DOCUMENTARY_QUOTATION
+Use: Early cover/title/date/inventor reveal; figures 2-4; claims crop
+
+KZ-SRC-002 — Unknown photographer (1959)
+Source: https://commons.wikimedia.org/wiki/File:Nikolai_Aleksandrovich_Kozyrev_in_1959.png
+Rights/status: CC0 1.0 — CLEARED
+Use: Kozyrev first name/biography beat
+
+KZ-SRC-003 — Wikimedia Commons (2026-08-26)
+Source: https://commons.wikimedia.org/w/api.php?action=query&titles=File:Nikolai_Aleksandrovich_Kozyrev_in_1959.png&prop=imageinfo&iiprop=url%7Cextmetadata&format=json
+Rights/status: CC0 metadata record — CLEARED
+Use: License proof for KZ-SRC-002
+
+KZ-SRC-004 — Science in Siberia; photos supplied by article authors (2025-05-14)
+Source: https://www.sbras.info/sites/default/files/2025-05/NVS_SV_2025.pdf
+Rights/status: Copyright retained; editorial quotation with direct source credit — DOCUMENTARY_QUOTATION_REVIEWED
+Use: Small crop of the 2004 portrait at first Kaznacheev naming
+
+KZ-SRC-005 — Conference Series / Journal of Earth Science & Climatic Change (2018-07-27)
+Source: https://www.omicsonline.org/conference-proceedings/natural-hazards-congress-2018-keynote.digital/files/assets/common/downloads/natural-hazards-congress-2018-keynote.pdf
+Rights/status: Copyright retained; editorial quotation with direct source credit — DOCUMENTARY_QUOTATION_REVIEWED
+Use: Page 26 identity portrait and affiliation at first Trofimov naming
+
+KZ-SRC-006 — Vlail Kaznacheev and Alexander Trofimov (2006)
+Source: https://physics.socionic.info/index.php/physics/article/download/376/336
+Rights/status: Journal PDF; no reuse license stated — DOCUMENTARY_QUOTATION_REVIEWED
+Use: Authorship/title/claim crop during escalation
+
+KZ-SRC-007 — Vlail Kaznacheev and Alexander Trofimov (2008)
+Source: https://physics.socionic.info/index.php/physics/article/download/415/263/269
+Rights/status: Journal PDF; no reuse license stated — DOCUMENTARY_QUOTATION_REVIEWED
+Use: Authorship/title/abstract crop during later-publications beat
+
+KZ-SRC-008 — Conference committee and individual authors (2019)
+Source: https://www.mega-galaxy.pro/f/zerkala_kozyreva_raboty-tezizy-sbornik_01072019g.pdf
+Rights/status: Copyright authors and conference committee — DOCUMENTARY_QUOTATION_REVIEWED
+Use: Secondary corroboration and source-card fallback
+
+KZ-SRC-009 — Natural Earth (version 5.1.2)
+Source: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson
+Rights/status: Public domain — CLEARED
+Use: Custom maps locating Saint Petersburg Novosibirsk Dikson and Fort Meade
+
+KZ-SRC-015 — Ev. Bernardsky (1855)
+Source: https://commons.wikimedia.org/wiki/File:Ev._Bernardsky._Pulkovo_Observatory_in_1855.jpg
+Rights/status: Public domain — CLEARED
+Use: Kozyrev astronomy context without reusing his portrait
+
+KZ-SRC-016 — Wikimedia Commons (2026-08-26)
+Source: https://commons.wikimedia.org/w/api.php?action=query&titles=File%3AEv._Bernardsky._Pulkovo_Observatory_in_1855.jpg&prop=imageinfo&iiprop=url%7Cextmetadata&format=json
+Rights/status: Public-domain metadata record — CLEARED
+Use: License proof for KZ-SRC-015
+
+KZ-SRC-017 — Vladimir Ivanov (2008-07-08)
+Source: https://commons.wikimedia.org/wiki/File:Pulkovo_refractor.jpg
+Rights/status: Public domain — CLEARED
+Use: Distinct astronomy-instrument context at Kozyrev biography beat
+
+KZ-SRC-018 — Wikimedia Commons (2026-08-26)
+Source: https://commons.wikimedia.org/w/api.php?action=query&titles=File%3APulkovo_refractor.jpg&prop=imageinfo&iiprop=url%7Cextmetadata&format=json
+Rights/status: Public-domain metadata record — CLEARED
+Use: License proof for KZ-SRC-017
+
+KZ-SRC-019 — Schrajo / J. A. Repsold source plate (1914 scan of 1884 instrument)
+Source: https://commons.wikimedia.org/wiki/File:Pulkoworefraktor.jpg
+Rights/status: Public domain worldwide release — CLEARED
+Use: Distinct final Kozyrev chronology context without repeating the portrait or patent inventor crop
+
+KZ-SRC-020 — Wikimedia Commons (2026-08-26)
+Source: https://commons.wikimedia.org/w/api.php?action=query&titles=File%3APulkoworefraktor.jpg&prop=imageinfo&iiprop=url%7Cextmetadata&format=json
+Rights/status: Public-domain metadata record — CLEARED
+Use: License proof for KZ-SRC-019
+
+Generated visuals: OpenAI Native ImageGen and Google Nano Banana Pro, selected and visually reviewed for this episode only.
+Maps: Natural Earth public-domain data with an original episode-specific design.
+Music and sound design: original procedural production bed created for EP01.
+No permanent production-mode labels appear in the viewer image.

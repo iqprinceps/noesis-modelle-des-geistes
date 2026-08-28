@@ -1,0 +1,275 @@
+{
+  "policy": "source-native only; no old final-render extracts",
+  "records": [
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/IMG007_FOGO_PLACE_ANCHOR_RECON.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG007_FOGO_PLACE_ANCHOR_RECON.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\IMG007_FOGO_PLACE_ANCHOR_RECON.png",
+      "bytes": 6822428,
+      "sha256": "477faec1232165c460af6917749162885130b61d3ccb72b99ac27124761f4a87",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/SHOT02_FOGO_MAP_TABLE.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\SHOT02_FOGO_MAP_TABLE.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\SHOT02_FOGO_MAP_TABLE.png",
+      "bytes": 4283259,
+      "sha256": "b42ce257f15f20f627e7373a407e317596020cc08978c02825025f47c8babb4d",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/IMG061_FOGO_FIELDWORK_INTERVIEW_RECON.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG061_FOGO_FIELDWORK_INTERVIEW_RECON.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\IMG061_FOGO_FIELDWORK_INTERVIEW_RECON.png",
+      "bytes": 3879225,
+      "sha256": "661f67a17ae8a59cb9638f7e59c87d5e6e9309be6b18efdc12d66ac752c5b085",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/IMG017_SLEEP_LAB_WIDE_RECON.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG017_SLEEP_LAB_WIDE_RECON.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\IMG017_SLEEP_LAB_WIDE_RECON.png",
+      "bytes": 5606418,
+      "sha256": "239dd0f0cc76add58c990f72af8b36ed706797d5f92d8afeb84d667fe03557c5",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/IMG018_SLEEP_INTERRUPTION_CLOCK.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG018_SLEEP_INTERRUPTION_CLOCK.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\IMG018_SLEEP_INTERRUPTION_CLOCK.png",
+      "bytes": 3535901,
+      "sha256": "3ee9739a77ba43b2ccbe18dd396d14731b1047d178b184cf9a29450dc03dcf7e",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/IMG011_WAKE_BODY_LAG.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\IMG011_WAKE_BODY_LAG.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\IMG011_WAKE_BODY_LAG.png",
+      "bytes": 3224982,
+      "sha256": "6554f070c52d55868d5db3b83c42087e5e28851bf3e264cc73ad6d5d633b3a6f",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/SHOT05_LAB_SENSOR_MACRO.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\SHOT05_LAB_SENSOR_MACRO.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\SHOT05_LAB_SENSOR_MACRO.png",
+      "bytes": 3350534,
+      "sha256": "5920f7dd0bf03e04320e7786bda77e447ea4aee8fb96f0dbb47bdfedd08c2d59",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/ORIGINAL_DERIVATIVES/ORIG017_BRAINSTEM_ANATOMY.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\ORIG017_BRAINSTEM_ANATOMY.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\ORIG017_BRAINSTEM_ANATOMY.png",
+      "bytes": 1255757,
+      "sha256": "2ea78c2ddb047c2f95c39437c14090f5d83b6f45c4fd41a7cbd1472042bb4b3b",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/SHOT08_DAWN_AFTER_PARALYSIS.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\SHOT08_DAWN_AFTER_PARALYSIS.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\SHOT08_DAWN_AFTER_PARALYSIS.png",
+      "bytes": 2895850,
+      "sha256": "805c392070898f369cad06a30a0353e6b3944abe2e43ab4e382a1c1f15c52243",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP08_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/IMG006_SHADOW_DRAWINGS_SPREAD.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\IMG006_SHADOW_DRAWINGS_SPREAD.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\IMG006_SHADOW_DRAWINGS_SPREAD.png",
+      "bytes": 3556804,
+      "sha256": "b3fd37a7d9e2983c1e4eda8ba7db15176ab04fc4650b242c56b946e4436a3f06",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "still",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/IMG024_NIGHTMARE_PRINT_WORKSHOP.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\IMG024_NIGHTMARE_PRINT_WORKSHOP.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\REUSED_GERMAN_SERIES\\STILLS\\IMG024_NIGHTMARE_PRINT_WORKSHOP.png",
+      "bytes": 7252685,
+      "sha256": "a44bf6ecfe338f67e4202c1e46470c028d7d375a94e05fea0db24b0d77dc564a",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "source",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/02_ASSETS/EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692.pdf",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\02_ASSETS\\EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692.pdf",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\REUSED_GERMAN_SERIES\\EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692.pdf",
+      "bytes": 2115173,
+      "sha256": "12510b785430b27d2e9beac3f4530b6308c7d6752d5d6601bb460b40585032a7",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "source",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/ORIGINAL_DERIVATIVES/SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_full.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_full.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\REUSED_GERMAN_SERIES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_full.png",
+      "bytes": 1839691,
+      "sha256": "4944836d8dd0c919455de7660edab1bbf325cd0cc7ddd7d9b9179abb2a5eed35",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "source",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/ORIGINAL_DERIVATIVES/SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_name_and_opening.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_name_and_opening.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\REUSED_GERMAN_SERIES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_name_and_opening.png",
+      "bytes": 3715725,
+      "sha256": "b835772f75a25984fb195e974359513a79cd00a36e733ab02590f61972a8f3b8",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "source",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/ORIGINAL_DERIVATIVES/SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_pressure_passage.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_pressure_passage.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\REUSED_GERMAN_SERIES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_pressure_passage.png",
+      "bytes": 3892088,
+      "sha256": "ba101d2e552a18e4ae90cdf9150a8468a2fd944333949a57df847231a60b298f",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "source",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/ORIGINAL_DERIVATIVES/SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_cannot_speak_nor_stir.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_cannot_speak_nor_stir.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\REUSED_GERMAN_SERIES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p1_cannot_speak_nor_stir.png",
+      "bytes": 3906038,
+      "sha256": "07175cc0b4490cd4b1c31ad4597e7b2513bdd33573afea123922398b71a99532",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "source",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/ORIGINAL_DERIVATIVES/SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p2_signature_and_oath.png",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\ORIGINAL_DERIVATIVES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p2_signature_and_oath.png",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\02_SOURCES\\REUSED_GERMAN_SERIES\\SRC_EP07_Richard_Coman_Testimony_v_Bridget_Bishop_1692_p2_signature_and_oath.png",
+      "bytes": 2801606,
+      "sha256": "da022064f1f38552777f78335572905e46d2555f7205b6912150644312a8cb96",
+      "import_date": "2026-08-28"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP002_REM_SIGNAL_GATE.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP002_REM_SIGNAL_GATE.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\CLIP002_REM_SIGNAL_GATE.mp4",
+      "bytes": 5723223,
+      "sha256": "bf441593e7d2ae8676912adc599517fce9e6dd7b341d838c2a6bc76c5560abce",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\CLIP002_REM_SIGNAL_GATE.mp4",
+      "local_30fps_bytes": 7987396,
+      "local_30fps_sha256": "f08a380131c4f276fb29029fbf42dcb1d52530f5dd1b5fce39d96288a9accfec",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP003_OLD_HAG_THRESHOLD.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP003_OLD_HAG_THRESHOLD.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\CLIP003_OLD_HAG_THRESHOLD.mp4",
+      "bytes": 10034917,
+      "sha256": "7488b1bacb0673d465900ff1d40a20cecc6733ab6f2f0232923ea4d9272e902c",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\CLIP003_OLD_HAG_THRESHOLD.mp4",
+      "local_30fps_bytes": 12661156,
+      "local_30fps_sha256": "d0b4af3dc5d09961c8f306bbe99444a4a0c643a207ac4026c1e2139ff85f8573",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/CLIP008_SIX_EPISODES_SIGNAL.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\CLIP008_SIX_EPISODES_SIGNAL.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\CLIP008_SIX_EPISODES_SIGNAL.mp4",
+      "bytes": 2127774,
+      "sha256": "dd1ad2f98efc848dafc8ada5d1ea53c002160debfea230486acd565c47767960",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\CLIP008_SIX_EPISODES_SIGNAL.mp4",
+      "local_30fps_bytes": 3016186,
+      "local_30fps_sha256": "a5a21821113c28431c4d1bbf62ef7f2952652f8a0a4d3d4b168eceb032cbe85f",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/RESERVE_CLIPS/CLIP002_SLEEP_LAB_SENSOR_MACRO.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\RESERVE_CLIPS\\CLIP002_SLEEP_LAB_SENSOR_MACRO.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\CLIP002_SLEEP_LAB_SENSOR_MACRO.mp4",
+      "bytes": 5249583,
+      "sha256": "8e85935081ea0dd2d669a54b9130027220a8bcd9f7f5c71bb86784cca2143793",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\CLIP002_SLEEP_LAB_SENSOR_MACRO.mp4",
+      "local_30fps_bytes": 6917171,
+      "local_30fps_sha256": "419719dc9977d176a9fe751c83c166bbead38c3ab2e88a293b37a07df41293ca",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP06_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_2K_Series/RESERVE_CLIPS/CLIP004_DAWN_AFTER_PARALYSIS.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP06_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_2K_Series\\RESERVE_CLIPS\\CLIP004_DAWN_AFTER_PARALYSIS.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\CLIP004_DAWN_AFTER_PARALYSIS.mp4",
+      "bytes": 4409595,
+      "sha256": "3e9c36fb139c01b0919a52d605049b6f02eb022c8a4450eeb244252250e2ac9d",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\CLIP004_DAWN_AFTER_PARALYSIS.mp4",
+      "local_30fps_bytes": 6243009,
+      "local_30fps_sha256": "ae41045fb8caa7fc7cca3934a7d4d3ec2963ddb837e8d842dad37c199ac12523",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4",
+      "bytes": 6586061,
+      "sha256": "17790e4ffe69784524811893802105c3410f868d9309c91c198d46009fa70f85",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\CLIP003_SALEM_PUBLIC_TRANSFORMATION.mp4",
+      "local_30fps_bytes": 9010608,
+      "local_30fps_sha256": "7e220d68a8c9696a0140c5c40efcbd08d5d6710dd76802aa889716fe1534bc28",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP07_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/NanoBanana_Pro_2K_Series/CLIP004_FEEDBACK_ENTITY.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\NanoBanana_Pro_2K_Series\\CLIP004_FEEDBACK_ENTITY.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\CLIP004_FEEDBACK_ENTITY.mp4",
+      "bytes": 6350780,
+      "sha256": "464bdfa0374c6188032f81608d06088b8fc01329b9de336bcd20cc76ea5126e5",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\CLIP004_FEEDBACK_ENTITY.mp4",
+      "local_30fps_bytes": 8823288,
+      "local_30fps_sha256": "340f01bafb9b3172121af9714f44976a1d83b5c8932a7c75b5292db30efa57a3",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP08_SCHLAFPARALYSE_V4/EDITORIAL_SEQUENCES/EDIT007_BLANK_SKETCH_TO_SHADOW.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\EDITORIAL_SEQUENCES\\EDIT007_BLANK_SKETCH_TO_SHADOW.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\EDIT007_BLANK_SKETCH_TO_SHADOW.mp4",
+      "bytes": 2043984,
+      "sha256": "2df4992ef9320ff0a6b5450f98b0071b58a13b7ef4efd7b4705e3ea54462ed19",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\EDIT007_BLANK_SKETCH_TO_SHADOW.mp4",
+      "local_30fps_bytes": 2984331,
+      "local_30fps_sha256": "6214957c38e64265e0060e407fa5e8f0e336c58bfb2eb246f5b3db60fe6556ec",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    },
+    {
+      "kind": "clip_raw",
+      "source_relative": "06_PRODUCTION/EP08_SCHLAFPARALYSE_V4/IMAGE_GENERATION_KIT/03_GENERATED_OUTPUT/RESERVE_CLIPS/CLIP003_CAUSE_SHADOW_ASSEMBLY.mp4",
+      "source_absolute": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP08_SCHLAFPARALYSE_V4\\IMAGE_GENERATION_KIT\\03_GENERATED_OUTPUT\\RESERVE_CLIPS\\CLIP003_CAUSE_SHADOW_ASSEMBLY.mp4",
+      "local_file": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_RAW\\CLIP003_CAUSE_SHADOW_ASSEMBLY.mp4",
+      "bytes": 3439309,
+      "sha256": "90549ad3ba82012eda0c1672ab59940fc606b2ef44ac26abb6739e3efe10398d",
+      "import_date": "2026-08-28",
+      "local_30fps": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\03_VISUALS\\CLIPS\\REUSED_GERMAN_30FPS\\CLIP003_CAUSE_SHADOW_ASSEMBLY.mp4",
+      "local_30fps_bytes": 4777442,
+      "local_30fps_sha256": "789edcbe947d31736332192036ec871e9ddc98476c35b625b4fd81078b89fe69",
+      "conversion": "24 fps to 30 fps via FFmpeg minterpolate MCI/AOBMC bidirectional; no frame duplication"
+    }
+  ]
+}

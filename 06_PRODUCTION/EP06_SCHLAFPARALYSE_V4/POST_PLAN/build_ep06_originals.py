@@ -79,34 +79,34 @@ FROM_EP07 = {
 # Positionen ohne freie Quelle. Text der Ersatzkarte.
 GAPS = {
     "ORIG024_1960S_DORM_CONTEXT.png": dict(
-        section="S1 Zeitkontext",
-        title="Kein Bild von diesem Zimmer",
-        subtitle="Der Ort der Erstbeschreibung ist nicht bebildert.",
+        section="",
+        title="Warum wir kein Originalzimmer zeigen",
+        subtitle="Die Bilder dieser Szene sind Rekonstruktionen.",
         entries=[
-            ("Sachlage", "Für das Studentenzimmer, in dem David Hufford 1963 seine "
-                         "eigene Episode erlebt, existiert keine Aufnahme."),
-            ("Entscheidung", "Es wird kein fremdes Zimmer aus derselben Zeit gezeigt, "
-                             "das der Schnitt als seines lesen könnte."),
-            ("Wirkung", "Die Szene trägt die Jahreszahl und die Schilderung; "
-                        "ein Foto würde nichts belegen."),
+            ("Sicher", "David Hufford beschrieb das Erlebnis später ausführlich."),
+            ("Nicht vorhanden", "Vom Studentenzimmer aus dem Jahr 1963 gibt es "
+                                "kein bekanntes Foto."),
+            ("Darum", "Wir zeigen die Schilderung als Rekonstruktion — nicht als "
+                      "historische Aufnahme."),
         ],
-        status="KEIN BELEG",
-        note="Bewusste Lücke statt eines beliebigen Zeitkolorits.",
-        source="Quellenkarte · fehlender Ortsbeleg"),
+        status="REKONSTRUKTION",
+        note="Die Szene folgt Huffords Bericht. Das gezeigte Zimmer ist nicht sein echtes Zimmer.",
+        source="Einordnung zur Rekonstruktion · David Huffords Bericht"),
     "ORIG025_ORAL_HISTORY_RECORDER.png": dict(
-        section="S2 Feldforschung",
-        title="Das Gerät ist nicht überliefert",
-        subtitle="Aufgezeichnet wurde viel — womit genau, ist offen.",
+        section="",
+        title="Die Interviews sind belegt — das Gerät nicht",
+        subtitle="Hufford zeichnete Gespräche auf. Das genaue Modell ist unbekannt.",
         entries=[
-            ("Sachlage", "Huffords Feldarbeit auf Neufundland stützt sich auf "
-                         "Interviewaufzeichnungen."),
-            ("Grenze", "Welches Aufnahmegerät dabei zum Einsatz kam, ist nicht "
-                       "gesichert dokumentiert."),
-            ("Entscheidung", "Kein konkretes Modell wird ihm zugeschrieben."),
+            ("Sicher", "Huffords Feldarbeit auf Neufundland stützt sich auf "
+                       "aufgezeichnete Interviews."),
+            ("Unbekannt", "Welches Aufnahmegerät er dabei benutzte, ist nicht "
+                          "gesichert dokumentiert."),
+            ("Darum", "Das Gerät im Bild steht nur für die Methode — nicht für ein "
+                      "bestimmtes historisches Modell."),
         ],
-        status="NICHT ZUGEORDNET",
-        note="Ein Gerätefoto wäre eine Behauptung über die Methode.",
-        source="Quellenkarte · Gerät nicht belegt"),
+        status="SYMBOLBILD",
+        note="Die Interviewmethode ist belegt. Das konkrete Gerät bleibt offen.",
+        source="Einordnung zur Feldforschung · David Hufford"),
 }
 
 
@@ -207,9 +207,9 @@ def gap_card(spec: dict) -> Image.Image:
                          right_x - left_x - 156, 10)
         y += 26
     rounded_panel(draw, (right_x, y1, SIZE[0] - 112, y2), MUTED)
-    draw.text((right_x + 44, y1 + 54), "BELEGLAGE", font=font(24, bold=True), fill=MUTED)
-    draw.ellipse((right_x + 44, y1 + 108, right_x + 100, y1 + 164), fill=MUTED + (255,))
-    ty = draw_wrapped(draw, (right_x + 44, y1 + 196), spec["status"], font(40, bold=True),
+    draw.text((right_x + 44, y1 + 54), "KURZ GESAGT", font=font(24, bold=True), fill=MUTED)
+    draw.line((right_x + 44, y1 + 112, SIZE[0] - 156, y1 + 112), fill=CORAL, width=8)
+    ty = draw_wrapped(draw, (right_x + 44, y1 + 158), spec["status"], font(36, bold=True),
                       WHITE, SIZE[0] - 112 - right_x - 88, 8)
     draw.line((right_x + 44, ty + 26, SIZE[0] - 156, ty + 26), fill=LINE, width=2)
     draw_wrapped(draw, (right_x + 44, ty + 62), spec["note"], font(28), PAPER,

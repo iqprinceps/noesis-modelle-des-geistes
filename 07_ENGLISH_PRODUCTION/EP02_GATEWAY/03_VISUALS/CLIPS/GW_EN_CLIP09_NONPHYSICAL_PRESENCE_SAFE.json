@@ -1,0 +1,12 @@
+{
+  "provider": "code-native controlled motion",
+  "source": "03_VISUALS/GENERATED/INNER/GW_EN_INNER04_NONPHYSICAL_PRESENCE_NATIVE.png",
+  "duration_seconds": 6,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "purpose": "nonphysical-presence cue without literal entity formation",
+  "source_sha256": "f67e176e7b4aecced7337c0aea4649c10084d304bbe7df89601f809f2417f0be",
+  "visible_mode_badge": false,
+  "motion_arc": "disturbance travels left-to-right, intensifies at midpoint, then releases; localized glow and moving particles follow it",
+  "qa_rule": "local geometric distortion, light response, and particles only; no body, face, text, or smoke figure"
+}

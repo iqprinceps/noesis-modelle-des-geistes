@@ -1,0 +1,17 @@
+{
+  "channel": "NOESIS",
+  "channel_handle": "@noesisfiles",
+  "channel_id": "UC-uNFk4AgkTRW0W3h6FY2Qw",
+  "video_id": "sPpD5ovRMso",
+  "watch_url": "https://youtube.com/shorts/sPpD5ovRMso",
+  "title": "Kozyrev Never Built the ‘Kozyrev Mirror’",
+  "upload_status": "processed",
+  "processing_status": "succeeded",
+  "privacy_status": "private",
+  "publish_at_utc": "2026-08-28T17:00:00Z",
+  "publish_at_europe_berlin": "2026-08-28T19:00:00+02:00",
+  "thumbnail": "custom_set",
+  "captions": "en_uploaded",
+  "related_video_id": "sNaGasLTP2U",
+  "related_video_status": "scheduled_followup_after_longform_public"
+}

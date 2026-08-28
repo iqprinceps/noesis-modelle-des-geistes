@@ -1,0 +1,219 @@
+{
+  "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP07A_ALBTRAUMWORT\\final_v4\\SP07A_ALBTRAUMWORT_FINAL_V4.mp4",
+  "duration": 42.708,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "shots": 16,
+  "shot_min": 1.601,
+  "shot_max": 3.66,
+  "shot_mean": 2.669,
+  "distinct_assets": 16,
+  "kenburns": "3x supersampled zoompan, travel scaled with shot length",
+  "hook": "ALBTRAUM WAR EIN WESEN",
+  "cta": "GANZE FOLGE IM KANAL / Salem 1692: Schlafparalyse als Hexerei",
+  "tail_seconds": 2.4,
+  "voice": "George",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_take": "V4 (re-recorded for the rewritten script)",
+  "blackdetect_events": [],
+  "loudness": {
+    "integrated_lufs": -14.7,
+    "lra": 1.5,
+    "true_peak_dbtp": -1.5
+  },
+  "contact_sheet": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP07A_ALBTRAUMWORT\\final_v4\\SP07A_ALBTRAUMWORT_CONTACT_SHEET.jpg",
+  "plan": [
+    {
+      "index": 1,
+      "asset": "SHOT01.png",
+      "start": 0.0,
+      "seconds": 2.679,
+      "framing": "wide",
+      "direction": "push",
+      "zoom": [
+        1.001,
+        1.061
+      ]
+    },
+    {
+      "index": 2,
+      "asset": "SHOT02.png",
+      "start": 2.679,
+      "seconds": 2.521,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.197,
+        1.125
+      ]
+    },
+    {
+      "index": 3,
+      "asset": "SHOT03.png",
+      "start": 5.2,
+      "seconds": 2.219,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.252,
+        1.33
+      ]
+    },
+    {
+      "index": 4,
+      "asset": "SHOT04.png",
+      "start": 7.419,
+      "seconds": 3.401,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.21,
+        1.114
+      ]
+    },
+    {
+      "index": 5,
+      "asset": "SHOT05.png",
+      "start": 10.82,
+      "seconds": 2.939,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.238,
+        1.34
+      ]
+    },
+    {
+      "index": 6,
+      "asset": "SHOT06.png",
+      "start": 13.759,
+      "seconds": 1.84,
+      "framing": "wide",
+      "direction": "pull",
+      "zoom": [
+        1.051,
+        1.01
+      ]
+    },
+    {
+      "index": 7,
+      "asset": "SHOT07.png",
+      "start": 15.599,
+      "seconds": 3.66,
+      "framing": "mid",
+      "direction": "push",
+      "zoom": [
+        1.11,
+        1.214
+      ]
+    },
+    {
+      "index": 8,
+      "asset": "SHOT08.png",
+      "start": 19.259,
+      "seconds": 2.3,
+      "framing": "tight",
+      "direction": "pull",
+      "zoom": [
+        1.331,
+        1.251
+      ]
+    },
+    {
+      "index": 9,
+      "asset": "SHOT09.png",
+      "start": 21.559,
+      "seconds": 3.181,
+      "framing": "wide",
+      "direction": "push",
+      "zoom": [
+        1.0,
+        1.072
+      ]
+    },
+    {
+      "index": 10,
+      "asset": "SHOT10.png",
+      "start": 24.74,
+      "seconds": 1.979,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.189,
+        1.133
+      ]
+    },
+    {
+      "index": 11,
+      "asset": "SHOT11.png",
+      "start": 26.719,
+      "seconds": 1.601,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.263,
+        1.319
+      ]
+    },
+    {
+      "index": 12,
+      "asset": "SHOT12.png",
+      "start": 28.32,
+      "seconds": 3.439,
+      "framing": "mid",
+      "direction": "pull",
+      "zoom": [
+        1.211,
+        1.113
+      ]
+    },
+    {
+      "index": 13,
+      "asset": "SHOT13.png",
+      "start": 31.759,
+      "seconds": 3.0,
+      "framing": "tight",
+      "direction": "push",
+      "zoom": [
+        1.236,
+        1.34
+      ]
+    },
+    {
+      "index": 14,
+      "asset": "SHOT14.png",
+      "start": 34.759,
+      "seconds": 3.081,
+      "framing": "wide",
+      "direction": "pull",
+      "zoom": [
+        1.069,
+        1.0
+      ]
+    },
+    {
+      "index": 15,
+      "asset": "SHOT15.png",
+      "start": 37.84,
+      "seconds": 1.858,
+      "framing": "mid",
+      "direction": "push",
+      "zoom": [
+        1.134,
+        1.187
+      ]
+    },
+    {
+      "index": 16,
+      "asset": "SHOT16.png",
+      "start": 39.698,
+      "seconds": 3.0,
+      "framing": "tight",
+      "direction": "pull",
+      "zoom": [
+        1.34,
+        1.236
+      ]
+    }
+  ]
+}

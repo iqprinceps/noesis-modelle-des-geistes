@@ -1,0 +1,202 @@
+{
+  "SP08A_HAT_MAN_HUT": {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP08A_HAT_MAN_HUT\\final_v3\\SP08A_HAT_MAN_HUT_FINAL_V3.mp4",
+    "duration": 44.333,
+    "resolution": "1080x1920",
+    "fps": 24,
+    "shots": 17,
+    "shot_seconds": [
+      2.119,
+      2.641,
+      3.659,
+      1.7,
+      3.6,
+      2.7,
+      3.321,
+      2.109,
+      1.82,
+      3.43,
+      3.481,
+      2.319,
+      2.0,
+      2.06,
+      2.73,
+      1.588,
+      3.0
+    ],
+    "shot_min": 1.588,
+    "shot_max": 3.659,
+    "shot_mean": 2.605,
+    "stills_used": 7,
+    "veo_clips": 0,
+    "kenburns": "3x supersampled zoompan, lanczos downscale",
+    "hook": "WARUM DER HUT?",
+    "cta": "GANZE FOLGE IM KANAL / Shadow People: Warum viele den Hat Man sehen",
+    "tail_seconds": 2.4,
+    "voice": "George",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "voice_regenerated": false,
+    "blackdetect_events": [],
+    "loudness": {
+      "integrated_lufs": -14.5,
+      "lra": 1.9,
+      "true_peak_dbtp": -1.5
+    },
+    "contact_sheet": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\SCHLAFPARALYSE_SHORTS_V1\\SP08A_HAT_MAN_HUT\\final_v3\\SP08A_HAT_MAN_HUT_CONTACT_SHEET.jpg",
+    "plan": [
+      {
+        "index": 1,
+        "kind": "still",
+        "still": 1,
+        "start": 0.0,
+        "seconds": 2.119,
+        "framing": "wide",
+        "direction": "push"
+      },
+      {
+        "index": 2,
+        "kind": "still",
+        "still": 1,
+        "start": 2.119,
+        "seconds": 2.641,
+        "framing": "mid",
+        "direction": "push"
+      },
+      {
+        "index": 3,
+        "kind": "still",
+        "still": 1,
+        "start": 4.76,
+        "seconds": 3.659,
+        "framing": "tight",
+        "direction": "pull"
+      },
+      {
+        "index": 4,
+        "kind": "still",
+        "still": 2,
+        "start": 8.419,
+        "seconds": 1.7,
+        "framing": "tight",
+        "direction": "pull"
+      },
+      {
+        "index": 5,
+        "kind": "still",
+        "still": 2,
+        "start": 10.119,
+        "seconds": 3.6,
+        "framing": "mid",
+        "direction": "push"
+      },
+      {
+        "index": 6,
+        "kind": "still",
+        "still": 2,
+        "start": 13.719,
+        "seconds": 2.7,
+        "framing": "wide",
+        "direction": "push"
+      },
+      {
+        "index": 7,
+        "kind": "still",
+        "still": 3,
+        "start": 16.419,
+        "seconds": 3.321,
+        "framing": "wide",
+        "direction": "push"
+      },
+      {
+        "index": 8,
+        "kind": "still",
+        "still": 3,
+        "start": 19.74,
+        "seconds": 2.109,
+        "framing": "mid",
+        "direction": "push"
+      },
+      {
+        "index": 9,
+        "kind": "still",
+        "still": 3,
+        "start": 21.849,
+        "seconds": 1.82,
+        "framing": "tight",
+        "direction": "pull"
+      },
+      {
+        "index": 10,
+        "kind": "still",
+        "still": 4,
+        "start": 23.669,
+        "seconds": 3.43,
+        "framing": "tight",
+        "direction": "pull"
+      },
+      {
+        "index": 11,
+        "kind": "still",
+        "still": 4,
+        "start": 27.099,
+        "seconds": 3.481,
+        "framing": "wide",
+        "direction": "push"
+      },
+      {
+        "index": 12,
+        "kind": "still",
+        "still": 5,
+        "start": 30.58,
+        "seconds": 2.319,
+        "framing": "wide",
+        "direction": "push"
+      },
+      {
+        "index": 13,
+        "kind": "still",
+        "still": 5,
+        "start": 32.899,
+        "seconds": 2.0,
+        "framing": "tight",
+        "direction": "pull"
+      },
+      {
+        "index": 14,
+        "kind": "still",
+        "still": 6,
+        "start": 34.899,
+        "seconds": 2.06,
+        "framing": "tight",
+        "direction": "pull"
+      },
+      {
+        "index": 15,
+        "kind": "still",
+        "still": 6,
+        "start": 36.959,
+        "seconds": 2.73,
+        "framing": "wide",
+        "direction": "push"
+      },
+      {
+        "index": 16,
+        "kind": "still",
+        "still": 7,
+        "start": 39.689,
+        "seconds": 1.588,
+        "framing": "wide",
+        "direction": "push"
+      },
+      {
+        "index": 17,
+        "kind": "still",
+        "still": 7,
+        "start": 41.277,
+        "seconds": 3.0,
+        "framing": "tight",
+        "direction": "pull"
+      }
+    ]
+  }
+}

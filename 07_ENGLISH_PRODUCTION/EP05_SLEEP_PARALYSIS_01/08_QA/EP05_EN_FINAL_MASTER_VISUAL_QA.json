@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "master": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\09_UPLOAD\\EP05_SLEEP_PARALYSIS_PART1_EN_MASTER_1080P30.mp4",
+  "states": 107,
+  "timeline_start": 0.0,
+  "timeline_end": 493.25,
+  "duration_sum": 493.25,
+  "missing_assets": [],
+  "exact_asset_reuse": [],
+  "rejected_source_drift": [],
+  "non_adjacent_perceptual_near_duplicates_hamming_le_7": [],
+  "states_ge_8_seconds_for_manual_review": [
+    {
+      "id": "EP05_EDIT_016",
+      "start": 64.519,
+      "end": 73.52,
+      "duration": 9.001,
+      "asset": "EP05_ORIG_FOGO_MAP_1873.jpg",
+      "function": "one frightening night opens a geographic and explanatory question"
+    },
+    {
+      "id": "EP05_EDIT_092",
+      "start": 412.75,
+      "end": 421.72,
+      "duration": 8.97,
+      "asset": "EP05_ORIG_PSG_CONNECTIONS.jpg",
+      "function": "physiology explains immobility while culture may supply form"
+    }
+  ],
+  "luminance": {
+    "min": 8.46,
+    "max": 219.34,
+    "mean": 77.22,
+    "states_below_45": 34,
+    "states_above_150": 9
+  },
+  "contact_sheet": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\1552\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP05_SLEEP_PARALYSIS_01\\08_QA\\EP05_EN_FINAL_MASTER_STATE_CONTACT_SHEET.jpg"
+}

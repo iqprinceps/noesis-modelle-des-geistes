@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_FILMIC08_GATEWAY_TRAINING_SESSION",
+  "mode": "preview",
+  "provider": "Vertex AI",
+  "model": "gemini-2.5-flash-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Early-1980s guided-listening training room, three anonymous adults reclining in separate simple booths with padded headphones, eyes closed, while a technician behind glass advances a reel-to-reel tape. Calm bodily stillness, practical institutional materials, deep spatial composition, quiet anticipation. No faces dominate, no supernatural effect, no readable controls or paperwork.",
+  "prompt_sha256": "4d4d43ea3c89c0b2a58ac3b573961931c2d477af5ec3cb60d7c63c79edb788a3",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\PREVIEWS\\GW_EN_FILMIC08_GATEWAY_TRAINING_SESSION_PREVIEW.png",
+  "output_sha256": "55cb8411e11b7de05e8c9615f728b2ece763841d954cf6b192c40586c0753a78",
+  "seconds": 10.525,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

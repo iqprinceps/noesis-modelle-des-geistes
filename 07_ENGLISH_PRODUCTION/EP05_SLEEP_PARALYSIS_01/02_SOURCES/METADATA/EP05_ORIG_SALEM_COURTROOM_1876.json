@@ -1,0 +1,122 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "17689791": {
+          "pageid": 17689791,
+          "ns": 6,
+          "title": "File:Witchcraft at Salem Village.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1191754,
+              "width": 2356,
+              "height": 1637,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Witchcraft_at_Salem_Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Witchcraft_at_Salem_Village.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17689791",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-12-16 03:41:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Witchcraft at Salem Village",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Granville Perkins|PD US|1876 engravings|PD-US missing SDC copyright status|Engravings of the Salem Witch Trials|Pioneers in the settlement of America: from Florida in 1510 to California in 1849 (1876)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Witchcraft at Salem Village.  Engraving.  The central figure in this 1876 illustration of the courtroom is usually identified as Mary Walcott.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1876",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "William A. Crafts (1876) <cite>Pioneers in the settlement of America: from Florida in 1510 to California in 1849</cite><sup><a rel=\"nofollow\" class=\"external autonumber\" href=\"http://openlibrary.org/books/OL7048761M/Pioneers_in_the_settlement_of_America_from_Florida_in_1510_to_California_in_1849.\">[1]</a></sup>, Pioneers in the settlement of America: from Florida in 1510 to California in 1849. edition, Boston: Published by Samuel Walker and Company",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "unattributed",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_SALEM_COURTROOM_1876",
+    "title": "File:Witchcraft at Salem Village.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Witchcraft_at_Salem_Village.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Witchcraft_at_Salem_Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "unattributed",
+    "date": "1876",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_SALEM_COURTROOM_1876.jpg",
+    "sha256": "e6bd9565809719bc322eee8e9a1e225e08cde51cef0ef416d6e2330586e32553",
+    "width": "2356",
+    "height": "1637",
+    "voice_beat": "from the bedroom into the courtroom",
+    "picture_function": "Later Salem courtroom engraving",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

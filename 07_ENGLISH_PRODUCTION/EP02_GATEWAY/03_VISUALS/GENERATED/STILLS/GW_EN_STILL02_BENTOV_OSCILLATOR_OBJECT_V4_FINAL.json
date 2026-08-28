@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_STILL02_BENTOV_OSCILLATOR_OBJECT_V4",
+  "mode": "final",
+  "provider": "Vertex AI",
+  "model": "gemini-3-pro-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Object-only late-1970s mechanical workbench, with no person, hands, body, portrait, or reflection anywhere. A carefully built pendulum-and-spring apparatus sits beside purely mechanical tools and analog needle meters turned partly away. No digital displays, LED readouts, screens, or numeric scales face the camera. Bentov's authentic portrait is shown separately at introduction; this is only a labeled reconstruction of the physical oscillator idea. Worn wood and brass; all papers blank with zero letters or numbers; practical task lighting; coherent apparatus geometry.",
+  "prompt_sha256": "b3fbe6d0c9655fbefe6e29d7da74918af9bf1df7509b554df55159f3bba410f8",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\STILLS\\GW_EN_STILL02_BENTOV_OSCILLATOR_OBJECT_V4_FINAL.png",
+  "output_sha256": "e3359c88584f721afea752c2b7980fbbad7c9b588c35e7f458fd23c95aeaf8a5",
+  "seconds": 36.266,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

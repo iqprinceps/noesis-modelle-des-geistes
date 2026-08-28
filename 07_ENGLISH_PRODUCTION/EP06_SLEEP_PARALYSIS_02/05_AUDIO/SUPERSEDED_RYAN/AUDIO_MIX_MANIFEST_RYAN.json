@@ -1,0 +1,15 @@
+{
+  "source": "project-owned deterministic EP07 music/SFX retimed proportionally to the new forced-aligned English arc",
+  "ratio": 1.4555756726753712,
+  "voice": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\34f1\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP06_SLEEP_PARALYSIS_02\\02_VOICE\\MASTER\\EP06_EN_VO_MASTER.wav",
+  "music": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\06_PRODUCTION\\EP07_SCHLAFPARALYSE_V4\\audio\\stems\\EP07_MX_MASTER.wav",
+  "sfx": [
+    "EP07_SFX_SALEM_ROOMTONE.wav",
+    "EP07_SFX_PAPER_INK.wav",
+    "EP07_SFX_COURT_MURMUR.wav",
+    "EP07_SFX_MAP_MOTION.wav",
+    "EP07_SFX_MEDIA_HANDOFF.wav"
+  ],
+  "duration": 454.008,
+  "sha256": "2c9ef1b4252439603694f40b13902cc81c6aad577badca8428d91dbc04241b76"
+}

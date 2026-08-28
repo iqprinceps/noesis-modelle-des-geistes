@@ -1,0 +1,22 @@
+{
+  "episode_id": "EP06_EN",
+  "series": "sleep_paralysis",
+  "series_part": 2,
+  "slug": "sleep_paralysis_salem_culture",
+  "language": "en",
+  "status": "upload_ready_not_published",
+  "canonical_script": "01_SCRIPT/VOICE_SCRIPT_EN.txt",
+  "german_source_episode": "../../03_EPISODEN/TYPE_B/EP07_SCHLAFPARALYSE_02",
+  "german_production_reference": "../../06_PRODUCTION/EP07_SCHLAFPARALYSE_V4",
+  "continuity_reference": "../EP05_SLEEP_PARALYSIS_01",
+  "central_question": "When does an invisible experience become public truth, and can that truth enter the next person's body?",
+  "interaction": "EXPERIENCE / STORY",
+  "selected_title": "The Night Salem Turned Sleep Paralysis Into Evidence",
+  "master": "08_MASTER/EP06_SLEEP_PARALYSIS_02_EN_MASTER_1080P30.mp4",
+  "master_sha256": "3107c4a17a7c5da7712364381e9fe828cdb2a22d4f5c6d3600b55044c97a3c09",
+  "duration_seconds": 413.0,
+  "voice_authority": "George / ElevenLabs JBFqnCBsd6RMkjVDRZzb / one canonical 6382-character request",
+  "superseded_editions": ["Ryan 454.0 s", "George Lean Cut 4070 characters"],
+  "qa_status": "PASS",
+  "upload_authorized": false
+}

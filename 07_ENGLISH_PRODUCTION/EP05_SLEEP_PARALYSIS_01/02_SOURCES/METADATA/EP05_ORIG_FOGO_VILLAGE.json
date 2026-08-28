@@ -1,0 +1,101 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "174538": {
+          "pageid": 174538,
+          "ns": 6,
+          "title": "File:Carlb-fogo-newfoundland-fishery-2002.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 76187,
+              "width": 640,
+              "height": 421,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Carlb-fogo-newfoundland-fishery-2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carlb-fogo-newfoundland-fishery-2002.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=174538",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2005-06-03 03:08:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Carlb-fogo-newfoundland-fishery-2002",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-user|2002 in Newfoundland and Labrador|Files with no machine-readable author|Files with no machine-readable source|Media missing infobox template|Fogo, Newfoundland and Labrador|2002 photographs|Boats in Newfoundland and Labrador|Coasts of Newfoundland and Labrador|Fishing stages in Newfoundland",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_FOGO_VILLAGE",
+    "title": "File:Carlb-fogo-newfoundland-fishery-2002.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Carlb-fogo-newfoundland-fishery-2002.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Carlb-fogo-newfoundland-fishery-2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "",
+    "date": "2005-06-03 03:08:28",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_FOGO_VILLAGE.jpg",
+    "sha256": "6781121198daa5a564f4aab391741f905ba3324edcb43fcfe53149c2c2bf98cc",
+    "width": "640",
+    "height": "421",
+    "voice_beat": "Hufford worked with local accounts and archives in Newfoundland.",
+    "picture_function": "Fogo / Old Hag place anchor",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

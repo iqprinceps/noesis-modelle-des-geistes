@@ -41,6 +41,15 @@ STATUS_COLORS = {
     "RECHTE OFFEN": MUTED,
 }
 
+VIEWER_STATUS = {
+    "BELEGT": "DIE QUELLEN SIND NACHVOLLZIEHBAR",
+    "DOKUMENTIERT": "DIE QUELLEN SIND NACHVOLLZIEHBAR",
+    "TEILS BELEGT": "EIN TEIL IST BELEGT, EIN TEIL NICHT",
+    "BERICHTE": "DAS ZEIGEN DIE BERICHTE",
+    "NICHT BELEGT": "DAFÜR FEHLT EIN BELEG",
+    "RECHTE OFFEN": "DAS ORIGINALMATERIAL FEHLT",
+}
+
 
 def source_card(filename: str, section: str, title: str, subtitle: str,
                 entries: list[tuple[str, str]], status: str, status_note: str,
@@ -66,7 +75,8 @@ def source_card(filename: str, section: str, title: str, subtitle: str,
         return total + 34
 
     left_h = block_height(entries, 33, left_w - 96)
-    status_lines = len(wrap(draw, status, font(40, bold=True), right_w - 88))
+    shown_status = VIEWER_STATUS.get(status, status)
+    status_lines = len(wrap(draw, shown_status, font(36, bold=True), right_w - 88))
     note_lines = len(wrap(draw, status_note, font(28), right_w - 88))
     right_h = 196 + status_lines * 48 + 88 + note_lines * 40 + 54
     panel_y2 = min(H - 150, panel_y1 + max(left_h, right_h, 320))
@@ -81,18 +91,21 @@ def source_card(filename: str, section: str, title: str, subtitle: str,
                          left_w - 96, 10)
         y += 26
 
-    # Belegampel
+    # Zuschauer-Einordnung statt interner Belegampel/Produktionsstatus.
     color = STATUS_COLORS.get(status, MUTED)
     rounded_panel(draw, (right_x, panel_y1, W - 112, panel_y2), color)
-    draw.text((right_x + 44, panel_y1 + 54), "BELEGLAGE", font=font(24, bold=True), fill=MUTED)
-    draw.ellipse((right_x + 44, panel_y1 + 108, right_x + 100, panel_y1 + 164), fill=color + (255,))
-    ty = draw_wrapped(draw, (right_x + 44, panel_y1 + 196), status, font(40, bold=True),
+    draw.text((right_x + 44, panel_y1 + 54), "KURZ GESAGT", font=font(24, bold=True), fill=MUTED)
+    draw.line((right_x + 44, panel_y1 + 112, W - 156, panel_y1 + 112), fill=color, width=8)
+    ty = draw_wrapped(draw, (right_x + 44, panel_y1 + 158),
+                      shown_status, font(36, bold=True),
                       WHITE, right_w - 88, 8)
     draw.line((right_x + 44, ty + 26, W - 156, ty + 26), fill=LINE, width=2)
     draw_wrapped(draw, (right_x + 44, ty + 62), status_note, font(28), PAPER,
                  right_w - 88, 12)
 
-    footer(draw, source)
+    viewer_source = source.replace("Bibliografische Quellenkarte · ", "Quelle · ")
+    viewer_source = viewer_source.replace("Quellenkarte · ", "Quelle · ")
+    footer(draw, viewer_source)
     OUT.mkdir(parents=True, exist_ok=True)
     image.convert("RGB").save(OUT / filename, format="PNG", optimize=True)
     print(OUT / filename)
@@ -106,18 +119,13 @@ def main() -> None:
     # --- S4 Harvard / Forschung -------------------------------------------
     manifest.append(source_card(
         "SRC051_HARVARD_RESEARCH_TITLE.png", "S4 Harvard",
-        "Zwei Wege durch dieselbe Frage",
-        "An derselben Universität, mit gegensätzlichem Zugang.",
-        [("Psychiatrie", "John E. Mack, Psychiater in Harvard, nimmt die Schilderungen "
-                         "seiner Interviewpartner ernst und hält viele von ihnen nicht "
-                         "für klassisch psychotisch."),
-         ("Psychologie", "Susan Clancy, Richard J. McNally und Kolleginnen und Kollegen "
-                         "untersuchen dieselben Berichte auf Schlafparalyse, "
-                         "Suggestibilität und False-Memory-Effekte.")],
+        "Zwei Erklärungen für dieselben Berichte",
+        "Beide Seiten forschen in Harvard — mit anderem Blick.",
+        [("John Mack", "nimmt die Schilderungen ernst und sucht nach ihrer Bedeutung."),
+         ("Clancy und McNally", "prüfen Schlafparalyse, Suggestion und Erinnerung.")],
         "DOKUMENTIERT",
-        "Beide Forschungslinien sind publiziert. Die Karte behauptet nicht, "
-        "eine Seite habe die andere widerlegt.",
-        "Quellenkarte · Forschungsüberblick · kein Einzelnachweis", CYAN))
+        "Beide Ansätze wurden veröffentlicht. Keiner erklärt automatisch jeden Einzelfall.",
+        "Forschungsüberblick · Harvard", CYAN))
 
     manifest.append(source_card(
         "SRC052_MCNALLY_CLANCY_BIBLIOGRAPHY.png", "S4 Erinnerung",
@@ -140,33 +148,23 @@ def main() -> None:
     # nur eine zweite Textstandzeit im selben Akt.
     manifest.append(source_card(
         "SRC053_DPH_MEDICAL_STATEMENT.png", "S5 Substanz",
-        "Was dokumentiert ist — und was nicht",
-        "Anticholinerges Delirium ist belegt. Die Gestalt ist es nicht.",
-        [("Wirkstoff", "Diphenhydramin, ein sedierendes Antihistaminikum der ersten "
-                       "Generation mit anticholinerger Wirkung."),
-         ("Dokumentiert", "In hoher Dosis sind anticholinerges Delirium, Verwirrtheit "
-                          "und Halluzinationen medizinisch beschrieben."),
-         ("Berichtet", "Die Verbindung zu einer großen dunklen Gestalt mit Hutrand "
-                       "stammt überwiegend aus Erfahrungsberichten im Netz."),
-         ("Folgerung", "Beides darf nebeneinanderstehen. Als Ursache-Wirkungs-Kette "
-                       "darf es nicht erzählt werden.")],
+        "Belegt: Delirium. Nicht belegt: der Hat Man.",
+        "Nicht beide Aussagen sind gleich gut belegt.",
+        [("Hohe Dosis", "Diphenhydramin kann Verwirrtheit und Halluzinationen auslösen."),
+         ("Gestalt mit Hut", "Die Verbindung stammt aus Berichten im Netz.")],
         "TEILS BELEGT",
-        "Die Substanzwirkung ist dokumentiert. Ein „Hat-Man-Syndrom“ "
-        "ist sie ausdrücklich nicht.",
-        "Quellenkarte · Substanzwirkung und Beleggrenze · Claims-Lock S08-06/07", GOLD))
+        "Die Substanzwirkung ist dokumentiert. Ein „Hat-Man-Syndrom“ ist es nicht.",
+        "Medizinische Einordnung · Diphenhydramin", GOLD))
 
     manifest.append(source_card(
         "SRC055_HAT_REPORTS_EVIDENCE_STATUS.png", "S5 Berichte",
-        "Die Berichte selbst sind die Quelle",
-        "Was Menschen im Netz schildern — und was das trägt.",
-        [("Material", "Datierte Erfahrungsberichte in offenen Foren und Kommentarspalten."),
-         ("Was sie zeigen", "Dass sich eine sehr ähnliche Beschreibung über viele "
-                            "voneinander unabhängige Schilderungen hinweg wiederholt."),
-         ("Was sie nicht zeigen", "Keine Diagnose, keine Häufigkeit, keine Ursache.")],
+        "Berichte zeigen ein Motiv — keine Ursache",
+        "Viele Menschen beschreiben eine ähnliche Gestalt.",
+        [("Sie zeigen", "dass sich dieselbe Beschreibung häufig wiederholt."),
+         ("Sie zeigen nicht", "wie häufig das Erlebnis ist oder wodurch es entsteht.")],
         "BERICHTE",
-        "Erfahrungsberichte sind ein Beleg für ein verbreitetes Motiv — "
-        "nicht für dessen Ursache.",
-        "Quellenkarte · Ersatz für nicht reproduzierbaren Forenmitschnitt", GOLD))
+        "Erfahrungsberichte belegen ein verbreitetes Motiv — nicht seine Ursache.",
+        "Datierte Erfahrungsberichte im Netz", GOLD))
 
     # --- S6 Netz / Archiv ---------------------------------------------------
     manifest.append(source_card(
@@ -205,17 +203,13 @@ def main() -> None:
     # eigene Aussage, und steht jetzt in deren Beleglage.
     manifest.append(source_card(
         "SRC058_NIGHTMARE_BIBLIOGRAPHY.png", "S7 Film",
-        "Der Dokumentarfilm als Verstärker",
-        "Ein Film bündelt die Schilderungen und gibt ihnen ein Bild.",
-        [("Werk", "The Nightmare. Dokumentarfilm von Rodney Ascher, 2015."),
-         ("Gegenstand", "Schilderungen von Betroffenen der Schlafparalyse, "
-                        "als Spielszenen rekonstruiert."),
-         ("Bedeutung für die Folge", "Der Film ist Teil der Verbreitungsgeschichte "
-                                     "des Motivs, nicht ihre Ursache.")],
+        "2015 bekommt das Motiv starke Bilder",
+        "Der Dokumentarfilm „The Nightmare“ bündelt viele Schilderungen.",
+        [("Film", "Rodney Ascher: The Nightmare, 2015."),
+         ("Wirkung", "Rekonstruktionen machen die Gestalten weithin sichtbar.")],
         "DOKUMENTIERT",
-        "Werkangabe. Für Key Art und Filmbilder liegt keine freie "
-        "Nutzungserlaubnis vor; die Folge zeigt daher kein Filmbild.",
-        "Bibliografische Quellenkarte · kein Bildmaterial des Films", VIOLET))
+        "Der Film verstärkt das Motiv. Er hat es nicht erfunden.",
+        "Werkangabe · The Nightmare (2015)", VIOLET))
 
     path = OUT / "EP08_SOURCE_CARDS_MANIFEST.csv"
     with path.open("w", encoding="utf-8-sig", newline="") as handle:

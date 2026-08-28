@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 5,
+  "phrase": "Biofeedback",
+  "match_count": 5,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    350.0,
+    612.0,
+    747.0
+  ],
+  "highlight_rects": [
+    [
+      72.22,
+      375.03,
+      131.83,
+      385.04
+    ],
+    [
+      174.71,
+      385.15,
+      234.5,
+      395.15
+    ],
+    [
+      259.2,
+      383.94,
+      320.27,
+      393.97
+    ],
+    [
+      211.42,
+      443.1,
+      272.65,
+      452.89
+    ],
+    [
+      371.77,
+      702.82,
+      432.56,
+      712.37
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

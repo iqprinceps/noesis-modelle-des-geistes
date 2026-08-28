@@ -1,0 +1,113 @@
+{
+  "api": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "83606139": {
+          "pageid": 83606139,
+          "ns": 6,
+          "title": "File:John Henry Fuseli - The NightmareFXD.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1231791,
+              "width": 3013,
+              "height": 2442,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/John_Henry_Fuseli_-_The_NightmareFXD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_NightmareFXD.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83606139",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-11-02 19:34:01",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "The Nightmare",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Derivative versions|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks with Wikidata item missing genre|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|The Nightmare (55.5.A) by Johann Heinrich Füssli",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Fuseli\" class=\"extiw\" title=\"w:en:Henry Fuseli\"><span title=\"Swiss born British painter, draughtsman and writer on art (1741–1825)\">Henry Fuseli</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1781<div style=\"display: none;\">date QS:P571,+1781-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG\" title=\"File:John Henry Fuseli - The Nightmare.JPG\">John Henry Fuseli - The Nightmare.JPG</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG/120px-John_Henry_Fuseli_-_The_Nightmare.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"97\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG/250px-John_Henry_Fuseli_-_The_Nightmare.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3013\" data-file-height=\"2442\"></a></span><br>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              },
+              "mime": "image/jpeg"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "record": {
+    "asset_id": "EP05_ORIG_FUSELI_NIGHTMARE",
+    "title": "File:John Henry Fuseli - The NightmareFXD.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_NightmareFXD.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/John_Henry_Fuseli_-_The_NightmareFXD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator_institution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Fuseli\" class=\"extiw\" title=\"w:en:Henry Fuseli\"><span title=\"Swiss born British painter, draughtsman and writer on art (1741–1825)\">Henry Fuseli</span></a></bdi>",
+    "date": "1781<div style=\"display: none;\">date QS:P571,+1781-00-00T00:00:00Z/9</div>",
+    "license": "Public domain",
+    "license_url": "",
+    "use_basis": "Licensed Commons original; attribution and share-alike terms retained where applicable",
+    "retrieved": "2026-08-27",
+    "local_path": "07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01/02_SOURCES/ORIGINALS/EP05_ORIG_FUSELI_NIGHTMARE.jpg",
+    "sha256": "57dcdf9c6299b71fddec5dddc33b92a2b271a53c382a75563cbdf155b6b3c127",
+    "width": "3013",
+    "height": "2442",
+    "voice_beat": "The physiology opens the door. Culture gives the darkness a face.",
+    "picture_function": "Historically relevant night-pressure iconography",
+    "claim_limit": "Use only as identified by title/date; never relabel as Hufford, Cheyne, Takeuchi, or a specific 1992 laboratory unless the source says so.",
+    "status": "ACQUIRED_REVIEW"
+  }
+}

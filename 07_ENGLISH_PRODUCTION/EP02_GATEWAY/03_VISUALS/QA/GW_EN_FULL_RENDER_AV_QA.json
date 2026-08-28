@@ -1,0 +1,164 @@
+{
+  "status": "PASS",
+  "master": "06_RENDER/EP02_GATEWAY_EN_FINAL_MASTER_1080P.mp4",
+  "master_sha256": "b4514b0bfe2b2ccb72f8d36018089fe16b1fd5488653b84f837f40ad6e3cfef8",
+  "qa_identity_note": "The final master is a byte-identical copy of the fully decoded review master; SHA-256 equality was verified after copying, then final video and audio streams were decoded once more without error.",
+  "video": {
+    "fps": 30.000060891508518,
+    "expected_frames": 14434,
+    "decoded_frames": 14434,
+    "full_decode_pass": true,
+    "black_frame_count_mean_luma_lt_2": 0,
+    "mean_adjacent_frame_difference": 1.41216,
+    "p01_adjacent_frame_difference": 2e-05,
+    "longest_near_frozen_run_seconds": 1.967,
+    "four_second_coverage": {
+      "range_seconds": [
+        0.0,
+        479.999
+      ],
+      "sample_count": 121,
+      "pages": [
+        {
+          "page": 1,
+          "file": "GW_EN_FULL_RENDER_4S_PAGE_01_000-096s.png",
+          "coverage_start": "0.000",
+          "coverage_end": "96.000",
+          "frames": 25
+        },
+        {
+          "page": 2,
+          "file": "GW_EN_FULL_RENDER_4S_PAGE_02_100-196s.png",
+          "coverage_start": "100.000",
+          "coverage_end": "196.000",
+          "frames": 25
+        },
+        {
+          "page": 3,
+          "file": "GW_EN_FULL_RENDER_4S_PAGE_03_200-296s.png",
+          "coverage_start": "200.000",
+          "coverage_end": "295.999",
+          "frames": 25
+        },
+        {
+          "page": 4,
+          "file": "GW_EN_FULL_RENDER_4S_PAGE_04_300-396s.png",
+          "coverage_start": "299.999",
+          "coverage_end": "395.999",
+          "frames": 25
+        },
+        {
+          "page": 5,
+          "file": "GW_EN_FULL_RENDER_4S_PAGE_05_400-480s.png",
+          "coverage_start": "399.999",
+          "coverage_end": "479.999",
+          "frames": 21
+        }
+      ],
+      "coverage_csv": "GW_EN_FULL_RENDER_4S_COVERAGE.csv"
+    },
+    "transition_coverage": {
+      "expected_transitions": 121,
+      "checked_transitions": 121,
+      "exact_same_frame_failures": 0,
+      "pages": [
+        {
+          "page": 1,
+          "file": "GW_EN_TRANSITIONS_PAGE_01_011-102s.png",
+          "coverage_start": "10.735",
+          "coverage_end": "101.800",
+          "transitions": 25
+        },
+        {
+          "page": 2,
+          "file": "GW_EN_TRANSITIONS_PAGE_02_105-206s.png",
+          "coverage_start": "105.230",
+          "coverage_end": "205.950",
+          "transitions": 25
+        },
+        {
+          "page": 3,
+          "file": "GW_EN_TRANSITIONS_PAGE_03_207-291s.png",
+          "coverage_start": "206.760",
+          "coverage_end": "291.130",
+          "transitions": 25
+        },
+        {
+          "page": 4,
+          "file": "GW_EN_TRANSITIONS_PAGE_04_293-396s.png",
+          "coverage_start": "293.030",
+          "coverage_end": "396.330",
+          "transitions": 25
+        },
+        {
+          "page": 5,
+          "file": "GW_EN_TRANSITIONS_PAGE_05_402-477s.png",
+          "coverage_start": "402.300",
+          "coverage_end": "476.975",
+          "transitions": 21
+        }
+      ],
+      "coverage_csv": "GW_EN_RENDER_TRANSITION_QA.csv"
+    }
+  },
+  "audio": {
+    "definition": "Voice and ducked-bed stems are measured before their common final loudness stage. Positive dB means narration energy exceeds music/SFX; one-second blocks with fully active narration (voice RMS > -25 dBFS) are assessed so pauses and clipped boundary words are not mislabeled as masking.",
+    "sample_rate": 48000,
+    "channels": 2,
+    "decoded_duration_seconds": 481.037,
+    "active_voice_blocks": 470,
+    "voice_integrated_lufs": -15.5,
+    "ducked_bed_integrated_lufs": -34.53,
+    "integrated_voice_over_bed_lu": 19.03,
+    "minimum_active_block_voice_over_bed_rms_db": 0.946,
+    "p05_active_block_voice_over_bed_rms_db": 7.431,
+    "median_active_block_voice_over_bed_rms_db": 17.652,
+    "final_mix_integrated_lufs": -15.97,
+    "final_mix_true_peak_dbtp": -1.19,
+    "targeted_listening_proxies": [
+      {
+        "name": "hook",
+        "range_seconds": [
+          0,
+          32
+        ],
+        "minimum_voice_over_bed_rms_db": 3.542,
+        "median_voice_over_bed_rms_db": 16.945,
+        "status": "PASS"
+      },
+      {
+        "name": "dense_music_sfx",
+        "range_seconds": [
+          299,
+          324
+        ],
+        "minimum_voice_over_bed_rms_db": 6.684,
+        "median_voice_over_bed_rms_db": 18.53,
+        "status": "PASS"
+      },
+      {
+        "name": "closing",
+        "range_seconds": [
+          455,
+          481.0
+        ],
+        "minimum_voice_over_bed_rms_db": 5.269,
+        "median_voice_over_bed_rms_db": 16.546,
+        "status": "PASS"
+      }
+    ],
+    "status": "PASS",
+    "superseded_metric": "The earlier sample-regression SNR was invalid because it compared an unfiltered mono source to a filtered, limited, loudness-normalized stereo sum; its negative coefficient was not a narration/background ratio."
+  },
+  "timeline": {
+    "edit_shots": 122,
+    "duration_seconds": 481.038,
+    "documents_percent": 37.19,
+    "maps_percent": 0.8,
+    "cards_percent": 20.86,
+    "documents_maps_cards_percent": 58.84,
+    "moving_clip_percent": 15.86,
+    "filmic_still_percent": 25.3
+  },
+  "manual_page_review": "PASS: all five 4-second coverage pages and all five transition pages were inspected at page beginning, middle, and end. Pages 4-5 explicitly cover 303.94-467.355 s. All 121 before/after transition cells were reviewed; no black interval, return-to-start loop, visible production-category badge, or identical cut boundary was found. The final audio-only revision left the decoded video metrics and regenerated page imagery unchanged. Mixed-signal speech probes are documented separately in GW_EN_MIXED_SPEECH_QA.json."
+}

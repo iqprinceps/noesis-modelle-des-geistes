@@ -2,17 +2,28 @@
 
 **Stand:** 19.08.2026
 **Referenzfolge:** EP02 Gateway V7 (`06_PRODUCTION/EP02_GATEWAY_V7/`)
-**Gilt für:** alle folgenden Episoden
+**Gilt für:** historische Referenz und technische Erfahrungswerte aus EP02 V7
+
+> **WICHTIGER OVERRIDE:** Für jede neue Produktion ist
+> [`00A_PRODUKTIONS_INDIVIDUALITAET.md`](00A_PRODUKTIONS_INDIVIDUALITAET.md)
+> maßgeblich. Alle Wort-, Akt-, Shot-, Asset-, Clip-, Karten-, CTA- und Timingwerte
+> in diesem Dokument sind Beispiele aus EP02 V7, keine Pflichten. Permanente
+> Produktions-/Evidenzlabels werden nicht verlangt.
 
 **Verbindliche Ergänzung für alle Zuschauerkarten und Motion-Erklärbilder:**
 [`00D_ZUSCHAUERKARTEN_STANDARD.md`](00D_ZUSCHAUERKARTEN_STANDARD.md). Jede neue Folge muss dessen Verständlichkeits-, Quellen- und Human-Editorial-Abnahme bestehen; Produktionscodes, reine Stichworttafeln und technische KI-/Dashboard-Ästhetik gehören nicht ins Zuschauerbild.
 
+Echte Dokumente folgen zusätzlich dem projektweiten
+[`00E_DOKUMENT_EVIDENZ_STANDARD.md`](00E_DOKUMENT_EVIDENZ_STANDARD.md): Die
+tatsächlich gesprochene Fundstelle wird im Original gesucht und präzise
+hervorgehoben; vollständige relevante Absätze und Textspalten dürfen durch Crop,
+Pan oder Zoom nicht abgeschnitten werden.
+
 ---
 
-Dieses Dokument hält fest, wie EP02 V7 gebaut wurde. Es ist kein Konzept,
-sondern ein Rezept: konkrete Zahlen, konkrete Regeln, konkrete Fehler, die
-schon einmal passiert sind. Wer eine neue Folge baut, arbeitet es von oben
-nach unten ab.
+Dieses Dokument hält fest, wie EP02 V7 gebaut wurde. Es ist ein historisches
+Rezept mit konkreten Zahlen und Fehlerbildern. Eine neue Folge übernimmt daraus
+nur, was ihre individuelle Zuschauerwirkung nachweislich verbessert.
 
 **Oberstes Ziel ist Retention.** Alles andere ordnet sich dem unter, solange
 es keine Lizenzprobleme erzeugt.
@@ -35,8 +46,8 @@ weiterzuschauen.
 | 7 | Das wildeste Material der Akte, voll ausgespielt | 65–75 s |
 | 8 | Was prüfbar ist, was bleibt, Schlussbild | 85–95 s |
 
-Gesamt 1.300–1.450 Wörter, bei `speed 1.06` rund 10:00–10:40 plus 20 s
-Endcard.
+EP02 V7 hatte 1.300–1.450 Wörter und lag bei `speed 1.06` rund um 10 Minuten.
+Das ist ein historischer Messwert, kein Zielkorridor für neue Folgen.
 
 ### Der Hook
 
@@ -147,14 +158,13 @@ Vorherigen. Beispiele aus EP02:
 - „Und gegen dieses eine Problem entwirft er die Lösung, mit der dieses Video
   begonnen hat." ← schließt die Schleife zum Hook
 
-### Interaktion
+### Interaktion in EP02 V7 — kein globales CTA-Rezept
 
-- **Mid-Roll-CTA** bei etwa 60 % der Laufzeit, direkt vor dem stärksten Akt.
-  Binär gestellt, das kostet den Zuschauer eine Sekunde:
+- EP02 V7 nutzte bei etwa 60 % eine binäre Mid-Roll-Frage. Neue Folgen wählen
+  Position und Form nur, wenn die Frage die Geschichte vertieft:
   „Schreib mir vorher in die Kommentare, was du bis hier glaubst."
-- **Endcard**, 20 s, mit einer Ja/Nein-Frage und dem Verweis auf die
-  Vorgängerfolge. Ohne diese 20 s kann YouTube keine Endscreens einblenden.
-- Mindestens **sieben Fragezeichen** im Sprechtext.
+- Endcard-Länge und Frageform werden je Folge festgelegt.
+- Es gibt keine Mindestzahl von Fragezeichen.
 
 ---
 
@@ -186,14 +196,14 @@ der Akte" — **im Satz, nicht als nachgestellter Dämpfer.**
 Falsch: „…könne sich mit einem Informationsfeld verbinden. Das ist die Annahme."
 Richtig: „…verbindet sich, schreibt McDonnell, mit einem größeren Informationsfeld."
 
-### Weitere Verbote
+### Historische EP02-V7-Risikosignale
 
 - **Keine Produktionsbuchhaltung im Film.** „Von X ist kein frei nutzbares
   Porträt bekannt" gehört in die Notizen, nicht in den Sprechtext.
-- **Keine Methodenlehre am Stück.** Blindauswertung, Trefferregeln,
-  Vorabdefinition: höchstens zwei Sätze, nie ein eigener Absatz.
-- **Forschungsteil maximal 35 Sekunden**, und als „was ließe sich prüfen"
-  formuliert, nicht als „warum es wahrscheinlich nichts ist".
+- Längere Methodenpassagen wurden in EP02 schnell lektionshaft. Neue Folgen
+  kürzen oder dramatisieren sie nach Zuschauerwirkung, nicht nach einer Satzquote.
+- Der EP02-Forschungsteil funktionierte in ungefähr 35 Sekunden. Das ist kein
+  globales Zeitlimit.
 
 ### Prüfschritt vor der Voice
 
@@ -201,20 +211,22 @@ Richtig: „…verbindet sich, schreibt McDonnell, mit einem größeren Informat
 python tools/gw_pruefe_text.py <reinschrift.txt>
 ```
 
-Meldet Antithesen, Rücknahmesätze, fehlende Fragen und Aktlängen.
+Meldet Sprachmuster, beobachtete Fragen/CTA und historische Vergleichswerte.
+Standardmäßig ist der Bericht beratend; nur `--legacy-strict` reproduziert die
+alte EP02-V7-Gate-Logik.
 
 ---
 
 ## 3 Bild
 
-### Mengengerüst
+### Gemessene EP02-V7-Werte — keine Produktionsquote
 
-| Kennzahl | Ziel | EP02 | EP01A | EP03 |
+| Kennzahl | damaliger Vergleich | EP02 | EP01A | EP03 |
 |---|---|---|---|---|
 | Shots | 140–155 | 148 | 155 | 152 |
 | Ø Shotdauer | 3,5–4,5 s | 4,18 s | 3,63 s | 4,02 s |
-| **Kein Shot über** | **9 s** | 8,4 s | 8,7 s | 8,7 s |
-| **Einzelbilder** | **≥ 85** | **90** | **117** | **128** |
+| längster Shot | 9 s | 8,4 s | 8,7 s | 8,7 s |
+| Einzelbilder | 85 | 90 | 117 | 128 |
 | Maximale Wiederholung | **≤ 4×** | 4× | 4× | 3× |
 | Wiederholung im selben Akt | **0** | 0 | 0 | 0 |
 | Bewegtbild | 3–5 Clips | 4 | 4 | 4 |
@@ -223,9 +235,9 @@ Meldet Antithesen, Rücknahmesätze, fehlende Fragen und Aktlängen.
 Die Obergrenze für die Standzeit ist neu und kommt aus einem Gegenbeispiel:
 Ein erster Schnitt von EP03 hatte **93 Shots bei Ø 6,6 s**, den längsten mit
 **22,1 Sekunden** auf einem Standbild, und die Hälfte der Laufzeit auf Shots
-über acht Sekunden. Er war technisch sauber und trotzdem unansehbar. Über
-neun Sekunden auf einem Einzelbild gibt es keinen Grund — wenn der Text so
-lange bei einer Sache bleibt, braucht er zwei Bilder, keine längere Standzeit.
+über acht Sekunden. Er war technisch sauber und trotzdem unansehbar. Über neun
+Sekunden war in diesem Schnitt deshalb ein Warnsignal. Ein neues Video darf
+länger halten, wenn Spannung, Bedeutung oder ein visueller Payoff stärker werden.
 
 Ebenso neu: der Anteil erzeugter Bilder. Bei EP01A lag er bei 74 Prozent, weil
 es zu diesem Thema fast nichts Freies gibt — das ist der belegte Ausnahmefall.
@@ -241,9 +253,9 @@ python tools/gw_wiederholungen.py <timeline.json>
 Ein Motiv, das dreimal oder öfter läuft, bekommt ein Gegenstück. Bei EP02
 waren das elf zusätzlich generierte Motive.
 
-### Verbote
+### Historische visuelle Risikomuster
 
-- **Kein Stockmaterial.** V5 hatte drei Pexels-Clips im Schnitt: ein Mann mit
+- Generisches Stockmaterial schwächte V5: ein Mann mit
   Kettlebell am Strand lief fünfmal, unter anderem unter dem wichtigsten
   Umdeutungssatz der Folge. Ein Nachtclub lief elf Sekunden unter „der
   entscheidende Wechsel".
@@ -350,6 +362,14 @@ Zwischenschritten je Ausgabebild** gerechnet und gemittelt (`tmix`): die vier
 Positionen runden unterschiedlich, ihr Mittel bewegt sich in Vierteln.
 Nebenbei entsteht die Bewegungsunschärfe, die eine Kamera ohnehin hat.
 
+**Verbindliche Implementierung:** Episodenrenderer dürfen dafür keinen eigenen
+direkten `zoompan`-Filter auf einem 1920×1080-Bild mehr zusammensetzen. Für
+bewegte Standbilder wird projektweit
+`tools/smooth_still_motion.py:eased_zoompan_filter()` verwendet. Eine Episode
+ist erst freigegeben, wenn die Bewegungs-QA auf den tatsächlich gerenderten
+Segmenten beziehungsweise dem finalen Master bestanden ist. Dokumente,
+Lesekarten und Karten bleiben davon ausgenommen und werden statisch gezeigt.
+
 Kennzahl ist die **zweite Differenz**: wie stark sich die Bilddifferenz von
 einem Bild zum nächsten ändert, im Verhältnis zum Mittel. Die Streuung allein
 taugt nicht — eine Fahrt mit weichen Enden ändert ihre Geschwindigkeit
@@ -430,11 +450,10 @@ Für Bewegtbild gilt das nicht: dort sind die Eingangsbilder verschieden.
 
 ### Bewegtbild
 
-Drei bis fünf prozedurale Clips pro Folge, gebaut in `tools/gw_motion.py`
+EP02 V7 nutzte drei bis fünf prozedurale Clips, gebaut in `tools/gw_motion.py`,
 mit numpy und PIL, Frame für Frame nach ffmpeg. Kein Browser, deterministisch,
-exakt in der Markenpalette. Jeder Clip illustriert genau einen Begriff, der
-sonst nur behauptet würde: eine Schwebung, eine Resonanz, ein Zeitrad, ein
-Feld das sich ordnet.
+exakt in der Markenpalette. Neue Folgen wählen Anzahl, Provider und Stil nach
+ihrem Cue-Sheet; die alte Menge und das alte Tool sind keine Pflicht.
 
 ---
 
@@ -471,7 +490,7 @@ Karten sind ebenfalls durchgehend deutsch. V5 hatte zwölf englische Karten auf
 
 ## 5 Personen und Porträts
 
-**Reihenfolge, immer in dieser Folge:**
+**Bevorzugte Reihenfolge, sofern Material und Rechte es erlauben:**
 
 1. **Echtes Archivbild mit freier Lizenz.** Wikimedia Commons, NARA, DVIDS,
    Bundesarchiv, Wellcome, Smithsonian. Lizenz und Urheber in `SOURCES.md`
@@ -636,10 +655,11 @@ Kein Upload ohne Punkt 7.
 
 ---
 
-## 10 Prüfliste vor dem Schnitt
+## 10 Historische EP02-V7-Prüfliste
 
-Die Reihenfolge ist nicht beliebig — jeder Punkt ist einmal übersprungen
-worden und hat einen Durchgang gekostet.
+Diese Liste dokumentiert den damaligen Durchlauf. Bei neuen Produktionen ersetzt
+die individuelle Zuschauerprüfung in `00A_PRODUKTIONS_INDIVIDUALITAET.md` alle
+kreativen Zahlen- und Mengenpunkte; Fakten-, Rechte- und Technikprüfungen bleiben.
 
 **Am Text, bevor vertont wird:**
 
@@ -648,7 +668,7 @@ worden und hat einen Durchgang gekostet.
 - [ ] Gibt es **zwei** Wendungen, und dreht die zweite die Frage?
 - [ ] Sprechen beide Seiten mit eigenen Worten, statt referiert zu werden?
 - [ ] Bindet der Schluss an eine Tatsache aus der Mitte zurück?
-- [ ] `gw_pruefe_text.py` grün — Antithesen, Rücknahmesätze, Umfang
+- [ ] `gw_pruefe_text.py` als beratenden Bericht gelesen
 - [ ] **Jede Zahl im Sprechtext gegen die Recherche geprüft.** Bei EP03
       standen „70 Stunden" und „88.000" im Text, belegt sind 73 und 87.000.
       Eine Karte widersprach dem Text, und die Karte hatte recht.
@@ -666,10 +686,10 @@ worden und hat einen Durchgang gekostet.
 
 **An der Zeitachse:**
 
-- [ ] `gw_wiederholungen.py` — 0 im selben Akt, 0 direkt hintereinander
-- [ ] Kein Shot über 9 s
-- [ ] Alle Animationen im Schnitt — sie liegen sonst ungenutzt herum
-- [ ] Verteilung geprüft: Rekonstruktion ≤ 65 %, wenn Archiv vorhanden ist
+- [ ] `gw_wiederholungen.py` auf bedeutungslose Wiederkehr geprüft
+- [ ] Lange Holds aus Zuschauersicht begründet
+- [ ] Nur Animationen verwendet, die der fertige Schnitt wirklich braucht
+- [ ] Medienverteilung auf Glaubwürdigkeit, Abwechslung und Rechte geprüft
 
 **Am Master:**
 

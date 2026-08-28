@@ -2,14 +2,18 @@
 
 **Stand:** 19.08.2026
 **Referenzfolge:** EP02 Gateway V7 (`06_PRODUCTION/EP02_GATEWAY_V7/`)
-**Gilt für:** alle folgenden Episoden
+**Gilt für:** archivierte Referenzwerte der deutschen EP02-V7-Produktion
+
+> **NICHT ALS NEUE PRODUKTIONSSCHABLONE VERWENDEN.** Maßgeblich ist
+> `01_GLOBAL/00A_PRODUKTIONS_INDIVIDUALITAET.md`: Jede neue Folge wird aus
+> Zuschauerperspektive individuell auf Retention, Verständlichkeit, Bildwirkung,
+> Aufwand und Kosten optimiert. Zahlen und sichtbare Labels aus diesem Dokument
+> sind keine Pflicht.
 
 ---
 
-Dieses Dokument hält fest, wie EP02 V7 gebaut wurde. Es ist kein Konzept,
-sondern ein Rezept: konkrete Zahlen, konkrete Regeln, konkrete Fehler, die
-schon einmal passiert sind. Wer eine neue Folge baut, arbeitet es von oben
-nach unten ab.
+Dieses Dokument hält fest, wie EP02 V7 gebaut wurde. Es ist ein historisches
+Rezept; neue Folgen übernehmen nur die jeweils sinnvollen Erfahrungen.
 
 **Oberstes Ziel ist Retention.** Alles andere ordnet sich dem unter, solange
 es keine Lizenzprobleme erzeugt.

@@ -1,0 +1,21 @@
+{
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.59,
+    "similarity_boost": 0.82,
+    "style": 0.08,
+    "speed": 1.08,
+    "use_speaker_boost": true
+  },
+  "seed": 260905,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:/Users/iQPrinceps/.codex/worktrees/d7fe/Youtube Modelle des Geistes/07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01_SHORTS/S01_HUFFORD_OLD_HAG/02_VOICE/raw",
+  "stems": [
+    {
+      "id": "EP05_EN_SHORT_S01",
+      "text_file": "C:/Users/iQPrinceps/.codex/worktrees/d7fe/Youtube Modelle des Geistes/07_ENGLISH_PRODUCTION/EP05_SLEEP_PARALYSIS_01_SHORTS/S01_HUFFORD_OLD_HAG/01_SCRIPT/VOICE_SCRIPT_EN.txt"
+    }
+  ]
+}

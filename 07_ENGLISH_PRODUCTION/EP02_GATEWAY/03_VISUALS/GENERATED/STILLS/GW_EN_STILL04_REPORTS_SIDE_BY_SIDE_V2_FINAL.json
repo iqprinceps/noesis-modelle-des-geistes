@@ -1,0 +1,14 @@
+{
+  "asset_id": "GW_EN_STILL04_REPORTS_SIDE_BY_SIDE_V2",
+  "mode": "final",
+  "provider": "Vertex AI",
+  "model": "gemini-3-pro-image",
+  "location": "global",
+  "seed": null,
+  "prompt": "Use case: historical-scene / photorealistic-natural.\nAsset type: 16:9 documentary still for EP02 The Gateway Process.\nThe viewer-facing frame carries no production-category badge. Reconstruction is\ncommunicated by a consistent restrained visual grammar and editor context only at\nthe first block entry. Early-1980s materials, natural anatomy, readable midtones,\none cool institutional source and at most one muted warm practical. Tactile 35mm\ngrain, no glossy stock-photo finish. No logos, captions, watermarks, invented\ndocuments, readable generated text, insignia close-ups, duplicate people, extra\nlimbs, modern devices, neon brains, portals, occult symbols, or fantasy effects.\nLeave space for editor-added factual typography where requested.\n\nPrimary request: Top-down evidence-table photograph: three blank ruled observer sheets lie side by side, each showing only one simple geometric pencil sketch\u2014circle, angular outline, curved edge\u2014with absolutely no words, letters, numbers, pseudo-writing, signatures, stamps, or labels. A completely blank face-down target card sits above them. Editor overlays exact comparison marks later. Cool institutional desk light, one amber reflection, rigorous chain-of-custody feeling, no hands.",
+  "prompt_sha256": "a76dcc97e61ede86104aa3060ace28e4af208833e19fd222fc9643df88e2d80c",
+  "output": "C:\\Users\\iQPrinceps\\.codex\\worktrees\\7eda\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\03_VISUALS\\GENERATED\\STILLS\\GW_EN_STILL04_REPORTS_SIDE_BY_SIDE_V2_FINAL.png",
+  "output_sha256": "d0566bb44bb99552b2a89d1bbcaf8abe8afe296fb3dc805d3679bff70b0246c8",
+  "seconds": 36.502,
+  "cache_rule": "skip when PNG and metadata both exist"
+}

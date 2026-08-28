@@ -1,8 +1,16 @@
 # TYPE A — Visual Sync & Generative Image Rules
 
-## Ziel
+## Ziel und Geltung
 
-Alle 5–8 Sekunden soll sich die visuelle Information ändern — **nicht zwingend das zugrunde liegende Asset**. Ein Originaldokument darf während eines Zitats länger stehen, solange Crop, Highlight oder Kamerabewegung dem gesprochenen Satz folgt.
+Diese Regeln dienen der semantischen Voice-Bild-Synchronität. Kreative Mengen,
+Standzeiten und Offenlegungsformen werden je Episode aus Nutzersicht entschieden;
+`01_GLOBAL/00A_PRODUKTIONS_INDIVIDUALITAET.md` hat Vorrang.
+
+Ein Bild darf einen zusammenhängenden Gedanken tragen. Danach entwickelt sich der
+visuelle Ablauf mit einem neuen Motiv weiter. Ein Originaldokument darf während
+eines zusammenhängenden Zitats länger stehen, solange Crop, Highlight oder
+Kamerabewegung dem gesprochenen Satz folgt; nach Verlassen dieses Blocks kehrt
+diese Seite nicht später als Füllbild zurück.
 
 ## Synchronisations-Hierarchie
 
@@ -28,7 +36,12 @@ Benannte reale Personen werden mit echten freigegebenen Porträts gezeigt. Keine
 
 ## KI-Rekonstruktionen
 
-Jede Rekonstruktion muss im Schnitt entweder global als synthetisch offengelegt oder bei Bedarf klein als `REKONSTRUKTION` markiert werden. Sie illustriert den gesprochenen Inhalt; sie ist niemals Evidenz.
+Rekonstruktionen müssen redaktionell von Originalmaterial unterscheidbar bleiben,
+aber nicht dauerhaft beschriftet werden. Die Produktionsklasse steht im Manifest.
+Optional kann beim ersten Eintritt in einen längeren Rekonstruktionsblock für
+1,5–2,0 Sekunden eine dezente Einordnung erscheinen. `INNER / HYPOTHESIS` und
+andere Produktionscodes sind niemals sichtbare Dauerlabels. Eine Rekonstruktion
+illustriert den gesprochenen Inhalt; sie ist keine Evidenz.
 
 ## Referenzbilder
 
@@ -38,19 +51,30 @@ Referenzbilder dienen der Formtreue (Gerät, Ort, Material, Zeitraum). Das Promp
 - keine nicht belegten Effekte sichtbar machen,
 - Zeit- und Ortsdetails nur soweit belegt.
 
-## 20-%-Reserve
+## Reserve nach Bedarf
 
-Reservebilder sind keine zusätzlichen Pflicht-Cues. Sie werden erzeugt, um folgende Probleme abzufangen:
+Es gibt keine feste Reservequote. Reservebilder werden nur erzeugt, um konkret
+erkannte Probleme abzufangen:
 - unbrauchbare Hände/Gesichter,
 - zu ähnliche Kompositionen,
 - fehlende B-Roll in einer längeren Voicepassage,
 - zusätzliche Crop-/Transition-Bedürfnisse,
 - ein Prompt trifft die Aussage visuell nicht exakt.
 
+## Kein visueller Rücksprung
+
+Ein Still, Dokument, Kartenexport oder Clip darf nur in einem zusammenhängenden
+Timeline-Block vorkommen. Nach dem Wechsel zu einem anderen Motiv ist ein späterer
+Return desselben Assets nicht zulässig. Neue Crops, Zooms, Pans oder Overlays des
+gleichen Exports umgehen diese Regel nicht. Wiederkehrende Themen erhalten einen
+neuen belegten Kontext oder einen sichtbar weiterentwickelten Bildzustand.
+
 ## Schnittdichte
 
-- Normaler Erklärbeat: 5–8 s pro visuelle Information.
-- Starker Dokumentbeleg: 8–18 s möglich, wenn innerhalb des Dokuments visuelle Zustände wechseln.
-- Porträt: meist 5–9 s, danach Detail/Timeline/Ort.
-- Abstrakte Metapher: maximal 5–7 s am Stück.
+- Statischer oder nahezu statischer Shot: normalerweise etwa 3–6 s.
+- Ab 8 s: bewusster Retentionreview statt automatischer Freigabe.
+- Etwa 10 s sind eine seltene Oberkante, keine starre Grenze. Länger nur mit
+  sichtbarer innerer Entwicklung und konkreter Zuschauerbegründung.
+- Ein langsamer Zoom, Crop, Pan oder Farbwechsel allein trägt keinen langen Hold.
+- Benachbarte Cues desselben Bildzustands zählen zusammen als ein Hold.
 - Keine zwei generischen KI-Laborbilder direkt nacheinander, wenn ein echtes Dokument/Diagramm verfügbar ist.

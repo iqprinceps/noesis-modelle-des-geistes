@@ -1,0 +1,108 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 2,
+  "phrase": "This study is certainly not designed to be the last word on the subject",
+  "match_count": 14,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    242.0,
+    612.0,
+    327.0
+  ],
+  "highlight_rects": [
+    [
+      85.42,
+      266.32,
+      110.8,
+      275.47
+    ],
+    [
+      116.86,
+      265.91,
+      147.81,
+      275.12
+    ],
+    [
+      153.82,
+      265.7,
+      166.77,
+      274.72
+    ],
+    [
+      171.83,
+      265.04,
+      226.81,
+      274.52
+    ],
+    [
+      232.54,
+      264.77,
+      251.46,
+      273.85
+    ],
+    [
+      257.03,
+      264.16,
+      306.33,
+      273.58
+    ],
+    [
+      311.99,
+      263.96,
+      325.29,
+      272.98
+    ],
+    [
+      330.47,
+      263.75,
+      343.91,
+      272.77
+    ],
+    [
+      348.72,
+      263.49,
+      367.67,
+      272.57
+    ],
+    [
+      373.44,
+      263.16,
+      397.77,
+      272.3
+    ],
+    [
+      402.96,
+      262.82,
+      428.21,
+      271.98
+    ],
+    [
+      433.66,
+      262.63,
+      446.24,
+      271.64
+    ],
+    [
+      451.68,
+      262.36,
+      470.54,
+      271.44
+    ],
+    [
+      476.64,
+      261.88,
+      514.01,
+      271.17
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

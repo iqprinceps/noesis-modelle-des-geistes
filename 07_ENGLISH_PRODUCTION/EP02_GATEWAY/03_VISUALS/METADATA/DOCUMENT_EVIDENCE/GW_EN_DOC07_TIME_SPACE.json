@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "pdf": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP02_GATEWAY\\02_SOURCES\\ORIGINAL_DOCUMENTS\\CIA-RDP96-00788R001700210016-5_TEXT_LAYER.pdf",
+  "page": 13,
+  "phrase": "Time-Space Dimension",
+  "match_count": 6,
+  "page_rect": [
+    0.0,
+    0.0,
+    612.0,
+    792.2
+  ],
+  "crop_rect": [
+    0.0,
+    72.0,
+    612.0,
+    792.0
+  ],
+  "highlight_rects": [
+    [
+      69.3,
+      180.65,
+      130.19,
+      192.35
+    ],
+    [
+      135.81,
+      178.33,
+      184.2,
+      189.49
+    ],
+    [
+      58.5,
+      624.51,
+      118.83,
+      635.95
+    ],
+    [
+      124.78,
+      622.13,
+      174.08,
+      633.1
+    ],
+    [
+      435.06,
+      702.22,
+      496.75,
+      713.49
+    ],
+    [
+      502.74,
+      699.84,
+      552.0,
+      710.57
+    ]
+  ],
+  "full_line_width_preserved": true,
+  "crop_edges_clear_text_lines": true,
+  "safe_canvas_margin_px": 72
+}

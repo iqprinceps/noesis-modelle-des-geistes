@@ -1,0 +1,43 @@
+{
+  "purpose": "speech intelligibility check on the actual final stereo mix, not the isolated voice master",
+  "model": "scribe_v2",
+  "probes": [
+    {
+      "name": "hook",
+      "range_seconds": [
+        0.0,
+        32.0
+      ],
+      "audio_file": "GW_EN_MIX_PROBE_HOOK.wav",
+      "expected_text": "Three observers.\n\nOne target.\n\nOne sees it now.\n\nOne searches the immediate past.\n\nOne searches the immediate future.\n\nTheir descriptions are compared only after the session.\n\nThis was not written for a science-fiction film.\n\nIt is Recommendation H in a report prepared for the United States Army.\n\nJune ninth, 1983.\n\nWritten by Lieutenant Colonel Wayne M. McDonnell.\n\nFort Meade, Maryland.\n\nThe declassified copy now carries CIA archive release marks.\n\nThat is why the internet calls it the CIA Gateway Report.\n\nBut this",
+      "heard_text": "Three observers, one target. One sees it now, one searches the immediate past, one searches the immediate future. Their descriptions are compared only after the session. This was not written for a science fiction film. It is Recommendation H in a report prepared for the United States Army, June ninth, nineteen eighty-three, written by Lieutenant Colonel Wayne M. McDonnell, Fort Meade, Maryland. The declassified copy now carries CIA archive release marks. That is why the internet calls it the CIA Gateway Report. But this",
+      "sequence_similarity": 0.97619,
+      "status": "PASS"
+    },
+    {
+      "name": "dense_music_sfx",
+      "range_seconds": [
+        299.0,
+        324.0
+      ],
+      "audio_file": "GW_EN_MIX_PROBE_DENSE_MUSIC_SFX.wav",
+      "expected_text": "Nobody in the room knows it.\n\nParticipants are supposed to read the sequence while out of body.\n\nAccording to a Monroe Institute trainer cited by McDonnell, some obtained enough matching digits to convince him their attention had reached the lab.\n\nNobody obtains all ten.\n\nThat result is the center of the episode.\n\nNot a clean success.\n\nNot a clean demonstration.\n\nJust enough resemblance to keep the report moving.\n\nMcDonnell blames",
+      "heard_text": "Nobody in the room knows it. Participants are supposed to read the sequence while out of body. According to a Monroe Institute trainer cited by McDonnell, some obtained enough matching digits to convince him their attention had reached the lab. Nobody obtains all 10. That result is the center of the episode. Not a clean success, not a clean demonstration, just enough resemblance to keep the report moving. McDonnell blames-",
+      "sequence_similarity": 0.985714,
+      "status": "PASS"
+    },
+    {
+      "name": "closing",
+      "range_seconds": [
+        455.0,
+        481.0
+      ],
+      "audio_file": "GW_EN_MIX_PROBE_CLOSING.wav",
+      "expected_text": "test plan for observers in three different times.\n\nWas that bureaucratic overreach?\n\nCold War desperation?\n\nOr an unanswered anomaly wrapped in the wrong theory?\n\nThe report cannot settle that question.\n\nBut the next experiment removes the visions, the entities, and the military language.\n\nIt replaces them with zeros and ones.\n\nFourteen million trials.\n\nAnd one unnamed person responsible for roughly half the effect.",
+      "heard_text": "test plan for observers in three different times. Was that bureaucratic overreach, Cold War desperation, or an unanswered anomaly wrapped in the wrong theory? The report cannot settle that question, but the next experiment removes the visions, the entities, and the military language. It replaces them with zeros and ones, fourteen million trials, and one unnamed person responsible for roughly half the effect",
+      "sequence_similarity": 1.0,
+      "status": "PASS"
+    }
+  ],
+  "status": "PASS"
+}
