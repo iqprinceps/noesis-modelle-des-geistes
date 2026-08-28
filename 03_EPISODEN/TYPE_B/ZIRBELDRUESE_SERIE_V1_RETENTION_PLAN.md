@@ -8,6 +8,20 @@
 
 Es gibt **keine harte Zeit-, Wort- oder Aktvorgabe**. Jede Folge bekommt genau die Länge, die ihr stärkster erzählbarer Inhalt rechtfertigt. Hook, Entwicklung, Wendung, Payoff, Verständlichkeit und Zuschauerbindung entscheiden. Weder wird eine gute Folge künstlich gekürzt, um einen Zielwert zu treffen, noch mit Wiederholungen, Lexikonpassagen oder langsamen Holds verlängert. Historische Laufzeiten anderer NOESIS-Folgen sind nur Vergleichswerte.
 
+### Monetarisierungsbewusster Zielkorridor
+
+YouTube ermöglicht Mid-Roll-Werbung bei monetarisierten Videos ab einer
+fertigen Laufzeit von acht Minuten. Deshalb wird für diese Serie ein Master von
+ungefähr **8:10 bis 8:30 Minuten** angestrebt, wenn die Episode dafür einen
+echten zusätzlichen Spannungs-, Beleg- oder Erlebnisbeat besitzt. Die Schwelle
+rechtfertigt niemals Fülltext, Wiederholung oder verlangsamte Bildholds. Sollte
+eine Folge trotz optimaler Voice und Bilddramaturgie organisch kürzer bleiben,
+hat Zuschauerzufriedenheit Vorrang vor dem zusätzlichen Werbeplatz.
+
+Ein möglicher Mid-Roll-Punkt wird je Episode an einem natürlichen Kapitel- oder
+Gedankenwechsel geplant. Er wird erst am fertigen Master gesetzt und nie mitten
+in einen Satz, Dokument-Reveal oder emotionalen Höhepunkt gelegt.
+
 ## Serienversprechen
 
 Die Zirbeldrüse ist klein, real und biologisch gut genug erforscht, um nicht als leere Projektionsfläche behandelt zu werden. Gleichzeitig liegt um sie eine außergewöhnliche Ideengeschichte: Lichtwahrnehmung, biologischer Rhythmus, Descartes' Seele, westlicher Okkultismus, das „dritte Auge“ und moderne DMT-Erzählungen.

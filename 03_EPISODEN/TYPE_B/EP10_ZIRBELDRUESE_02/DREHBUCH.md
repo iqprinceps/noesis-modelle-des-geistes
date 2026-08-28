@@ -1,4 +1,4 @@
-# EP10 V3 — Zirbeldrüse II: Der Sitz der Seele
+# EP10 V4 — Zirbeldrüse II: Der Sitz der Seele
 
 **Status:** Preproduction / finaler Retention-Pass  
 **Archetyp:** Type B/C — Ideengeschichte mit menschlichem Konflikt  
@@ -212,7 +212,35 @@ Doch Elisabeths Einwand hat etwas sichtbar gemacht, das eine anatomische Adresse
 
 Ein Ort erklärt noch keine Wechselwirkung.
 
-## S7 — Der Mensch im eigenen System
+## S7 — Elisabeth gibt sich nicht zufrieden
+
+Elisabeth antwortet noch einmal.
+
+Und diesmal dreht sie Descartes' Problem um.
+
+Es wäre für sie leichter, schreibt sie, der Seele Materie und Ausdehnung zuzugestehen, als zu verstehen, wie etwas völlig Immaterielles einen Körper bewegen kann.
+
+Das ist ein radikaler Gedanke.
+
+Elisabeth wäre eher bereit, die scharfe Grenze zwischen Geist und Materie aufzugeben, als eine Wechselwirkung zu akzeptieren, deren Mechanismus unsichtbar bleibt.
+
+Sie weist außerdem auf etwas zutiefst Menschliches hin.
+
+Körperliche Zustände können das Denken verändern.
+
+Krankheit, Erschöpfung oder körperliche Dämpfe — in der Sprache ihrer Zeit — können Vernunft und Aufmerksamkeit beeinträchtigen.
+
+Der Körper ist also nicht bloß eine Maschine, die der Geist gelegentlich lenkt.
+
+Er formt mit, was gedacht und erlebt werden kann.
+
+Descartes antwortet Ende Juni erneut.
+
+Doch der Briefwechsel schließt den Riss nicht.
+
+Er macht ihn nur deutlicher.
+
+## S8 — Der Mensch im eigenen System
 
 Genau deshalb wird der Briefwechsel größer als die Pinealis.
 
@@ -234,7 +262,7 @@ Aber sie kann die Lücke zwischen seinen beiden Arten von Wirklichkeit nicht ein
 
 Das ist der eigentliche Riss im System.
 
-## S8 — Was von der Theorie übrig bleibt
+## S9 — Was von der Theorie übrig bleibt
 
 Descartes' konkrete Physiologie hält moderner Anatomie nicht stand.
 
@@ -254,7 +282,7 @@ Descartes suchte einen Punkt.
 
 Elisabeth zeigte, warum ein Punkt nicht genügt.
 
-## S9 — Eine Idee verlässt die Anatomie
+## S10 — Eine Idee verlässt die Anatomie
 
 Die anatomische Theorie verliert an Boden.
 

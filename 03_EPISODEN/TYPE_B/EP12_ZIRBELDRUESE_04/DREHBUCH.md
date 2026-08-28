@@ -1,4 +1,4 @@
-# EP12 V2 — Zirbeldrüse IV: DMT an der Grenze
+# EP12 V3 — Zirbeldrüse IV: DMT an der Grenze
 
 **Status:** Preproduction / finaler Retention-Pass  
 **Archetyp:** Type B — Labor-Mystery und Evidenzgrenze  
@@ -132,7 +132,37 @@ Sondern:
 
 Wie verteilt ist die Fähigkeit zur DMT-Biosynthese im Säugetiergehirn?
 
-## S5 — Das bessere Rätsel
+## S5 — Wie misst man etwas Unsichtbares?
+
+Damit dieser Befund mehr ist als eine Behauptung, müssen wir kurz verstehen, wie er sichtbar wurde.
+
+In der visuellen Rinde der Ratten sitzt eine feine Mikrodialyse-Sonde.
+
+Man kann sie sich wie ein winziges chemisches Probenfenster vorstellen.
+
+Sie sammelt Moleküle aus der Flüssigkeit zwischen den Zellen, während das Tier lebt.
+
+Die Proben laufen anschließend durch ein Messsystem, das Stoffe voneinander trennt und das DMT-Signal mit einem Referenzstandard vergleicht.
+
+Bei den pinealektomierten Tieren liegt zwischen der Entfernung der Drüse und der Baseline-Messung eine Erholungszeit.
+
+Auch die erfolgreiche Entfernung wird biochemisch kontrolliert: Im Dialysat fehlt das Melatoninsignal.
+
+Das Experiment fotografiert also keine leuchtende Substanz im Gehirn.
+
+Es verfolgt eine chemische Spur.
+
+Vor dem Herzstillstand.
+
+Danach.
+
+Mit Drüse.
+
+Und ohne sie.
+
+Gerade diese vier Zustände machen aus einer faszinierenden Idee eine prüfbare Frage.
+
+## S6 — Das bessere Rätsel
 
 Drei Folgen lang haben wir verfolgt, wie immer mehr Bedeutung auf einen einzigen kleinen Ort gelegt wurde.
 
@@ -154,7 +184,7 @@ Für diese letzte Frage setzen die Forscher einen drastischen Test ein.
 
 Bei den Ratten wird experimentell ein Herzstillstand ausgelöst.
 
-## S6 — Dann steigt das Signal
+## S7 — Dann steigt das Signal
 
 Ein Herzstillstand verändert innerhalb von Sekunden die Bedingungen im Gehirn.
 
@@ -180,7 +210,7 @@ Damit bleibt ein reales neurochemisches Ereignis — nur ohne den einfachen gehe
 
 Die Quelle und Bedeutung des Signals werden dadurch breiter und offener.
 
-## S7 — Und der Mensch?
+## S8 — Und der Mensch?
 
 Hier endet die direkte Übertragung.
 
@@ -206,7 +236,7 @@ Und genau dort liegt die schwierige Frage:
 
 Wie verbindet man eine subjektive Grenzerfahrung mit einem Molekül, ohne aus der Ähnlichkeit bereits einen Mechanismus zu machen?
 
-## S8 — Vielleicht haben wir am falschen Ort gesucht
+## S9 — Vielleicht haben wir am falschen Ort gesucht
 
 Vier Folgen lang haben wir dieselbe kleine Struktur verfolgt.
 

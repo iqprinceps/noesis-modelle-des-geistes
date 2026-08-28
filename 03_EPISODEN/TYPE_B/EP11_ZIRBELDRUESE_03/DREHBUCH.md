@@ -1,4 +1,4 @@
-# EP11 V2 — Zirbeldrüse III: Wer machte sie zum dritten Auge?
+# EP11 V3 — Zirbeldrüse III: Wer machte sie zum dritten Auge?
 
 **Status:** Preproduction / finaler Retention-Pass  
 **Archetyp:** Type B/C — historisches Detektivstück und wandernde Symbole  
@@ -122,7 +122,39 @@ Blavatsky setzt diese alten Fäden in eine neue Beziehung.
 
 Und eine moderne Synthese beginnt, sich wie eine Erinnerung anzufühlen.
 
-## S5 — Eine Gleichung wird geboren
+## S5 — Wenn Seiten zur Brücke werden
+
+Stellt euch einen Leser im Jahr 1888 vor.
+
+Vor ihm liegt keine moderne Internetgrafik mit einem leuchtenden Punkt auf der Stirn.
+
+Er begegnet den Elementen nacheinander.
+
+Ein zoologischer Bericht beschreibt ein augenähnliches Organ bei Tieren.
+
+Ein anatomischer Text zeigt die Pinealis im menschlichen Gehirn.
+
+Und Blavatskys Seiten stellen daneben ein verlorenes Auge, Shiva und eine spirituelle Geschichte der Menschheit.
+
+Der Übergang geschieht nicht in einem einzigen Beweis.
+
+Er geschieht in der Montage.
+
+Ein reales Organ gibt der Erzählung Körper.
+
+Ein religiöses Bild gibt ihr Bedeutung.
+
+Eine evolutionäre Idee gibt ihr Vergangenheit.
+
+Wer diese Bilder nah genug nebeneinander sieht, kann die Verbindung fühlen, bevor er sie historisch geprüft hat.
+
+Vielleicht liegt genau darin ihre Kraft.
+
+Diese Montage erklärt nicht nur eine neue Gleichung.
+
+Sie lässt sie aussehen, als hätte sie immer auf ihre Entdeckung gewartet.
+
+## S6 — Eine Gleichung wird geboren
 
 Genau darin liegt der Trick der Zeit.
 
@@ -136,7 +168,7 @@ Selbst innerhalb der westlichen Esoterik bleibt die Zuordnung beweglich.
 
 Noch Jahrzehnte später ist keineswegs selbstverständlich, welche Drüse zu welchem spirituellen Zentrum gehören soll.
 
-## S6 — 1927: Die falsche Drüse?
+## S7 — 1927: Die falsche Drüse?
 
 1927 veröffentlicht der Theosoph C. W. Leadbeater *The Chakras*.
 
@@ -170,7 +202,7 @@ Sie verändert sich.
 
 Und irgendwann bleibt eine Version stärker hängen als die anderen.
 
-## S7 — Wenn die Nahtstelle unsichtbar wird
+## S8 — Wenn die Nahtstelle unsichtbar wird
 
 Ideen tragen ihre Entstehungsgeschichte selten mit sich herum.
 
@@ -200,7 +232,7 @@ Spätere Okkultisten experimentierten mit Drüsen und subtilen Zentren.
 
 Was heute wie eine einzige alte Tradition wirkt, trägt mehrere Geschichten in sich.
 
-## S8 — Wo bleibt die Erfahrung?
+## S9 — Wo bleibt die Erfahrung?
 
 Diese Herkunftsgeschichte entscheidet nicht, was ein Mensch in Meditation erlebt.
 
@@ -236,7 +268,7 @@ Nicht Symbol.
 
 Molekül.
 
-## S9 — Das Molekül im Dunkeln
+## S10 — Das Molekül im Dunkeln
 
 DMT kann Wahrnehmung und das Gefühl des eigenen Selbst radikal verändern.
 

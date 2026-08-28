@@ -1,4 +1,4 @@
-# EP09 V3 — Zirbeldrüse I: Das Auge im Inneren
+# EP09 V4 — Zirbeldrüse I: Das Auge im Inneren
 
 **Status:** Preproduction / finaler Retention-Pass  
 **Archetyp:** Type B — biologische Schwelle  
@@ -178,7 +178,33 @@ Außen verändert sich Licht.
 
 Innen verändert sich Zeit.
 
-## S6 — Wenn die Welt in uns weiterläuft
+## S6 — Wenn wir die Nacht erhellen
+
+Und hier wird dieser uralte Weg plötzlich modern.
+
+Denn die Netzhaut fragt nicht, ob Licht von der Sonne kommt oder von einer leuchtenden Fläche in unserer Hand.
+
+In einem kontrollierten Experiment verbrachten Teilnehmer mehrere Abende vor dem Schlafengehen entweder mit einem leuchtenden E-Book oder mit einem gedruckten Buch.
+
+Beim leuchtenden Bildschirm wurde der abendliche Melatoninanstieg unterdrückt und die innere Uhr nach hinten verschoben.
+
+Die Teilnehmer wurden später schläfrig und waren am nächsten Morgen weniger wach.
+
+Das Entscheidende ist nicht das Gerät.
+
+Es ist die Nachricht.
+
+Licht zur biologischen Nacht kann im System noch immer wie ein verspäteter Rest des Tages wirken.
+
+Die Pinealis sieht keinen Bildschirm.
+
+Aber über Retina und Nervensystem erreicht sie ein Signal, das die Dunkelheit neu bewertet.
+
+Der alte Zusammenhang zwischen Licht und innerer Zeit ist also keine ferne Evolutionsgeschichte.
+
+Wir verändern ihn jeden Abend selbst.
+
+## S7 — Wenn die Welt in uns weiterläuft
 
 Wir merken diese Kopplung selten bewusst.
 
@@ -204,7 +230,7 @@ Und ihre evolutionäre Vorgeschichte führt tatsächlich zurück zu Organen, die
 
 Die reale Biologie trägt bereits genug Fremdheit in sich.
 
-## S7 — Was von einem Auge bleibt
+## S8 — Was von einem Auge bleibt
 
 Was bleibt also von diesem alten Verhältnis zum Licht?
 
@@ -232,7 +258,7 @@ Nicht Zeit.
 
 Bewusstsein.
 
-## S8 — Der Mann, der dort die Seele suchte
+## S9 — Der Mann, der dort die Seele suchte
 
 1640 schreibt René Descartes über die Pinealis.
 

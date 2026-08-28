@@ -7,6 +7,10 @@
 - Die Säugetier-Pinealis ist nicht direkt lichtempfindlich wie ein Parietalauge.
 - Beim Menschen wird die Pinealis über eine retino-circadiane-neuronale Bahn durch den Hell-Dunkel-Zyklus gesteuert.
 - Melatonin wirkt als biologisches Nacht-/Zeitsignal und ist an circadianer Regulation beteiligt.
+- Kontrollierte Humanstudien zeigen, dass abendliche Exposition gegenüber
+  lichtemittierenden Displays den abendlichen Melatoninanstieg unterdrücken und
+  die circadiane Phase verzögern kann; konkrete Aussagen bleiben an Dauer,
+  Intensität und Versuchsbedingung der verwendeten Studie gebunden.
 
 ## Nur mit Attribution / Kontext
 

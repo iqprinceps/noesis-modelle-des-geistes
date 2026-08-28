@@ -1,8 +1,22 @@
-# EP10 — Script QA V3
+# EP10 — Script QA V4
 
 ## Gesamturteil
 
-**Retention-Pass abgeschlossen. Sehr stark; nach Primärquellen-Lock voraussichtlich Voice-Lock-fähig.**
+**Retention- und Acht-Minuten-Wertpass abgeschlossen. Sehr stark; nach Primärquellen-Lock voraussichtlich Voice-Lock-fähig.**
+
+V4 verlängert nicht die Philosophieerklärung, sondern den menschlichen
+Konflikt: Elisabeth antwortet erneut und erklärt, sie würde eher Materie und
+Ausdehnung der Seele zugestehen als eine unerklärte Wirkung des Immateriellen
+auf den Körper. Dadurch bekommt der Briefwechsel eine echte zweite Runde.
+
+## Laufzeit- und Mid-Roll-Plan
+
+- Skriptumfang: ungefähr 1.236 Wörter.
+- Erwarteter fertiger Master: etwa 8:15–8:35.
+- Natürlicher möglicher Mid-Roll-Punkt: nach S5, wenn die historische Maschine
+  vollständig sichtbar ist und bevor Descartes auf Elisabeth antwortet.
+- Kein Werbepunkt mitten in einem Briefsatz oder während eine Dokumentzeile
+  gelesen wird.
 
 Elisabeth von Böhmen ist jetzt der menschliche Konfliktmotor der Episode. S6/S7 wurden entdoppelt, der moderne Anatomieblock in S8 verkürzt und der Hook grammatisch korrigiert.
 

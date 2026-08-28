@@ -8,6 +8,10 @@
 - Die Zirbeldrüse war als anatomische Struktur bereits vor Descartes bekannt; er entdeckte sie nicht.
 - Elisabeth von Böhmen fragte Descartes im Mai 1643 ausdrücklich, wie eine immaterielle Seele die körperlichen animalischen Geister so bestimmen könne, dass freiwillige Bewegung entsteht.
 - Descartes antwortete am 21. Mai 1643 unter anderem mit der Unterscheidung grundlegender Begriffe von Körper, Seele und ihrer Einheit.
+- Elisabeth antwortete im nächsten Brief, es falle ihr leichter, Materie und
+  Ausdehnung der Seele zuzuschreiben, als einem immateriellen Wesen die
+  Fähigkeit, einen Körper zu bewegen und von ihm bewegt zu werden.
+- Descartes griff diesen Einwand in seiner Antwort vom 28. Juni 1643 erneut auf.
 - Die Korrespondenz zeigt, dass die Geist-Körper-Wechselwirkung für Descartes selbst zu einem zentralen Erklärungsproblem wurde.
 - Seine konkrete Pinealis-Mechanik entspricht nicht moderner Neuroanatomie und Neurophysiologie.
 
@@ -35,8 +39,10 @@ Die Episode darf offenhalten, warum subjektive Erfahrung trotz verteilter neuron
 
 ## Quellenpriorität vor Voice-Lock
 
-1. Elisabeth an Descartes, Mai 1643, mit verifizierter Edition/Fundstelle.
+1. Elisabeth an Descartes, 6. Mai 1643, mit verifizierter Edition/Fundstelle.
 2. Descartes an Elisabeth, 21. Mai 1643, mit verifizierter Edition/Fundstelle.
-3. Descartes' eigene Texte zur Pinealis und Einheit der Wahrnehmung, besonders *Les Passions de l'âme* sowie einschlägige Briefe/physiologische Texte.
-4. Historisch-philosophische Fachreferenzen zur Entwicklung seiner Pinealis-Theorie und Elisabeths Kritik.
-5. Moderne Anatomie nur zur sauberen Abgrenzung seines Modells.
+3. Elisabeths zweiter Einwand vom Juni 1643 und Descartes' Antwort vom
+   28. Juni, jeweils aus derselben verlässlichen Edition.
+4. Descartes' eigene Texte zur Pinealis und Einheit der Wahrnehmung, besonders *Les Passions de l'âme* sowie einschlägige Briefe/physiologische Texte.
+5. Historisch-philosophische Fachreferenzen zur Entwicklung seiner Pinealis-Theorie und Elisabeths Kritik.
+6. Moderne Anatomie nur zur sauberen Abgrenzung seines Modells.

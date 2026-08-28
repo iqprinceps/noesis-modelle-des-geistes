@@ -1,10 +1,25 @@
-# EP09 — Script QA V3
+# EP09 — Script QA V4
 
 ## Gesamturteil
 
-**Retention-Pass abgeschlossen. Fast Voice-Lock-fähig; Source-Lock bleibt Voraussetzung.**
+**Retention- und Acht-Minuten-Wertpass abgeschlossen. Fast Voice-Lock-fähig; Source-Lock bleibt Voraussetzung.**
 
 Die frühere defensive Struktur ist entfernt. Der Hook darf als reales zoologisches Wunder wirken, bevor die Folge die menschliche Pinealis einführt. S7 wurde gegenüber V2 verdichtet; Wiederholungen des Licht→Zeit→Chemie-Payoffs sind reduziert.
+
+V4 ergänzt keine Wiederholung, sondern einen neuen persönlichen Reality-Beat:
+ein kontrolliertes Experiment zu abendlichem Displaylicht, Melatonin und
+circadianer Verschiebung. Dadurch wird aus Evolutionsgeschichte eine Erfahrung,
+die der Zuschauer aus dem eigenen Abend kennt.
+
+## Laufzeit- und Mid-Roll-Plan
+
+- Skriptumfang: ungefähr 1.215 Wörter.
+- Erwarteter fertiger Master: etwa 8:10–8:30, abhängig von finaler Voice und
+  nichtsprachlichen Bild-/SFX-Atemzügen.
+- Natürlicher möglicher Mid-Roll-Punkt: nach S5 `Der Himmel wird Molekül`, vor
+  dem Wechsel zu S6 und dem modernen Lichtexperiment.
+- Der Acht-Minuten-Bereich ist ein wirtschaftlicher Zielkorridor, kein Grund,
+  die Folge bei schnellerer finaler Voice künstlich zu strecken.
 
 ## Zuschauercheck
 
@@ -40,6 +55,8 @@ Descartes und Elisabeth öffnen EP10 als menschlichen Konflikt. Der Übergang la
 2. Retina/Pineal-Verwandtschaft gegen Review-/Primärquellen sichern.
 3. menschliche Retina→SCN/innere Uhr→sympathische Bahn→Pinealis fachlich locken.
 4. Melatonin als biologisches Nacht-/Zeitsignal, nicht als alleinigen Schlafschalter formulieren.
+5. Displaylicht-Experiment gegen Chang et al. 2015 prüfen: Bedingung,
+   Expositionsdauer, Melatonin, Phasenverschiebung und Morgenwachheit.
 
 ## Status
 

@@ -8,6 +8,10 @@
 - In dieser Studie war extrazelluläres DMT in der visuellen Rinde von Ratten mit intakter Pinealis und nach Pinealektomie nachweisbar.
 - Die Studie berichtete unter ihren Versuchsbedingungen einen Anstieg von DMT in der Rattenrinde nach experimentell induziertem Herzstillstand.
 - In den berichteten Vergleichen war die Pinealis für das gemessene DMT beziehungsweise den beobachteten Effekt nicht erforderlich.
+- Die 2019er Studie verwendete kortikale Mikrodialyse mit nachgeschalteter
+  chromatografischer Analyse; pinealektomierte Tiere erhielten vor der
+  Baseline-Messung eine Erholungszeit, und die Entfernung wurde unter anderem
+  über das fehlende Melatoninsignal kontrolliert.
 - DMT kann beim Menschen intensive Veränderungen von Wahrnehmung, Selbstgefühl und Bewusstsein hervorrufen.
 - Wissenschaftliche Arbeiten haben phänomenologische Ähnlichkeiten zwischen psychedelischen DMT-Erfahrungen und Nahtoderfahrungsberichten untersucht.
 

@@ -1,10 +1,25 @@
-# EP11 — Script QA V2
+# EP11 — Script QA V3
 
 ## Gesamturteil
 
-**Finaler Retention-Pass abgeschlossen. Starkes Publikumspotenzial; Source-Lock vor Voice-Lock.**
+**Retention- und Acht-Minuten-Wertpass abgeschlossen. Starkes Publikumspotenzial; Source-Lock vor Voice-Lock.**
 
 EP11 beginnt jetzt unmittelbar mit der sensationellen Behauptung von 1888, bevor Buchtitel und Autorin erklärt werden. S4/S5 und S7 wurden deutlich verdichtet. Der Leadbeater-Reveal bleibt der zweite große Beweismoment.
+
+V3 fügt einen atmosphärischen Leser-/Montagebeat hinzu. Er bringt keine neue
+historische Behauptung ein, sondern macht anschaulich, wie reales Organ,
+religiöses Bild und evolutionäre Erzählung auf einer Seite eine gefühlte
+Verbindung erzeugen können.
+
+## Laufzeit- und Mid-Roll-Plan
+
+- Skriptumfang: ungefähr 1.178 Wörter.
+- Erwarteter fertiger Master: etwa 8:05–8:25 bei der vorgesehenen ruhigen,
+  dokumentnahen Voice.
+- Natürlicher möglicher Mid-Roll-Punkt: nach S5, wenn die Synthese als Bild
+  verstanden ist, vor dem Übergang zur entstehenden Gleichung und Leadbeater.
+- Dokumente benötigen lesbare progressive Ausschnitte, aber keine künstlich
+  verlängerten Kartenholds.
 
 ## Zuschauercheck
 
