@@ -1,6 +1,6 @@
 # Zirbeldrüse — unabhängiger Zuschauer- und Retention-Review
 
-**Stand:** 2026-08-28  
+**Stand:** 2026-08-28
 **Prüfmaßstab:** Neugier, Bindung, visuelle Anziehung, Serienfortsetzung,
 Interaktion und einlösbarer Mystery-Payoff. Dies ist kein Format-Lock und keine
 starre Schablone.
