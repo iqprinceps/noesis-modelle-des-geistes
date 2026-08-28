@@ -1,57 +1,52 @@
-# EP10 — Script QA V1
+# EP10 — Script QA V3
+
+## Gesamturteil
+
+**Retention-Pass abgeschlossen. Sehr stark; nach Primärquellen-Lock voraussichtlich Voice-Lock-fähig.**
+
+Elisabeth von Böhmen ist jetzt der menschliche Konfliktmotor der Episode. S6/S7 wurden entdoppelt, der moderne Anatomieblock in S8 verkürzt und der Hook grammatisch korrigiert.
 
 ## Zuschauercheck
 
 ### Hook
 
-**Stark:** Die Folge beginnt nicht mit Geburtsjahr oder Philosophieunterricht, sondern mit einer Erfahrung, die jeder unmittelbar prüfen kann: zwei Augen, eine Welt. Dadurch wird Descartes' Problem körperlich verständlich, bevor sein Name fällt.
+`Zwei Augen, eine Welt` bleibt ein unmittelbares Wahrnehmungsexperiment. Descartes muss visuell sehr früh als reale historische Person erscheinen; unmittelbar danach Elisabeth/Brief als Versprechen des späteren Konflikts.
 
-**Risiko:** Der Einstieg darf visuell nicht in generische Augen-Montage kippen. Schon früh muss ein konkreter historischer Descartes-Anker folgen.
+### Konflikt
 
-### Erste Entwicklung
+Der 6. Mai 1643 ist der zentrale Dokument-Reveal. Elisabeths Einwand darf nicht nur vorgelesen werden: Porträt → Brief → Schlüsselzeile → Descartes' Modell unter Druck.
 
-**Stark:** Das mechanische Körpermodell erzeugt eine echte narrative Notwendigkeit für die Pinealis. Der Zuschauer versteht, warum Descartes überhaupt eine Schnittstelle braucht.
-
-**Risiko:** `animalische Geister`, Ventrikel und Nervenmodell können schnell lehrbuchhaft werden. Visuals müssen eine einfache historische Maschine erzählen, nicht eine vollständige Geschichte der frühneuzeitlichen Physiologie.
-
-### Erste Wendung
-
-**Stark:** „Das Problem mit der Zahl zwei“ ist der stärkste historische Reveal: Die Pinealis wird nicht als zufällig mystische Drüse präsentiert, sondern als Lösung für die Einheit bewusster Wahrnehmung.
+Der 21. Mai 1643 liefert die Antwort und verhindert, dass Descartes als Strohmann erscheint. Seine Antwort wird fair rekonstruiert, bevor die Grenze des Modells benannt wird.
 
 ### Mitte
 
-**Stark:** Die Rekonstruktion der Drüse als Verteiler ist visuell und narrativ stark.
+`Ein Ort erklärt noch keine Wechselwirkung.` ist der zentrale Turn. S6 erklärt Descartes' Antwort; S7 zeigt die Konsequenz am verkörperten Menschen. Keine zusätzliche Wiederholung des Einwands im Schnitt.
 
-**Risiko:** Unbedingt als Descartes' Modell kennzeichnen bzw. durch konsistente historische Rekonstruktionssprache unterscheidbar machen. Keine Animation darf wie moderne Neurophysiologie wirken.
+### Anatomie / Payoff
 
-### Zweite Wendung
+S8 braucht nur eine kurze Kollision mit moderner Anatomie. Kein Debunking-Block. Der Payoff liegt in Descartes' Suche nach einem Punkt und Elisabeths Hinweis, dass der Punkt das Interaktionsproblem nicht löst.
 
-**Stark:** Anatomisches Scheitern wird nicht zum Debunking-Ende. Die Folge dreht auf die fortbestehende Frage nach Integration und Einheit der Erfahrung.
+### Serienübergang
 
-**Risiko:** Moderne Bewusstseinsforschung nur so weit verwenden, wie sie die Frage öffnet. Keine eigene Theorie behaupten und kein „binding problem“ als vollständig identisch mit Descartes' Problem darstellen.
+EP11 wird als Wechsel von Anatomie zu wandernden Symbolen geöffnet. Kein identischer Serienübergang zu EP09.
 
-### Payoff / Serienübergang
+## Visuelle Prioritäten
 
-**Stark:** EP10 bezahlt die Frage „Warum gerade die Pinealis?“ und erzeugt zugleich logisch EP11: Eine wissenschaftlich verworfene Mechanik kann kulturell als Symbol weiterleben.
+1. Descartes-Porträt sehr früh.
+2. Elisabeth-Porträt und Brief spätestens im ersten Konfliktblock.
+3. Originalbrief vom 6. Mai 1643 als Dokument-Evidenzmoment.
+4. Descartes-Antwort vom 21. Mai 1643 als zweites Dokument.
+5. historische Pinealis-/Ventrikelmodellwelt als zusammenhängende Animation.
+6. moderne Anatomie nur kurz als Kontrast.
 
-## Sprache
+## Source-Lock vor Voice-Lock
 
-- natürliche gesprochene Fassung;
-- keine übermäßige Satzfragmentierung im Voice-Master;
-- historische Fachbegriffe einmal erklären und danach sparsam einsetzen;
-- „Sitz der Seele“ immer als Descartes-Zuschreibung tragen;
-- kein spöttischer Ton gegenüber frühneuzeitlicher Anatomie.
+1. Elisabeth an Descartes, 6. Mai 1643: Wortlaut, Kontext, Übersetzung.
+2. Descartes an Elisabeth, 21. Mai 1643: Einheit von Seele und Körper / Grundbegriffe präzise.
+3. Descartes' Pinealis-Argument aus Briefen 1640 und *Passions de l'âme*.
+4. animalische Geister/Pinealisbewegung nur so stark visualisieren, wie Primärtexte tragen.
+5. keine Behauptung, Elisabeth habe Descartes endgültig `widerlegt`.
 
-## Fachliche Checks vor Voice-Lock
+## Status
 
-1. Relevante Descartes-Briefe und *Passions de l'âme* gegen Primärtextstellen prüfen.
-2. Historische Behauptung zur Unpaarigkeit/Einheit exakt nach Descartes' Argumentation formulieren.
-3. Anatomische Vorläufer (antike/mittelalterliche Pinealiskenntnis) nur so detailliert einbauen, wie Primär-/Fachquelle trägt.
-4. Rekonstruktion der animal spirits und Pinealisbewegung nicht stärker darstellen als Descartes selbst.
-5. Schluss über moderne Integration als offene Analogie formulieren, nicht als direkte Fortsetzung seiner Theorie.
-
-## V1-Urteil
-
-**GO für Quellen-, Originalasset- und Visual-Preproduction.**
-
-Die Folge braucht keine künstliche Mindestlaufzeit. Falls Quellenprüfung oder Visualdramaturgie zeigt, dass einzelne Passagen redundant sind, werden sie gekürzt; falls eine starke historische Quelle oder ein relevanter Konflikt fehlt, darf sie organisch wachsen.
+**GO für Source-/Originalasset-/Visual-Preproduction. Nach Source-Lock voraussichtlich Voice-Lock.**
