@@ -1,38 +1,43 @@
-# EP09 — Editorial Map
+# EP09 — Editorial Map V2
 
 ## Hook
 
-Ein reales Parietalauge bei Tuatara/Echsen. Sofortiger Widerspruch: Das klingt nach dem esoterischen „dritten Auge“, aber der Mensch besitzt dieses Organ nicht.
+Ein reales Parietalauge bei Tuatara/Echsen. Der Einstieg bleibt zunächst vollständig im Staunen: ein echter zusätzlicher Lichtsinn auf dem Scheitel. Erst danach öffnet die Folge die evolutionäre Verbindung zur Pinealis.
 
 ## Leitfrage
 
-**Was bleibt von einem Auge übrig, wenn es nicht mehr selbst sehen muss?**
+**Wie kann ein uralter Lichtsinn seine Form verlieren — und trotzdem im Körper weiterwirken?**
 
 ## Story-Beats
 
-1. **Das echte dritte Auge** — reales Tierorgan, Linse/lichtempfindliches Gewebe, kein Symbol.
-2. **Ein Auge, das Zeit liest** — Parietalauge als Licht-/Zeit-Sensor, nicht als dritte Kamera.
-3. **Die alte Familie** — Pinealkomplex, Retina und photorezeptive Verwandtschaft.
-4. **Erste Wendung** — die menschliche Pinealis ist kein verstecktes Auge; bei Säugetieren verschwindet die direkte Lichtempfindlichkeit.
-5. **Das Licht kommt trotzdem an** — Retina → circadianes System → sympathische Bahn → Pinealis.
-6. **Die Nacht wird Chemie** — Melatonin als biologisches Nacht-/Zeitsignal.
-7. **Payoff** — nicht „wir haben ein drittes Auge“, sondern: ein altes lichtbezogenes System wurde evolutionär umgebaut.
-8. **Serienöffnung** — Descartes wählt ausgerechnet diese kleine Drüse als Kandidaten für den Sitz der Seele.
+1. **Das echte dritte Auge** — reales Tierorgan als starkes Objekt; Wirkung vor Erklärung.
+2. **Ein Organ unter dem Himmel** — Licht als Information über Tag, Dämmerung und Jahreszeit.
+3. **Die alte Familie** — Retina, Pinealgewebe und photorezeptive Verwandtschaft als Entdeckung.
+4. **Erste Wendung** — bei Säugetieren wird die Architektur umgebaut; die direkte Pinealis-Lichtempfindlichkeit verschwindet.
+5. **Der Umweg des Lichts** — Retina → circadianes System → neuronale Weiterleitung → Pinealis.
+6. **Die Nacht wird Chemie** — Lichtinformation wird zum biologischen Nacht-Signal.
+7. **Payoff** — nicht Verlust, sondern Transformation: eine alte Licht-Körper-Beziehung bleibt als verteiltes System erhalten.
+8. **Serienöffnung** — Descartes überlädt dieselbe kleine Drüse später mit einer völlig anderen Aufgabe: Einheit von Wahrnehmung und Seele.
 
 ## Retention-Logik
 
-- Der reale Tier-Hook liefert sofort ein starkes Objekt statt abstrakter Neuroanatomie.
-- Die erste Korrektur darf nicht wie Debunking wirken; sie soll die Frage vergrößern.
-- Die Mitte bekommt einen klaren Mechanismuswechsel: direktes Licht wird zu neuronaler Information.
-- Der Payoff beantwortet die Anfangsfrage positiv: Die alte Beziehung zum Licht verschwindet nicht vollständig, sondern verändert ihre Form.
-- Der Schluss eröffnet eine historisch völlig andere Deutung derselben Drüse und macht EP10 notwendig.
+- Der reale Tier-Hook darf mindestens einen vollständigen Beat lang faszinieren, bevor eine Grenze gesetzt wird.
+- Präzisionssätze erscheinen nur dort, wo sonst eine falsche Behauptung entstehen würde; sie dürfen nicht den Rhythmus bestimmen.
+- Die Mitte erzählt keine Bahn als Lehrbuchliste, sondern eine Transformation: **Licht → Nervensignal → innere Zeit → Chemie**.
+- Das stärkste Bild lautet: **Der Himmel wird Molekül.** Es ist poetisch, aber biologisch sauber anschließbar.
+- Der Payoff beantwortet die Anfangsfrage positiv: Evolution verteilt die alte Funktion neu.
+- EP10 wird bereits mit Elisabeths Einwand angeteasert, damit der Serienübergang einen menschlichen Konflikt statt nur einen neuen Fachkomplex verspricht.
+
+## Sprachregel
+
+Staunen und positive Behauptungen tragen die Folge. Negativformulierungen werden nur für echte Claims-Grenzen verwendet. Keine Ketten aus `nicht`, `kein`, `keine`, wenn derselbe Sachverhalt als positive Entdeckung erzählt werden kann.
 
 ## Interaktion
 
-Kein CTA mitten in der Mechanik. Nach dem Payoff kann eine kurze Zuschauerfrage stehen:
+Optional nach dem Payoff:
 
-**Was ist erstaunlicher: dass manche Tiere wirklich ein drittes Auge besitzen — oder dass unser Körper Licht als innere Zeit weiterträgt?**
+**Was ist erstaunlicher: das echte dritte Auge mancher Tiere — oder dass der Sonnenuntergang bis in unsere Körperchemie weiterläuft?**
 
 ## Ton
 
-Staunend, präzise, ruhig. Keine spöttische Distanz zu späteren spirituellen Deutungen. Keine Behauptung paranormaler Funktion. Die reale Biologie soll selbst geheimnisvoll genug sein.
+Mysteriös durch reale Biologie. Ruhig, sinnlich, präzise. Die Folge soll keine Esoterik widerlegen, sondern zeigen, warum die echte Geschichte der Pinealis überhaupt eine so starke Projektionsfläche werden konnte.
