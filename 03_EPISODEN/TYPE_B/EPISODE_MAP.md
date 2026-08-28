@@ -16,9 +16,9 @@ Wenn Ordnernamen, ältere Readmes oder Commit-Texte widersprüchlich wirken, gil
 | **EP07** | Schlafparalyse II | `EP07_SCHLAFPARALYSE_02/` | **Schlafparalyse-Serie 2/3** | `DREHBUCH.md` |
 | **EP08** | Schlafparalyse III | `EP08_SCHLAFPARALYSE_03/` | **Schlafparalyse-Serie 3/3** | `DREHBUCH.md` |
 | **EP09** | Zirbeldrüse I — Das Auge im Inneren | `EP09_ZIRBELDRUESE_01/` | **Zirbeldrüse-Serie 1/4** | `DREHBUCH.md` |
-| **EP10** | Zirbeldrüse II — Der Sitz der Seele | `EP10_ZIRBELDRUESE_02/` | **Zirbeldrüse-Serie 2/4** | `DREHBUCH.md` (geplant) |
-| **EP11** | Zirbeldrüse III — Wer machte sie zum dritten Auge? | `EP11_ZIRBELDRUESE_03/` | **Zirbeldrüse-Serie 3/4** | `DREHBUCH.md` (geplant) |
-| **EP12** | Zirbeldrüse IV — DMT an der Grenze | `EP12_ZIRBELDRUESE_04/` | **Zirbeldrüse-Serie 4/4** | `DREHBUCH.md` (geplant) |
+| **EP10** | Zirbeldrüse II — Der Sitz der Seele | `EP10_ZIRBELDRUESE_02/` | **Zirbeldrüse-Serie 2/4** | `DREHBUCH.md` |
+| **EP11** | Zirbeldrüse III — Wer machte sie zum dritten Auge? | `EP11_ZIRBELDRUESE_03/` | **Zirbeldrüse-Serie 3/4** | `DREHBUCH.md` |
+| **EP12** | Zirbeldrüse IV — DMT an der Grenze | `EP12_ZIRBELDRUESE_04/` | **Zirbeldrüse-Serie 4/4** | `DREHBUCH.md` |
 
 ## EP04A / EP04B — was der V5-Split bedeutet
 
@@ -60,16 +60,18 @@ EP09 bis EP12 bilden eine explizite vierteilige Serie. Der gemeinsame redaktione
 
 `ZIRBELDRUESE_SERIE_V1_RETENTION_PLAN.md`
 
-Der aktuelle unabhängige Zuschauer- und Retention-Review liegt in:
+Der unabhängige Zuschauer- und Retention-Review liegt in:
 
 `ZIRBELDRUESE_SERIE_V1_VIEWER_REVIEW.md`
 
 Die Progression lautet:
 
 1. EP09: reales Parietalauge, Pinealkomplex, Licht und Melatonin;
-2. EP10: Descartes und der „Sitz der Seele“;
+2. EP10: Descartes, Prinzessin Elisabeth und der „Sitz der Seele“;
 3. EP11: historische Genealogie von Pinealis und „drittem Auge“;
 4. EP12: endogenes DMT, Pinealis-Hypothese und Evidenzgrenzen.
+
+Alle vier Episoden besitzen jetzt ein eigenes kanonisches `DREHBUCH.md`. Der Status Voice-Lock/Production-Lock wird weiterhin innerhalb des jeweiligen Episodenpakets geführt und darf nicht aus der bloßen Existenz des Skripts abgeleitet werden.
 
 ## Regeln für neue Commits und Produktionsdateien
 
