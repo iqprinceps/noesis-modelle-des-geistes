@@ -1,66 +1,59 @@
-# EP11 — Script QA V1
+# EP11 — Script QA V2
 
 ## Gesamturteil
 
-**GO für Quellen-, Originalasset- und Visual-Preproduction. Noch kein Voice-Lock.**
+**Finaler Retention-Pass abgeschlossen. Starkes Publikumspotenzial; Source-Lock vor Voice-Lock.**
 
-EP11 besitzt einen klar anderen Motor als EP09 und EP10: kein biologischer Mechanismus und kein philosophischer Briefkonflikt, sondern ein historisches Detektivstück darüber, wie getrennte Ideen zu einer scheinbar uralten Einheit werden.
+EP11 beginnt jetzt unmittelbar mit der sensationellen Behauptung von 1888, bevor Buchtitel und Autorin erklärt werden. S4/S5 und S7 wurden deutlich verdichtet. Der Leadbeater-Reveal bleibt der zweite große Beweismoment.
 
 ## Zuschauercheck
 
 ### Hook
 
-**Stark:** Ein reales Buch von 1888 als Beweisobjekt. Blavatsky sagt die Verbindung tatsächlich; dadurch beginnt die Folge nicht mit einer modernen Social-Media-Behauptung, sondern mit einem historischen Dokument.
+`1888 behauptet ein Buch, der Mensch habe einst ein echtes drittes Auge besessen. Und sein Überrest liege noch immer tief in unserem Gehirn.`
 
-**Risiko:** Die ersten Sekunden dürfen nicht mit vier Fachbegriffen überladen werden. Visuell zuerst Buch → Pinealis/third-eye-Passage → Frage „Seit wann gehört das zusammen?“
+Das Versprechen landet vor Namen und Fachbegriffen. Visuell: Behauptung → Originalseite → Pinealis → erst dann Blavatsky.
 
-### Erste Entwicklung
+### Erste Spur
 
-**Stark:** Die wissenschaftliche Third-Eye-Debatte des 19. Jahrhunderts erzeugt einen unerwarteten Reality-Turn und bindet EP09 organisch ein, ohne dessen Biologie zu wiederholen.
+Die naturwissenschaftliche Third-Eye-Debatte des 19. Jahrhunderts ist nur das notwendige Rohmaterial für die Synthese. Keine zweite EP09-Evolutionspassage.
 
-**Risiko:** Darwin/vergleichende Anatomie nur als notwendiges Rohmaterial für Blavatskys Synthese erzählen, nicht als zweite Evolutionsvorlesung.
+### Ajna
 
-### Ajna-Block
+Ajna wird als eigenständige subtile Tradition behandelt, nicht als fehlgeschlagene Neuroanatomie. Keine Chakra-Enzyklopädie. Vor Voice-Lock konkreten Primär-/Übersetzungstext und Datierung festlegen.
 
-**Stark:** Die ältere spirituelle Linie wird eigenständig behandelt. Dadurch entsteht kein herablassendes „alte Menschen wussten Anatomie nicht“, sondern eine saubere Trennung verschiedener Beschreibungssysteme.
+### Erster Turn
 
-**Risiko:** Datierung und Wortlaut des ausgewählten Primär-/Übersetzungstextes müssen vor Voice-Lock exakt geprüft werden. Keine pauschale Aussage über „den Hinduismus“.
+Blavatsky ist Synthese-Knoten, nicht pauschal `Erfinderin des dritten Auges`. Stärkster Satz bleibt:
 
-### Erste große Wendung
+`Eine moderne Synthese beginnt, sich wie eine Erinnerung anzufühlen.`
 
-**Stark:** Blavatsky wird als Synthese-Knoten erzählt. Die Folge behauptet nicht leichtfertig, sie sei die einzige Erfinderin der Gleichung.
+### Zweiter Turn
 
-### Zweite große Wendung
-
-**Sehr stark:** Leadbeater 1927 zeigt eine andere Zuordnung: sechstes Zentrum/Hypophyse, siebtes Zentrum/Pinealis. Das macht die historische Beweglichkeit sichtbar, ohne dass der Erzähler sie abstrakt erklären muss.
+Leadbeater 1927: Stirnzentrum/Hypophyse, siebtes Zentrum/Pinealis. Dieser Dokumentmoment soll die historische Beweglichkeit sichtbar machen, bevor die Voice sie erklärt.
 
 ### Payoff
 
-**Stark:** „Alter der Bestandteile ≠ Alter ihrer Verbindung.“ Das beantwortet die Zuschauerfrage und bewahrt gleichzeitig den mystischen Resonanzraum.
+`Alter der Bestandteile ≠ Alter ihrer Verbindung.` bleibt die Logik, wird im Voice aber nicht als Lehrsatz wiederholt. Die Nahtstelle zwischen Traditionen wird sichtbar gemacht und anschließend wieder in Erfahrung/Mystik geöffnet.
 
-### Serienübergang
+### EP12-Tür
 
-**Stark:** Der Sprachwechsel von Seele/Okkultismus zu Neurochemie macht DMT als EP12 unvermeidlich statt angehängt.
+Der Übergang ist jetzt ein konkretes Experiment: Ratten ohne Pinealis, DMT weiterhin messbar. Damit endet EP11 auf Handlung statt auf der Formel `Das ist die nächste Folge`.
 
-## Retention-Risiken
+## Visual-Rhythmus
 
-1. Zu viele Namen und Traditionsbegriffe können die Mitte belasten. Blavatsky und Leadbeater sind die einzigen zwingenden Personen; weitere Namen nur bei echtem Storywert.
-2. Zu viele Negativformulierungen vermeiden. Grenzen bevorzugt durch positive historische Formulierung setzen: „Der ältere Text beschreibt X“ statt wiederholt „Er sagt nicht Y“.
-3. Keine lange Chakra-Enzyklopädie. Nur Ajna soweit nötig, um die Genealogie verständlich zu machen.
-4. Blavatskys problematische theosophische Rassen-/Evolutionstheorien nur so weit nennen, wie für die Third-Eye-Behauptung nötig; keine unnötige Nebenepisode.
-5. Das Schlussstück zu Meditation/Erfahrung darf offen und respektvoll sein, aber keine paranormalen Wirkungen bestätigen.
+Blavatsky / Buch → historische Tieranatomie → indische Kunst/Primärtext → theosophische Synthese → Leadbeater-Dokument → menschliche Meditation/subjektive Bildwelt → Laborvorahnung.
 
-## Voice-Rhythmus
+Farbiger und ikonografisch reicher als EP09/EP10, aber keine generische violette Third-Eye-Dauerschleife.
 
-- Dokumentstellen als kurze harte Realitätsanker.
-- Zwischen den Dokumenten mehr atmosphärische Sprache zulassen.
-- Der Satz „Eine moderne Synthese beginnt, sich wie eine Erinnerung anzufühlen“ ist ein möglicher emotionaler Mittelpunkt.
-- Leadbeater-Reveal bewusst langsam setzen; Zuschauer soll die abweichende Zuordnung selbst bemerken, bevor der Erzähler die Konsequenz erklärt.
+## Source-Lock vor Voice-Lock
 
-## Fachliche Checks vor Voice-Lock
+1. Blavatsky-Originalseite und exakte Pinealis/Third-Eye/Shiva-Formulierungen.
+2. naturwissenschaftliche Third-Eye-Quellen des 19. Jahrhunderts.
+3. Ajna-Primär-/Übersetzungsquelle und Datierung.
+4. Leadbeater *The Chakras* (1927), exakte Zuordnung Hypophyse/Pinealis.
+5. moderne Verbreitung nur so konkret erzählen, wie Quellen tragen.
 
-1. Blavatsky-Originalseiten und exakte Formulierungen verifizieren.
-2. Historische naturwissenschaftliche Third-Eye-Quelle(n) auswählen und Rechte/PD prüfen.
-3. Ajna-Primär-/Übersetzungsquelle und Datierung präzisieren.
-4. Leadbeater-Originalausgabe 1927, relevante Seiten und Zuordnungen verifizieren.
-5. Schlussbehauptungen zur modernen Verbreitung als kulturelle Synthese nur so konkret machen, wie Quellen tragen.
+## Status
+
+**GO für Source-/Originalasset-/Visual-Preproduction. Nach Source-Lock noch ein kurzer Voice-Master-Check, kein weiterer struktureller Retention-Umbau geplant.**
