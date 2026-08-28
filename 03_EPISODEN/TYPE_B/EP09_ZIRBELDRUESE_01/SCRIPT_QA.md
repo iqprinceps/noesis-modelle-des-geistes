@@ -1,50 +1,46 @@
-# EP09 — Script QA V1
+# EP09 — Script QA V3
+
+## Gesamturteil
+
+**Retention-Pass abgeschlossen. Fast Voice-Lock-fähig; Source-Lock bleibt Voraussetzung.**
+
+Die frühere defensive Struktur ist entfernt. Der Hook darf als reales zoologisches Wunder wirken, bevor die Folge die menschliche Pinealis einführt. S7 wurde gegenüber V2 verdichtet; Wiederholungen des Licht→Zeit→Chemie-Payoffs sind reduziert.
 
 ## Zuschauercheck
 
-### Erste 15 Sekunden
+### Hook
 
-**Stark:** reales drittes Auge als konkretes, überraschendes Objekt. Der Hook erzeugt sofort eine Frage und ist visuell umsetzbar.
+**Stark:** reales Parietalauge, konkrete Anatomie, sofort visualisierbar. Fachbegriff erst nach dem Bildmoment tragen.
 
-**Risiko:** Zu früher Fachbegriff `Parietalauge` kann Distanz erzeugen. Deshalb erst nach dem visuellen Reveal benennen.
+### Entwicklung
 
-### 15–90 Sekunden
+**Stark:** Die Episode bewegt sich von Tier → evolutionärer Verwandtschaft → menschlichem Signalweg. Das ist eine Transformation, kein Debunking.
 
-**Stark:** Die Folge kippt schnell von vermeintlicher Esoterik in reale Zoologie, ohne den Reiz abzuwürgen. Die zentrale Frage „Was ist aus diesem alten Lichtsinn geworden?“ trägt über die reine Tieranatomie hinaus.
+**Visual-Risiko:** Zoologie nicht zu lange als gleichförmige Tier-/Makrostrecke schneiden. Früh Maßstab und Bildwelt wechseln: Tierkopf → historische/vergleichende Anatomie → menschliches Gesicht/Netzhaut → innere Signalreise.
 
-**Risiko:** Wenn die Visuals zu lange nur Tieranatomie zeigen, wirkt es wie Naturkunde. Früh auf Pinealkomplex und den menschlichen Bezug öffnen.
+### Mitte / Payoff
 
-### Mitte
+**Stärkster Satz:** `Der Himmel wird Molekül.`
 
-**Stark:** Die stärkste Wendung ist nicht „Mythos falsch“, sondern „direktes Licht verschwindet — Information bleibt“. Das gibt der Mechanik eine zweite dramaturgische Ebene.
-
-**Risiko:** Retina → circadianes System → sympathische Bahn kann lehrbuchhaft werden. Keine lange Neuroanatomie-Liste; die Voice muss als Transformation erzählt werden: Photon → Nervensignal → Nacht-Signal.
-
-### Payoff
-
-**Stark:** Der Anfang wird bezahlt. Die Antwort lautet nicht, dass Menschen ein verborgenes Auge besitzen, sondern dass ein alter lichtbezogener biologischer Zusammenhang in veränderter Form fortlebt.
+Die Signalreise muss visuell als Formwechsel funktionieren: Licht → Retina → neuronale Information → innere Uhr → Pinealis → Melatonin. Keine technische Vollbildgrafik über längere Zeit.
 
 ### Schluss
 
-**Stark:** Descartes öffnet eine komplett andere Interpretationswelt derselben Drüse. Dadurch fühlt sich EP10 nicht wie ein angehängtes Thema an.
+Descartes und Elisabeth öffnen EP10 als menschlichen Konflikt. Der Übergang lautet bewusst nicht mehr `Das ist die nächste Folge`, sondern endet auf dem Brief als neuer Spur.
 
 ## Sprache
 
-- natürliche gesprochene Sätze;
-- kurze Spannungssätze im Hook;
-- keine dauernden „nicht X, sondern Y“-Konstruktionen in der finalen Überarbeitung;
-- `circadian` im finalen Voice-Text entweder deutsch als `zirkadian` oder natürlich umschreiben;
-- `Pinealkomplex` und `Parietalauge` jeweils einmal klar erklären, danach sparsam nutzen.
+- im Voice-Text `zirkadian` oder `innere Uhr`, nie englisch `circadian` sprechen;
+- `Pinealkomplex` und `Parietalauge` sparsam;
+- keine weitere defensive Abgrenzung ergänzen, sofern Quellenprüfung sie nicht zwingend verlangt.
 
-## Fachliche Risiken vor Produktions-Lock
+## Source-Lock vor Voice-Lock
 
-1. Konkrete Anatomie des Tuatara-Parietalauges muss gegen zoologische Primär-/Reviewquelle geprüft werden.
-2. Aussagen zu Retina/Pineal-Homologien müssen präzise genug sein, um keine lineare Evolutionsgeschichte zu suggerieren.
-3. Die menschliche Licht→Pinealis-Bahn sollte im Quellenpaket anatomisch korrekt belegt werden.
-4. Melatonin nicht als alleinigen Schlafauslöser darstellen.
-5. Keine Bildsprache verwenden, die beim Menschen ein anatomisches Stirnauge suggeriert.
+1. Tuatara-/Echsen-Parietalauge und Formulierung zu Linse/retinaähnlichen Strukturen prüfen.
+2. Retina/Pineal-Verwandtschaft gegen Review-/Primärquellen sichern.
+3. menschliche Retina→SCN/innere Uhr→sympathische Bahn→Pinealis fachlich locken.
+4. Melatonin als biologisches Nacht-/Zeitsignal, nicht als alleinigen Schlafschalter formulieren.
 
-## V1-Urteil
+## Status
 
-**GO für Quellen- und Visual-Preproduction.**  
-Noch kein Voice-Lock: Vor finaler Sprecherfassung werden die wissenschaftlichen Formulierungen gegen die ausgewählten Primär-/Reviewquellen geprüft und anschließend rhythmisch verdichtet.
+**GO für Source-/Originalasset-/Visual-Preproduction. Nach erfolgreichem Source-Lock ist nur noch ein Voice-Master-Feinschliff nötig.**
