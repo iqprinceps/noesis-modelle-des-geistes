@@ -1,6 +1,6 @@
-# EP12 V4 — Zirbeldrüse IV: DMT an der Grenze
+# EP12 V5 — Zirbeldrüse IV: DMT an der Grenze
 
-**Status:** Preproduction / finaler Voice-Rhythmus-Pass  
+**Status:** Preproduction / 8–9-Minuten-Wertpass  
 **Archetyp:** Type B — Labor-Mystery und Evidenzgrenze  
 **Voice:** dunkel, neugierig, konkret; Daten als Reveal statt Korrekturvortrag
 
@@ -158,11 +158,33 @@ Damit bleibt ein reales neurochemisches Ereignis — nur ohne den einfachen gehe
 
 Die Quelle und Bedeutung des Signals werden dadurch breiter und offener.
 
-## S8 — Und der Mensch?
+## S8 — Was müsste beim Menschen passieren?
 
-Hier endet die direkte Übertragung.
+Hier lohnt sich eine ungewöhnliche Frage: Was würden wir eigentlich messen wollen, damit aus der populären Erzählung ein belastbarer menschlicher Befund wird?
 
-Das eben beschriebene Herzstillstands-Experiment wurde an Ratten durchgeführt.
+Es würde nicht reichen, DMT irgendwo im menschlichen Körper nachzuweisen. Das wissen wir grundsätzlich bereits.
+
+Wir müssten zeigen, dass sich DMT in der relevanten Situation verändert — zeitlich passend, an einem relevanten Ort und in einer Größenordnung, die biologisch Bedeutung haben könnte.
+
+Und wenn die Behauptung speziell die Pinealis betrifft, müsste zusätzlich gezeigt werden, dass gerade diese Drüse die entscheidende Quelle ist.
+
+Das sind mehrere Behauptungen, die im Internet oft zu einem einzigen Satz zusammenschmelzen:
+
+DMT existiert im Körper.
+
+Die Pinealis produziert es.
+
+Beim Tod wird viel davon freigesetzt.
+
+Dieser Schub verursacht die Erfahrung.
+
+Doch wissenschaftlich ist jeder Pfeil zwischen diesen Sätzen eine eigene Frage.
+
+Genau deshalb ist das Rattenexperiment so aufschlussreich: Es prüft einen dieser Pfeile direkt — die Sonderrolle der Pinealis — und macht die einfache Version unwahrscheinlicher.
+
+## S9 — Und der Mensch?
+
+Das Herzstillstands-Experiment wurde an Ratten durchgeführt.
 
 Für Menschen besitzen wir keinen direkten Nachweis, dass die Zirbeldrüse im Moment des Todes einen massiven psychedelischen DMT-Schub freisetzt.
 
@@ -180,7 +202,7 @@ Und genau dort liegt die schwierige Frage:
 
 Wie verbindet man eine subjektive Grenzerfahrung mit einem Molekül, ohne aus der Ähnlichkeit bereits einen Mechanismus zu machen?
 
-## S9 — Vielleicht haben wir am falschen Ort gesucht
+## S10 — Vielleicht haben wir am falschen Ort gesucht
 
 Vier Folgen lang haben wir dieselbe kleine Struktur verfolgt.
 
