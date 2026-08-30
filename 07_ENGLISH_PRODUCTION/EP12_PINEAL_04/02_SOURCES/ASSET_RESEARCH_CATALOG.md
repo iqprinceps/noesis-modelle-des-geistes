@@ -1,392 +1,445 @@
 # EP12_EN — Full Asset Research Catalog
 
 **Episode:** `EP12_PINEAL_04 — DMT at the Threshold`  
-**Priority:** original/source assets first; generated imagery only fills gaps.  
-**Acquisition owner:** Codex / production pipeline.  
-**Binary policy:** store media in external production storage, not Git.
+**Verification pass:** live URL/content/rights check completed 2026-08-30.  
+**Priority:** genuine scientific/historical/source assets first; generated imagery only fills gaps.  
+**Canonical verification log:** `02_SOURCES/URL_VERIFICATION_REPORT.md`.
 
-## Rights legend
+## Rights/status legend
 
-- **GREEN — DIRECT USE:** public domain / CC0 / explicit CC BY / CC BY-SA with attribution and source preserved.
-- **YELLOW — RIGHTS VERIFY:** credible institutional/source asset but no reusable license confirmed. Download only to `reference_only/` until permission/reuse basis is recorded.
-- **RED — REFERENCE ONLY:** copyrighted commercial/book/news material; do not put on screen without permission.
-- Scientific figures must be shown with title/caption/source context in the research master. Never convert a species-, method- or condition-specific figure into a broader claim.
+- `VERIFIED_GREEN` — live, correct asset/source, explicit reusable license/PD basis.
+- `VERIFIED_GREEN_EXTRACT` — live reusable document; extract figure from verified master instead of trusting a fragile CDN URL.
+- `VERIFIED_SOURCE_ONLY` — live and correct research/source evidence; media/page reproduction not automatically cleared.
+- `VERIFIED_REFERENCE_ONLY` — live and correct portrait/photo/reference; permission/open license still required before production use.
+- `REPLACED` — prior URL/asset was obsolete, fragile, or had a different rights basis; replacement below is canonical.
 
 ---
 
-# A. CORE SCIENTIFIC EVIDENCE — HIGHEST PRIORITY
+# 1. MUST-HAVE SCIENTIFIC EVIDENCE
 
-## A01 — Dean et al. 2019 full paper
-- **Source:** https://www.nature.com/articles/s41598-019-45812-w
-- **PDF:** https://www.nature.com/articles/s41598-019-45812-w.pdf
-- **Creator:** Jon G. Dean et al., *Scientific Reports*.
-- **Rights:** GREEN — CC BY 4.0; verify the article's license block and any third-party figure credit before final export.
-- **Use:** opening paper reveal; author/date/title; recurring source master.
-- **Claim boundary:** rat/human transcript evidence and rat visual-cortex DMT experiment only as described in the paper.
+## S01 — Dean et al. 2019 full paper
+- **URL:** https://www.nature.com/articles/s41598-019-45812-w.pdf
+- **Fallback:** https://pmc.ncbi.nlm.nih.gov/articles/PMC6597727/
+- **Verified:** correct 11-page Scientific Reports paper; Figure 1–4 present; experimental DMT in rat visual cortex, pinealectomy and cardiac-arrest result are all in the source.
+- **Rights:** CC BY 4.0 subject to any specific third-party credit line.
+- **Use:** opening paper/title card; source master for the entire experimental spine.
+- **Status:** `VERIFIED_GREEN`.
 
-## A02 — Dean Figure 1: INMT mRNA in rat and human brain tissues
-- **Source page:** same article.
-- **Publisher image:** https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-45812-w/MediaObjects/41598_2019_45812_Fig1_HTML.png
-- **Rights:** GREEN subject to article/figure credit verification.
-- **Use:** visual proof that the source question extends beyond one gland; show the complete figure/caption master before editorial crop.
-- **Do not say:** Figure 1 measures human-brain DMT concentrations. It is transcript-expression evidence.
+## S02 — Dean Figure 1 — INMT transcript in rat/human brain tissues
+- **Acquire from:** S01 verified PDF/article, not a standalone publisher CDN URL.
+- **Verified content:** rat visual cortex, human medial frontal cortex, pineal and choroid-plexus transcript evidence.
+- **Use:** “where can DMT biosynthetic capacity exist?”; documentary evidence that the question extends beyond a single gland.
+- **Claim limit:** transcript evidence, **not** human-brain DMT-concentration measurement.
+- **Status:** `VERIFIED_GREEN_EXTRACT`.
 
-## A03 — Dean Figure 2: INMT and AADC colocalization
-- **Publisher image:** https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-45812-w/MediaObjects/41598_2019_45812_Fig2_HTML.png
-- **Rights:** GREEN subject to figure-credit check.
-- **Use:** scientific microscopy / molecular-machinery beat; excellent replacement for generic glowing-neuron imagery.
-- **Do not say:** every highlighted cell is producing psychedelic concentrations of DMT.
+## S03 — Dean Figure 2 — INMT/AADC colocalization
+- **Acquire from:** S01 PDF.
+- **Use:** real microscopy/molecular machinery instead of generic AI neurons.
+- **Claim limit:** enzyme/transcript colocalization does not establish psychedelic tissue concentrations.
+- **Status:** `VERIFIED_GREEN_EXTRACT`.
 
-## A04 — Dean Figure 3: INMT/AADC in peripheral tissues
-- **Publisher image:** https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-45812-w/MediaObjects/41598_2019_45812_Fig3_HTML.png
-- **Rights:** GREEN subject to figure-credit check.
-- **Use:** briefly widen the biology beyond the brain; optional secondary evidence asset.
+## S04 — Dean Figure 3 — peripheral-tissue INMT/AADC context
+- **Acquire from:** S01 PDF.
+- **Use:** optional “from gland to many tissues” biological widening.
+- **Status:** `VERIFIED_GREEN_EXTRACT`.
 
-## A05 — Dean Figure 4: DMT before/after cardiac arrest ± pineal
-- **Publisher image:** https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-45812-w/MediaObjects/41598_2019_45812_Fig4_HTML.png
-- **Rights:** GREEN subject to figure-credit check.
-- **Use:** **central evidence reveal of the episode**. Archive full-resolution figure plus full PDF page and caption.
-- **Claim boundary:** rat visual cortex, experimental cardiac arrest, pineal-intact vs pinealectomized groups. Never label this human data.
+## S05 — Dean Figure 4 — DMT before/after cardiac arrest, with/without pineal
+- **Acquire from:** S01 PDF.
+- **Verified content:** central experimental result. Rat visual-cortex DMT was measurable in pineal-intact and pinealectomized animals and increased after experimental cardiac arrest; the paper reported no significant post-arrest concentration difference between the two groups.
+- **Use:** **main evidence reveal of EP12**. Preserve full figure, caption and full page before editorial cropping.
+- **Claim limit:** never present as human data or proof of a human DMT “flood.”
+- **Status:** `VERIFIED_GREEN_EXTRACT`.
 
-## A06 — Timmermann et al. 2018: DMT Models the Near-Death Experience
-- **Source:** https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01424/full
+## S06 — Timmermann et al. 2018 — DMT Models the Near-Death Experience
+- **Article:** https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01424/full
 - **PDF:** https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01424/pdf
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** human phenomenology bridge; show paper title/authors and the complete relevant comparison table/page.
-- **Claim boundary:** similarity/overlap of reported phenomenology; not proof that endogenous DMT causes NDEs.
+- **Verified:** correct paper; PDF opens; explicit CC BY 4.0.
+- **Use:** human DMT/NDE **phenomenology** comparison.
+- **Claim limit:** experiential overlap is not evidence that endogenous DMT causes NDEs.
+- **Status:** `VERIFIED_GREEN`.
 
-## A07 — Timmermann 2018 relevant table / NDE-feature comparison
-- **Source:** A06 PDF.
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** document reveal; animate highlighted rows only after showing whole table/page.
+## S07 — Timmermann 2018 comparison table/page
+- **Acquire from:** S06 PDF.
+- **Use:** full-page/table documentary reveal; then highlight only discussed features.
+- **Status:** `VERIFIED_GREEN_EXTRACT`.
 
-## A08 — Timmermann et al. PNAS 2023 human DMT fMRI: static resting-state connectivity
-- **Commons:** https://commons.wikimedia.org/wiki/File:FMRI_Static_Resting-State_Functional_Connectivity_effects_of_DMT.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/FMRI_Static_Resting-State_Functional_Connectivity_effects_of_DMT.jpg
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** real human DMT neuroimaging, later in episode when discussing how exogenous DMT changes brain dynamics.
-- **Claim boundary:** administered DMT study; not endogenous DMT and not dying subjects.
+## S08 — Human DMT fMRI — static connectivity
+- **URL:** https://commons.wikimedia.org/wiki/File:FMRI_Static_Resting-State_Functional_Connectivity_effects_of_DMT.jpg
+- **Verified:** correct PNAS 2023 DMT fMRI figure; original 2523×3065.
+- **Rights:** CC BY 4.0.
+- **Use:** measured human brain effects of **administered** DMT.
+- **Status:** `VERIFIED_GREEN`.
 
-## A09 — Timmermann et al. PNAS 2023: dynamic resting-state connectivity
-- **Commons:** https://commons.wikimedia.org/wiki/File:FMRI_Dynamic_Resting-State_Functional_Connectivity_effects_of_DMT.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/FMRI_Dynamic_Resting-State_Functional_Connectivity_effects_of_DMT.jpg
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** alternate/secondary human-DMT evidence frame.
-- **Claim boundary:** same as A08.
+## S09 — Human DMT fMRI — dynamic connectivity
+- **URL:** https://commons.wikimedia.org/wiki/File:FMRI_Dynamic_Resting-State_Functional_Connectivity_effects_of_DMT.jpg
+- **Verified:** original 3995×2973; CC BY 4.0.
+- **Use:** alternate network-dynamics visual.
+- **Status:** `VERIFIED_GREEN`.
 
-## A10 — Timmermann et al. PNAS 2023: principal cortical gradient
-- **Commons:** https://commons.wikimedia.org/wiki/File:FMRI_Principal_Cortical_Gradient_effects_of_DMT.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/FMRI_Principal_Cortical_Gradient_effects_of_DMT.jpg
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** sophisticated scientific visual to replace generic psychedelic brain animation.
+## S10 — Human DMT fMRI — principal cortical gradient
+- **URL:** https://commons.wikimedia.org/wiki/File:FMRI_Principal_Cortical_Gradient_effects_of_DMT.jpg
+- **Verified:** original 3755×3294; CC BY 4.0.
+- **Use:** sophisticated real-science visual during the “what does DMT do?” section.
+- **Status:** `VERIFIED_GREEN`.
 
-## A11 — Timmermann et al. PNAS 2023: EEG spectral power / signal diversity / traveling waves
-- **Commons:** https://commons.wikimedia.org/wiki/File:EEG_Spectral_Power,_Signal_Diversity,_and_Cortical_Traveling_Waves_of_DMT.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/EEG_Spectral_Power,_Signal_Diversity,_and_Cortical_Traveling_Waves_of_DMT.jpg
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** human electrophysiology anchor.
-- **Claim boundary:** administered DMT only.
+## S11 — Human DMT EEG — spectral power, signal diversity, traveling waves
+- **URL:** https://commons.wikimedia.org/wiki/File:EEG_Spectral_Power,_Signal_Diversity,_and_Cortical_Traveling_Waves_of_DMT.jpg
+- **Verified:** original 3914×2465; CC BY 4.0.
+- **Use:** electrophysiology anchor.
+- **Status:** `VERIFIED_GREEN`.
 
-# B. HUMAN NEAR-DEATH PHYSIOLOGY — CONTEXT, NOT DMT EVIDENCE
+## S12 — Parallel EEG + fMRI changes induced by DMT
+- **URL:** https://commons.wikimedia.org/wiki/File:Parallel_Changes_in_EEG_%26_fMRI_induced_by_DMT.jpg
+- **Verified:** correct simultaneous EEG/fMRI figure, original 2487×3489; CC BY 4.0.
+- **Use:** one compact scientific frame showing parallel measurement domains.
+- **Status:** `VERIFIED_GREEN`.
 
-These assets are valuable precisely because they show what can be measured in a dying human brain. **They do not measure DMT.** Keep that distinction explicit in filename metadata and narration.
+## S13 — Human brain effects of DMT assessed via EEG-fMRI, PNAS 2023
+- **URL:** https://www.pnas.org/doi/10.1073/pnas.2218949120
+- **PMC:** https://pmc.ncbi.nlm.nih.gov/articles/PMC10068756/
+- **Use:** paper/title/authorship source anchor for S08–S12; acquire actual figure files from their Commons records.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-## B01 — Xu et al. / Borjigin group: absolute EEG power at gamma bands near death
-- **Commons:** https://commons.wikimedia.org/wiki/File:Rise_of_Absolute_EEG_Power_at_Gamma_Frequency_Bands_at_Near-Death.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Rise_of_Absolute_EEG_Power_at_Gamma_Frequency_Bands_at_Near-Death.jpg
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** human-terminal-state measurement context.
+## S14 — Neural correlates of the DMT experience assessed with multivariate EEG
+- **URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC6864083/
+- **Verified:** correct 2019 Scientific Reports human DMT EEG paper.
+- **Use:** additional measured human DMT evidence; signal-diversity and subjective-effect linkage.
+- **Status:** `VERIFIED_GREEN_SOURCE`.
 
-## B02 — Surge of gamma synchrony within posterior hot zones at near-death
-- **Commons:** https://commons.wikimedia.org/wiki/File:Surge_of_Gamma_Synchrony_Within_the_Posterior_Hot_Zones_at_Near-Death.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Surge_of_Gamma_Synchrony_Within_the_Posterior_Hot_Zones_at_Near-Death.jpg
-- **Rights:** GREEN — CC BY 4.0.
+## S15 — Strassman & Qualls 1994 dose-response I
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/8297216/
+- **Verified:** correct controlled IV-DMT human study.
+- **Use:** historical document card proving that controlled physiological DMT measurement in humans predates modern imaging work.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-## B03 — Elevated phase-amplitude coupling of gamma oscillations at near-death
-- **Commons:** https://commons.wikimedia.org/wiki/File:Elevated_Phase-Amplitude_Coupling_of_Gamma_Oscillations_at_Near-Death.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Elevated_Phase-Amplitude_Coupling_of_Gamma_Oscillations_at_Near-Death.jpg
-- **Rights:** GREEN — CC BY 4.0.
+## S16 — Strassman et al. 1994 dose-response II
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/8297217/
+- **Use:** historical subjective-effects study card.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-## B04 — Increase of cross-regional phase-amplitude coupling at near-death
-- **Commons:** https://commons.wikimedia.org/wiki/File:Increase_of_Cross-Regional_Phase-Amplitude_Coupling_at_Near-Death.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Increase_of_Cross-Regional_Phase-Amplitude_Coupling_at_Near-Death.jpg
-- **Rights:** GREEN — CC BY 4.0.
+## S17 — Nichols 2018 — pineal/DMT fact-vs-myth review
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/29095071/
+- **Verified:** correct David E. Nichols review.
+- **Use:** source-lock/boundary evidence against overstating pineal-death-DMT claims.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-## B05 — Elevated directed connectivity in gamma oscillations within posterior hot zones
-- **Commons:** https://commons.wikimedia.org/wiki/File:Elevated_Directed_Connectivity_in_Gamma_Oscillations_Within_the_Posterior_Hot_Zones_at_Near-Death.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Elevated_Directed_Connectivity_in_Gamma_Oscillations_Within_the_Posterior_Hot_Zones_at_Near-Death.jpg
-- **Rights:** GREEN — CC BY 4.0.
+---
 
-# C. RESEARCHER PORTRAITS / PEOPLE
+# 2. NEAR-DEATH ELECTROPHYSIOLOGY — EXPLICITLY NOT DMT DATA
 
-## C01 — Rick Strassman portrait
-- **Commons:** https://commons.wikimedia.org/wiki/File:Rick_Strassman_(academic).png
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Rick_Strassman_(academic).png
-- **Creator/source:** image supplied with VRT permission; Commons record contains attribution details.
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** direct portrait when his pineal/DMT speculation is attributed.
-- **Editorial rule:** portrait does not validate the speculation; keep hypothesis language in VO.
+## N01 — Absolute gamma power at near-death
+- **URL:** https://commons.wikimedia.org/wiki/File:Rise_of_Absolute_EEG_Power_at_Gamma_Frequency_Bands_at_Near-Death.jpg
+- **Verified:** correct dying-human EEG figure; original 6318×2885; CC BY 4.0.
+- **Use:** show what direct measurement of a human terminal brain can look like.
+- **Status:** `VERIFIED_GREEN`.
 
-## C02 — Robin Carhart-Harris portrait / Centre for Psychedelic Research meeting
-- **Commons:** https://commons.wikimedia.org/wiki/File:190723_Robin_Carhart-Harris,_Centre_for_Psychedelic_Research_meeting_(cropped).jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/190723_Robin_Carhart-Harris,_Centre_for_Psychedelic_Research_meeting_(cropped).jpg
-- **Creator:** Thomas Angus / Imperial College London.
-- **Rights:** GREEN — CC BY-SA 4.0.
-- **Use:** optional human-DMT research context.
+## N02 — Gamma synchrony in posterior hot zones
+- **URL:** https://commons.wikimedia.org/wiki/File:Surge_of_Gamma_Synchrony_Within_the_Posterior_Hot_Zones_at_Near-Death.jpg
+- **Verified:** 6322×4456; CC BY 4.0.
+- **Status:** `VERIFIED_GREEN`.
 
-## C03 — Jimo Borjigin official portrait
-- **Profile:** https://medschool.umich.edu/profile/831/jimo-borjigin
-- **Image:** https://medschool.umich.edu/sites/default/files/styles/square_1_1/public/2024-09/mip_jimo_borjigin.jpg?h=d94c4b90&itok=scdIVm2T
-- **Rights:** YELLOW — institutional portrait; no reusable license confirmed.
-- **Use:** reference/permission candidate; Borjigin is a Dean-2019 coauthor and later near-death EEG researcher.
+## N03 — Near-death gamma phase-amplitude coupling
+- **URL:** https://commons.wikimedia.org/wiki/File:Elevated_Phase-Amplitude_Coupling_of_Gamma_Oscillations_at_Near-Death.jpg
+- **Verified:** ~6323×2444; CC BY 4.0.
+- **Status:** `VERIFIED_GREEN`.
 
-## C04 — Jimo Borjigin + George Mashour laboratory photograph
-- **Image candidate:** https://scx2.b-cdn.net/gfx/news/hires/2013/electricalsi.jpg
-- **Source context:** University of Michigan research news syndicated by MedicalXpress/Phys.org; provenance/credit must be checked at original source.
-- **Rights:** YELLOW/RED until permission is confirmed.
-- **Use:** excellent real-lab human character image if cleared.
+## N04 — Cross-regional phase-amplitude coupling
+- **URL:** https://commons.wikimedia.org/wiki/File:Increase_of_Cross-Regional_Phase-Amplitude_Coupling_at_Near-Death.jpg
+- **Verified:** ~6325×4453; CC BY 4.0.
+- **Status:** `VERIFIED_GREEN`.
 
-## C05 — Jon G. Dean portrait / UC San Diego research context
-- **Image candidate:** https://today.ucsd.edu/news_uploads/_social/Dean-teaser.jpg
-- **Institution:** UC San Diego.
-- **Rights:** YELLOW — institutional news image; reuse permission not established.
-- **Use:** primary first-author portrait candidate. Archive source page and request/verify permission before use.
+## N05 — Directed gamma connectivity in posterior hot zones
+- **URL:** https://commons.wikimedia.org/wiki/File:Elevated_Directed_Connectivity_in_Gamma_Oscillations_Within_the_Posterior_Hot_Zones_at_Near-Death.jpg
+- **Verified:** ~6307×6271; CC BY 4.0.
+- **Status:** `VERIFIED_GREEN`.
 
-## C06 — Christopher Timmermann portrait
-- **Source:** https://www.imperial.ac.uk/news/243893/advanced-brain-imaging-study-hints-dmt/
-- **Image candidate:** https://www.imperial.ac.uk/newsarchive/images/mainnews2012/191108-chriss-timmerman-dmt-research-001_1679565496185_x2.jpg?r=3030
-- **Rights:** YELLOW — Imperial news image; do not assume CC.
-- **Use:** portrait for Timmermann/NDE and human-DMT work if cleared.
+## N06 — 2023 dying-human-brain paper
+- **PubMed:** https://pubmed.ncbi.nlm.nih.gov/37126719/
+- **PMC:** https://pmc.ncbi.nlm.nih.gov/articles/PMC10175832/
+- **Use:** source/title/authorship anchor for N01–N05.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-## C07 — Timmermann with volunteer wearing EEG cap / Imperial psychedelic research
-- **Source:** https://www.imperial.ac.uk/news/193993/magic-mushrooms-create-hyperconnected-brain/
-- **Institution/credits:** Imperial College London / article image credits to verify.
-- **Rights:** YELLOW.
-- **Use:** real researcher + instrument + participant visual, more valuable than a generic laboratory reconstruction.
+## N07 — Borjigin et al. 2013 dying-rat EEG paper
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/23940340/
+- **Verified:** correct PNAS rat cardiac-arrest EEG study.
+- **Use:** scientific prehistory / context only.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-## C08 — Timmermann treatment-room / EEG readout images from Imperial article
-- **Source:** same as C07.
-- **Rights:** YELLOW.
-- **Use:** real-world experimental environment; keep separate from Dean rat experiment.
+**Editing rule:** every N-series asset must be labelled internally as `EEG — NOT DMT MEASUREMENT`.
 
-## C09 — Michael M. Wang official portrait
-- **Profile:** https://medschool.umich.edu/profile/4418/michael-m-wang
-- **Rights:** YELLOW — institutional portrait reuse not established.
-- **Use:** Dean-2019 coauthor / near-death research context if story needs another human face.
+---
 
-## C10 — Steven A. Barker portrait acquisition target
-- **Institution context:** https://mvsvipa3.lsu.edu/vetmed/faculty/emeritus.php
-- **Rights:** YELLOW — no clean reusable portrait located in current pass.
-- **Use:** optional predecessor-DMT researcher. Codex should search LSU media/archives and only promote to production if rights are explicit.
+# 3. RESEARCHER PORTRAITS / REAL PEOPLE
 
-# D. MOLECULES / BIOSYNTHESIS / LAB METHOD
+## P01 — Rick Strassman
+- **URL:** https://commons.wikimedia.org/wiki/File:Rick_Strassman_(academic).png
+- **Verified:** correct portrait, original 1031×1247.
+- **Rights:** CC BY 4.0; VRT permission recorded.
+- **Use:** direct portrait for attributed speculation/history.
+- **Status:** `VERIFIED_GREEN`.
 
-## D01 — DMT chemical structure
-- **Commons:** https://commons.wikimedia.org/wiki/File:DMT.svg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/DMT.svg
-- **Rights:** GREEN — public domain.
-- **Use:** clean molecule card; animate only editor-added labels.
+## P02 — Robin Carhart-Harris research meeting
+- **URL:** https://commons.wikimedia.org/wiki/File:190723_Robin_Carhart-Harris,_Centre_for_Psychedelic_Research_meeting.jpg
+- **Verified:** correct full meeting image, 600×400.
+- **Rights:** CC BY-SA 4.0.
+- **Use:** contemporary psychedelic-research environment / optional researcher face.
+- **Status:** `VERIFIED_GREEN`.
 
-## D02 — Tryptamine structure
-- **Commons:** https://commons.wikimedia.org/wiki/File:Tryptamine_structure.svg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Tryptamine_structure.svg
-- **Rights:** GREEN — public domain.
-- **Use:** biosynthesis pathway card.
+## P03 — Jimo Borjigin official profile
+- **URL:** https://medschool.umich.edu/profile/831/jimo-borjigin
+- **Verified:** correct person/profile and portrait.
+- **Rights:** no explicit open-content license for portrait.
+- **Use:** permission/reconstruction reference; Dean-2019 coauthor and later dying-brain researcher.
+- **Status:** `VERIFIED_REFERENCE_ONLY`.
 
-## D03 — Tryptophan structure
-- **Commons:** https://commons.wikimedia.org/wiki/File:Tryptophan.svg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Tryptophan.svg
-- **Rights:** GREEN — CC0/public-domain dedication per current Commons record.
-- **Use:** upstream pathway anchor.
+## P04 — Borjigin Lab near-death research/media page
+- **URL:** https://borjigin.lab.medicine.umich.edu/news/near-death-experience
+- **Verified:** official lab page; replaces earlier untraceable CDN photo URL.
+- **Use:** locate credited lab/research imagery and contextual references.
+- **Status:** `VERIFIED_REFERENCE_ONLY`.
 
-## D04 — Serotonin (5-HT) structure
-- **Commons:** https://commons.wikimedia.org/wiki/File:Serotonin_(5-HT).svg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Serotonin_(5-HT).svg
-- **Rights:** GREEN — public domain/simple structural formula.
-- **Use:** optional structural-family comparison; do not imply serotonin simply converts into DMT.
+## P05 — Jon G. Dean / UC San Diego DMT article
+- **URL:** https://today.ucsd.edu/story/donation-fuels-research-on-dmt-and-its-potential-medical-use-to-address-mental-health-conditions
+- **Verified:** correct live UCSD story; explicitly identifies Jon Dean and shows his portrait.
+- **Rights:** Regents/UCSD copyrighted, no open image license.
+- **Use:** first-author identity/reference; request permission if portrait is needed on screen.
+- **Status:** `VERIFIED_REFERENCE_ONLY`.
 
-## D05 — Generic cerebral microdialysis probe schematic
-- **Commons:** https://commons.wikimedia.org/wiki/File:Sonda_para_microdi%C3%A1lisis_cerebral.svg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Sonda_para_microdi%C3%A1lisis_cerebral.svg
-- **Creator:** Campylobacter.
-- **Rights:** GREEN — CC BY-SA 4.0.
-- **Use:** explain the sampling principle before revealing Dean's results.
-- **Claim boundary:** generic schematic, not the literal Dean 2019 apparatus.
+## P06 — Christopher Timmermann / Imperial DMT imaging article
+- **URL:** https://www.imperial.ac.uk/news/243893/advanced-brain-imaging-study-hints-dmt/
+- **Verified:** correct article/person/topic.
+- **Rights:** no blanket CC; Imperial notes article media may carry Imperial or third-party copyright.
+- **Use:** portrait/research-context reference only unless cleared.
+- **Status:** `VERIFIED_REFERENCE_ONLY`.
 
-## D06 — Borjigin & Liu 2008 long-term microdialysis methods paper
-- **PMC:** https://pmc.ncbi.nlm.nih.gov/articles/PMC2492659/
-- **Use:** historically relevant method reference from the same research lineage; includes detailed pineal microdialysis schematics.
-- **Rights:** YELLOW — PMC availability is not by itself a reuse license. Verify article copyright/license before putting figures on screen.
+## P07 — Imperial psychedelic-research laboratory imagery
+- **URL:** https://www.imperial.ac.uk/news/193993/magic-mushrooms-create-hyperconnected-brain/
+- **Verified:** live Imperial article.
+- **Use:** treatment-room/participant/EEG visual reference; do not mislabel as Dean rat experiment.
+- **Status:** `VERIFIED_REFERENCE_ONLY`.
 
-## D07 — Borjigin & Liu 2008 Figure 1: pineal melatonin/circadian pathway schematic
-- **Source:** D06.
-- **Rights:** YELLOW until article reuse status is verified.
-- **Use:** optional pineal physiology continuity / scientific sketch.
+## P08 — Michael M. Wang
+- **URL:** https://medschool.umich.edu/profile/4418/michael-m-wang
+- **Verified:** correct official profile.
+- **Use:** optional coauthor identity/reference.
+- **Status:** `VERIFIED_REFERENCE_ONLY`.
 
-## D08 — Borjigin & Liu 2008 Figure 2: pineal microdialysis probe construction
-- **Source:** D06.
-- **Rights:** YELLOW.
-- **Use:** methodological detail; especially good for editor reference when reconstructing Dean-style sampling.
+## P09 — Steven A. Barker — LSU emeritus listing
+- **URL:** https://www.lsu.edu/vetmed/faculty/emeritus.php
+- **Verified:** current LSU page; replaces obsolete `mvsvipa3.lsu.edu` URL.
+- **Use:** identity/source record; no clean rights-cleared production portrait located.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-## D09 — Borjigin & Liu 2008 Figure 3: dialysis-probe implantation
-- **Source:** D06.
-- **Rights:** YELLOW.
-- **Use:** procedure context; avoid surgical spectacle.
+---
 
-## D10 — Barker et al. 2013 rat pineal microdialysate DMT paper
-- **PubMed:** https://pubmed.ncbi.nlm.nih.gov/23881860/
-- **Title:** “LC/MS/MS analysis of endogenous dimethyltryptamine hallucinogens, their precursors, and major metabolites in rat pineal gland microdialysate”.
-- **Researchers:** Steven A. Barker, Jimo Borjigin, Izabela Lomnicka, Rick Strassman.
-- **Rights:** YELLOW — use PubMed bibliographic record freely as source identification; verify full-paper figure/reuse rights separately.
-- **Use:** scientific prehistory showing why pineal/DMT remained a real experimental question before Dean 2019.
+# 4. MOLECULES / METHOD / ANATOMY
 
-# E. PINEAL ANATOMY / HISTORICAL SCIENCE
+## M01 — DMT structure
+- **URL:** https://commons.wikimedia.org/wiki/File:DMT.svg
+- **Verified:** correct structural formula.
+- **Rights:** public domain.
+- **Use:** molecule identity reveal.
+- **Status:** `VERIFIED_GREEN`.
 
-## E01 — Modern pineal gland infographic
-- **Commons:** https://commons.wikimedia.org/wiki/File:The_Pineal_Gland_Infographic.png
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Pineal_Gland_Infographic.png
-- **Rights:** GREEN — CC0.
-- **Use:** clean anatomical orientation; preferable to a rights-ambiguous stock brain.
+## M02 — Tryptamine structure — corrected asset
+- **URL:** https://commons.wikimedia.org/wiki/File:Tryptamine.svg
+- **Verified:** correct structural formula; **public domain**.
+- **Replacement note:** old `Tryptamine_structure.svg` is a live file but currently GPLv3 due to derivative history, so it is not our preferred asset.
+- **Use:** DMT biosynthesis pathway component.
+- **Status:** `VERIFIED_GREEN` / `REPLACED`.
 
-## E02 — Descartes pineal/nervous-system diagram
-- **Commons:** https://commons.wikimedia.org/wiki/File:Descartes_diagram.png
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Descartes_diagram.png
-- **Origin:** René Descartes, *Treatise of Man* / historical diagram.
-- **Rights:** GREEN — public domain.
-- **Use:** series callback: the gland once placed near the soul.
+## M03 — Tryptophan structure
+- **URL:** https://commons.wikimedia.org/wiki/File:Tryptophan.svg
+- **Verified:** correct structure.
+- **Rights:** CC0 1.0.
+- **Use:** optional upstream pathway context.
+- **Status:** `VERIFIED_GREEN`.
 
-## E03 — Wellcome scan: Descartes nervous system / brain diagram
-- **Commons:** https://commons.wikimedia.org/wiki/File:Descartes;_The_Nervous_System._Diagram_of_the_brain_Wellcome_L0006584.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Descartes;_The_Nervous_System._Diagram_of_the_brain_Wellcome_L0006584.jpg
-- **Institution:** Wellcome Collection.
-- **Rights:** GREEN/YELLOW — historical work itself is public-domain; Codex must record the scan's current Commons/Wellcome license metadata before use.
-- **Use:** high-resolution document detail / historical engraving.
+## M04 — Serotonin structure
+- **URL:** https://commons.wikimedia.org/wiki/File:Serotonin_(5-HT).svg
+- **Verified:** correct 5-HT structure.
+- **Rights:** public domain/simple structural formula.
+- **Use:** optional molecule-family context only.
+- **Status:** `VERIFIED_GREEN`.
 
-## E04 — NCI pineal body anatomical illustration
-- **Source:** https://www.cancer.gov/publications/dictionaries/cancer-terms/def/pineal-body
-- **Rights:** YELLOW — NCI graphics can have creator-specific copyright status; this asset is credited and must be checked against NCI reuse policy before production.
-- **Use:** reference fallback only until cleared.
+## M05 — Cerebral microdialysis probe schematic
+- **URL:** https://commons.wikimedia.org/wiki/File:Sonda_para_microdi%C3%A1lisis_cerebral.svg
+- **Verified:** correct SVG, 1000×834.
+- **Rights:** CC BY-SA 4.0.
+- **Use:** clearly explain the “tiny chemical sampling window.”
+- **Status:** `VERIFIED_GREEN`.
 
-# F. ESOTERIC / THIRD-EYE / OCCULT VISUAL GENEALOGY
+## M06 — Borjigin & Liu 2008 microdialysis methods paper
+- **URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC2492659/
+- **Verified:** correct paper/source.
+- **Rights:** PMC hosting alone does not clear all figure reproduction.
+- **Use:** methodological reference and reconstruction guide.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-These assets are **historical belief-system documents**, not anatomical evidence. Every manifest row and edit label should keep that distinction.
+## M07–M09 — Figures 1–3 from M06
+- **Use:** pineal/circadian pathway; probe construction; implantation/procedure reference.
+- **Rights:** not promoted to production until figure-level reuse basis is confirmed.
+- **Status:** `VERIFIED_REFERENCE_ONLY`.
 
-## F01 — Wellcome tantric body with chakras and kundalini
-- **Commons:** https://commons.wikimedia.org/wiki/File:Oriental_MS_Indic_beta_511_Wellcome_L0029118.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Oriental_MS_Indic_beta_511_Wellcome_L0029118.jpg
-- **Institution:** Wellcome Collection.
-- **Rights:** GREEN — CC BY 4.0.
-- **Use:** premium historical esoteric anchor; whole-body vertical composition with chakras/nadi/kundalini.
-- **Claim boundary:** Indian tantric manuscript imagery; do not relabel as a scientific pineal map.
+## M10 — Barker et al. 2013 rat pineal microdialysate paper
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/23881860/
+- **Verified:** correct paper/title/authors.
+- **Use:** important scientific prehistory: DMT-related compounds measured in rat pineal-gland microdialysate.
+- **Rights:** bibliographic source only; Wiley article/figures not assumed reusable.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
 
-## F02 — C. W. Leadbeater, *The Chakras* (1927) — set of chakra plates
-- **Commons:** https://commons.wikimedia.org/wiki/File:Leadbeater%27s_Chakras_Pictures.JPG
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Leadbeater%27s_Chakras_Pictures.JPG
-- **Rights:** GREEN — public domain per Commons record; Codex should retain the exact PD rationale in rights snapshot.
-- **Use:** Theosophical/occult visual genealogy; strong series callback to earlier third-eye episode.
+## M11 — Modern pineal infographic
+- **URL:** https://commons.wikimedia.org/wiki/File:The_Pineal_Gland_Infographic.png
+- **Verified:** correct 2000×1414 image.
+- **Rights:** CC0.
+- **Use:** general anatomical orientation.
+- **Status:** `VERIFIED_GREEN`.
 
-## F03 — Leadbeater 1927 “Nervous plexi” / chakra-to-body diagram
-- **Commons:** https://commons.wikimedia.org/wiki/File:Nervous_plexi.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Nervous_plexi.jpg
-- **Rights:** GREEN — public domain.
-- **Use:** especially useful because it visually shows an occult system mapped onto bodily anatomy.
-- **Claim boundary:** historical Theosophical diagram, not accepted neuroanatomy.
+---
 
-## F04 — Leadbeater crown chakra plate
-- **Commons:** https://commons.wikimedia.org/wiki/File:Chakracrown.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Chakracrown.jpg
-- **Rights:** GREEN — public domain.
-- **Use:** head/vision symbolic beat; title/author/date context should remain in metadata.
+# 5. HISTORICAL SCIENCE / DESCARTES
 
-## F05 — Leadbeater root chakra plate
-- **Commons:** https://commons.wikimedia.org/wiki/File:Chakraroot.jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Chakraroot.jpg
-- **Rights:** GREEN — public domain.
-- **Use:** optional comparison to show the complete system rather than cherry-picking only a “third eye”.
+## H01 — Descartes pineal/nervous-system diagram
+- **URL:** https://commons.wikimedia.org/wiki/File:Descartes_diagram.png
+- **Verified:** correct historical illustration.
+- **Rights:** public domain.
+- **Use:** callback to the gland Descartes placed near the soul.
+- **Status:** `VERIFIED_GREEN`.
 
-## F06 — Ajna chakra symbol
-- **Commons:** https://commons.wikimedia.org/wiki/File:Chakra6.svg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Chakra6.svg
-- **Creator:** Atarax42.
-- **Rights:** GREEN — CC0 1.0.
-- **Use:** clean iconographic insert when discussing later “third eye” associations.
-- **Claim boundary:** symbolic representation only.
+## H02 — Wellcome Descartes brain/nervous-system scan
+- **URL:** https://commons.wikimedia.org/wiki/File:Descartes;_The_Nervous_System._Diagram_of_the_brain_Wellcome_L0006584.jpg
+- **Verified:** correct Wellcome scan, 5787×3018.
+- **Rights:** CC BY 4.0.
+- **Use:** premium readable historical document/push-in.
+- **Status:** `VERIFIED_GREEN`.
 
-## F07 — 19th-century Eye of Providence icon
-- **Commons:** https://commons.wikimedia.org/wiki/File:Eye_of_Providence_(icon,_19th_c.).jpg
-- **Download:** https://commons.wikimedia.org/wiki/Special:Redirect/file/Eye_of_Providence_(icon,_19th_c.).jpg
-- **Rights:** GREEN — public domain per Commons record.
-- **Use:** only as a wider “inner/seeing eye” cultural motif if the edit needs it.
-- **Do not imply:** a direct historical lineage from the Eye of Providence to DMT/pineal biology unless sourced.
+## H03 — René Descartes portrait, Frans Hals
+- **URL:** https://commons.wikimedia.org/wiki/File:Frans_Hals,_Portrait_of_Ren%C3%A9_Descartes.jpg
+- **Verified:** correct portrait; original 2178×2958.
+- **Rights:** public-domain artwork / PD-Art reproduction.
+- **Use:** humanize the history beat before showing the diagram.
+- **Status:** `VERIFIED_GREEN`.
 
-# G. DOCUMENT / BOOK / CULTURAL CONTEXT — RIGHTS-SENSITIVE
+## H04 — NCI pineal-body definition
+- **URL:** https://www.cancer.gov/publications/dictionaries/cancer-terms/def/pineal-body
+- **Verified:** correct NCI anatomy text source.
+- **Correction:** no unique reusable illustration was verified on this page.
+- **Use:** fact-check source only, not acquisition image.
+- **Status:** `REPLACED_SOURCE_ONLY`.
 
-## G01 — Rick Strassman, *DMT: The Spirit Molecule* cover/bibliographic context
-- **Author site:** https://www.rickstrassman.com/
-- **Rights:** RED/YELLOW — cover/page reproduction is not assumed licensed.
-- **Preferred use:** editor-created bibliographic card (title, author, publication year) rather than a scan unless publisher permission/reuse basis is documented.
-- **Quote rule:** any direct birth/death/pineal quotation requires exact edition, page, wording and rights review.
+---
 
-## G02 — Strassman hypothesis source verification
-- **Target:** locate primary interview/book passage that explicitly states his pineal/birth/death speculation.
-- **Status:** SOURCE_TEXT_PENDING.
-- **Use:** attribution only after exact wording/page is locked; paraphrase conservatively if book reproduction cannot be cleared.
+# 6. ESOTERIC / THIRD-EYE / THEOSOPHICAL MATERIAL
 
-# H. ACQUISITION PRIORITY
+## E01 — Wellcome tantric body with chakras/nadi/kundalini
+- **URL:** https://commons.wikimedia.org/wiki/File:Oriental_MS_Indic_beta_511_Wellcome_L0029118.jpg
+- **Verified:** correct manuscript image, original 2950×3755.
+- **Rights:** CC BY 4.0.
+- **Use:** premium historical esoteric anchor.
+- **Claim limit:** belief-system manuscript, never anatomical evidence for the pineal gland.
+- **Status:** `VERIFIED_GREEN`.
 
-## Tier 1 — acquire now / production-safe after metadata QA
-1. Dean PDF + Figures 1–4.
-2. Timmermann 2018 PDF + relevant table/page.
-3. Rick Strassman CC BY portrait.
-4. Robin Carhart-Harris CC BY-SA portrait.
-5. DMT / tryptamine / tryptophan / serotonin vectors.
-6. CC BY-SA cerebral microdialysis schematic.
-7. CC0 pineal infographic.
-8. Descartes public-domain diagram(s).
-9. Wellcome tantric/chakra manuscript CC BY.
-10. Leadbeater chakra plates / nervous-plexi diagram public domain.
-11. Ajna CC0 icon.
-12. Human DMT fMRI/EEG CC BY figures.
-13. Near-death EEG CC BY figures.
+## E02 — Leadbeater’s 1927 chakra plate set
+- **URL:** https://commons.wikimedia.org/wiki/File:Leadbeater%27s_Chakras_Pictures.JPG
+- **Verified:** correct set, 1700×2200.
+- **Rights:** public domain per Commons record; preserve PD rationale.
+- **Use:** Theosophical/occult genealogy.
+- **Status:** `VERIFIED_GREEN`.
 
-## Tier 2 — acquire to `reference_only/`, verify permission before edit
-1. Jimo Borjigin official portrait.
-2. Jon G. Dean UCSD portrait.
-3. Christopher Timmermann Imperial portrait and laboratory images.
-4. Michael M. Wang official portrait.
-5. Borjigin + Mashour lab photo.
-6. NCI anatomical artwork.
-7. Borjigin/Liu 2008 paper figures unless its exact reuse license is confirmed.
-8. Barker 2013 full-paper figures unless reuse license is confirmed.
+## E03 — Leadbeater “Nervous plexi” mapping
+- **URL:** https://commons.wikimedia.org/wiki/File:Nervous_plexi.jpg
+- **Verified:** correct historical diagram, 760×1014.
+- **Rights:** public domain.
+- **Use:** visually show an occult system being mapped onto bodily anatomy.
+- **Status:** `VERIFIED_GREEN`.
 
-## Tier 3 — do not acquire as production artwork without explicit rights basis
-1. Commercial book scans/covers/pages.
-2. News-agency/republication photos without original institutional permission.
-3. Stock/illustration-site DMT or pineal artwork when a CC/PD scientific or historical equivalent exists.
+## E04 — Leadbeater crown chakra
+- **URL:** https://commons.wikimedia.org/wiki/File:Chakracrown.jpg
+- **Verified:** 793×915, public domain.
+- **Use:** head/vision symbolic beat.
+- **Status:** `VERIFIED_GREEN`.
 
-# I. CODEX QA REQUIREMENTS PER ASSET
+## E05 — Leadbeater root chakra
+- **URL:** https://commons.wikimedia.org/wiki/File:Chakraroot.jpg
+- **Verified:** 732×864, public domain.
+- **Use:** optional counter-image showing a complete chakra system rather than only “third eye.”
+- **Status:** `VERIFIED_GREEN`.
 
-For every acquired file record:
+## E06 — Ajna symbol
+- **URL:** https://commons.wikimedia.org/wiki/File:Chakra6.svg
+- **Verified:** correct SVG (~770×700).
+- **Rights:** CC0 1.0.
+- **Use:** clean symbolic third-eye insert.
+- **Status:** `VERIFIED_GREEN`.
 
-- resolve source page and original/download URL separately;
-- capture creator/institution, date, exact license string and license URL;
-- save a rights/provenance snapshot in `rights/`;
-- compute SHA-256 and file size;
-- record raster dimensions or SVG/PDF metadata;
-- retain uncropped research master plus any edit extract;
-- place rights-unclear media in `reference_only/`, never `originals/approved/`;
-- keep attribution text ready for description/end credits;
-- mark `QA_PASS` only after source identity, license, technical integrity and editorial claim limit are all checked.
+## E07 — Eye of Providence, 19th century
+- **URL:** https://commons.wikimedia.org/wiki/File:Eye_of_Providence_(icon,_19th_c.).jpg
+- **Verified:** correct icon (~472×650).
+- **Rights:** public domain.
+- **Use:** optional broader “seeing eye” cultural motif.
+- **Claim limit:** do not imply a direct historical lineage to pineal/DMT without a source.
+- **Status:** `VERIFIED_GREEN`.
 
-## Recommended external layout
+## E08 — Charles Webster Leadbeater portrait
+- **URL:** https://commons.wikimedia.org/wiki/File:Charles_Webster_Leadbeater.005.jpg
+- **Verified:** correct Leadbeater portrait, original 833×511.
+- **Rights:** public-domain historical basis recorded by Commons.
+- **Use:** real human face before Leadbeater’s chakra plates.
+- **Status:** `VERIFIED_GREEN`.
 
-- `NOESIS/EP12_PINEAL_04/originals/science/`
-- `NOESIS/EP12_PINEAL_04/originals/portraits/`
-- `NOESIS/EP12_PINEAL_04/originals/history/`
-- `NOESIS/EP12_PINEAL_04/originals/esoteric/`
-- `NOESIS/EP12_PINEAL_04/extracts/`
-- `NOESIS/EP12_PINEAL_04/reference_only/`
-- `NOESIS/EP12_PINEAL_04/rights/`
-- `NOESIS/EP12_PINEAL_04/qa/`
+## E09 — Helena Blavatsky portrait
+- **URL:** https://commons.wikimedia.org/wiki/File:Portret_van_Helena_Blavatsky,_RP-F-2001-7-67-105.jpg
+- **Verified:** correct portrait; Rijksmuseum source; original 3484×4708 (~2.15 MB).
+- **Rights:** CC0 1.0.
+- **Use:** optional Theosophical founder portrait / occult genealogy.
+- **Status:** `VERIFIED_GREEN`.
 
-This catalog intentionally over-supplies choices. The final edit should use a smaller, high-confidence set rather than turning the episode into an asset slideshow.
+---
+
+# 7. STRASSMAN HYPOTHESIS — PRIMARY ATTRIBUTION WITHOUT BOOK SCANS
+
+## G01 — Rick Strassman official site
+- **URL:** https://www.rickstrassman.com/
+- **Verified:** live official author site.
+- **Use:** bibliographic/identity source.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
+
+## G02 — Official chapter summaries for *DMT: The Spirit Molecule*
+- **URL:** https://www.rickstrassman.com/publications/the-spirit-molecule/chapter-summaries/
+- **Verified:** official author page explicitly says he considered the pineal a likely endogenous-DMT source and **speculated** about roles in dreams, meditation, birth, near-death and death.
+- **Use:** preferred primary attribution source for the episode’s Strassman speculation.
+- **Rights:** source evidence; no need to reproduce an unauthorized book scan.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
+
+## G03 — “Why Won’t DMT Go Away?”
+- **URL:** https://www.rickstrassman.com/why-wont-dmt-go-away/
+- **Verified:** live official author essay.
+- **Use:** nuanced attribution/boundary support around endogenous DMT claims.
+- **Status:** `VERIFIED_SOURCE_ONLY`.
+
+---
+
+# 8. REMOVED / CORRECTED ITEMS
+
+1. **Nature CDN figure URLs** are no longer canonical. Extract Figures 1–4 from the verified Nature PDF/PMC article.
+2. **`Tryptamine_structure.svg`** is replaced by the public-domain `Tryptamine.svg`.
+3. **Carhart-Harris cropped portrait** is replaced by the full meeting photograph.
+4. **Bare Borjigin/Mashour CDN image** is removed from automatic acquisition; use official lab pages as the source trail.
+5. **Bare Jon Dean teaser image** is replaced by the verified UCSD story page; portrait remains permission-only.
+6. **Old LSU subdomain URL** is replaced by current LSU Vet Med emeritus page.
+7. **NCI pineal illustration** is removed as an image target; retain NCI only as an anatomy text source.
+8. **Commercial Strassman book scans/pages** are unnecessary for the key hypothesis attribution because the official author page supplies a primary-source statement.
+
+# 9. BEST FINAL EDIT MIX
+
+A strong EP12 can now be built mostly from authentic assets:
+
+1. Dean paper → Figure 1 → real microdialysis schematic → Figure 4.
+2. Strassman CC portrait + official hypothesis-source card.
+3. DMT structure + real human DMT EEG/fMRI.
+4. Timmermann 2018 paper/table for phenomenological overlap.
+5. Dying-human EEG as a separate track visibly labelled **not DMT measurement**.
+6. Descartes portrait/diagram → Wellcome tantric manuscript → Leadbeater/Blavatsky for historical/esoteric projection.
+7. AI imagery only for experiential transitions, impossible interior states, clean procedural reconstructions and atmosphere.
+
+For exact live-check notes, dimensions, corrections and acquisition rules, use `URL_VERIFICATION_REPORT.md` as the canonical audit.
