@@ -21,9 +21,21 @@
 | S11 | 1623 *Rituale Romanum* | https://commons.ptsem.edu/id/ritualeromanumpa00cath | Paris 1623, 508 pp.; **No Known Copyright explicitly stated** |
 | S12 | 1623 Wikimedia/IA mirror | https://commons.wikimedia.org/wiki/File:Rituale_Romanum_Pauli_V._Pont._Max._iussu_editum_(IA_ritualeromanumpa00cath).pdf | downloadable historical scan; verify exact Commons rights metadata at ingest |
 | S13 | 1850 *Rituale Romanum* | https://books.google.com/books/about/Rituale_Romanum_Pauli_V_Pontificis_maxim.html?id=bfPBKbvRhiIC | p. 394 `De exorcizandis obsessis a dæmonio` |
-| S14 | 1694 Catholic formulae for Blessings and Exorcisms | https://wellcomecollection.org/works/wjgjawv8 | MS.4248; fol. 5v exorcism formula explicitly catalogued; **HOLD** — closed stores/cannot be requested, no open digital-image licence verified |
+| S14 | 1694 Catholic formulae for Blessings and Exorcisms | https://wellcomecollection.org/works/wjgjawv8 | MS.4248; fol. 5v exorcism formula explicitly catalogued; HOLD |
 | S15 | Late-15th-c. exorcism manuscript | https://wellcomecollection.org/works/bgsvqp4x | catalogue lead; digitisation/licence required |
 | S16 | Mid-18th-c. exorcism manual | https://preview.wellcomecollection.org/works/mt2vyuh2 | p. 15 cross-form drawing lead; digitisation/licence required |
+| S17 | *Rituale Romanum*, Rome 1752 | https://www.deutsche-digitale-bibliothek.de/item/IIUJTKIMM5E7H54NKZPWRUQHWAEJPKTJ | BSB digitisation; underlying work no copyright, digital copy non-commercial only |
+| S18 | *Rituale Romanum*, Pustet 1888 | https://www.deutsche-digitale-bibliothek.de/item/GAOUKIHOJZSECBP5MZANPOSHN2QARYBE | BSB digitisation; digital copy non-commercial only |
+| S19 | *Rituale Romanum*, Pustet 1895 | https://www.deutsche-digitale-bibliothek.de/item/ATMH5TRW4UEQEQRHPFCIQ722DQ7PQPFM | BSB digitisation; digital copy non-commercial only |
+
+## Contemporary possession controversy — Richard Dugdale / Surey Demoniack
+| ID | Source | URL | Use / rights |
+|---|---|---|---|
+| S30 | Zachary Taylor, *The devil turn'd casuist*, 1696 | https://wellcomecollection.org/works/ptnjju77 | polemical attack alleging imposture/fraud; 36 digitised images; **Public Domain Mark** |
+| S31 | Thomas Jollie, *A vindication of the Surey demoniack as no impostor*, 1698 | https://wellcomecollection.org/works/jezyrfhz | contemporary defence of case; 80 digitised pages; **Public Domain Mark** |
+| S32 | John Carrington, *The Lancashire Levite rebuk'd*, 1698 | https://wellcomecollection.org/works/npgmkeb8 | further contemporary rebuttal; 36 digitised images; **Public Domain Mark** |
+
+These three are unusually useful together because they document historical disagreement over authenticity. They are polemical theological print sources, not modern clinical reports.
 
 ## Medical / psychological history and scholarship
 | ID | Source | URL | Use |
@@ -37,11 +49,22 @@
 | S26 | Dissociation Across Cultures | https://pmc.ncbi.nlm.nih.gov/articles/PMC9590661/ | cross-cultural assessment |
 | S27 | Cultural neuroscience of dissociation | https://pmc.ncbi.nlm.nih.gov/articles/PMC5156567/ | mechanism + cultural meaning |
 
+## Art / visual-history sources added in expansion
+| ID | Source | URL | Rights / use |
+|---|---|---|---|
+| S40 | Claude Vignon, *Christ Delivering the Possessed*, c. 1638–43 | https://www.clevelandart.org/art/1991.101 | Cleveland Museum Open Access; unrestricted reuse stated. Near-contemporary Christian exorcism image. |
+| S41 | *Miracles of St Ignatius of Loyola*, 1633–39 after Rubens | https://www.britishmuseum.org/collection/object/P_R-4-25 | museum object verified; image rights require review. Includes demonic-possession cure imagery. |
+| S42 | St Cyriacus print, Michel van Lochom, 1611–47 | https://www.rijksmuseum.nl/nl/collectie/object/Portret%2Bvan%2BH.%2BCyriacus--9910509181020709366d60be86f8ad4f | Rijksmuseum **Public Domain**; saint/exorcist iconography. |
+| S43 | Japanese Setsubun / mamemaki print | https://www.loc.gov/pictures/item/2009615226/ | LoC: **No known restrictions on publication**; comparative ritual only. |
+| S44 | Naxi Manuscript Collection overview | https://www.loc.gov/collections/naxi-manuscripts/about-this-collection/ | comparative ritual-manuscript discovery source; verify each manuscript's rights individually. |
+| S45 | Jacobs, *Divine and Demonic Presence in Images of Exorcism* | https://www.nga.gov/content/dam/ngaweb/research/CASVA/pdfs/center-28.pdf | scholarly visual-history lead; identifies Renaissance/early-modern exorcism-image traditions and further collections. |
+
 ## Mandatory evidence shots
 1. Canon 1172 with enough context for permission + qualifications.
 2. 1999 official source with medical-caution and signs passages; title/institution/date visible.
 3. Historical *Rituale Romanum*: title + genuine exorcism page from one identified edition. Prefer 1623 open scan for production; 1614 for first-edition provenance.
-4. Medical-history imagery must retain actual historical title/date/context.
+4. H01/H02 title pages are optional but exceptionally strong for showing that historical observers disputed fraud/authenticity.
+5. Medical-history imagery must retain actual historical title/date/context.
 
 ## Claim boundary
-Older ritual tradition can be described as cautioning against easy credulity and distinguishing signs from disease. Do not quote the modern “especially psychological illness” wording as verbatim 1614. Modern dissociation/possession-trance research describes clinical and cultural phenomena; it neither proves nor disproves a supernatural ontology.
+Older ritual tradition can be described as cautioning against easy credulity and distinguishing signs from disease. Do not quote the modern “especially psychological illness” wording as verbatim 1614. Modern dissociation/possession-trance research describes clinical and cultural phenomena; it neither proves nor disproves a supernatural ontology. Comparative Japanese/Naxi material must never be presented as Catholic practice.
