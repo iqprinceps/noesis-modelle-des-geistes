@@ -36,7 +36,7 @@ Part of the answer comes from an unexpected place.
 
 The laboratories and dissection rooms of the nineteenth century.
 
-Zoologists and comparative anatomists were examining the pineal complex in different vertebrates. In reptiles, they encountered structures that were genuinely light-sensitive and strikingly eye-like.
+Zoologists and comparative anatomists were examining the pineal complex in different vertebrates. In several reptiles, anatomists described parietal organs with recognizably eye-like tissues and connections.
 
 The parietal eye.
 
@@ -136,13 +136,15 @@ Forehead center.
 
 Pineal gland.
 
-But Leadbeater's map assigns the sixth center to the pituitary body and the seventh to the pineal gland.
+But Leadbeater's summary assigns the sixth center to the pituitary body and the seventh to the pineal gland.
 
 Look at the difference.
 
 Sixth center: pituitary.
 
 Seventh center: pineal.
+
+And even within his own discussion, the relationship is not perfectly fixed: he also describes practices in which currents from both centers are directed toward the pituitary body.
 
 The modern spiritual anatomy is still moving.
 
@@ -200,9 +202,7 @@ If that were true, the old idea would suddenly possess a biochemical mechanism.
 
 This time, the trail can enter a laboratory.
 
-Researchers remove the pineal glands of rats and measure DMT in the brain.
-
-The molecule is still there.
+In a 2019 rat study, researchers measured DMT in the cortex even after the pineal gland had been surgically removed. Pinealectomy did not eliminate the signal.
 
 In the final episode, we follow that signal to the moment the heart stops.
 
