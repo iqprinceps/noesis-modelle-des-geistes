@@ -24,8 +24,20 @@ Mystery und institutionelle Macht zuerst. Keine Folge nach dem Muster „Vatican
 - Canonical script: `DREHBUCH.md`
 - Editorial structure: `EDITORIAL_MAP.md`
 - Claims/source boundaries: `CLAIMS_BOUNDARY.md`
-- Source register: `SOURCE_REGISTER.md`
-- Asset plan: `ASSET_ACQUISITION_PLAN.md`
+- Verified source register: `SOURCE_REGISTER.md`
+- **Verified original-asset / rights register: `ORIGINAL_ASSET_EVIDENCE.md`**
+- Acquisition plan: `ASSET_ACQUISITION_PLAN.md`
 - Visual retention: `VISUAL_RETENTION_PLAN.md`
 - QA: `SCRIPT_QA.md`
-- Status: **PREPRODUCTION / SOURCE + ASSET LOCK NEXT**
+- Research/URL/rights pass: **2026-08-30 complete**
+- Status: **PREPRODUCTION / AAV HERO-ASSET LICENSING NEXT**
+
+## Current hero-asset bottleneck
+The episode now has a large reuse-ready PD/CC/Open Access pool. The remaining production-critical rights work is concentrated in a small number of Vatican Apostolic Archive originals:
+1. Causa Anglica `A.A., Arm. I-XVIII 4098A`;
+2. Galileo trial volume `Misc. Arm. X, 204`;
+3. one Processus contra Templarios original/facsimile folio;
+4. one genuine bunker/storeroom photograph;
+5. optional Chinon Parchment `A.A. Arm. D 217` if explicitly named in narration.
+
+AAV professional/editorial image rights policy is logged in the source and asset registers; web visibility is not treated as commercial reuse permission.
