@@ -12,7 +12,7 @@ Two eyes face the world.
 
 Above them, another sense watches the sky.
 
-It does not build detailed landscapes or recognize faces. It reads brightness, dusk, the movement of the sun, and the rhythm of day and night.
+It does not build detailed landscapes or recognize faces. It is a simple photoreceptive organ — closer to a light sensor than to the camera-like eyes beside it.
 
 And this organ belongs to the same deep biological story as a structure you still carry inside your own head.
 
@@ -56,7 +56,7 @@ It was a clock.
 
 Then, along the mammalian line, the system was rebuilt.
 
-The pineal gland lost the direct light sensitivity found in other vertebrate arrangements. The sky disappeared from its immediate reach.
+In mammals, the pineal gland no longer receives environmental light directly. The sky disappeared from its immediate reach.
 
 But the timing signal did not disappear.
 
@@ -126,7 +126,7 @@ Researchers asked participants to spend several evenings before sleep reading ei
 
 Under the study conditions, evening use of the illuminated device suppressed the normal rise in melatonin and shifted the circadian clock later.
 
-Participants became sleepy later and were less alert the following morning.
+They felt less sleepy before bed, took longer to fall asleep, and were less alert the following morning.
 
 The important part is not one particular device.
 
