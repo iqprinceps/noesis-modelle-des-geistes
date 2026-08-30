@@ -77,9 +77,13 @@ Für spätere Leser ist das mehr als eine fromme Legende.
 
 Es ist ein Dokument, das so klingt, als könne man Macht daraus ableiten.
 
-Und irgendwann landet dieser Text in einer der einflussreichsten kirchenrechtlichen Sammlungen des Mittelalters: dem Decretum Gratiani.
+Und irgendwann gelangt der Text in die Rechtstradition um eine der einflussreichsten kirchenrechtlichen Sammlungen des Mittelalters: Gratians Decretum.
 
-Von dort aus wird er kopiert, kommentiert und weitergetragen.
+In späteren Textschichten erscheinen Passagen der Schenkung unter den Ergänzungen, die als Paleae bekannt sind.
+
+Die Behauptung zirkuliert nun nicht mehr nur als Geschichte.
+
+Sie bewegt sich innerhalb einer autoritativen Rechtstradition.
 
 Die Behauptung bekommt ein zweites Leben.
 
