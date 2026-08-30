@@ -1,6 +1,6 @@
 # Retention QA — episode-specific review
 
-Reviewed: 2026-08-26
+Reviewed: 2026-08-28
 
 ## Historical script measurements
 
@@ -10,6 +10,10 @@ Reviewed: 2026-08-26
 | EP02_EN | 1,196 | 152 | 7.9 | 9 | 8:52 |
 | EP03_EN | 1,365 | 163 | 8.4 | 21 | 10:07 |
 | EP04A_EN | 1,174 | 162 | 7.2 | 16 | 8:42 |
+| EP09_EN | 1,124 | 95 | 11.8 | 5 | 8:20 |
+| EP10_EN | 1,170 | 105 | 11.1 | 11 | 8:40 |
+| EP11_EN | 1,173 | 106 | 11.1 | 3 | 8:41 |
+| EP12_EN | 1,222 | 114 | 10.7 | 15 | 9:03 |
 
 The table records the scripts as measured on the review date. It is not a target
 range. Word count, question count, beat density and runtime are recalculated and
@@ -25,7 +29,8 @@ judged for every episode on its own.
 - Interaction asks the viewer to decide inside the story.
 - The verified question resolves before speculative interpretations reopen.
 - Final lines transform the current mechanism into the next episode's premise.
-- No generic subscribe request appears in the canonical narration.
+- Any subscribe request follows the story payoff and continues the episode's
+  specific investigation rather than interrupting evidence.
 
 ## Visual review outcomes
 
