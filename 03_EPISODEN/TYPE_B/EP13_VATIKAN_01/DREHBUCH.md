@@ -1,347 +1,167 @@
-# EP13 V1 — Vatikan I: Die Kugel in der Krone
+# EP13 V2 — Vatikan I: Die Kugel in der Krone
 
-**Status:** Preproduction / Source-aware Story Pass  
+**Status:** Preproduction / Source-aware Story Pass — Checkpoint-1 remediation  
 **Archetyp:** Type B/C — Prophezeiungs-, Objekt- und Dokument-Mystery  
 **Voice:** ruhig, unmittelbar, geheimnisvoll; konkrete Objekte und Dokumente tragen die Spannung  
 **Serienposition:** Vatikan-Serie 1/5
 
 ## S1 — Die Kugel
 
-Diese Kugel wurde auf einen Papst abgefeuert.
+Diese Kugel wurde bei dem Attentat auf einen Papst abgefeuert.
 
 Heute steckt sie zwischen Gold, Perlen und Edelsteinen in einer Marienkrone.
 
 Der Anschlag geschah am 13. Mai 1981 auf dem Petersplatz in Rom.
 
-Genau vierundsechzig Jahre zuvor, am 13. Mai 1917, sagten drei Hirtenkinder in Portugal, ihnen sei an diesem Ort zum ersten Mal die Jungfrau Maria erschienen.
+Genau vierundsechzig Jahre zuvor, am 13. Mai 1917, berichteten drei Hirtenkinder in Fátima von ihrer ersten Marienerscheinung.
 
-Eines dieser Kinder hinterließ später einen versiegelten Text.
+Eines dieser Kinder schrieb später einen Teil der Vision auf. Der Text wurde versiegelt, nach Rom gebracht und von mehreren Päpsten gelesen, ohne veröffentlicht zu werden.
 
-Päpste lasen ihn.
+Darin erscheint ein in Weiß gekleideter Bischof. Er geht durch eine zerstörte Stadt, steigt auf einen Berg — und wird von Schüssen und Pfeilen getroffen.
 
-Das Dokument verschwand wieder im Archiv.
-
-Und die Öffentlichkeit erfuhr jahrzehntelang nicht, was darin stand.
-
-In der Vision erscheint ein in Weiß gekleideter Bischof.
-
-Er geht durch eine zerstörte Stadt.
-
-Er steigt auf einen Berg.
-
-Dann fallen Schüsse.
-
-Johannes Paul II. glaubte nach seinem Attentat, dass seine eigene Geschichte mit Fátima verbunden war.
-
-Er ließ sich den versiegelten Text bringen.
-
-Und Jahre später gab er die Kugel, die ihn getroffen hatte, an das Heiligtum zurück.
+Johannes Paul II. überlebt 1981 Schüsse auf dem Petersplatz. Danach lässt er sich den versiegelten Text bringen.
 
 Was hatte er gelesen?
 
-Und warum landete ein Projektil vom Petersplatz am Ende in einer Krone in Portugal?
+Und wie gelangte ein Projektil aus diesem Attentat am Ende in eine Krone in Portugal?
 
-## S2 — Drei Kinder und ein Datum
+## S2 — Eine Vision wird zu einem Objekt
 
-Fátima liegt nördlich von Lissabon.
+1917 hüten Lúcia dos Santos und ihre jüngeren Cousins Francisco und Jacinta Marto bei Fátima Schafe.
 
-1917 ist es ein ländlicher Ort, weit entfernt von den Zentren europäischer Macht.
+Nach ihrem Bericht beginnt am 13. Mai eine Serie von Begegnungen mit einer leuchtenden Frau. Die Kinder sprechen später von Gebet, Krieg, Russland und Bildern, die zunächst nicht vollständig öffentlich werden.
 
-Dort hüten Lúcia dos Santos und ihre jüngeren Cousins Francisco und Jacinta Marto Schafe.
+Die ersten beiden Teile des sogenannten Geheimnisses schreibt Lúcia 1941 nieder. Der dritte Teil folgt am 3. Januar 1944.
 
-Nach ihrem Bericht beginnt am 13. Mai eine Serie von Begegnungen mit einer leuchtenden Frau, die sie als Unsere Liebe Frau erkennen.
+Damit wird aus einer erinnerten Vision etwas Physisches:
 
-Die Kinder sprechen von Gebet, Umkehr, Krieg, Russland und von Bildern, die sie zunächst nicht vollständig öffentlich machen.
+Papier. Tinte. Ein Umschlag.
 
-Ein Teil ihrer Botschaft wird später als das „Geheimnis von Fátima“ bekannt.
+Etwas, das verschlossen, transportiert und von bestimmten Menschen gelesen werden kann.
 
-Das Wort Geheimnis ist hier nicht nachträgliches Internet-Marketing.
+## S3 — Der Text in Rom
 
-Es wird Teil der kirchlichen Überlieferung selbst.
+1957 wird der versiegelte Text nach Rom gebracht und im Archiv des Heiligen Offiziums verwahrt.
 
-Und Lúcia bleibt diejenige, die den Inhalt Jahrzehnte später zu Papier bringt.
+Johannes XXIII. liest ihn 1959 und veröffentlicht ihn nicht. Paul VI. liest ihn 1965 ebenfalls.
 
-Die ersten beiden Teile schreibt sie 1941 nieder.
+Für die Öffentlichkeit entsteht dadurch ein mächtiger Zwischenzustand:
 
-Der dritte Teil folgt erst am 3. Januar 1944.
+Man weiß, dass das Dokument existiert. Man weiß, dass Päpste es lesen. Aber man kennt die Bilder auf dem Papier nicht.
 
-Ein einziges handschriftliches Manuskript.
+In diesen Leerraum wachsen Deutungen über Krieg, Kirchenkrise, Endzeit und Attentate.
 
-Ein Text, der nicht sofort veröffentlicht wird.
-
-Er wird versiegelt.
-
-Damit verändert sich die Geschichte.
-
-Aus einer Vision wird ein physisches Objekt.
-
-Papier.
-
-Tinte.
-
-Ein Umschlag.
-
-Etwas, das man besitzen, weiterreichen, verschließen und lesen kann.
-
-## S3 — Der Umschlag wandert nach Rom
-
-Zunächst bleibt der versiegelte Umschlag beim Bischof von Leiria.
-
-1957 wird er nach Rom gebracht und im Archiv des Heiligen Offiziums verwahrt.
-
-Von jetzt an liegt das sogenannte dritte Geheimnis im Zentrum jener Institution, die über Glaubensfragen wacht.
-
-Doch ein Geheimnis wird nicht weniger mächtig, wenn nur wenige Menschen es kennen.
-
-Manchmal geschieht das Gegenteil.
-
-Am 17. August 1959 wird der Umschlag Papst Johannes XXIII. gebracht.
-
-Er liest den Text.
-
-Dann entscheidet er, ihn nicht zu veröffentlichen.
-
-Der Umschlag geht zurück.
-
-1965 liest Paul VI. den Inhalt.
-
-Auch er gibt ihn zurück ins Archiv.
-
-Für die Öffentlichkeit entsteht damit ein eigenartiger Zustand.
-
-Man weiß, dass es einen Text gibt.
-
-Man weiß, dass Päpste ihn lesen.
-
-Aber man kennt die Bilder nicht, die auf dem Papier stehen.
-
-Und je länger der Umschlag geschlossen bleibt, desto größer wird der Raum um ihn herum.
-
-Prophezeiungen.
-
-Krieg.
-
-Kirchenkrise.
-
-Endzeit.
-
-Attentate.
-
-Fast jede Angst des Jahrhunderts kann irgendwann an einen Text geheftet werden, den kaum jemand gesehen hat.
-
-Bis zu einem Mittwoch im Mai 1981.
+Dann kommt der 13. Mai 1981.
 
 ## S4 — 13. Mai 1981
 
-17 Uhr 19.
+17 Uhr 19. Petersplatz.
 
-Petersplatz.
+Johannes Paul II. fährt im offenen Wagen durch die Menge. Mehmet Ali Ağca schießt auf ihn. Der Papst wird schwer verletzt, operiert — und überlebt.
 
-Johannes Paul II. fährt im offenen Wagen durch die Menge vor seiner Generalaudienz.
+Das Datum ist der Jahrestag der ersten Fátima-Erscheinung.
 
-Dann schießt Mehmet Ali Ağca auf ihn.
+Für Johannes Paul II. wird diese Übereinstimmung bedeutsam. Nach dem Attentat verlangt er den dritten Teil des Geheimnisses.
 
-Der Papst wird schwer verletzt und in die Gemelli-Klinik gebracht.
+Am 18. Juli 1981 erhält er das portugiesische Original und eine italienische Übersetzung.
 
-Eine mehrstündige Operation beginnt.
-
-Er überlebt.
-
-Und das Datum bleibt stehen.
-
-13. Mai.
-
-Der Jahrestag der ersten Fátima-Erscheinung.
-
-Für Johannes Paul II. wird diese Übereinstimmung nicht zu einer beiläufigen Kuriosität.
-
-Sie verändert die Art, wie er auf das Geschehen blickt.
-
-Nach dem Attentat verlangt er den Umschlag mit dem dritten Teil des Geheimnisses.
-
-Am 18. Juli 1981 werden ihm zwei Umschläge übergeben: das portugiesische Original und eine italienische Übersetzung.
-
-Stellt euch diesen Moment vor.
-
-Ein Mann erholt sich von Schussverletzungen.
-
-Vor ihm liegt ein Text, der siebenunddreißig Jahre zuvor von einer Frau geschrieben wurde, die behauptete, darin eine Vision aus ihrer Kindheit festzuhalten.
-
-Ein Text, den zwei seiner Vorgänger gelesen und wieder verschlossen hatten.
+Ein Mann erholt sich von Schussverletzungen. Vor ihm liegt eine Jahrzehnte zuvor niedergeschriebene Vision, die zwei seiner Vorgänger gelesen und wieder verwahrt hatten.
 
 Wenn ihr an seiner Stelle gewesen wärt:
 
-Würdet ihr nur eine Vision lesen?
-
-Oder würdet ihr nach euch selbst suchen?
+Würdet ihr nur eine Vision lesen — oder nach euch selbst darin suchen?
 
 ## S5 — Was auf dem Papier steht
 
-Neunzehn weitere Jahre kennt die Öffentlichkeit den Wortlaut nicht.
+Erst im Jahr 2000 veröffentlicht der Vatikan das Manuskript als Faksimile und Übersetzung.
 
-Dann, im Jahr 2000, veröffentlicht der Vatikan das Manuskript als Faksimile und Übersetzung.
+Die Vision zeigt einen Engel mit flammendem Schwert. Dann einen in Weiß gekleideten Bischof, den die Kinder für den Heiligen Vater halten.
 
-Jetzt kann jeder die Seite sehen.
+Er geht durch eine große, halb zerstörte Stadt, steigt mit Geistlichen und Gläubigen einen Berg hinauf und wird dort von Soldaten getötet. Schüsse und Pfeile treffen ihn. Weitere Menschen sterben mit ihm.
 
-Die Vision beginnt mit einem Engel und einem flammenden Schwert.
-
-Die Flammen werden vom Licht der Mariengestalt aufgehalten.
-
-Dann sehen die Kinder eine Gestalt, die sie für den Heiligen Vater halten: einen in Weiß gekleideten Bischof.
-
-Er geht durch eine große, halb zerstörte Stadt.
-
-Er sieht Tote.
-
-Er steigt mit Bischöfen, Priestern, Ordensleuten und Gläubigen einen steilen Berg hinauf.
-
-Oben steht ein großes Kreuz.
-
-Dort wird der in Weiß gekleidete Bischof von Soldaten getötet.
-
-Schüsse und Pfeile treffen ihn.
-
-Weitere Menschen sterben mit ihm.
-
-Am Ende sammeln Engel das Blut der Märtyrer.
-
-Das ist die Seite, die so lange im Umschlag lag.
-
-Kein abstrakter Satz über Politik.
-
-Eine Bildfolge.
-
-Feuer.
-
-Ruinen.
-
-Ein Papst.
-
-Ein Berg.
-
-Bewaffnete Männer.
-
-Tod.
-
-Und genau deshalb kann eine solche Vision mehr als eine einzige Zeit in sich aufnehmen.
-
-## S6 — Erkennt man sich in einer Prophezeiung?
-
-Der Text nennt Johannes Paul II. nicht beim Namen.
+Der Text nennt Johannes Paul II. nicht.
 
 Er nennt auch keinen 13. Mai 1981.
 
-Genau dort beginnt die zweite Ebene des Geheimnisses: nicht nur, was auf dem Papier steht, sondern wie ein Mensch seine eigene Geschichte darin erkennt.
+Genau deshalb liegt die Spannung nicht nur in dem, was geschrieben wurde, sondern in dem, was ein Leser darin erkennt.
+
+## S6 — Erkennt man sich in einer Prophezeiung?
 
 Im Jahr 2000 erklärt Kardinal Angelo Sodano im Auftrag des Papstes, Johannes Paul II. habe nach dem Attentat eine mütterliche Hand am Werk gesehen, die die Bahn der Kugel geführt habe.
 
-Schwester Lúcia wird vor der Veröffentlichung noch einmal befragt.
+Schwester Lúcia wird vor der Veröffentlichung erneut befragt. Nach dem vatikanischen Gesprächsprotokoll bestätigt sie, dass die Hauptfigur der Vision ein Papst sei, ohne einen bestimmten Papst zu benennen.
 
-Auf die Frage, ob die Hauptfigur der Vision der Papst sei, antwortet sie nach dem vatikanischen Gesprächsprotokoll sofort mit Ja.
+Der Vatikan deutet die Szene breiter als Bild der Verfolgungen des 20. Jahrhunderts und verbindet das Attentat auf Johannes Paul II. damit.
 
-Sie legt sich dabei nicht auf den Namen eines bestimmten Papstes fest.
+Damit bleibt eine entscheidende Frage offen:
 
-Der Vatikan deutet die Vision breiter als Bild der Verfolgungen des 20. Jahrhunderts — und sieht das Attentat auf Johannes Paul II. als einen zentralen Bezugspunkt.
-
-Das macht die Geschichte nicht kleiner.
-
-Es macht sie persönlicher.
-
-Denn nun geht es um eine Frage, die sich nicht allein mit einem Datum lösen lässt:
-
-Wann wird eine Prophezeiung erfüllt?
+Wann gilt eine Prophezeiung als erfüllt?
 
 Wenn ein Ereignis exakt vorhergesagt wird?
 
-Oder wenn ein Mensch nach einem Ereignis in einem alten Bild plötzlich seine eigene Erfahrung erkennt?
+Oder wenn ein Mensch nach einem Ereignis seine eigene Erfahrung in einem älteren Bild erkennt?
 
 ## S7 — Die Kugel verlässt Rom
 
-Ein Jahr nach dem Anschlag reist Johannes Paul II. nach Fátima.
+Ein Jahr nach dem Anschlag reist Johannes Paul II. nach Fátima. Für ihn gehört sein Überleben inzwischen zu dieser Geschichte.
 
-Er kommt nicht als neutraler Beobachter.
+Dem Heiligtum wird eines der Projektile aus dem Attentat übergeben. 1989 wird es in die kostbare Krone der Statue Unserer Lieben Frau vom Rosenkranz von Fátima eingesetzt.
 
-Er kommt aus Dankbarkeit.
+Dort befindet es sich bis heute.
 
-Für ihn gehört sein Überleben inzwischen in diese Geschichte.
+Mehr müssen wir über seine unmittelbare Fund- oder Entnahmegeschichte nicht behaupten, solange die historischen Darstellungen dazu nicht vollständig harmonisiert sind.
 
-Später übergibt er dem Heiligtum eines der Projektile aus dem Attentat.
-
-1989 wird die Kugel in die kostbare Krone der Statue Unserer Lieben Frau vom Rosenkranz von Fátima eingesetzt.
-
-Dort steckt sie bis heute.
-
-Und damit geschieht etwas, das visuell fast zu perfekt wirkt, um erfunden zu sein.
+Das sichere Bild ist bereits stark genug:
 
 Ein Gegenstand der Gewalt wird Teil eines religiösen Symbols.
 
-Metall, das einen Körper verletzen sollte, sitzt zwischen Gold und Edelsteinen.
+Metall aus dem Attentat sitzt zwischen Gold und Edelsteinen.
 
-Der Anschlag wird nicht nur erinnert.
+Der 13. Mai 1981 bekommt einen physischen Ort.
 
-Er bekommt einen Ort.
+## S8 — Der Umschlag ist offen. Die Deutung nicht.
 
-Man kann vor ihm stehen.
+Die reale Kette ist ungewöhnlich genug:
 
-Man kann die Krone ansehen.
+1917 eine berichtete Vision.
 
-Und irgendwo in ihr liegt noch immer der 13. Mai 1981.
+1944 eine Handschrift.
 
-## S8 — Das eigentliche Geheimnis
+1957 der Weg nach Rom.
 
-Vielleicht liegt die stärkste Wirkung des dritten Geheimnisses deshalb gar nicht in der Vorstellung, dass irgendwo im Vatikan noch ein Satz verborgen sein müsse, der alles erklärt.
+Mehrere päpstliche Leser.
 
-Der reale Vorgang ist bereits ungewöhnlich genug.
+1981 ein Attentat am Jahrestag der ersten Erscheinung.
 
-Eine Kindheitserfahrung von 1917 wird 1944 zu einer Handschrift.
+Danach liest der verwundete Papst den Text und deutet sein Überleben durch Fátima.
 
-Die Handschrift wird versiegelt.
+Ein Projektil gelangt nach Portugal und wird Teil der Krone.
 
-Sie wandert 1957 nach Rom.
-
-Zwei Päpste lesen sie und lassen sie geschlossen.
-
-Ein dritter Papst wird am Jahrestag der ersten Erscheinung angeschossen.
-
-Er überlebt, verlangt das Dokument und beginnt seinen Anschlag durch die Bilder von Fátima zu deuten.
-
-Dann verlässt eine Kugel Rom.
-
-Sie endet in einer Krone.
-
-Und fast zwanzig Jahre nach dem Attentat verlässt auch der Text sein Geheimnis: als veröffentlichtes Faksimile, das jeder selbst ansehen kann.
+Im Jahr 2000 wird schließlich auch das Manuskript öffentlich.
 
 Der Umschlag ist offen.
 
 Die Deutung ist es nicht.
 
-Denn dieselbe Seite kann gleichzeitig als Vision von Märtyrern, als Bild eines Jahrhunderts und als persönliche Geschichte eines Papstes gelesen werden.
+Dieselbe Seite kann als Vision von Märtyrern, als Bild eines Jahrhunderts und als persönliche Geschichte eines Papstes gelesen werden.
 
-Die Frage ist nicht nur, ob Fátima etwas vorausgesagt hat.
-
-Die seltsamere Frage lautet:
-
-Wie stark kann ein verborgenes Dokument werden, wenn Menschen beginnen, ihre eigene Geschichte darin zu erkennen?
+Vielleicht ist genau das die Macht eines solchen Dokuments: Nicht nur, was darin steht — sondern was Menschen darin wiedererkennen.
 
 ## S9 — Hinter der nächsten Tür
 
-Und dieser Umschlag führt uns direkt zur nächsten Spur.
+Dieser eine Umschlag führt direkt zur nächsten Spur.
 
-Denn Fátimas dritter Teil war nur ein einziges Dokument, das zeitweise in einem kirchlichen Archiv lag.
+In Rom lagern päpstliche Register, Prozessakten, diplomatische Briefe und Bittschriften aus Jahrhunderten.
 
-Hinter den Mauern Roms lagern päpstliche Register, Prozessakten, diplomatische Briefe, Bittschriften von Königen und Dokumente aus mehr als tausend Jahren.
+Eines dieser Dokumente trägt einundachtzig Siegel.
 
-Einige von ihnen waren ebenfalls jahrhundertelang nur für sehr wenige Augen bestimmt.
+Seine Absender wollten einen Papst zu einer Entscheidung über die Ehe Heinrichs VIII. drängen.
 
-Eines trägt einundachtzig Siegel.
+Der Brief scheiterte.
 
-Seine Absender wollten, dass ein Papst die Ehe eines englischen Königs beendet.
+Das Papier überlebte.
 
-Er tat es nicht.
-
-Und die Folgen veränderten Europa.
-
-Die nächste Folge beginnt mit diesem Blatt.
+Und genau damit beginnt die nächste Folge.
 
 ## Endcard
 
