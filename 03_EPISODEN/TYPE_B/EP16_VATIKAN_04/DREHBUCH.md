@@ -1,363 +1,287 @@
-# EP16 V1 — Vatikan IV: Die verbotenen Bücher
+# EP16 V2 — Vatikan IV: Die verbotenen Bücher
 
-**Status:** Preproduction / Source-aware Story Pass  
+**Status:** Preproduction / Source-aware Story Pass — Checkpoint-1 remediation  
 **Archetyp:** Type B/C — Zensur-, Wissens- und Dokument-Mystery  
-**Voice:** dunkel, konkret, neugierig; echte Seiten und Namen tragen die Spannung  
+**Voice:** dunkel, konkret, neugierig; ein physischer Band und seine Einträge tragen die Spannung  
 **Serienposition:** Vatikan-Serie 4/5
 
-## S1 — Ein Buch voller verbotener Bücher
-
-Dieses Buch verbietet Bücher.
-
-Auf seinen Seiten stehen Namen, die heute zum Kanon europäischer Geistesgeschichte gehören.
-
-René Descartes.
-
-Galileo Galilei.
-
-Schriften über Astronomie, Philosophie, Theologie, Politik und die Frage, wie der Mensch überhaupt wissen kann, was wahr ist.
-
-Der Titel steht groß auf der ersten Seite:
-
-Index Librorum Prohibitorum.
-
-Index der verbotenen Bücher.
-
-Über Jahrhunderte veröffentlicht Rom Listen von Werken, die katholische Gläubige nicht lesen sollen oder nur unter bestimmten Bedingungen lesen dürfen.
-
-Manche Autoren werden vollständig verboten.
-
-Bei anderen trifft es einzelne Werke.
-
-Manche Bücher dürfen nach Korrekturen wieder gelesen werden.
-
-Und irgendwann entsteht dadurch ein seltsames Gegenarchiv.
-
-Eine Sammlung dessen, was eine Institution für gefährlich genug hielt, um davor zu warnen.
-
-Die letzte gedruckte Ausgabe erscheint 1948.
-
-Sie umfasst mehr als fünfhundert Seiten.
-
-Achtzehn Jahre später verliert der Index seine kirchenrechtliche Gültigkeit.
-
-Doch die Namen bleiben auf dem Papier.
-
-Was musste ein Buch enthalten, damit Rom es auf diese Liste setzte?
-
-Und was geschieht mit einer Idee, sobald eine mächtige Institution erklärt, dass man sie nicht lesen soll?
-
-## S2 — Die Druckerpresse verändert die Gefahr
-
-Vor dem Buchdruck bewegt sich ein Text langsam.
-
-Ein Schreiber kopiert eine Handschrift.
-
-Dann ein anderer.
-
-Ein Fehler wandert mit.
-
-Eine Idee braucht Zeit.
-
-Im 15. Jahrhundert ändert sich diese Geschwindigkeit radikal.
-
-Gedruckte Bücher können in hunderten Exemplaren entstehen.
-
-Sie reisen über Handelswege.
-
-Sie gelangen in Universitäten, Klöster und private Bibliotheken.
-
-Und im 16. Jahrhundert wird diese neue Medienwelt zum Schauplatz religiöser Konflikte, die Europa zerreißen.
-
-Reformation.
-
-Gegenreformation.
-
-Flugschriften.
-
-Bibelübersetzungen.
-
-Polemiken.
-
-Ein Text kann nun eine Stadt verlassen, bevor eine Behörde überhaupt entschieden hat, was sie von ihm hält.
-
-Rom reagiert nicht mit einer einzigen Liste.
-
-Lokale und kirchliche Verbotskataloge existieren bereits zuvor.
-
-Doch 1559 erscheint unter Papst Paul IV. ein besonders strenger römischer Index.
-
-Er versucht nicht nur einzelne Sätze zu kontrollieren.
-
-Er klassifiziert Autoren und Bücher.
-
-Lesen wird zu einer Frage von Erlaubnis.
-
-## S3 — Drei Arten von Gefahr
-
-Die frühen Indices unterscheiden auf unterschiedliche Weise zwischen Autoren und Werken.
-
-Ein Autor kann als grundsätzlich problematisch gelten.
-
-Ein bestimmtes Buch kann verboten sein.
-
-Ein Werk kann solange untersagt bleiben, bis es korrigiert wird.
-
-Donec corrigatur.
-
-Bis es verbessert ist.
-
-Das ist ein faszinierender Gedanke.
-
-Denn hier wird Wissen nicht einfach in wahr und falsch geteilt.
-
-Es wird administriert.
-
-Eine Seite kann gefährlich sein, bis jemand einen Satz verändert.
-
-Ein Autor kann akzeptabel sein, während eines seiner Bücher es nicht ist.
-
-Und ein Leser kann etwas lesen dürfen, wofür ein anderer eine Genehmigung braucht.
-
-1564 folgt nach dem Konzil von Trient ein neuer Index unter Pius IV., begleitet von Regeln über verbotene Bücher und Lektüre.
-
-Ein echtes Exemplar dieser Ausgabe existiert bis heute.
-
-Auf der Titelseite steht der Name des Index wie ein Warnschild aus einer anderen Medienwelt.
-
-Doch die stärksten Seiten liegen weiter hinten.
-
-Dort stehen Menschen.
-
-## S4 — Galileo auf der Liste
-
-1616 erreicht die Auseinandersetzung um das kopernikanische Weltbild Rom.
-
-Das Werk von Nikolaus Kopernikus wird bis zur Korrektur suspendiert.
-
-Galileo erhält in demselben Konflikt eine kirchliche Anweisung, die kopernikanische Lehre nicht in der verbotenen Weise zu vertreten.
-
-1632 veröffentlicht er seinen Dialog über die beiden hauptsächlichen Weltsysteme.
-
-Ein Jahr später steht er vor der Inquisition.
-
-Der Dialog wird verboten.
-
-Damit wird aus einer wissenschaftlichen Kontroverse auch ein bibliografisches Objekt.
-
-Ein Titel.
-
-Ein Autor.
-
-Ein Eintrag.
-
-Man kann Jahrhunderte später eine Index-Seite öffnen und sehen, wie eine Institution einen Konflikt in eine Liste verwandelt.
-
-Das ist visuell stärker als jede nachgestellte Bücherverbrennung.
-
-Denn die Zensur schreit hier nicht.
-
-Sie setzt Druckerschwärze auf Papier.
-
-## S5 — Descartes
-
-Dann erscheint ein anderer Name.
-
-René Descartes.
-
-Der Mann, der radikalen Zweifel zum Werkzeug macht.
-
-Was kann ich wissen?
-
-Was kann ich bezweifeln?
-
-Was bleibt übrig, wenn ich alles infrage stelle?
-
-1663 werden mehrere seiner Werke auf den Index gesetzt.
-
-Bei ihnen steht eine entscheidende Formel:
-
-donec corrigantur.
-
-Bis sie korrigiert werden.
-
-Dieser kleine Zusatz verändert den ganzen Charakter des Verbots.
-
-Es geht nicht nur darum, ein Buch verschwinden zu lassen.
-
-Es geht darum, festzulegen, unter welchen Bedingungen ein Text akzeptabel werden könnte.
-
-Und damit wird der Index zu etwas, das moderner wirkt, als man erwartet.
-
-Eine Datenbank von Entscheidungen.
-
-Autor.
-
-Titel.
-
-Datum.
-
-Dekret.
-
-Status.
-
-Jede Zeile ist die Spur eines Konflikts, der außerhalb des Buches stattgefunden hat.
-
-## S6 — Der verbotene Katalog als Schatzkarte
-
-Doch Verbote haben eine seltsame Nebenwirkung.
-
-Sie markieren Aufmerksamkeit.
-
-Wer heute einen historischen Index aufschlägt, sieht nicht nur, was Rom ablehnte.
-
-Er sieht, welche Ideen stark genug waren, eine Reaktion auszulösen.
-
-Der Index wird dadurch unbeabsichtigt zu einer Karte intellektueller Konflikte.
-
-Reformation.
-
-Naturphilosophie.
-
-Kosmologie.
-
-Rationalismus.
-
-Politische Theorie.
-
-Bibelkritik.
-
-Nicht jeder wichtige Denker Europas steht darin.
-
-Und nicht jeder Eintrag bedeutet dasselbe.
-
-Aber Seite für Seite entsteht ein Panorama von Grenzen.
-
-Was durfte ein katholischer Leser lesen?
-
-Unter welchen Bedingungen?
-
-Wer durfte entscheiden?
-
-Und wie verändert sich eine Idee, wenn ihr Verbot selbst zu ihrer Aura gehört?
-
-Ein verbotenes Buch trägt plötzlich zwei Geschichten.
-
-Die Geschichte, die sein Autor geschrieben hat.
-
-Und die Geschichte darüber, warum jemand wollte, dass du sie nicht liest.
-
-## S7 — 1948
-
-Jetzt springen wir fast vierhundert Jahre nach dem ersten römischen Index.
+## S1 — 508 Seiten, dann Schluss
 
 1948.
 
 Europa kommt aus einem Weltkrieg.
 
-Radio existiert.
+Radio, Kino und Massenpresse prägen längst die Öffentlichkeit.
 
-Kino existiert.
+Und Rom druckt noch einmal ein Buch mit mehr als fünfhundert Seiten, das andere Bücher verbietet.
 
-Massenzeitungen existieren.
+**Index Librorum Prohibitorum.**
 
-Und trotzdem erscheint noch einmal ein gedruckter Index Librorum Prohibitorum.
+Die letzte gedruckte Ausgabe umfasst 508 Seiten.
 
-Herausgegeben auf Anordnung Pius XII.
+Ein Alphabet aus Namen und Titeln, hinter denen Jahrhunderte von Entscheidungen liegen.
 
-Mehr als fünfhundert Seiten.
+Dann geschieht etwas Merkwürdiges.
 
-Das ist der Moment, den ich im Film langsam spielen würde.
+Nur achtzehn Jahre später, am 14. Juni 1966, erklärt die Glaubenskongregation, dass der Index nicht länger die Kraft kirchlichen Gesetzes mit den daran geknüpften Zensuren besitzt.
 
-Keine Musik für ein paar Sekunden.
+508 Seiten institutionalisierter Lesegrenzen.
 
-Nur Seiten.
+Dann wenige Absätze, die ihren Rechtsstatus verändern.
 
-Ein Alphabet.
+Wie konnte ein System, das fast vier Jahrhunderte überdauerte, so enden?
 
-Namen.
+Um das zu verstehen, blättern wir von 1948 rückwärts.
 
-Jahrhunderte von Entscheidungen in einem einzigen physischen Band.
+Nicht durch alle Namen.
 
-Der Index ist jetzt selbst ein historisches Archiv der Kontrolle geworden.
+Wir verfolgen, was aus einem Buch wird, wenn eine Institution es erst liest, dann beurteilt, dann in eine Liste verwandelt.
 
-Aber seine Zeit als kirchenrechtliches Instrument läuft ab.
+## S2 — Ein Gegenarchiv des Lesens
+
+Schlagt den Band auf.
+
+Keine Flammen.
+
+Keine Kerkertür.
+
+Druckerschwärze.
+
+Autor.
+
+Titel.
+
+Manchmal ein Zusatz.
+
+Ein Datum.
+
+Der Index ist weniger ein Friedhof von Büchern als ein Verwaltungsarchiv von Grenzen.
+
+Nicht jeder Eintrag bedeutet dasselbe.
+
+Manche Verbote betreffen Autoren umfassend, andere einzelne Werke. Manche Texte bleiben untersagt, bis sie korrigiert werden.
+
+**Donec corrigatur.**
+
+Bis zur Korrektur.
+
+Damit wird aus der simplen Vorstellung „Kirche gegen Buch“ etwas Interessanteres.
+
+Lesen wird verwaltet.
+
+Wer darf was lesen?
+
+Unter welchen Bedingungen?
+
+Welche Passage muss sich ändern?
+
+Und wer entscheidet darüber?
+
+## S3 — Warum überhaupt Listen entstanden
+
+Vor dem Buchdruck bewegt sich ein Text langsam.
+
+Dann verändert die Druckerpresse die Geschwindigkeit Europas.
+
+Bücher entstehen in vielen Exemplaren, reisen über Handelswege und erreichen Universitäten, Klöster und private Leser.
+
+Im 16. Jahrhundert verschärfen Reformation und konfessionelle Konflikte die Frage, wer Texte kontrollieren kann.
+
+Rom reagiert nicht mit einer einzigen Erfindung aus dem Nichts; Verbotskataloge existieren bereits zuvor.
+
+Aber 1559 erscheint unter Paul IV. ein besonders strenger römischer Index.
+
+1564 folgt unter Pius IV. ein neuer Index mit Regeln für verbotene Bücher und Lektüre.
+
+Aus einzelnen Entscheidungen wird ein System.
+
+Und dieses System produziert etwas, das Jahrhunderte später selbst zum historischen Beweismittel wird: seine Listen.
+
+## S4 — Ein Buch wird zu einer Zeile: Galileo
+
+Nehmen wir einen einzigen Fall.
+
+Galileos *Dialogo sopra i due massimi sistemi del mondo*.
+
+1632 erscheint das Buch.
+
+1633 folgt der Prozess vor der römischen Inquisition.
+
+In EP14 lag dieser Konflikt als Akte im Archiv.
+
+Hier sehen wir bewusst etwas anderes.
+
+Nicht den Prozessband.
+
+Das Buch.
+
+Und danach seinen Indexeintrag.
+
+Ein komplexer Konflikt aus Kosmologie, Exegese, Autorität und Verfahren wird bibliografisch komprimiert.
+
+Autor.
+
+Titel.
+
+Verbot.
+
+Das ist die eigentliche visuelle Idee dieser Folge:
+
+Ein lebendiges Buch wird zu einer Verwaltungszeile.
+
+Keine Wiederholung der Galileo-Prozessbilder.
+
+Nur das Werk und die Spur, die das Verbot im Index hinterließ.
+
+## S5 — Ein zweiter Eintrag: Descartes
+
+1663 geraten mehrere Werke René Descartes' auf den Index.
+
+Auch hier vermeiden wir das bekannte Porträt aus der Zirbeldrüsen-Serie.
+
+Wir zeigen das Buch.
+
+Dann den Eintrag.
+
+Und einen kleinen Zusatz:
+
+**donec corrigantur**.
+
+Bis sie korrigiert werden.
+
+Diese zwei Wörter sind stärker als ein weiteres Porträt.
+
+Sie zeigen, dass Zensur nicht immer nur „vernichten“ bedeutet.
+
+Sie kann auch heißen:
+
+Ändere den Text.
+
+Begrenze ihn.
+
+Schaffe eine erlaubte Version.
+
+Der Index wird damit zu einer Datenbank von Entscheidungen über Texte.
+
+Und jedes gedruckte Exemplar trägt diese Entscheidungen weiter.
+
+## S6 — Was ein Verbot praktisch bedeutet
+
+Jetzt verlassen wir für einen Moment die statische Seite.
+
+Ein Buch wird gedruckt.
+
+Es wird verkauft.
+
+Jemand liest es.
+
+Eine kirchliche Entscheidung klassifiziert es.
+
+Spätere Ausgaben können korrigiert, eingeschränkt oder mit Genehmigungen versehen werden.
+
+Bibliotheken und Leser müssen wissen, welche Regeln gelten.
+
+Das ist die Handlung, die hinter der Liste steckt.
+
+Drucken.
+
+Verteilen.
+
+Lesen.
+
+Prüfen.
+
+Korrigieren.
+
+Verbieten.
+
+Der Index ist das sichtbare Ende dieser Kette.
+
+Und zugleich besitzt jedes Verbot eine Nebenwirkung.
+
+Es markiert Aufmerksamkeit.
+
+Wer heute den Index liest, sieht auch, welche Texte stark genug waren, eine institutionelle Reaktion auszulösen.
+
+## S7 — Zurück zu 1948
+
+Jetzt kehren wir an den Anfang zurück.
+
+1948.
+
+Die letzte gedruckte Ausgabe.
+
+508 Seiten.
+
+Für die Produktion ist dieser Band ein Heroasset, kein dekoratives Requisit.
+
+Wir brauchen die echte Titelseite und echte relevante Innenseiten in rechtlich nutzbarer Qualität.
+
+Die Kamera bleibt auf dem Material.
+
+Papier.
+
+Satzspiegel.
+
+Alphabet.
+
+Einträge aus unterschiedlichen Jahrhunderten nebeneinander.
+
+Der Band ist jetzt selbst ein Archiv der Kontrolle geworden.
+
+Und gerade deshalb wirkt der nächste Schritt so abrupt.
 
 ## S8 — 14. Juni 1966
 
-Am 14. Juni 1966 veröffentlicht die Kongregation für die Glaubenslehre eine kurze Notifikation.
+Am 14. Juni 1966 veröffentlicht die Kongregation für die Glaubenslehre eine Notifikation.
 
-Das Dokument ist heute auf der offiziellen Website des Vatikan vollständig lesbar.
+Sie erklärt, der Index behalte moralische Bedeutung als Warnung vor Schriften, die Glauben und Sitten gefährden könnten.
 
-Und genau dieses Blatt ist unser Schlussbeweis.
+Aber er besitzt nicht länger die Kraft kirchlichen Gesetzes mit den daran geknüpften Zensuren.
 
-Die Kongregation erklärt, der Index behalte eine moralische Bedeutung als Warnung vor Schriften, die Glauben und Sitten gefährden könnten.
+Das Ende kommt nicht als dramatische Verbrennung des letzten Exemplars.
 
-Aber dann folgt der entscheidende Satz:
+Es kommt als Verwaltungsdokument.
 
-Er besitzt nicht länger die Kraft kirchlichen Gesetzes mit den daran geknüpften Zensuren.
+Der Kontrast ist perfekt.
 
-Vier Jahrhunderte institutionalisierter Buchverbote enden nicht mit einem brennenden Scheiterhaufen.
+Links: 508 Seiten Index von 1948.
 
-Sie enden mit einer Verwaltungsnotiz.
+Rechts: die kurze Notifikation von 1966.
 
-Ein paar Absätze.
+Ein System, das Wissen jahrhundertelang klassifiziert hat, wird selbst zu Geschichte.
 
-Datum.
+## S9 — Die Liste bleibt
 
-Unterschriften.
+Der Index verliert 1966 seine gesetzliche Kraft.
 
-Und plötzlich ist eine Liste, die Generationen von Lesern Grenzen gesetzt hatte, rechtlich etwas anderes geworden.
+Aber die gedruckten Seiten verschwinden nicht.
 
-Im November desselben Jahres werden auch die entsprechenden kirchenrechtlichen Verbots- und Strafnormen ausdrücklich als nicht mehr in Kraft behandelt.
+Sie bleiben als Gegenarchiv des Lesens.
 
-Das System verschwindet nicht aus der Geschichte.
+Ein Verbot kann einen Text begrenzen.
 
-Es wird Geschichte.
+Es kann ihn aber auch mit einer zweiten Geschichte versehen:
 
-## S9 — Was ein Verbot mit Wissen macht
+Warum wollte jemand, dass dieses Buch nicht gelesen wird?
 
-Vielleicht ist deshalb die spannendste Frage nicht, welches Buch auf dem Index stand.
+Die Konstantinische Schenkung zeigte, wie Autorität durch ein Dokument gestützt werden kann.
 
-Sondern was der Index mit dem Begriff des verbotenen Wissens gemacht hat.
+Der Index zeigt die Gegenbewegung: Autorität versucht, die Zirkulation anderer Dokumente zu begrenzen.
 
-Ein Verbot kann einen Text unsichtbarer machen.
+Und unsere letzte Folge verlässt das Papier.
 
-Aber es kann ihn auch aufladen.
-
-Es sagt dem Leser:
-
-Hier ist eine Grenze.
-
-Und Grenzen erzeugen Neugier.
-
-Die Konstantinische Schenkung aus unserer letzten Folge zeigte, wie ein Dokument Autorität erzeugen kann.
-
-Der Index zeigt das Gegenstück.
-
-Wie Autorität versucht, Dokumente zu begrenzen.
-
-Doch unsere letzte Vatikan-Folge geht noch einen Schritt weiter.
-
-Denn Bücher sind sichtbar.
-
-Man kann sie katalogisieren.
-
-Man kann sie beschlagnahmen.
-
-Man kann ihre Titel auf eine Liste setzen.
-
-Aber was geschieht, wenn die behauptete Gefahr keinen Körper aus Papier besitzt?
+Denn was geschieht, wenn die behauptete Gefahr keinen Buchtitel besitzt?
 
 Wenn eine Institution davon ausgeht, dass etwas Unsichtbares auf einen Menschen einwirken kann?
 
-Dann braucht sie keine Verbotsliste.
+Dann braucht sie keine Liste.
 
-Dann braucht sie ein Ritual.
+Dann braucht sie ein Verfahren.
 
-Und dieses Ritual existiert bis heute.
+Und ein Ritual.
 
 ## Endcard
 
 **Nächste Folge:** *Das Ritual gegen das Unsichtbare — Exorzismus im Vatikan*  
-**Offene Frage:** Macht ein Verbot eine Idee schwächer — oder manchmal erst unwiderstehlich?
+**Offene Frage:** Macht ein Verbot eine Idee schwächer — oder gibt es ihr manchmal erst eine zweite Geschichte?
