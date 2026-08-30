@@ -1,8 +1,8 @@
-# EP14 V1 — Vatikan II: Das Archiv unter Rom
+# EP14 V2 — Vatikan II: Das Archiv unter Rom
 
-**Status:** Preproduction / Source-aware Story Pass  
+**Status:** Preproduction / Source-aware Story Pass — Checkpoint-1 remediation  
 **Archetyp:** Type B/C — Archiv-, Macht- und Dokument-Mystery  
-**Voice:** ruhig, präzise, geheimnisvoll; Dokumente zuerst, Erklärungen danach  
+**Voice:** ruhig, präzise, geheimnisvoll; ein Dokument führt durch die Folge  
 **Serienposition:** Vatikan-Serie 2/5
 
 ## S1 — Ein Brief mit 81 Siegeln
@@ -17,335 +17,223 @@ Und einundachtzig Siegel, die ihn unter Druck setzen sollen.
 
 Am 13. Juli 1530 schreiben englische Lords an Papst Clemens VII.
 
-Das Blatt ist fast einen Meter breit.
+Dreiundachtzig Unterschriften stehen auf dem außergewöhnlich breiten Blatt. Von einem roten Seidenband hängen einundachtzig Siegel in Metallkapseln.
 
-Dreiundachtzig Unterschriften stehen darauf.
+Heinrich VIII. will die Annullierung seiner Ehe mit Katharina von Aragón.
 
-Von einem roten Seidenband hängen einundachtzig Siegel in kleinen Metallkapseln.
+Rom gibt ihm nicht die gewünschte Antwort.
 
-Die Botschaft ist höflich formuliert.
+Wenige Jahre später bricht die englische Krone mit der päpstlichen Autorität.
 
-Aber hinter ihr steht eine Drohung.
+Der Brief scheitert an seinem unmittelbaren Ziel.
 
-Heinrich VIII. will seine Ehe mit Katharina von Aragón annullieren lassen.
+Aber der Brief selbst überlebt.
 
-Die englischen Lords drängen Rom auf eine Entscheidung.
+Fast fünf Jahrhunderte später existieren Papier, Band und Siegel noch immer im Vatikanischen Apostolischen Archiv.
 
-Der Papst gibt ihnen nicht die Antwort, die ihr König verlangt.
+Das ist unsere Frage:
 
-Wenige Jahre später trennt sich die englische Krone von der Autorität Roms.
+Warum überlebt ausgerechnet dieses Blatt, während andere Teile des päpstlichen Gedächtnisses gestohlen, verkauft, falsch abgelegt oder vernichtet wurden?
 
-Der Brief aber bleibt.
+## S2 — Ein Archiv ist eine Überlebensmaschine
 
-Fast fünf Jahrhunderte später liegt er noch immer in den päpstlichen Archiven.
+Das Archiv trug lange den Namen *Archivum Secretum Vaticanum*.
 
-Und er ist nur ein einzelnes Blatt in einer Sammlung, deren Regale sich über ungefähr fünfundachtzig Kilometer erstrecken.
+„Secretum“ bezeichnete hier das reservierte, dem Papst zugeordnete Archiv und nicht einfach eine moderne Verschwörungsbedeutung von „geheim“.
 
-Ein Teil davon liegt tatsächlich unter der Erde.
+2019 wurde der offizielle Name in Vatikanisches Apostolisches Archiv geändert.
 
-Was bewahrt der Vatikan dort unten auf?
+Doch der Mythos bleibt verständlich.
 
-Und warum erzeugt ein Archiv, das Historikern offensteht, bis heute Vorstellungen von verbotenen Kammern, verschwundenen Evangelien und Dokumenten, die die Welt verändern könnten?
+Archive sind Macht, weil sie entscheiden, was später noch beweisbar ist.
 
-Um das zu verstehen, müssen wir zuerst durch eine Tür gehen, deren alter Name selbst zum Mythos wurde.
+Ein König kann sterben.
 
-## S2 — Das „Geheime Archiv“
+Ein Papst kann sterben.
 
-Mehr als drei Jahrhunderte lang trug die Institution einen Namen, der außerhalb Roms fast wie eine Einladung zur Verschwörung klang:
+Ein politischer Konflikt kann verschwinden.
 
-Archivum Secretum Vaticanum.
+Aber wenn die Akte bleibt, kann jemand Jahrhunderte später rekonstruieren, wer was verlangte.
 
-Das Vatikanische Geheimarchiv.
+Der Brief von 1530 ist deshalb nicht nur spektakulär, weil 81 Siegel daran hängen.
 
-Secretum bedeutete in diesem Zusammenhang jedoch nicht einfach „geheim“ im heutigen Sinn.
+Er ist spektakulär, weil er noch da ist.
 
-Das Wort bezeichnete etwas Abgesondertes, Reserviertes — das persönliche beziehungsweise dem Papst vorbehaltene Archiv.
+## S3 — Wer darf das Gedächtnis lesen?
 
-Aber diese sprachliche Erklärung nimmt dem Ort seine historische Besonderheit nicht.
+1881 öffnet Leo XIII. das Archiv für qualifizierte Forscher.
 
-Denn Archive sind Macht.
+Heute arbeiten dort Historiker in Lesesälen mit Katalogen, Signaturen und Bestellregeln. Die reguläre Zugangsgrenze reicht bis zum Ende des Pontifikats Pius XII. im Oktober 1958; einzelne jüngere Bestände wurden gesondert geöffnet.
 
-Sie entscheiden, welche Stimmen erhalten bleiben.
+Das ist kein Tresor, den niemand betreten darf.
 
-Welche Verträge nach Jahrhunderten noch gelesen werden können.
-
-Welche Prozesse rekonstruierbar sind.
-
-Welche Briefe beweisen, dass ein König etwas verlangte, ein Papst etwas wusste oder ein Gericht etwas entschied.
-
-Papst Paul V. schuf zu Beginn des 17. Jahrhunderts das zentrale päpstliche Archiv in seiner institutionellen Form.
-
-Über Jahrhunderte wuchs darin die schriftliche Erinnerung einer Kirche, die zugleich religiöse Institution, diplomatischer Akteur und politische Macht war.
-
-Heute umfasst der Bestand mehr als sechshundert Fonds und ungefähr zwölf Jahrhunderte Geschichte.
-
-2019 änderte Papst Franziskus den offiziellen Namen wieder in Archivio Apostolico Vaticano — Vatikanisches Apostolisches Archiv.
-
-Doch der alte Name hatte längst ein Eigenleben entwickelt.
-
-Denn wenn eine Institution jahrhundertelang ein „Secret Archive“ besitzt, entsteht zwangsläufig eine zweite Frage:
-
-Was durfte man darin tatsächlich sehen?
-
-## S3 — Die Tür öffnet sich
-
-1881 geschieht etwas Entscheidendes.
-
-Papst Leo XIII. öffnet das Archiv für qualifizierte Forscher aus verschiedenen Ländern und Religionen.
-
-Nicht alles gleichzeitig.
-
-Nicht jedes Dokument bis zur Gegenwart.
-
-Der Zugang wird nach historischen Pontifikaten freigegeben.
-
-Heute reicht die reguläre Grenze bis zum Ende des Pontifikats Pius XII. im Oktober 1958; einzelne jüngere Bestände wurden gesondert geöffnet.
-
-Damit entsteht ein faszinierender Gegensatz.
-
-Das Archiv ist kein verbotener Tresor, den niemand betreten darf.
-
-Forscher arbeiten dort.
-
-Es gibt Lesesäle, Kataloge, Signaturen, Restauratoren und Digitalisierungsprojekte.
-
-Und trotzdem bleibt der größte Teil der Öffentlichkeit draußen.
-
-Nicht weil hinter jeder Tür ein verbotenes Geheimnis liegt.
-
-Sondern weil ein Archiv dieser Größe nur über Regeln funktionieren kann.
+Aber Offenheit bedeutet nicht, dass alles sofort sichtbar wird.
 
 Man muss wissen, wonach man sucht.
 
-Man muss Dokumente bestellen.
+Alte Schriften lesen.
 
-Man muss Handschriften lesen können, die Jahrhunderte alt sind.
+Provenienzen verstehen.
 
-Und manchmal muss man erkennen, dass eine unscheinbare Seite bedeutender ist als jede goldene Bulle.
+Eine unscheinbare Seite als entscheidend erkennen.
 
-Genau das macht den Ort für NOESIS interessanter als die Legende eines einzigen verschlossenen Raumes.
+Und genau darin liegt das reale Mysterium eines Archivs:
 
-Denn die wirklichen Geheimnisse eines Archivs tragen selten die Aufschrift „Geheimnis“.
+Die meisten Geheimnisse sehen nicht wie Geheimnisse aus.
 
 Sie sehen aus wie Papier.
 
-## S4 — Unter dem Cortile della Pigna
+## S4 — Unter der Erde
 
-Unter dem Cortile della Pigna der Vatikanischen Museen liegt ein zweigeschossiger Stahlbetonbau.
+Unter dem Cortile della Pigna liegt ein zweigeschossiger Archivbunker, 1980 von Johannes Paul II. eingeweiht.
 
-Der Bunker.
+Dort stehen kilometerweise Register, Akten, Bündel und Kartons in kontrollierter Umgebung.
 
-Er wurde unter Paul VI. geplant und am 18. Oktober 1980 von Johannes Paul II. eingeweiht.
+Das Bild ist stark, aber wir benutzen den Bunker nicht als Behauptung eines verbotenen Untergrundlabyrinths.
 
-Einunddreißigtausend Kubikmeter Raum.
+Er ist Infrastruktur.
 
-Dreiundvierzig Kilometer feste und bewegliche Regale allein in diesem unterirdischen Bereich.
+Eine Maschine gegen Feuer, Feuchtigkeit, Zerfall und Zeit.
 
-Klimaüberwachung.
+Denn die erste Bedrohung für ein Geheimnis ist nicht immer ein Feind.
 
-Brandschutz.
+Manchmal ist es Schimmel.
 
-Sicherheitssysteme.
+Hitze.
 
-Über uns laufen Besucher durch die Vatikanischen Museen.
+Ein falscher Lagerort.
 
-Unter ihnen stehen Register, Akten, Bündel und Kartons aus Jahrhunderten kirchlicher Verwaltung.
+Oder jemand, der entscheidet, dass ein Dokument keinen Wert mehr besitzt.
 
-Doch einige der kostbarsten Stücke liegen in besonders geschützten, klimatisierten Bereichen.
+Genau das geschah, als das päpstliche Gedächtnis Rom tatsächlich verlassen musste.
 
-Darunter Pergamente mit goldenen Siegeln.
+## S5 — Napoleon nimmt nicht einen Brief, sondern das Archiv
 
-Ein Privileg Ottos I. aus dem Jahr 962, in Gold auf purpurfarbenes Pergament geschrieben.
+1810 lässt Napoleon die päpstlichen Archive beschlagnahmen und nach Paris transportieren.
 
-Der Liber Diurnus, eines der ältesten Formularbücher der päpstlichen Kanzlei.
+Die vatikanische Archivchronik nennt ungefähr 3.239 Kisten oder Körbe.
 
-Und ein Band, dessen Name allein genügt, um eine andere Geschichte zu öffnen:
+Nicht ein gestohlenes Manuskript in einer Manteltasche.
 
-Der Prozess gegen Galileo Galilei.
+Wagen voller institutioneller Erinnerung.
 
-## S5 — Galileo im Regal
-
-1633 steht Galileo vor der römischen Inquisition.
-
-Sein Konflikt mit kirchlichen Autoritäten wird später zu einem der berühmtesten Symbole für die Spannung zwischen Wissenschaft und religiöser Macht.
-
-Doch im Archiv ist diese Geschichte kein Symbol.
-
-Sie hat Seitenzahlen.
-
-Verhöre.
-
-Notizen.
-
-Unterschriften.
-
-Akten.
-
-Der Vatikan bewahrt den berühmten Prozessband und weitere Dokumente zum Verfahren auf.
-
-Jahrhunderte später können Historiker anhand dieser Papiere verfolgen, wie Argumente formuliert, Aussagen protokolliert und Entscheidungen vorbereitet wurden.
-
-Und genau hier verändert sich unser Blick auf das Archiv.
-
-Ein Archiv bewahrt nicht nur das, worauf eine Institution stolz ist.
-
-Es kann auch die Akten ihrer Konflikte konservieren.
-
-Das Papier überlebt die Menschen, die es beschrieben haben.
-
-Aber beinahe hätte ein Teil dieser Erinnerung Rom für immer verlassen.
-
-Denn Anfang des 19. Jahrhunderts kam jemand, der nicht nur einzelne Dokumente wollte.
-
-Er wollte das Archiv selbst.
-
-## S6 — Napoleon nimmt das Gedächtnis mit
-
-1810 lässt Napoleon Bonaparte die päpstlichen Archive beschlagnahmen.
-
-Tausende Behälter mit Dokumenten werden aus Rom nach Paris transportiert.
-
-Die offizielle Chronik des Vatikanischen Archivs nennt ungefähr 3.239 Kisten oder Körbe.
-
-Darunter befinden sich auch die Akten Galileos.
-
-Stellt euch das Bild vor:
-
-Nicht ein gestohlenes Manuskript.
-
-Nicht ein geheimer Brief in einer Manteltasche.
-
-Wagen voller Erinnerung.
-
-Ein Imperium transportiert das Gedächtnis einer anderen Macht über die Alpen.
+Auch Galileo-Akten gehören zu diesem verschobenen Gedächtnis.
 
 Nach Napoleons Sturz beginnt die Rückführung.
 
-Doch sie ist teuer.
+Und jetzt wird die Geschichte unangenehmer.
 
-Und dann geschieht etwas, das für ein Archiv fast unheimlicher ist als Diebstahl.
+Die Rückführung kostet Geld. Dokumente, die als nutzlos gelten, werden ausgesondert; Material wird vernichtet oder als Altpapier verkauft, anderes geht verloren oder landet am falschen Ort.
 
-Päpstliche Kommissare vernichten Hunderte Dokumente, die sie für nutzlos halten.
+Das ist die dunkle Gegenseite unseres Briefes mit 81 Siegeln.
 
-Tausende weitere werden als Altpapier verkauft.
+Wir wissen nicht nur deshalb wenig über die Vergangenheit, weil jemand Dinge versteckt.
 
-Andere gehen während des Transports verloren oder landen im falschen Archiv.
+Wir wissen wenig, weil Dinge nicht überleben.
 
-Nicht jedes verschwundene Dokument wurde also versteckt.
+## S6 — Zurück zu den 81 Siegeln
 
-Manche wurden schlicht nicht als wichtig erkannt.
+Jetzt zeigen wir den Brief wieder.
 
-Das ist vielleicht eine der beunruhigendsten Eigenschaften historischer Erinnerung:
+Nach Paris, Verlust und Rückführung wirkt er anders.
 
-Wir wissen nur von dem, was überlebt hat.
+Jede Metallkapsel ist plötzlich nicht nur Schmuck.
 
-## S7 — Die Templerakte
+Sie ist ein überlebter Zustand.
 
-Und manchmal überlebt etwas, dessen Bedeutung erst viel später wieder sichtbar wird.
+Das Dokument bewahrt den Druck englischer Eliten auf Clemens VII. in physischer Form.
 
-Im Vatikanischen Archiv liegen Originaldokumente des Verfahrens gegen den Templerorden aus den Jahren 1308 bis 1311.
+Ein politischer Moment, der scheiterte, wurde konserviert.
 
-Templer.
+Und genau deshalb brauchen wir für diese Episode das echte Heroasset.
 
-Ein Papst.
+Ohne rechtlich nutzbare, hochauflösende Bilder des Causa-Anglica-Dokuments funktionieren Hook, Mittelteil und Schluss nicht.
 
-Verhöre.
+Das Bild ist nicht B-Roll.
 
-Häresievorwürfe.
+Es ist die Hauptfigur.
 
-Ein zerschlagener Orden.
+## S7 — Galileo als Kontrollprobe
 
-Kaum ein historischer Stoff hat später mehr Legenden über geheimes Wissen, verlorene Schätze und verborgene Nachfolger hervorgebracht.
+Ein zweites Dokument zeigt, was Archive außerdem tun.
 
-Doch hier existiert eine reale Dokumentenschicht unter all diesen Geschichten.
+Der Prozess gegen Galileo ist heute ein Symbol für Wissenschaft und kirchliche Autorität.
 
-Das Archiv veröffentlichte die Prozessakten später in einer aufwendigen Faksimile-Edition unter dem Titel Processus contra Templarios.
+Im Archiv wird daraus wieder Material.
 
-Das ist für unsere Frage entscheidend.
+Verhör.
 
-Denn der Vatikan ist nicht nur ein Ort, an den Menschen ihre Geheimnisse projizieren.
+Notiz.
 
-Er bewahrt tatsächlich Unterlagen zu Ereignissen, die später selbst zu Mythologien wurden.
+Unterschrift.
 
-Und dadurch beginnen Dokument und Legende miteinander zu verschmelzen.
+Seite.
 
-Ein Pergament beweist nicht den Templerschatz.
+Wir bleiben hier kurz, weil Galileo in EP16 über sein Buch und den Indexeintrag wiederkehrt.
 
-Aber seine Existenz beweist, dass hinter dem Mythos ein reales Verfahren, reale Verhöre und reale Machtentscheidungen standen.
+Hier besitzt er nur eine Funktion:
 
-Die spannendere Frage lautet deshalb nicht immer:
+zu zeigen, dass ein Archiv nicht nur Triumphe konserviert.
 
-„Was versteckt der Vatikan?“
+Es kann auch Konflikte einer Institution erhalten.
 
-Manchmal lautet sie:
+Papier überlebt die Menschen, die darin urteilen.
 
-„Was geschieht mit einer Geschichte, wenn ihr Originaldokument jahrhundertelang nur Spezialisten bekannt ist?“
+## S8 — Sieben Millionen Bilder, aber nicht sieben Millionen Antworten
 
-## S8 — Sieben Millionen Bilder
+Heute digitalisiert das Archiv große Mengen seiner Bestände und Findmittel. Der digitale Bestand umfasst Millionen Bilder.
 
-Heute verändert sich das Archiv erneut.
+Das klingt nach dem Ende des Geheimnisses.
 
-Der Vatikan digitalisiert große Teile seiner historischen Bestände und Findmittel.
+Ist es aber nicht.
 
-Nach Angaben des Archivs umfasst der digitale Bestand inzwischen ungefähr sieben Millionen Bilder und rund 180 Terabyte Speicher.
+Ein Bild kann digital existieren, ohne frei im Netz zu stehen.
 
-Das klingt nach dem Gegenteil von Geheimhaltung.
+Eine Akte kann katalogisiert sein, ohne dass jemand ihre wichtigste Verbindung erkannt hat.
 
-Aber Digitalisierung schafft eine neue Grenze.
+Ein Dokument kann Forschern offenstehen und außerhalb eines kleinen Fachkreises praktisch unsichtbar bleiben.
 
-Ein Bild kann existieren, ohne öffentlich im Internet zu liegen.
+Das moderne Archivmysterium liegt deshalb nicht zwischen „offen“ und „geheim“.
 
-Ein Dokument kann wissenschaftlich zugänglich sein, ohne viral zu werden.
+Es liegt zwischen erhalten und verloren.
 
-Eine Akte kann vollständig katalogisiert sein und trotzdem außerhalb eines kleinen Forscherkreises praktisch unsichtbar bleiben.
+Zwischen katalogisiert und verstanden.
 
-Vielleicht entsteht der moderne Mythos des Vatikanarchivs genau in diesem Zwischenraum.
+Zwischen vorhanden und gesehen.
 
-Zwischen zugänglich und unbekannt.
+## S9 — Warum dieser Brief noch spricht
 
-Zwischen katalogisiert und ungelesen.
+1530 wollten mächtige Männer mit 81 Siegeln eine Entscheidung erzwingen.
 
-Zwischen dem, was Historiker finden können, und dem, was Millionen Menschen sich hinter den Mauern vorstellen.
+Sie bekamen sie nicht.
 
-Fünfundachtzig Kilometer Regale bedeuten nämlich nicht fünfundachtzig Kilometer Geheimnisse.
+Der politische Konflikt eskalierte weiter und veränderte Europa.
 
-Aber sie bedeuten fünfundachtzig Kilometer Möglichkeiten.
+Aber ihr Blatt blieb.
 
-## S9 — Das gefährlichste Dokument
+Napoleon konnte Archive verschieben.
 
-Und jetzt zurück zu unserem Blatt mit den einundachtzig Siegeln.
+Menschen konnten Akten aussortieren.
 
-1530 versuchen mächtige Männer, einen Papst mit einem Dokument zu einer Entscheidung zu bewegen.
+Zeit konnte Papier zerstören.
 
-Das Blatt scheitert an seinem unmittelbaren Ziel.
+Und trotzdem hängt der Druck dieser Männer noch immer an einem roten Seidenband.
 
-Doch die politische und religiöse Krise um Heinrich VIII. eskaliert weiter.
+Das ist die eigentliche Macht des Vatikanarchivs.
 
-Einige Jahre später bricht die englische Krone mit der päpstlichen Autorität.
+Nicht die Behauptung, dass hinter jeder Tür eine Weltverschwörung liegt.
 
-Fast fünf Jahrhunderte danach hängt der Druck dieser Männer noch immer an einem roten Seidenband.
+Sondern die viel seltsamere Tatsache, dass manche Augenblicke einen physischen Körper behalten.
 
-Das ist die eigentliche Macht eines Archivs.
+In der nächsten Folge sehen wir ein Dokument mit der entgegengesetzten Wirkung.
 
-Nicht dass dort jede Verschwörung bestätigt wird.
+Nicht ein Blatt, das einen Machtanspruch dokumentiert.
 
-Sondern dass Papier manchmal länger lebt als Königreiche.
+Sondern eines, das selbst half, einen Machtanspruch zu begründen.
 
-Und in der nächsten Folge gehen wir noch einen Schritt weiter.
-
-Denn es gibt ein Dokument aus der Geschichte Roms, das nicht nur Macht dokumentierte.
-
-Es half, Macht zu begründen.
-
-Ein Text behauptete, Kaiser Konstantin habe dem Papst gewaltige weltliche Privilegien und Herrschaft übertragen.
-
-Jahrhundertelang wurde er kopiert, zitiert und geglaubt.
-
-Dann begann ein Mann, sich die Wörter genauer anzusehen.
-
-Und entdeckte etwas im Text selbst.
+Bis Lorenzo Valla begann, seine Wörter zu untersuchen.
 
 ## Endcard
 
 **Nächste Folge:** *Das Dokument, das dem Papst den Westen gab*  
-**Offene Frage:** Wenn fünfundachtzig Kilometer historischer Akten existieren — glaubt ihr, dass die größten Überraschungen bereits gefunden wurden?
+**Offene Frage:** Was ist für Geschichte gefährlicher — ein Dokument, das verborgen bleibt, oder eines, das verloren geht?
