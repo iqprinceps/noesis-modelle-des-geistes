@@ -1,9 +1,10 @@
-# EP13 — Asset Acquisition Plan V2 — Verified Queue
+# EP13 — Asset Acquisition Plan V3 — Expanded Verified Queue
 
-Full research dossier: `ORIGINAL_ASSET_EVIDENCE_EN.md`  
+Full baseline research: `ORIGINAL_ASSET_EVIDENCE_EN.md`  
+Expanded archive pass: `EXTENDED_ASSET_RESEARCH_PASS_02.md`  
 Verified compact sources: `SOURCE_REGISTER.md`
 
-## Priority A — permission/licence acquisition
+## Priority A+ — permission/licence acquisition
 
 ### 1. Real precious crown + assassination bullet — MUST HAVE
 
@@ -27,17 +28,33 @@ Official linked image targets:
 Use: S5 document reveal.  
 Rights: Vatican DPC written authorisation required for reproduction beyond personal use.
 
-### 3. Actual 13 May 1981 attack archival — MUST HAVE
+### 3. RTP — John Paul II / Fatima 1982 long-form archive — NEW MUST-QUOTE
+
+Primary lead: https://arquivos.rtp.pt/conteudos/visita-do-papa-joao-paulo-ii-a-portugal/  
+Alternative: https://arquivos.rtp.pt/conteudos/visita-do-papa-joao-paulo-ii-a-portugal-19/  
+Alternative with Lucia: https://arquivos.rtp.pt/conteudos/visita-do-papa-joao-paulo-ii-a-portugal-18/
+
+Use: S4/S6/S7. Catalogue-confirmed material includes Fatima, John Paul II, Sister Lucia, Chapel of the Apparitions, 13 May 1982 Mass and archival footage from the 13 May 1981 assassination attempt.  
+Rights: license from RTP. Request HD/highest available master and worldwide commercial online/social/documentary rights.
+
+### 4. RTP — *No Coração de João Paulo II* — NEW HIGH VALUE
+
+URL: https://arquivos.rtp.pt/conteudos/no-coracao-de-joao-paulo-ii/
+
+Use: assassination archive + named witness/expert faces + 1982 Fatima + 1984 Vatican/Fatima statue + crown/bullet close-up. Catalogue names Arturo Mari, Tarcisio Bertone, Gabryjel Turowski, Sister Mónica Caetano, Luciano Guerra and goldsmith Luís Marques.  
+Rights: RTP licence.
+
+### 5. Actual 13 May 1981 attack still archival — MUST HAVE / compare with RTP
 
 Verified AP lead: https://newsroom.ap.org/editorial-photos-videos/detail?itemid=257b4550d2a140e1ae83a76eab1eda6f&mediatype=photo  
 Metadata/preview reference: https://commons.wikimedia.org/wiki/File:Pope_John_Paul_II_After_Assassination_Attempt.jpg
 
 Use: S1/S4.  
-Rights: license from AP/rights holder for EU/worldwide use. **Do not rely on the Commons US-only PD rationale; Commons explicitly warns the image remains copyrighted in Germany and other countries.**
+Rights: license from AP/rights holder for EU/worldwide use. **Do not rely on the Commons US-only PD rationale.**
 
-Also request archival attack video directly from Vatican communications/archive; the Vatican “Plaque JP II” page exposes a video link but the current direct MP4 endpoint returns 404.
+Compare AP still pricing with RTP moving-footage pricing before committing budget.
 
-### 4. John Paul II at Fatima, 13 May 1982 — MUST HAVE
+### 6. Shrine — John Paul II at Fatima, 13 May 1982
 
 Official gallery: https://www.fatima.pt/pt/multimedia/images/19820513  
 Visible IDs: D0009882, D0009887, D0000279, D0000292.
@@ -45,7 +62,7 @@ Visible IDs: D0009882, D0009887, D0000279, D0000292.
 Use: S7.  
 Rights: license through Shrine Audiovisual Centre.
 
-### 5. Sister Lucia / John Paul II — HIGH VALUE
+### 7. Shrine — Sister Lucia / John Paul II
 
 Official gallery: https://www.fatima.pt/en/multimedia/images/sister-lucy
 
@@ -54,6 +71,30 @@ Also D0000069 (Lucia + Bishop José) and D0019517 (Lucia + Paul VI).
 
 Use: S3/S6/S7.  
 Rights: license through Shrine Audiovisual Centre.
+
+### 8. Manuscript examination / paleography imagery — NEW
+
+Official source: https://www.fatima.pt/pt/news/manuscrito-terceira-parte-segredo-escrito-ha-70-anos-documento-original-encontra-se-em-exposicao-no-santuario-fatima
+
+Target: imagery of the original manuscript and **Maria José Azevedo Santos**, University of Coimbra specialist in Diplomatics/Paleography, examining the document; exhibition *Segredo e Revelação*.  
+Use: S5/S6 — genuine technical/document-analysis visual layer.  
+Rights: Shrine / relevant photographer permission.
+
+### 9. Documentação Crítica de Fátima — primary-document mining — NEW
+
+Landing page: https://www.fatima.pt/en/documentacao/f001-documentacao-critica-de-fatima-selecao-de-documentos-1917-1930
+
+Target documents: 1917 interrogations, diocesan records, correspondence, skeptical/secular press, early photographs.  
+Use: S2/S3 evidence inserts.  
+Rights: determine per reproduced document/image; coordinate with Shrine archive.
+
+### 10. Authoritative 1917 *O Século* / Avelino de Almeida scan — NEW
+
+Source route: Lisbon Hemeroteca + Documentação Crítica de Fátima.  
+Hemeroteca index: https://hemerotecadigital.cm-lisboa.pt/obras/ilustracaoport/IP15.htm
+
+Use: S2 secular contemporary press counterpoint.  
+Rule: do not master from blog/repost scans; obtain authoritative archive scan.
 
 ---
 
@@ -80,33 +121,67 @@ Rights: license through Shrine Audiovisual Centre.
 7. **1917 contemporary Fatima press page** — PD  
    https://commons.wikimedia.org/wiki/File:Newspaper_fatima_353.jpg
 
-8. **Assassination popemobile, museum photo** — CC0  
-   https://commons.wikimedia.org/wiki/File:Popemobile_assassination_attempt_John_Paul_II_13_may_1981_Vatican_13.jpg
+8. **13 Oct 1917 crowd looking upward — Judah Bento Ruah** — PD — NEW  
+   https://commons.wikimedia.org/wiki/File:People_looking_miracle_sun.jpg
 
-9. **John XXIII, 1959** — PD candidate  
-   https://commons.wikimedia.org/wiki/File:Pope_John_XXIII_-_1959.jpg
+9. **13 Oct 1917 crowd waiting in rain — Judah Bento Ruah** — PD candidate — NEW  
+   https://commons.wikimedia.org/wiki/File:Miracle_du_soleil_attente_pluie.jpg
 
-10. **Paul VI, 1965, Library of Congress** — no known restrictions / PD-Gotfryd  
+10. **13 Oct 1917 alternate crowd** — historical PD candidate — NEW  
+    https://commons.wikimedia.org/wiki/File:Miracle_of_the_Sun.jpg
+
+11. **First field Mass at Chapel of Apparitions, 13 Oct 1921** — PD — NEW  
+    https://commons.wikimedia.org/wiki/File:Primeira_Missa_na_Capelinha.jpg
+
+12. **Assassination popemobile, museum photo** — CC0  
+    https://commons.wikimedia.org/wiki/File:Popemobile_assassination_attempt_John_Paul_II_13_may_1981_Vatican_13.jpg
+
+13. **John XXIII, 1959** — PD candidate  
+    https://commons.wikimedia.org/wiki/File:Pope_John_XXIII_-_1959.jpg
+
+14. **Paul VI, 1965, Library of Congress** — no known restrictions / PD-Gotfryd  
     https://commons.wikimedia.org/wiki/File:Pope_(Paul_VI),_visiting_U.N._(United_Nations,_New_York)_LCCN2020732639.jpg
 
-11. **Angelo Sodano** — PD self-release  
+15. **Angelo Sodano** — PD self-release  
     https://commons.wikimedia.org/wiki/File:Sodano.jpg
 
-12. **Joseph Ratzinger** — PD self-release  
+16. **Joseph Ratzinger** — PD self-release  
     https://commons.wikimedia.org/wiki/File:Joseph_Ratzinger_cardinal4.jpg
 
-13. **Tarcisio Bertone** — CC BY-SA 4.0  
+17. **Tarcisio Bertone** — CC BY-SA 4.0  
     https://commons.wikimedia.org/wiki/File:Tarcisio_Bertone.jpg
 
-14. **Modern St Peter’s Square establishing** — CC0  
+18. **Modern St Peter’s Square establishing** — CC0  
     https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_2025-03-10.jpg
 
-15. **Natural Earth map data** — public domain  
+19. **Natural Earth map data** — public domain  
     https://www.naturalearthdata.com/about/terms-of-use/
 
 ---
 
-## Priority C — symbolic / esoteric visual texture
+## Priority C — archive-mining leads
+
+### RTP historical Fatima documentary
+
+https://arquivos.rtp.pt/conteudos/onde-eram-matos-e-pedras/
+
+Contains catalogue-confirmed early imagery: first popular monument, Jacinta in crowds, Chapel 1919, first Mass 1921, chapel bombing aftermath 1922, 1927 procession, site plan, Basilica foundation 1928, 1931 pilgrims, 1946 coronation, 1982 visit and 1984 St Peter’s Square Fatima statue. License only selected frames/clips that materially support EP13.
+
+### Hemeroteca Digital 1917
+
+https://hemerotecadigital.cm-lisboa.pt/obras/ilustracaoport/IP15.htm
+
+Use issue no. 610, 29 Oct 1917 as provenance/master-reference for known Judah Ruah / Benoliel imagery and contemporary reporting.
+
+### Sister Lucia memoirs
+
+https://www.fatima.pt/pl/download?file=http%3A%2F%2Fwww.fatima.pt%2Ffiles%2Fupload%2Ffontes%2FF002_Memorias1.pdf
+
+Use for source-lock and possible manuscript/page imagery with Shrine permission. Label as later memoir, not contemporaneous 1917 transcript.
+
+---
+
+## Priority D — symbolic / esoteric visual texture
 
 Use only as clearly symbolic art-history imagery, never as documentary evidence of Fatima.
 
@@ -121,9 +196,26 @@ Use only as clearly symbolic art-history imagery, never as documentary evidence 
 
 ---
 
+## New expert / researcher face queue
+
+Acquire authentic portraits/interview frames where useful:
+
+- **Maria José Azevedo Santos** — paleography/diplomatics, University of Coimbra, original manuscript analysis.
+- **Joaquín María Alonso** — Mariologist / critical Fatima documentation.
+- **Luciano Coelho Cristino** — critical Fatima source editor.
+- **Arturo Mari** — papal photographer / attack witness.
+- **Gabryjel Turowski** — physician / attack witness context.
+- **Sister Mónica Caetano** — Fatima witness/commentary context.
+- **Luís Marques** — goldsmith / crown context.
+- **Monsignor Luciano Guerra** — Shrine rector/context.
+
+Already queued: Bertone, Ratzinger, Sodano.
+
+---
+
 ## Generated / reconstructed images
 
-- 1917 Cova-da-Iria pastoral atmosphere only after authentic portraits establish identity.
+- 1917 Cova-da-Iria pastoral atmosphere only after authentic portraits/crowd images establish identity.
 - Subjective vision: angel, flaming sword, ruined city, mountain, cross, bishop in white — clearly cinematic, never faux archival.
 - 1944 writing moment only as labelled reconstruction.
 - Envelope transport as detail reconstruction without fake Vatican interiors.
@@ -136,7 +228,9 @@ Use only as clearly symbolic art-history imagery, never as documentary evidence 
 - No AI image that resembles authentic 1981 news footage.
 - No generic “secret Vatican library” claimed as the Holy Office archive.
 - No assumption that “Wikimedia Commons = safe everywhere”. Rights must be checked per asset and jurisdiction.
+- No “Miracle of the Sun” crowd photograph described as photographic proof of the sun moving; it documents the crowd/event.
+- No paleographic analysis presented as proof of supernatural content; it concerns the physical document/authorship.
 
 ## Rights workflow before Production Lock
 
-Every original asset must have: canonical asset URL, creator/institution, date, licence/rights basis, licence-page snapshot, original filename, checksum, permitted editing, exact credit line and concrete shot IDs. Licensed Shrine/Vatican/AP assets must also have the written permission/licence stored with the production manifest.
+Every original asset must have: canonical asset URL, creator/institution, date, licence/rights basis, licence-page snapshot, original filename, checksum, permitted editing, exact credit line and concrete shot IDs. Licensed Shrine/Vatican/AP/RTP assets must also have the written permission/licence stored with the production manifest.
