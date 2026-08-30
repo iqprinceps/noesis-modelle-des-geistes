@@ -1,6 +1,6 @@
-# EP15 V1 — Vatikan III: Das Dokument, das dem Papst den Westen gab
+# EP15 V2 — Vatikan III: Das Dokument, das dem Papst den Westen gab
 
-**Status:** Preproduction / Source-aware Story Pass  
+**Status:** Preproduction / Source-aware Story Pass — Checkpoint-1 remediation  
 **Archetyp:** Type B/C — Dokumenten-, Macht- und Forensik-Mystery  
 **Voice:** geheimnisvoll, konkret, intellektuell; erst die Behauptung wirken lassen, dann den Text untersuchen  
 **Serienposition:** Vatikan-Serie 3/5
@@ -21,357 +21,237 @@ Der Kaiser heißt Konstantin.
 
 Der Papst heißt Silvester.
 
-Und der Text erzählt eine Geschichte, die beinahe zu mächtig wirkt, um nur auf Pergament zu stehen.
+Der Text erzählt, Konstantin sei geheilt und getauft worden und habe aus Dankbarkeit die römische Kirche erhöht, dem Papst imperiale Ehren verliehen und seine eigene Macht nach Osten verlegt.
 
-Konstantin erkrankt.
+Die Urkunde wird als Konstantinische Schenkung bekannt.
 
-Silvester heilt und tauft ihn.
+Im Mittelalter wird sie kopiert, in Rechtstraditionen aufgenommen und in Auseinandersetzungen um päpstliche Autorität verwendet.
 
-Aus Dankbarkeit erhebt der Kaiser die römische Kirche über andere Kirchen und stattet den Papst mit imperialen Ehren aus.
-
-Dann verlegt Konstantin seine eigene Macht in den Osten — weil es sich, so behauptet der Text, nicht gezieme, dass ein weltlicher Kaiser dort herrsche, wo der von Gott eingesetzte Hauptsitz der christlichen Religion stehe.
-
-Das Dokument wird als Konstantinische Schenkung bekannt.
-
-Im Mittelalter wird es in kirchliche Rechtssammlungen aufgenommen, kopiert und in Auseinandersetzungen um päpstliche Autorität verwendet.
-
-Es sieht aus wie eine Stimme aus der Zeit Konstantins.
+Sie spricht mit der Stimme eines Kaisers aus dem vierten Jahrhundert.
 
 Nur stammt diese Stimme nicht aus dem vierten Jahrhundert.
 
-Fast tausend Jahre nach Konstantin beginnt ein Mann, den Text Satz für Satz zu lesen.
+Rund elf Jahrhunderte nach Konstantin nimmt Lorenzo Valla den Text auseinander.
 
-Und er findet darin Spuren eines Autors, der seine eigene Zeit nicht verbergen konnte.
+Nicht mit Chemie.
 
-## S2 — Die perfekte Ursprungsgeschichte
+Nicht mit Radiokarbon.
 
-Konstantin ist für das mittelalterliche Christentum keine beliebige Figur.
+Mit Wörtern.
 
-Unter ihm endet die staatliche Verfolgung der Christen im Römischen Reich.
+Und eines dieser Wörter wird zum Fingerabdruck.
 
-Er fördert die Kirche.
+## S2 — Warum Konstantin die perfekte Stimme war
 
-Er beruft 325 das Konzil von Nicäa ein.
+Unter Konstantins Herrschaft vollzieht sich der Übergang von Verfolgung zu Tolerierung und kaiserlicher Förderung des Christentums.
 
-Sein Name steht am Übergang von einer verfolgten Religion zu einer Religion mit imperialer Nähe.
+325 beruft er das Konzil von Nicäa ein.
 
-Genau deshalb ist die Geschichte der Schenkung so wirkungsvoll.
+Sein Name steht damit an einem historischen Wendepunkt.
 
-Sie verbindet zwei Arten von Autorität.
-
-Die des Kaisers.
-
-Und die des Papstes.
+Genau deshalb ist er die perfekte Figur für eine Ursprungsgeschichte päpstlicher Macht.
 
 Im Text tritt Konstantin selbst als Schenkender auf.
 
-Er erklärt die Vorrangstellung Roms.
+Er gewährt Silvester und dessen Nachfolgern Ehren und Privilegien, überträgt den Lateran und beschreibt Rom, Italien und westliche Regionen als Teil einer gewaltigen Gabe.
 
-Er gewährt Silvester und seinen Nachfolgern Ehren und Privilegien.
+Später erscheinen Passagen der Schenkung in der Rechtstradition um Gratians *Decretum*, in Ergänzungen, die als *Paleae* bekannt sind.
 
-Er überträgt den Lateranpalast.
+Wichtig ist die Grenze: Nicht die gesamte päpstliche Macht beruhte auf diesem Text, und nicht jeder mittelalterliche Leser akzeptierte ihn widerspruchslos.
 
-Und schließlich erscheinen Rom, Italien und westliche Regionen als Teil einer gewaltigen imperialen Gabe.
+Aber die Schenkung lieferte etwas politisch Verführerisches.
 
-Für spätere Leser ist das mehr als eine fromme Legende.
+Eine alte, kaiserliche Ursprungsszene.
 
-Es ist ein Dokument, das so klingt, als könne man Macht daraus ableiten.
+Papier konnte plötzlich wie Territorium sprechen.
 
-Und irgendwann gelangt der Text in die Rechtstradition um eine der einflussreichsten kirchenrechtlichen Sammlungen des Mittelalters: Gratians Decretum.
+## S3 — Die Behauptung bekommt Bilder
 
-In späteren Textschichten erscheinen Passagen der Schenkung unter den Ergänzungen, die als Paleae bekannt sind.
+Spätere Kunst macht diese Szene monumental.
 
-Die Behauptung zirkuliert nun nicht mehr nur als Geschichte.
+Konstantin.
 
-Sie bewegt sich innerhalb einer autoritativen Rechtstradition.
+Silvester.
 
-Die Behauptung bekommt ein zweites Leben.
+Architektur.
 
-Nicht weil Konstantin noch lebt.
+Zeremonie.
 
-Sondern weil das Dokument lebt.
+Übergabe.
 
-## S3 — Wenn Papier zu Territorium wird
+Das Bild ist Jahrhunderte jünger als die angebliche Urkunde, aber genau darin liegt seine Kraft: Eine Textbehauptung hat eine sichtbare Erinnerung erzeugt.
 
-Im Mittelalter streiten Kaiser und Päpste immer wieder darüber, wo geistliche Autorität endet und weltliche Herrschaft beginnt.
+Im Mittelalter und in der frühen Neuzeit wird die Schenkung in politischen und kirchenrechtlichen Debatten benutzt, bestritten und verteidigt.
 
-In diesem Klima kann ein alter Text politisches Gewicht bekommen.
+Sie ist nicht der einzige Pfeiler päpstlicher Ansprüche.
 
-Päpste und ihre Unterstützer berufen sich in unterschiedlichen Zusammenhängen auf die Konstantinische Schenkung.
+Aber sie besitzt den Vorteil eines scheinbaren Beweises.
 
-Nicht jeder Anspruch des Papsttums hängt an ihr.
+Dann kommt Valla.
 
-Und nicht jeder mittelalterliche Leser akzeptiert sie widerspruchslos.
+Und er schaut nicht auf die Zeremonie.
 
-Aber die Schenkung bietet etwas außerordentlich Verführerisches:
+Er schaut auf die Sprache.
 
-Eine Ursprungsszene.
+## S4 — Lorenzo Valla liest wie ein Forensiker
 
-Ein Kaiser kniet nicht nur vor dem Glauben.
+Um 1440 schreibt Lorenzo Valla seine berühmte Untersuchung der angeblichen Schenkung.
 
-Er übergibt etwas.
+Er fragt nicht nur: Ist diese Geschichte plausibel?
 
-Spätere Kunst macht diese Szene sichtbar.
-
-Im Vatikan zeigt ein monumentales Fresko Konstantin und Silvester in einer Welt aus Architektur, Zeremonie und päpstlicher Macht.
-
-Das Bild ist Jahrhunderte jünger als die angebliche Schenkung.
-
-Doch es zeigt, wie stark die Geschichte geworden war.
-
-Eine Behauptung auf Pergament hatte eine Ikonografie erzeugt.
-
-Jetzt brauchte es jemanden, der nicht auf das Bild sah.
-
-Sondern auf die Wörter.
-
-## S4 — Lorenzo Valla liest anders
-
-Um 1440 arbeitet der italienische Humanist Lorenzo Valla an einem Text mit einem explosiven Titel.
-
-Er will zeigen, dass die angebliche Schenkung Konstantins falsch ist.
-
-Valla besitzt keine Radiokarbondatierung.
-
-Keine digitale Spektralanalyse.
-
-Keine Datenbank mit Millionen lateinischen Texten.
-
-Sein Instrument ist Sprache.
-
-Er fragt:
-
-Klingt dieses Latein wirklich wie Latein aus der Zeit Konstantins?
+Er fragt: Könnte ein Mensch aus Konstantins Zeit diese Sätze überhaupt so geschrieben haben?
 
 Passen die Titel?
 
-Passen die Ämter?
+Die Ämter?
 
-Passen die politischen Begriffe?
+Die politischen Begriffe?
 
-Passen die Dinge, die der angebliche Kaiser für selbstverständlich hält, überhaupt in das vierte Jahrhundert?
+Die Bedeutungen der Wörter?
 
-Das ist der Moment, in dem diese Geschichte fast wie moderne Forensik wirkt.
+Ein Fälscher kann einen alten Namen verwenden.
 
-Denn ein Fälscher kann eine alte Handschrift imitieren.
+Er kann eine kaiserliche Stimme imitieren.
 
-Er kann einen mächtigen Namen daruntersetzen.
+Aber er muss dafür seine eigene Zeit vergessen.
 
-Er kann eine überzeugende Legende erzählen.
+Und genau dort findet Valla die Nahtstellen.
 
-Aber er muss seine eigene Zeit vergessen können.
+## S5 — Der sprachliche Fingerabdruck
 
-Und genau das gelingt hier nicht.
+Jetzt zeigen wir die Originalseite vollständig.
 
-## S5 — Wörter als Fingerabdrücke
+Kein moderner Textblock.
 
-Valla greift den Text von vielen Seiten an.
+Kein sofortiger roter Kreis.
 
-Historisch.
+Erst das Dokument.
 
-Juristisch.
+Dann fahren wir langsam in die fragliche Passage.
 
-Theologisch.
+Valla greift unter anderem die Verwendung von **satrapa** an — „Satrap“.
 
-Vor allem aber sprachlich.
+Im Text der Schenkung erscheinen römische Würdenträger in einer Wortwelt, die Valla für die behauptete Zeit und den behaupteten Sprecher als unpassend behandelt. Er macht sich geradezu darüber lustig, dass ein römischer Kaiser seine Amtsträger so bezeichnen solle.
 
-Er stößt auf Wörter, Bedeutungen und institutionelle Vorstellungen, die für ihn nicht in die Welt Konstantins passen.
+Das einzelne Wort ist nicht Vallas gesamter Beweis.
 
-Der Text spricht aus einer späteren lateinischen Welt.
+Es ist unser sichtbarer Einstieg in seine Methode.
 
-Er verwendet Vorstellungen von päpstlicher und weltlicher Ordnung, die sich erst nach Konstantins Zeit entwickelt haben.
+Von dort aus häufen sich die Probleme.
 
-Auch die Erzählung selbst kollidiert mit älteren Berichten über Konstantins Leben.
+Titel und institutionelle Vorstellungen passen nicht sauber in Konstantins Welt.
 
-Die Schenkung behauptet beispielsweise, Silvester habe Konstantin in Rom getauft.
+Die Sprache wirkt für Valla wie Latein einer späteren Epoche.
 
-Frühere Quellen verorten Konstantins Taufe jedoch erst kurz vor seinem Tod und verbinden sie mit Bischof Eusebius von Nikomedia.
+Auch die Erzählung kollidiert mit älteren Berichten: Die Schenkung lässt Silvester Konstantin in Rom taufen; ältere Überlieferungen verbinden Konstantins Taufe dagegen mit seinem Lebensende und Eusebius von Nikomedia.
 
-Für Valla wird das Dokument dadurch zu etwas Seltsamem:
+Der entscheidende Moment ist deshalb nicht: „Valla wusste, dass es falsch war.“
 
-Es erzählt vom vierten Jahrhundert.
+Sondern:
 
-Aber seine Sprache trägt Spuren einer späteren Welt.
+Ein Text behauptet, aus dem vierten Jahrhundert zu stammen.
 
-Wie ein Mensch in einem historischen Film, der plötzlich einen Ausdruck benutzt, den es erst Jahrhunderte später geben wird.
+Und seine eigenen Wörter verraten eine spätere Welt.
 
-Ein einziges solches Detail kann Zufall sein.
-
-Viele davon werden zu einem Muster.
-
-## S6 — Die Fälschung war nicht wertlos
-
-Hier könnte die Geschichte enden.
+## S6 — Eine Fälschung mit realer Wirkung
 
 Dokument falsch.
 
-Fall geschlossen.
+Fall geschlossen?
 
-Aber genau dann würde man das Interessanteste verpassen.
+Nein.
 
 Denn eine Fälschung kann historisch falsch und politisch trotzdem real sein.
 
-Die Konstantinische Schenkung wurde vermutlich im achten Jahrhundert geschaffen, Jahrhunderte nach Konstantin.
+Die Konstantinische Schenkung entstand wahrscheinlich Jahrhunderte nach Konstantin; ihr genauer Entstehungskontext wird weiter diskutiert.
 
-Ihr genauer Entstehungskontext und ihre ursprüngliche Funktion werden in der Forschung weiter diskutiert.
+Aber der Text wurde kopiert.
 
-Doch der Text existierte.
+Gelesen.
 
-Er wurde abgeschrieben.
+In Rechtstraditionen aufgenommen.
 
-Er gelangte in Rechtssammlungen.
+In Argumenten benutzt.
 
-Er wurde gelesen.
+Er beeinflusste Vorstellungen darüber, wie alt bestimmte päpstliche Rechte seien.
 
-Er wurde benutzt.
-
-Er beeinflusste Vorstellungen davon, wie alt bestimmte päpstliche Rechte seien.
-
-Das ist eine besondere Form von Macht.
-
-Nicht die Macht, ein Ereignis korrekt zu beschreiben.
-
-Sondern die Macht, Menschen davon zu überzeugen, dass ein Ereignis stattgefunden habe.
-
-Ein erfundener Ursprung kann reale Entscheidungen beeinflussen.
-
-Und damit wird die Schenkung für NOESIS zu mehr als einer historischen Fälschung.
-
-Sie ist ein Experiment über Glaubwürdigkeit.
+Das ist die eigentliche NOESIS-Frage:
 
 Was muss ein Dokument besitzen, damit Menschen ihm Macht geben?
 
-Ein Siegel?
+Ein berühmter Name?
 
-Einen alten Namen?
+Eine alte Form?
 
-Eine Institution, die es kopiert?
+Eine Institution, die es weiterkopiert?
 
-Oder nur eine Geschichte, die perfekt in das passt, was man ohnehin glauben möchte?
+Oder eine Geschichte, die perfekt in eine bestehende Ordnung passt?
 
-## S7 — Vallas eigenes Problem
+## S7 — Auch der Entlarver hat eine Gegenwart
 
-Vallas Untersuchung ist brillant.
+Valla arbeitet zeitweise im Umfeld Alfons' V. von Aragón, der mit Papst Eugen IV. im Konflikt steht.
 
-Aber auch sie entsteht nicht in einem politischen Vakuum.
+Seine Untersuchung ist deshalb nicht außerhalb der Politik entstanden.
 
-Er steht zeitweise im Dienst Alfons' V. von Aragón, der mit Papst Eugen IV. in Konflikt steht.
+Er schreibt polemisch, spöttisch und frontal.
 
-Die Kritik an einem Dokument päpstlicher Macht ist deshalb nicht nur ein akademisches Spiel.
+Das entwertet seine Textkritik nicht.
 
-Sie hat eine Gegenwart.
-
-Und Valla geht weiter, als ein vorsichtiger Archivar gehen würde.
-
-Er schreibt polemisch.
-
-Er verspottet Argumente.
-
-Er greift die Vorstellung der Schenkung frontal an.
-
-Das macht seine Methode nicht wertlos.
-
-Im Gegenteil.
-
-Es zeigt etwas, das bei historischen Dokumenten fast immer vergessen wird:
-
-Nicht nur der ursprüngliche Text hat einen Kontext.
-
-Auch derjenige, der ihn entlarvt, hat einen.
-
-Zwei Zeitalter treffen aufeinander.
+Es erinnert uns nur daran, dass auch derjenige, der ein Dokument entlarvt, einen historischen Standort besitzt.
 
 Der unbekannte Autor der Schenkung schreibt Vergangenheit für seine Gegenwart.
 
-Valla liest diese erfundene Vergangenheit aus seiner eigenen Gegenwart heraus wieder auseinander.
+Valla zerlegt diese Vergangenheit aus einer anderen Gegenwart heraus.
 
-Und Jahrhunderte später lesen wir beide.
+Und wir lesen heute beide Ebenen gleichzeitig.
 
 ## S8 — Der Text überlebt seine Entlarvung
 
-Vallas Abhandlung zirkuliert zunächst nur in Handschriften.
+Vallas Abhandlung zirkuliert zunächst handschriftlich und wird erst im frühen 16. Jahrhundert gedruckt.
 
-Gedruckt wird sie erst im frühen 16. Jahrhundert.
+Damit trifft die Entlarvung auf eine neue Technologie: die Druckerpresse.
 
-Da ist Valla längst tot.
+Die Schenkung verschwindet nicht.
 
-Nun verbreitet sich die Kritik in einer völlig anderen Medienwelt.
+Sie verändert ihren Status.
 
-Druckpressen vervielfältigen Texte schneller, als mittelalterliche Schreiber es je konnten.
+Aus einem Autoritätsbeleg wird eines der berühmtesten Beispiele dafür, dass Autorität auf einem falschen Text aufbauen kann.
 
-Die Konstantinische Schenkung verschwindet dadurch nicht.
+Und heute bewahrt ausgerechnet die Vatikanische Bibliothek Handschriften von Vallas Kritik.
 
-Sie wird zu etwas Neuem:
+Vat. lat. 5314 ist digital einsehbar.
 
-Zu einem berühmten Beispiel dafür, dass Autorität selbst auf einem falschen Text ruhen kann.
+Ein Text gegen einen päpstlichen Machtbeleg liegt in einer päpstlichen Bibliothek — offen vor uns.
 
-Und ausgerechnet die Vatikanische Bibliothek bewahrt heute Handschriften, die uns Vallas Kritik überliefern.
+Aber Offenheit allein reicht nicht.
 
-Eines dieser Manuskripte trägt die Signatur Vat. lat. 5314.
+Man muss wissen, welches Wort man ansehen muss.
 
-Die Digitalbibliothek des Vatikan stellt seine Seiten online bereit.
+## S9 — Das Beweismittel ist ein Wort
 
-Das Bild ist beinahe zu passend.
+Am Anfang stand ein Kaiser, der angeblich den Westen verschenkt.
 
-Ein Text, der päpstliche Macht kritisierte, liegt heute digital in einer päpstlichen Bibliothek.
+Am Ende steht ein Humanist über einer Seite.
 
-Nicht versteckt.
+Zwischen beiden liegen Jahrhunderte realer Wirkung.
 
-Nicht vernichtet.
+Die Schenkung zeigt deshalb zwei Arten von Macht.
 
-Aber seine Geschichte erinnert daran, dass Zugänglichkeit und Wirkung zwei verschiedene Dinge sind.
+Die Macht eines Dokuments, geglaubt zu werden.
 
-Ein Dokument kann offen vor uns liegen.
-
-Und trotzdem müssen wir lernen, es zu lesen.
-
-## S9 — Die gefährlichste Frage
-
-Am Anfang dieser Folge stand eine Behauptung:
-
-Konstantin habe dem Papst den Westen gegeben.
-
-Jetzt wissen wir, warum diese Behauptung so mächtig werden konnte.
-
-Sie kam nicht als Gerücht.
-
-Sie kam als Dokument.
-
-Mit einem Kaiser als Stimme.
-
-Mit einer Ursprungsgeschichte.
-
-Mit Privilegien.
-
-Mit Territorien.
-
-Mit der Sprache von Recht und Religion.
-
-Und sie überlebte Jahrhunderte.
-
-Bis jemand begann, die Wörter selbst als Beweismittel zu behandeln.
-
-Vielleicht ist das die eigentliche Lehre der Konstantinischen Schenkung:
+Und die Macht einer Methode, es wieder lesbar zu machen.
 
 Ein Dokument muss nicht wahr sein, um Geschichte zu machen.
 
-Es muss nur lange genug als wahr behandelt werden.
+Aber manchmal genügt ein Wort, um zu zeigen, dass seine Geschichte nicht dort begann, wo es behauptet.
 
-Und genau hier beginnt die nächste Folge.
+Und genau dort setzt die nächste Folge an.
 
-Denn nach Handschriften kommt eine Technologie, die Texte in einer Geschwindigkeit vervielfältigt, die Europa verändert.
+Denn der Buchdruck vervielfacht Wörter schneller als je zuvor.
 
-Der Buchdruck.
-
-Plötzlich können Ideen Grenzen überqueren, bevor Autoritäten reagieren.
-
-Rom antwortet darauf mit Listen.
-
-Auf diesen Listen stehen Bücher, die Gläubige nicht lesen sollen.
-
-Einige Namen darauf kennt heute fast jeder.
+Rom antwortet mit einer Liste von Texten, die nicht gelesen werden sollen.
 
 ## Endcard
 
 **Nächste Folge:** *Die verbotenen Bücher — Roms Index des gefährlichen Wissens*  
-**Offene Frage:** Was ist mächtiger: ein wahres Dokument, das niemand kennt — oder ein falsches, an das Jahrhunderte lang geglaubt wird?
+**Offene Frage:** Was ist mächtiger: ein falsches Dokument, das Jahrhunderte geglaubt wird — oder ein einziges Wort, das seine Herkunft verrät?
