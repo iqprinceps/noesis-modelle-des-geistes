@@ -133,11 +133,19 @@ Wir wissen wenig, weil Dinge nicht überleben.
 
 ## S6 — Zurück zu den 81 Siegeln
 
-Jetzt zeigen wir den Brief wieder.
+Jetzt kehren wir zur Form des Briefes zurück.
 
 Nach Paris, Verlust und Rückführung wirkt er anders.
 
-Jede Metallkapsel ist plötzlich nicht nur Schmuck.
+Fast einen Meter breit.
+
+Dreizehn Spalten mit Unterschriften.
+
+Einundachtzig Positionen für die herabhängenden Siegelkapseln.
+
+In einer maßstäblichen Rekonstruktion wird sichtbar, wie viel politischer Druck an einem einzigen Blatt hing.
+
+Jede Metallkapsel ist jetzt nicht nur Schmuck.
 
 Sie ist ein überlebter Zustand.
 
@@ -145,13 +153,9 @@ Das Dokument bewahrt den Druck englischer Eliten auf Clemens VII. in physischer 
 
 Ein politischer Moment, der scheiterte, wurde konserviert.
 
-Und genau deshalb brauchen wir für diese Episode das echte Heroasset.
+Das Blatt ist nicht bloß Hintergrund dieser Geschichte.
 
-Ohne rechtlich nutzbare, hochauflösende Bilder des Causa-Anglica-Dokuments funktionieren Hook, Mittelteil und Schluss nicht.
-
-Das Bild ist nicht B-Roll.
-
-Es ist die Hauptfigur.
+Es ist ihre Hauptfigur.
 
 ## S7 — Galileo als Kontrollprobe
 

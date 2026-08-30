@@ -13,22 +13,22 @@ The episode needs a real page that allows the viewer to watch textual criticism 
 
 Lorenzo Valla, *The Treatise of Lorenzo Valla on the Donation of Constantine*, translated by Christopher B. Coleman, New Haven: Yale University Press, 1922.
 
-Internet Archive item:
-https://archive.org/details/treatiseoflorenz00vall
+Verified facsimile route (Internet Archive / University of Michigan scan via Wikimedia Commons):
+https://commons.wikimedia.org/wiki/File:The_treatise_of_Lorenzo_Valla_on_the_Donation_of_Constantine_(IA_aga5892.0001.001.umich.edu).pdf
 
-Google Books / public-domain scan record surfaced through web search:
-https://books.google.com/books/about/The_Treatise_of_Lorenzo_Valla_on_the_Do.html?id=Y8QXAAAAIAAJ
+Searchable page locator:
+https://www.gutenberg.org/files/70092/70092-h/70092-h.htm
 
 The 1922 edition is old enough to be public domain in the United States; the Internet Archive item is supplied as a historical scan. For EU/Germany production, acquisition must record the underlying edition date/authorship and verify that no new protected editorial layer is being copied beyond the 1922 work.
 
 ### Exact forensic passage
 
-The searchable 1922 text contains the passage where Valla attacks the vocabulary of the Donation and specifically discusses **satraps**. In the Internet Archive full-text representation the relevant discussion occurs around printed pp. **147–148**; verify the scan-image page number against the physical page before cue-sheet lock.
+The searchable 1922 text contains the passage where Valla attacks the vocabulary of the Donation and specifically discusses **satraps** on printed **p. 87**. This locator agrees with the episode's source register, claims boundary, original-asset evidence and script QA. Match printed p. 87 to the scan image before cue-sheet lock; do not substitute PDF-viewer numbering for the printed page.
 
 The visual should show the original printed page first, then locate the word/passage. Do not create a fake medieval manuscript word crop.
 
 **Use:** central S5 forensic reveal.
-**Rights status:** `GREEN/AMBER_EU_CHECK` — public-domain historical edition; final acquisition record must preserve scan provenance and confirm the page image belongs to the 1922 edition.
+**Rights status:** `GREEN_WITH_TERRITORY_RECORD` — Commons marks the historical scan as public domain in the United States. Final acquisition must preserve the Commons/Internet Archive/University of Michigan provenance and document the exploitation-territory check rather than relying on publication year alone.
 
 ## HA15-02 — Donation text / contextual primary-source page
 

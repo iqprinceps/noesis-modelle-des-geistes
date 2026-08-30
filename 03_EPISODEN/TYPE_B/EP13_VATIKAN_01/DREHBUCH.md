@@ -109,8 +109,6 @@ Dem Heiligtum wird eines der Projektile aus dem Attentat übergeben. 1989 wird e
 
 Dort befindet es sich bis heute.
 
-Mehr müssen wir über seine unmittelbare Fund- oder Entnahmegeschichte nicht behaupten, solange die historischen Darstellungen dazu nicht vollständig harmonisiert sind.
-
 Das sichere Bild ist bereits stark genug:
 
 Ein Gegenstand der Gewalt wird Teil eines religiösen Symbols.

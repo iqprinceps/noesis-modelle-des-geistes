@@ -119,15 +119,11 @@ Und genau dort findet Valla die Nahtstellen.
 
 ## S5 — Der sprachliche Fingerabdruck
 
-Jetzt zeigen wir die Originalseite vollständig.
+Vor uns liegt die gedruckte Seite der Ausgabe von 1922.
 
-Kein moderner Textblock.
+Zunächst wirkt sie wie eine geschlossene Wand aus Text.
 
-Kein sofortiger roter Kreis.
-
-Erst das Dokument.
-
-Dann fahren wir langsam in die fragliche Passage.
+Dann fällt ein einzelnes Wort auf.
 
 Valla greift unter anderem die Verwendung von **satrapa** an — „Satrap“.
 

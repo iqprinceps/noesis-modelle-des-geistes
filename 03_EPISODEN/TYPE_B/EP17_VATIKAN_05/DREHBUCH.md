@@ -11,15 +11,19 @@ England, Ende des 17. Jahrhunderts.
 
 Ein Fall von angeblicher Besessenheit wird öffentlich diskutiert.
 
-1696 erscheint ein Text, der den sogenannten **Surey Demoniack** als Betrug angreift.
+1697 erscheint Zachary Taylors **Surey Impostor**. Schon der Titel erklärt den Fall zum Betrug.
 
-1698 folgt eine Verteidigung des Falls.
+1698 antwortet Thomas Jollie mit einer Verteidigung: **A Vindication of the Surey Demoniack as No Impostor**.
 
 Zwei gedruckte Stimmen.
 
 Dasselbe Geschehen.
 
 Zwei Wirklichkeiten.
+
+Dieser Streit spielt nicht im Vatikan. Er entsteht im protestantischen England, zwischen Dissenters und anglikanischen Kritikern, durchzogen von anti-katholischer Polemik.
+
+Gerade deshalb ist er eine aufschlussreiche Gegenprobe — kein vatikanischer Fall, sondern ein historischer Streit darüber, wer Krankheit, Täuschung und spirituelle Erfahrung voneinander trennen darf.
 
 Für die eine Seite: Täuschung.
 
@@ -51,11 +55,13 @@ Formeln.
 
 Verhaltensregeln.
 
-Aber wir behandeln die historischen Vorsichtsregeln nur dort als wörtlichen Beleg, wo die konkrete 1614er Seite und Formulierung im Source-Lock verifiziert ist.
-
-Bis dahin ist das Buch visuell ein Primärdokument des Rituals — nicht Freibrief für jede moderne Zusammenfassung.
+Schon diese frühen Regeln warnen davor, Besessenheit vorschnell anzunehmen. Sie verlangen, Krankheit mitzudenken — ausdrücklich auch *atra bile*, die Melancholie nach damaligem Verständnis.
 
 Das ist wichtig.
+
+Denn das Ritual beginnt nicht mit Gewissheit.
+
+Es beginnt mit Misstrauen gegen die eigene Deutung.
 
 Denn der Surey-Streit zeigt bereits, warum Regeln nötig sind.
 
@@ -99,7 +105,7 @@ Zweitens: Vorher soll sorgfältig geprüft werden, ob eine Krankheit vorliegt �
 
 Damit kehrt unsere Eingangsfrage zurück.
 
-1696 sagt eine Stimme: Betrug.
+1697 sagt eine Stimme: Betrug.
 
 1698 sagt eine andere: Verteidigung des Falls.
 
@@ -125,21 +131,11 @@ Kraft zeigen, die den Zustand der Person deutlich zu übersteigen scheint.
 
 Dazu kann eine heftige Abneigung gegen Gott, Maria, Heilige, Kreuz oder heilige Bilder treten.
 
-Aber wir inszenieren diese Punkte nicht als „Dämonentest“.
+Doch daraus entsteht kein einfacher „Dämonentest“.
 
-Kein einzelnes Zeichen beweist eine übernatürliche Ursache.
+Keines dieser Zeichen entscheidet allein über seine Ursache.
 
-Und wir bebildern neurologische oder psychische Erkrankungen nicht pauschal als historische Besessenheit.
-
-Epilepsie ist Epilepsie.
-
-Psychose ist Psychose.
-
-Dissoziation ist Dissoziation.
-
-Trauma ist Trauma.
-
-Wenn medizinische Kontexte vorkommen, bekommen sie ihre eigene präzise Quelle und Bildsprache.
+Neurologische, psychische und traumatische Erkrankungen behalten ihre eigene Erklärung und Behandlung. Eine religiöse Liste verwandelt sie nicht in Belege für Besessenheit.
 
 ## S6 — Zwei Texte streiten über einen Menschen
 

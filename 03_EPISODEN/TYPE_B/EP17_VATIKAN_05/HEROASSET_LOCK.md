@@ -1,44 +1,55 @@
 # EP17 — Heroasset Lock — Surey / Ritual
 
-Status: CORE HEROASSETS GREEN / 1614 CLAIM LOCATOR LOCKED THROUGH SCHOLARLY SOURCE / EARLY RITUALE VISUAL ROUTE GREEN
+Status: SUREY HEROASSETS VERIFIED GREEN / 1614 CLAIM LOCATOR LOCKED / EARLY RITUALE VISUAL ROUTE CONDITIONAL GREEN
 Verification date: 2026-08-30
 
-## HA17-01 — 1696 accusation — GREEN
+## HA17-01 — 1697 accusation — GREEN
 
-Zachary Taylor, *The Surey impostor* (London, 1696).
+Zachary Taylor, *The Surey impostor: being an answer to a late fanatical pamphlet, entituled The Surey demoniack* (London, 1697).
 
-Wikimedia Commons:
-https://commons.wikimedia.org/wiki/File:The_Surey_impostor_-_being_an_answer_to_a_late_fanatical_pamphlet_entituled_The_Surey_demoniack_(IA_b30347118).pdf
+Wellcome catalogue and download page:
+https://wellcomecollection.org/works/hg45eb3c
 
-Wellcome / Internet Archive source; Commons marks the scan Public Domain.
+Stable Wellcome IIIF manifest:
+https://iiif.wellcomecollection.org/presentation/v2/b30321566
+
+Wellcome identifies Zachary Taylor, the 1697 date and a Public Domain Mark. Preserve the catalogue snapshot, IIIF manifest and credit line at acquisition.
 
 **Use:** cold-open left object, title page, mapped argument pages.
 
 ## HA17-02 — 1698 defence — GREEN
 
-Richard Bovet, *The Surey demoniack...* (London, 1698).
+Thomas Jollie, *A vindication of the Surey demoniack as no impostor* (London, 1698).
 
-Wikimedia Commons:
-https://commons.wikimedia.org/wiki/File:The_Surey_demoniack,_or,_An_account_of_Satans_strange_and_dreadful_actings_in_and_about_the_body_of_Richard_Dugdale_of_Surey,_near_Whalley_in_Lancashire_(IA_b3034712x).pdf
+Wellcome catalogue and download page:
+https://wellcomecollection.org/works/jezyrfhz
 
-Wellcome / Internet Archive source; Commons marks the scan Public Domain.
+Stable Wellcome IIIF manifest:
+https://iiif.wellcomecollection.org/presentation/v2/b30341851
+
+Wellcome identifies `T. J.` as Thomas Jollie, the 1698 date and a Public Domain Mark. Preserve the catalogue snapshot, IIIF manifest and credit line at acquisition.
 
 **Use:** cold-open right object, opposing title page, mapped testimony/argument pages.
 
-## HA17-03 — 1614 Rituale rule / exact historical locator
+## HA17-03 — 1614 Rituale rule / exact primary locator
 
-The underlying 1614 *Rituale Romanum* is public-domain by age. A scholarly article by Francis Young, *The Discerning of Spirits and the Rituale Romanum* (open-access via Cambridge repository / published in *The Historical Journal*), quotes and analyses the 1614 exorcism rules and supplies a precise historical locator to **Rituale Romanum (Rome, 1614), p. 198** for the instruction that the exorcist should not readily believe someone is possessed and should distinguish possession from illness, especially melancholia.
+The underlying 1614 *Rituale Romanum* is public-domain by age. The editio princeps places *De exorcizandis obsessis a daemonio* at printed **p. 198**. Its opening instruction tells the exorcist not to believe possession too readily and to distinguish it from those suffering from melancholia or another illness.
 
-Open scholarly route:
-https://www.repository.cam.ac.uk/items/06e9c0d4-2ff8-4c87-8a51-d9ef5c924c85
+Primary scan record:
+https://books.google.com/books?id=TBNNeaiGbc0C
 
-Use this source for exact claim/page verification. Before putting Latin in quotation marks on screen, map it against a scan of the historical edition or an early materially equivalent edition.
+Independent edition/page map:
+https://usuarium.elte.hu/book/1195/view
+
+Usuarium identifies the Rome 1614 edition and maps the exorcism section to digital sequence p. 206; the eight-page offset corresponds to printed p. 198. Keep printed and viewer pagination separate in the cue sheet. Before putting Latin in quotation marks on screen, compare it directly with the selected scan page. The voice script uses a paraphrase.
 
 ## HA17-04 — early Rituale visual texture — GREEN route
 
 Digitized early-seventeenth-century *Rituale Romanum* editions, including 1620s copies, are discoverable through Internet Archive/Google Books/European digitization routes. Because the underlying work is centuries old, select an exact scan whose host metadata provides a usable PD/open basis and record the edition/year.
 
 A 1623/early-1620s scan may be used as **historical visual texture** for the exorcism section if labelled with its actual edition. It must not be captioned `1614 original` unless it is the 1614 edition.
+
+Treat catalog/viewer routes as locators until the selected page's reuse basis is captured; underlying public-domain age does not by itself document the host scan's production terms.
 
 For the crucial 1614 rule, use a NOESIS citation card:
 `Rituale Romanum, Rome 1614, p. 198`
@@ -52,7 +63,7 @@ Use Holy See/Vatican sources for factual verification. Represent modern rules us
 
 ## Dramatic treatment
 
-1. two real PD title pages: 1696 accusation vs 1698 defence;
+1. two real PD title pages: 1697 accusation vs 1698 defence;
 2. recurring Surey conflict;
 3. early Rituale page texture enters only when the institutional decision problem has been established;
 4. 1614 p.198 citation card makes caution/illness distinction precise;
@@ -61,13 +72,15 @@ Use Holy See/Vatican sources for factual verification. Represent modern rules us
 
 No generic horror imagery; no visual equation of epilepsy, psychosis, dissociation or trauma with possession.
 
+The Surey dispute is an English controversy involving Dissenters and Anglican critics, with anti-Catholic polemic in the printed exchange. It is a comparative historical control case, not a Vatican case and not evidence of direct institutional continuity with the Roman ritual.
+
 ## Final status
 
 | Asset | Rights/source | Status |
 |---|---|---|
-| 1696 *Surey impostor* | Commons/Wellcome PD | GREEN |
-| 1698 *Surey demoniack* | Commons/Wellcome PD | GREEN |
-| 1614 caution/illness claim | scholarly locator to Rituale 1614 p.198 | VERIFIED CLAIM |
+| 1697 *Surey impostor* | Wellcome catalogue + IIIF, Public Domain Mark | GREEN |
+| 1698 Jollie *Vindication* | Wellcome catalogue + IIIF, Public Domain Mark | GREEN |
+| 1614 caution/illness claim | 1614 primary scan + independent edition/page map | VERIFIED CLAIM |
 | Exact 1614 page image | continue search; not required | OPTIONAL UPGRADE |
 | Early 1620s Rituale scan | PD/open scan with actual year labelled | GREEN after file lock |
 | Modern Canon/rite visuals | NOESIS cards citing authoritative sources | GREEN |

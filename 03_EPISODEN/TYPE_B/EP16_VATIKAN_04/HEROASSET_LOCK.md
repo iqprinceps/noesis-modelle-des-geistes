@@ -1,6 +1,6 @@
 # EP16 — Heroasset Lock — Index 1948 → 1966
 
-Status: CLAIM LOCKED / EXACT 1948 FREE SCAN NOT ESTABLISHED / PRODUCTION PATH GREEN
+Status: CLAIM LOCKED / EXACT 1948 FREE SCAN NOT ESTABLISHED / DISCLOSED RECONSTRUCTION PATH GREEN
 Verification date: 2026-08-30
 
 ## Dramatic requirement
@@ -15,14 +15,14 @@ Bibliographic records confirm:
 *Index librorum prohibitorum*, Typis Polyglottis Vaticanis, 1948.
 
 Open records:
-- https://openlibrary.org/books/OL21480517M/Index_librorum_prohibitorum
+- https://openlibrary.org/books/OL201260M/Index_librorum_prohibitorum
 - https://books.google.com/books/about/Index_librorum_prohibitorum.html?id=1i5KAAAAMAAJ
 
 Extended search did not establish a full scan of this exact edition with a sufficiently explicit commercial reuse basis. Public accessibility or a library viewer alone is not enough.
 
 **Decision:** exact 1948 viewer/scans remain `REFERENCE_ONLY` until a GREEN source appears. No permission request required.
 
-## HA16-02 — Original 1948 bibliographic object — GREEN
+## HA16-02 — 1948 bibliographic reconstruction — GREEN
 
 Create a NOESIS object/card using independently verifiable bibliographic facts:
 - title;
@@ -31,7 +31,7 @@ Create a NOESIS object/card using independently verifiable bibliographic facts:
 - final-edition context only when supported by the cited bibliography;
 - page/physical count only after an authoritative record is locked.
 
-Design it as an abstract administrative volume, not a fake photograph. First appearance must say `BIBLIOGRAPHIC RECONSTRUCTION` or equivalent.
+Design it as an abstract administrative volume, not a fake photograph. Use one brief first-appearance disclosure such as `BIBLIOGRAPHIC RECONSTRUCTION`; do not leave an internal or permanent production label on screen.
 
 ## HA16-03 — Historical Index pages — GREEN candidate pool
 
@@ -52,7 +52,7 @@ Narrative precision: the Index lost canonical legal force; do not say that every
 
 ## Visual grammar
 
-1. abstract 1948 bibliographic volume fills frame;
+1. disclosed abstract 1948 bibliographic volume fills frame;
 2. hard cut to real PD historical Index typography;
 3. book/title transforms into an entry;
 4. Galileo/Descartes examples use rights-safe historical editions/documents;
@@ -65,7 +65,7 @@ Narrative precision: the Index lost canonical legal force; do not say that every
 |---|---|---|
 | 1948 edition facts | bibliographic records | VERIFIED |
 | Exact 1948 scan/photo | no commercial-friendly open master established | REFERENCE_ONLY |
-| 1948 physical volume visual | NOESIS bibliographic reconstruction | GREEN |
+| 1948 volume visual | disclosed NOESIS bibliographic reconstruction | GREEN |
 | Historical Index page texture | older PD/open scan | GREEN after exact file lock |
 | 1966 legal event | authoritative source + NOESIS card | GREEN |
 

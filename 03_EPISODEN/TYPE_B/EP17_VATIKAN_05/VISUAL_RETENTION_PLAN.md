@@ -14,7 +14,7 @@ Schwarz + Pergament/Papier + Weiß des liturgischen Texts. Menschliche Gesichter
 
 ## Rehooks
 1. „Nicht jeder Priester darf das.“ → Canon 1172.
-2. 1614er Originalseite.
+2. Frühe echte Rituale-Seite mit korrektem Ausgabenjahr; die 1614er Regel separat als knappe Quellenkarte.
 3. Medizin-/Psychiatrie-Passage im modernen Ritus.
 4. Kriterien einzeln als Evidence-Shots.
 5. Sprachwechsel: Beschreibung → echte Ritualformel/lateinische Seite.

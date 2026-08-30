@@ -6,13 +6,13 @@ Branch: `integration/checkpoint-1-remediation`
 
 - Integrated the Pineal EP09, EP10 and EP12 source-lock/source-catalogue packages onto a branch created from current `master` instead of merging the heavily diverged historical branches.
 - Added `07_ENGLISH_PRODUCTION/PINEAL_SERIES_ASSET_OWNERSHIP.md` to lock series-wide motif ownership and prevent Descartes/Ajna/Leadbeater/Dean/parietal-eye duplication.
-- Added `tools/validate_asset_csv.py`; automated acquisition must fail on malformed row widths or suspicious status/state values.
-- Added `tools/normalize_asset_csv.py` for the known legacy failure mode: literal commas inside file-like URLs. It percent-encodes only those URL commas, rewrites through `csv.writer`, and refuses rows that remain ambiguous rather than guessing rights/status fields.
+- Added `tools/validate_asset_csv.py`; automated acquisition fails on malformed row widths, blank workflow states or invalid machine-status tokens while leaving descriptive rights notes as free text.
+- Added `tools/normalize_asset_csv.py` as a lossless RFC-4180 canonicalizer. It never guesses whether an unquoted comma belongs to a URL or separates fields; ambiguous legacy rows were repaired explicitly in their manifests.
 - EP13 tightened: repeated envelope/archive explanation removed; projectile language is deliberately conservative and does not choose between conflicting immediate-provenance accounts.
 - EP14 rewritten around one narrative question: why the 81-seal Causa Anglica survived while parts of the archive were displaced, discarded or lost. Templer detour removed; Galileo reduced to a short archive control case.
 - EP15 rewritten with a concrete Valla text-forensics reveal (`satrapa`) and corrected framing: roughly eleven centuries after Constantine; Constantine-era Christianity described as transition to toleration/imperial support rather than an absolute end of persecution; Donation not treated as sole basis of papal power.
 - EP16 structurally rebuilt from the 1948→1966 anomaly. Galileo is now book→Index-entry, not process-file repetition; Descartes is book→`donec corrigantur`, not portrait reuse.
-- EP17 structurally rebuilt around the contested Surey Demoniack print dispute (1696 accusation / 1698 defence), with Canon 1172 and the 1999 rite used as the modern decision framework. Medical categories are explicitly kept separate and may not be used as generic possession texture.
+- EP17 structurally rebuilt around the contested Surey Demoniack print dispute (Zachary Taylor 1697 / Thomas Jollie 1698), with Canon 1172 and the 1999 rite used as the modern decision framework. The script identifies this as a comparative English dispute rather than a Vatican case. Medical categories are explicitly kept separate and may not be used as generic possession texture.
 - Added `07_ENGLISH_PRODUCTION/PINEAL_SERIES_FINAL_STORY_LOCK.md`: final EP09–EP12 anti-lecture, retention and macro-outro rules. Each episode now has a single dramatic engine, evidence rhythm and explicit production handoff.
 - Added `03_EPISODEN/TYPE_B/VATIKAN_SERIE_FINAL_STORY_LOCK.md`: final EP13–EP17 hero-object, pacing and primary-document rules. The series is locked as five investigations rather than five topic lectures.
 
@@ -39,17 +39,25 @@ python tools/validate_asset_csv.py
 
 For CI/read-only checks, `python tools/normalize_asset_csv.py --check` returns non-zero if normalization would still change a manifest.
 
-The normalizer is intentionally narrow. It repairs mechanically identifiable commas inside file-like URLs and then requires every row to match the header width. If a row remains malformed, acquisition stays blocked and the row requires explicit human repair. Rights/status values are never inferred by position-shifting heuristics.
+The normalizer is intentionally conservative. It parses and rewrites only already-valid RFC-4180 data, requires every row to match the header width and refuses ambiguous rows instead of shifting fields. Rights/status values are never inferred by position.
 
-## Production gates that remain intentionally open
+Verified on 2026-08-30 after explicit legacy-row repair:
+
+- `python tools/normalize_asset_csv.py` → exit 0;
+- `python tools/normalize_asset_csv.py --check` → exit 0;
+- `python tools/validate_asset_csv.py` → exit 0.
+
+## Heroasset decisions and remaining acquisition checks
 
 ### Heroasset gates
 
-- EP13: real crown/projectile plus manuscript facsimile with usable rights. Do not restore a more specific immediate projectile provenance unless the conflicting accounts are reconciled.
-- EP14: rights-clean high-resolution Causa Anglica / 81-seal document is mandatory.
-- EP15: exact Valla manuscript/edition page used for the on-screen `satrapa` reveal must be page-mapped and rights-cleared.
-- EP16: rights-clean 1948 Index title/relevant pages are mandatory.
-- EP17: exact 1614 wording/page must be verified before quoting historical caution rules as text; Surey 1696/1698 originals must be page-mapped.
+- EP13: crown/projectile is GREEN via CC BY 3.0; the exact Vatican manuscript remains reference-only and is replaced visually by a briefly disclosed reconstruction/evidence card. Do not restore a more specific immediate projectile provenance unless the conflicting accounts are reconciled.
+- EP14: object facts are locked; protected exact photography remains reference-only. The production path uses a briefly disclosed schematic scale/seal reconstruction and must never impersonate the original.
+- EP15: Coleman printed p. 87 is the locked `satrapa` locator. Match it to the rights-safe Commons facsimile before cue-sheet lock and store the territory/provenance record.
+- EP16: 1948 bibliographic facts are locked; the exact scan remains reference-only. The script and visual lock now use a disclosed bibliographic reconstruction plus correctly dated older public-domain Index pages.
+- EP17: the 1697 Taylor accusation and 1698 Jollie defence are locked through live Wellcome Public Domain Mark records/IIIF manifests. The 1614 caution rule is source-located; quote Latin only after exact-page comparison.
+
+All 14 URLs in the five `HEROASSET_LOCK.md` files returned HTTP success in the final link audit. Reachability is not treated as a rights grant; each selected local original still requires its recorded licence/provenance snapshot.
 
 ### Production-package gates
 

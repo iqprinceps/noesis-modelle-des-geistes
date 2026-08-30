@@ -1,44 +1,25 @@
 #!/usr/bin/env python3
-"""Normalize legacy NOESIS asset CSV manifests before validation/acquisition.
+"""Normalize NOESIS asset CSV manifests before validation/acquisition.
 
-The historical Pineal manifests contain a small class of malformed rows where a
-literal comma inside a URL path (usually a Wikimedia/Wikisource filename) was
-not quoted.  csv.reader therefore sees extra columns.  This tool repairs only
-that mechanically identifiable case, then rewrites the complete file through
-csv.writer so every field is RFC-4180-safe.
-
-It deliberately refuses to guess when a row is still structurally ambiguous.
+All fields must already be valid RFC-4180 CSV.  The normalizer deliberately
+does not guess whether an unquoted comma belongs to a URL or separates fields:
+that distinction is ambiguous when a row contains several URLs.  Known legacy
+rows are repaired explicitly in their manifests; this tool then performs a
+lossless parse-and-write canonicalization and refuses malformed input.
 """
 from __future__ import annotations
 
 import csv
 import io
 import pathlib
-import re
 import sys
-
-# The problematic legacy URLs are file-like endpoints.  Matching to the file
-# extension lets us distinguish commas *inside* the URL from the CSV delimiter
-# immediately following the URL.
-FILE_URL_RE = re.compile(
-    r'https?://[^"\s]+?\.(?:jpg|jpeg|png|svg|pdf|djvu|tif|tiff|webp)(?=,|$)',
-    re.IGNORECASE,
-)
-
-
-def encode_url_commas(line: str) -> str:
-    def repl(match: re.Match[str]) -> str:
-        return match.group(0).replace(',', '%2C')
-    return FILE_URL_RE.sub(repl, line)
 
 
 def normalize_text(text: str, source: str = '<memory>') -> str:
-    physical_lines = text.splitlines()
-    if not physical_lines:
+    if not text:
         raise ValueError(f'{source}: empty CSV')
 
-    repaired = '\n'.join(encode_url_commas(line) for line in physical_lines) + '\n'
-    rows = list(csv.reader(io.StringIO(repaired), strict=True))
+    rows = list(csv.reader(io.StringIO(text), strict=True))
     if not rows:
         raise ValueError(f'{source}: empty CSV after parsing')
 
@@ -48,7 +29,7 @@ def normalize_text(text: str, source: str = '<memory>') -> str:
         detail = ', '.join(f'line {n}: {w} fields' for n, w in bad)
         raise ValueError(
             f'{source}: normalization refused; expected {width} fields; {detail}. '
-            'This is not a URL-comma case and requires an explicit human repair.'
+            'Repair the ambiguous row explicitly before acquisition.'
         )
 
     out = io.StringIO(newline='')

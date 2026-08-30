@@ -74,7 +74,7 @@ These support careful clinical/cultural framing only; they do not prove or dispr
 ## H — 17th-century possession controversy: unusually strong documentary assets
 These are valuable because they show that contemporaries themselves argued over whether an apparent possession was genuine, fraudulent or otherwise explicable. Use them as historical print-culture evidence, not as proof of either position.
 
-- **H01 Zachary Taylor, `The devil turn'd casuist...`, 1696:** https://wellcomecollection.org/works/ptnjju77 — full digitised book, 36 images. **GREEN: Public Domain Mark; Wellcome explicitly states unrestricted use under copyright law.** Subject record includes exorcism, fraud, Catholicism and Richard Dugdale. Best shot: title page + phrases `exorcism` / `despairing devil` / `cheats of Rome`.
+- **H01 Zachary Taylor, `The Surey impostor`, 1697:** https://wellcomecollection.org/works/hg45eb3c — direct printed attack on the *Surey demoniack* account, with stable IIIF manifest `https://iiif.wellcomecollection.org/presentation/v2/b30321566`. **GREEN: Public Domain Mark.** Best shot: title page, then only argument pages mapped against the spoken claim.
 - **H02 Thomas Jollie, `A vindication of the Surey demoniack as no impostor`, 1698:** https://wellcomecollection.org/works/jezyrfhz — full digitised 80-page response defending the case. **GREEN: Public Domain Mark.** Pair directly with H01 for an onscreen “impostor / no impostor” dialectic.
 - **H03 John Carrington, `The Lancashire Levite rebuk'd`, 1698:** https://wellcomecollection.org/works/npgmkeb8 — 36 digitised images. **GREEN: Public Domain Mark.** Another contemporary intervention in the Dugdale dispute; gives the edit more than a binary two-pamphlet story.
 

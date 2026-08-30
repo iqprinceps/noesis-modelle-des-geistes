@@ -40,7 +40,7 @@ Do **not** imitate Sister Lúcia's handwriting or generate a fake facsimile.
 
 Instead use:
 1. an original NOESIS evidence card headed `3 January 1944 — Sister Lúcia — third part of the Secret`;
-2. a neutral paper/envelope reconstruction clearly labelled `RECONSTRUCTION` where physical action is needed;
+2. a neutral paper/envelope reconstruction with one brief first-use disclosure such as `RECONSTRUCTION` where physical action is needed; do not retain an internal or permanent label;
 3. short factual/paraphrased text derived from the authoritative Vatican transcription, not a screenshot of the Vatican page;
 4. a citation card pointing to the Vatican source.
 

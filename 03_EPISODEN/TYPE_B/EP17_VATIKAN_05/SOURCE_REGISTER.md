@@ -31,7 +31,7 @@
 ## Contemporary possession controversy — Richard Dugdale / Surey Demoniack
 | ID | Source | URL | Use / rights |
 |---|---|---|---|
-| S30 | Zachary Taylor, *The devil turn'd casuist*, 1696 | https://wellcomecollection.org/works/ptnjju77 | polemical attack alleging imposture/fraud; 36 digitised images; **Public Domain Mark** |
+| S30 | Zachary Taylor, *The Surey impostor*, 1697 | https://wellcomecollection.org/works/hg45eb3c | direct attack on the *Surey demoniack* account; digitised copy and IIIF manifest; **Public Domain Mark** |
 | S31 | Thomas Jollie, *A vindication of the Surey demoniack as no impostor*, 1698 | https://wellcomecollection.org/works/jezyrfhz | contemporary defence of case; 80 digitised pages; **Public Domain Mark** |
 | S32 | John Carrington, *The Lancashire Levite rebuk'd*, 1698 | https://wellcomecollection.org/works/npgmkeb8 | further contemporary rebuttal; 36 digitised images; **Public Domain Mark** |
 

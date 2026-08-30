@@ -65,7 +65,7 @@
 ### EP17 — STRUCTURAL REWORK
 
 1. Nicht mit drei losgelösten Textzeilen auf Schwarz beginnen. Mit der konkreten Grenze beginnen: offizieller Text, Priester, Raum, Frage „Krankheit oder Präsenz?“
-2. Den in den Assets bereits gefundenen Surey-Demoniack-Dokumentkonflikt prüfen und gegebenenfalls als historischen Fall verwenden: 1696 Betrugsvorwurf, 1698 Verteidigung. Er liefert Person, Gefahr, Streit und zwei echte Quellen, ohne Übernatürliches als Fakt zu setzen.
+2. Den in den Assets bereits gefundenen Surey-Demoniack-Dokumentkonflikt prüfen und gegebenenfalls als historischen Fall verwenden: Zachary Taylors *Surey impostor* von 1697 und Thomas Jollies Verteidigung von 1698. Er liefert Person, Gefahr, Streit und zwei echte Quellen, ohne Übernatürliches als Fakt zu setzen.
 3. 1614 und 1999 nicht als zwei Regelblöcke nacheinander behandeln; über eine konkrete Entscheidungssituation verbinden.
 4. Menschen/Gesichter nicht „sparsam“ als Stilregel wegplanen. Priester, Mediziner, historische Streitparteien und betroffene Menschen sind nötig, respektvoll und ohne Horror-Textur.
 5. S7/S8 kürzen und medizinische Einzelbeispiele präzise quellen; keine historischen Patienten als visuelles Synonym für Besessenheit verwenden.

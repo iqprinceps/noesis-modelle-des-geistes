@@ -39,7 +39,7 @@ Wir verfolgen, was aus einem Buch wird, wenn eine Institution es erst liest, dan
 
 ## S2 — Ein Gegenarchiv des Lesens
 
-Schlagt den Band auf.
+Schlagt einen dieser historischen Bände auf.
 
 Keine Flammen.
 
@@ -107,7 +107,7 @@ Galileos *Dialogo sopra i due massimi sistemi del mondo*.
 
 1633 folgt der Prozess vor der römischen Inquisition.
 
-In EP14 lag dieser Konflikt als Akte im Archiv.
+Im Archiv lag dieser Konflikt als Akte.
 
 Hier sehen wir bewusst etwas anderes.
 
@@ -125,21 +125,19 @@ Titel.
 
 Verbot.
 
-Das ist die eigentliche visuelle Idee dieser Folge:
+Das ist die eigentliche Verwandlung dieser Folge:
 
 Ein lebendiges Buch wird zu einer Verwaltungszeile.
 
-Keine Wiederholung der Galileo-Prozessbilder.
-
-Nur das Werk und die Spur, die das Verbot im Index hinterließ.
+Der Prozess tritt zurück. Übrig bleiben das Werk und die Spur, die das Verbot im Index hinterließ.
 
 ## S5 — Ein zweiter Eintrag: Descartes
 
 1663 geraten mehrere Werke René Descartes' auf den Index.
 
-Auch hier vermeiden wir das bekannte Porträt aus der Zirbeldrüsen-Serie.
+Auch Descartes wird hier nicht auf ein Gesicht reduziert.
 
-Wir zeigen das Buch.
+Entscheidend ist das Buch.
 
 Dann den Eintrag.
 
@@ -213,11 +211,11 @@ Die letzte gedruckte Ausgabe.
 
 508 Seiten.
 
-Für die Produktion ist dieser Band ein Heroasset, kein dekoratives Requisit.
+Bibliografisch ist dieser Band genau fassbar: Titel, Druckort, Jahr und Umfang.
 
-Wir brauchen die echte Titelseite und echte relevante Innenseiten in rechtlich nutzbarer Qualität.
+Doch ein frei nutzbarer vollständiger Scan ist schwerer zu greifen als seine Katalogspur.
 
-Die Kamera bleibt auf dem Material.
+Deshalb bleibt die Ausgabe von 1948 als klar erkennbare Rekonstruktion geschlossen im Bild. Wenn wir echte Seiten öffnen, stammen sie aus älteren, datierten Ausgaben desselben Systems.
 
 Papier.
 
