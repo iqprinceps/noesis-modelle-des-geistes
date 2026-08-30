@@ -1,337 +1,257 @@
-# EP17 V1 — Vatikan V: Das Ritual gegen das Unsichtbare
+# EP17 V2 — Vatikan V: Das Ritual gegen das Unsichtbare
 
-**Status:** Preproduction / Source-aware Story Pass  
+**Status:** Preproduction / Source-aware Story Pass — Checkpoint-1 remediation  
 **Archetyp:** Type B/C — Ritual-, Grenzfall- und Institutions-Mystery  
-**Voice:** ruhig, dunkel, präzise; das reale Ritual darf wirken, ohne Horrorfilm-Übertreibung  
+**Voice:** ruhig, dunkel, präzise; keine Horrorästhetik auf Kosten Betroffener  
 **Serienposition:** Vatikan-Serie 5/5
 
-## S1 — Drei Zeichen
+## S1 — Zwei Bücher, ein Fall
+
+England, Ende des 17. Jahrhunderts.
+
+Ein Fall von angeblicher Besessenheit wird öffentlich diskutiert.
+
+1696 erscheint ein Text, der den sogenannten **Surey Demoniack** als Betrug angreift.
+
+1698 folgt eine Verteidigung des Falls.
+
+Zwei gedruckte Stimmen.
+
+Dasselbe Geschehen.
+
+Zwei Wirklichkeiten.
+
+Für die eine Seite: Täuschung.
+
+Für die andere: ein ernst zu nehmender Fall dämonischer Einwirkung.
+
+Und genau dort beginnt unsere letzte Vatikan-Folge.
+
+Nicht mit der Behauptung, wir könnten entscheiden, was damals „wirklich“ im Raum war.
+
+Sondern mit der schwierigeren Frage:
+
+Wie entscheidet eine religiöse Institution überhaupt, ob sie vor Krankheit, Täuschung oder dem steht, was sie als fremde geistige Präsenz deutet?
+
+Diese Frage ist älter als moderne Psychiatrie.
+
+Und sie steht bis heute im Zentrum des katholischen Exorzismusverfahrens.
+
+## S2 — Das Unsichtbare braucht Regeln
+
+1614 erscheint unter Paul V. das *Rituale Romanum*.
+
+Darin erhält der Exorzismus einen dauerhaften liturgischen Rahmen.
+
+Gebete.
+
+Anweisungen.
+
+Formeln.
+
+Verhaltensregeln.
+
+Aber wir behandeln die historischen Vorsichtsregeln nur dort als wörtlichen Beleg, wo die konkrete 1614er Seite und Formulierung im Source-Lock verifiziert ist.
+
+Bis dahin ist das Buch visuell ein Primärdokument des Rituals — nicht Freibrief für jede moderne Zusammenfassung.
+
+Das ist wichtig.
+
+Denn der Surey-Streit zeigt bereits, warum Regeln nötig sind.
+
+Wenn zwei Zeitgenossen denselben Fall als Besessenheit und als Betrug lesen können, ist die entscheidende Frage nicht nur: Was geschieht?
+
+Sondern: Wer darf es deuten?
+
+## S3 — Wer darf heute entscheiden?
+
+Im modernen katholischen Kirchenrecht ist die Schwelle klar.
+
+Canon 1172 verlangt für einen rechtmäßigen großen Exorzismus eine besondere und ausdrückliche Erlaubnis des zuständigen Ortsordinarius.
+
+Diese Erlaubnis soll einem Priester erteilt werden, der sich durch Frömmigkeit, Wissen, Klugheit und untadeligen Lebenswandel auszeichnet.
+
+Der Exorzist ist damit kein privater Dämonenjäger.
+
+Er handelt innerhalb einer Autoritätskette.
+
+Bischof.
+
+Erlaubnis.
+
+Prüfung.
+
+Ritual.
+
+Das macht die reale Szene interessanter als Horrorfilmregeln.
+
+Die Kirche baut Bürokratie zwischen Behauptung und Handlung.
+
+## S4 — 1999: Krankheit zuerst ausschließen
+
+Am 26. Januar 1999 wird der überarbeitete katholische Exorzismusritus offiziell vorgestellt.
+
+Die vatikanische Darstellung betont zwei Dinge, die nebeneinanderstehen.
+
+Erstens: Der große Exorzismus gehört in einen kirchlich geregelten Rahmen und benötigt die Erlaubnis des Bischofs.
+
+Zweitens: Vorher soll sorgfältig geprüft werden, ob eine Krankheit vorliegt — ausdrücklich auch eine psychische Erkrankung.
+
+Damit kehrt unsere Eingangsfrage zurück.
+
+1696 sagt eine Stimme: Betrug.
+
+1698 sagt eine andere: Verteidigung des Falls.
+
+1999 formuliert die Institution eine moderne Schwelle:
+
+Nicht vorschnell ritualisieren.
+
+Prüfen.
+
+Unterscheiden.
+
+Und erst dann entscheiden, ob der Fall überhaupt in die religiöse Kategorie gehört.
+
+## S5 — Die berühmten Zeichen
+
+In der offiziellen Vorstellung des Ritus werden mögliche Indizien genannt:
 
 Unbekannte Sprachen sprechen oder verstehen.
 
 Verborgenes oder weit entferntes Wissen offenbaren.
 
-Kraft zeigen, die weit über den eigenen Zustand hinausgeht.
+Kraft zeigen, die den Zustand der Person deutlich zu übersteigen scheint.
 
-Diese drei Dinge stehen nicht in einem Horrorfilm.
+Dazu kann eine heftige Abneigung gegen Gott, Maria, Heilige, Kreuz oder heilige Bilder treten.
 
-Sie erscheinen in der offiziellen Vorstellung des modernen katholischen Exorzismusritus von 1999.
+Aber wir inszenieren diese Punkte nicht als „Dämonentest“.
 
-Dort werden sie als mögliche Indizien genannt, die zusammen mit einer heftigen Abneigung gegen Gott, Maria, Heilige, Kreuz und heilige Bilder berücksichtigt werden können.
+Kein einzelnes Zeichen beweist eine übernatürliche Ursache.
 
-Nicht jeder Priester darf daraufhin ein Ritual beginnen.
+Und wir bebildern neurologische oder psychische Erkrankungen nicht pauschal als historische Besessenheit.
 
-Das Kirchenrecht verlangt eine besondere und ausdrückliche Erlaubnis des zuständigen Bischofs.
+Epilepsie ist Epilepsie.
 
-Und selbst dann soll der Priester zuerst eine andere Frage klären:
+Psychose ist Psychose.
 
-Steht er vor etwas, das die Kirche als dämonische Präsenz deutet?
+Dissoziation ist Dissoziation.
 
-Oder vor einer Krankheit?
+Trauma ist Trauma.
 
-Genau hier beginnt unsere letzte Spur.
+Wenn medizinische Kontexte vorkommen, bekommen sie ihre eigene präzise Quelle und Bildsprache.
 
-Nicht in einer dunklen Gruft.
+## S6 — Zwei Texte streiten über einen Menschen
 
-Sondern in einem Verfahren.
+Jetzt kehren wir zum Surey-Fall zurück.
 
-Einer Institution, die seit Jahrhunderten Regeln dafür entwickelt hat, wie man mit etwas umgeht, das sie für real hält — obwohl es sich nicht sehen lässt.
+Die Stärke dieses Materials liegt nicht darin, dass es uns einen spektakulären „echten Exorzismus“ schenkt.
 
-## S2 — Das Ritual wird zu einem Buch
+Die Stärke liegt im Streit.
 
-Exorzismen gehören seit der frühen Kirche zur religiösen Praxis.
+Wir können zwei historische Drucke gegeneinander schneiden.
 
-Aber im Jahr 1614 erhält diese Praxis eine besonders dauerhafte Form.
+Vorwurf.
 
-Unter Papst Paul V. erscheint das Rituale Romanum.
+Antwort.
 
-Ein offizielles liturgisches Handbuch.
+Skepsis.
 
-Darin befindet sich ein Abschnitt über Exorzismen an Personen, die als besessen gelten.
+Verteidigung.
 
-Der Text ist kein Roman.
+Der Zuschauer erlebt damit das Problem, das abstrakte Regeln allein nicht zeigen können:
 
-Er ist eine Gebrauchsanweisung.
+Menschen müssen entscheiden, welcher Erklärung sie glauben.
 
-Gebete.
+Das macht den Fall zu einer historischen Kontrollprobe für unsere moderne Frage.
 
-Anrufungen.
+Nicht: „War der Surey Demoniack besessen?“
 
-Fragen.
+Sondern:
 
-Warnungen.
+Welche Beweise akzeptiert eine Gemeinschaft, wenn das behauptete Geschehen selbst unsichtbar ist?
 
-Verhaltensregeln für den Priester.
+## S7 — Wenn Sprache zur Handlung wird
 
-Schon dort begegnet uns ein bemerkenswert nüchterner Ton neben einer radikal übernatürlichen Grundannahme.
+Erst jetzt öffnen wir das Ritual selbst.
 
-Der Exorzist soll nicht leichtgläubig sein.
+Im Exorzismus ist Sprache nicht nur Beschreibung.
 
-Er soll nicht vorschnell von Besessenheit ausgehen.
+Sie soll handeln.
 
-Er soll auf Täuschung achten.
+Gebet.
 
-Und gleichzeitig bereitet ihn das Ritual darauf vor, mit einem personal gedachten bösen Geist zu sprechen und ihn im Namen Christi zu befehlen.
+Anrufung.
 
-Genau dieser Kontrast ist der Kern der Folge.
+Befehl.
 
-Ein System versucht, das Unsichtbare zu ordnen.
+Religiöse Autorität wird gesprochen.
 
-## S3 — Wer darf sprechen?
+Das unterscheidet den Ritus grundlegend von medizinischer Diagnose und Behandlung.
 
-Im modernen Kirchenrecht ist die Schwelle klar.
+Für Gläubige kann das Ritual auf eine reale spirituelle Ursache zielen.
 
-Canon 1172 sagt: Niemand darf rechtmäßig Exorzismen über Besessene aussprechen, wenn er nicht vom Ortsordinarius eine besondere und ausdrückliche Erlaubnis erhalten hat.
+Für Außenstehende bleibt es zugleich eine hochstrukturierte religiöse Handlung, die Autorität, Erwartung, Angst und Bedeutung bündelt.
 
-Und diese Erlaubnis soll nur an einen Priester gehen, der sich durch Frömmigkeit, Wissen, Klugheit und untadeligen Lebenswandel auszeichnet.
+Wir müssen diese Perspektiven nicht künstlich versöhnen.
 
-Das ist mehr als Bürokratie.
+Die Spannung entsteht gerade daraus, dass dieselbe Szene unterschiedlich gelesen werden kann.
 
-Es zeigt, wie ernst die Institution das Risiko der Fehlinterpretation nimmt.
+## S8 — Warum das Ritual überlebt
 
-Denn ein Priester, der jede Krise als Dämon deutet, wäre gefährlich.
+Das moderne Verfahren versucht, eine Grenze zu ziehen.
 
-Also baut die Kirche eine Schwelle ein.
+Medizinische Erkrankungen gehören in medizinische Behandlung.
 
-Bischöfliche Erlaubnis.
+Der große Exorzismus ist innerhalb der katholischen Logik für jene Fälle vorgesehen, die nach Prüfung anders eingeordnet werden.
 
-Prüfung.
+Ob diese Grenzziehung einen Außenstehenden überzeugt, ist eine andere Frage.
 
-Vorsicht.
+Aber institutionell ist sie entscheidend.
 
-Und dann erst das Ritual.
+Der Ritus überlebt nicht einfach, weil eine alte Formel nie abgeschafft wurde.
 
-Der Exorzist handelt damit nicht als privater Mystiker.
+Er überlebt als geregelte Antwort auf eine Deutung, die die Kirche weiterhin für möglich hält.
 
-Er handelt als Beauftragter einer Institution.
+Und damit bekommt das Unsichtbare etwas sehr Sichtbares:
 
-Das verändert die Szene vollständig.
+Zuständigkeit.
 
-Denn nun sitzt nicht nur ein Mensch einem möglichen Unsichtbaren gegenüber.
+Erlaubnis.
 
-Hinter ihm steht eine Kette von Autorität.
+Text.
 
-## S4 — Der Text von 1999
-
-Nach dem Zweiten Vatikanischen Konzil wird der alte Ritus überarbeitet.
-
-Die Arbeit dauert ungefähr zehn Jahre.
-
-Am 26. Januar 1999 stellt Kardinal Jorge Arturo Medina Estévez den neuen Ritus offiziell vor.
-
-Der Vatikan formuliert dabei etwas, das für unsere Episode entscheidend ist.
-
-Der große Exorzismus dürfe nur von einem Priester mit Erlaubnis des Bischofs durchgeführt werden.
-
-Und bevor er beginnt, müsse sorgfältig geprüft werden, ob nicht eine Krankheit vorliegt — besonders eine psychische Erkrankung.
-
-Das ist keine Fußnote.
-
-Es ist Teil der offiziellen Grenzziehung.
-
-Die Kirche hält also zwei Möglichkeiten gleichzeitig offen.
-
-Ein Zustand kann medizinisch sein.
-
-Oder er kann in ihrem eigenen theologischen System etwas anderes bedeuten.
-
-Das Ritual existiert genau an dieser Grenze.
-
-## S5 — Was gilt als Zeichen?
-
-Und dann kommen die Kriterien.
-
-Unbekannte Sprachen.
-
-Verborgenes oder entferntes Wissen.
-
-Ungewöhnliche Kraft.
-
-Heftige Abneigung gegen das Heilige.
-
-Keines dieser Zeichen steht für sich allein wie ein magischer Test.
-
-Der Vatikan spricht von Kriterien und Indizien, die mit Vorsicht beurteilt werden sollen.
-
-Aber stellt euch vor, ihr seid derjenige, der diese Situation beurteilen muss.
-
-Eine Person spricht plötzlich Worte, die sie angeblich nie gelernt hat.
-
-Sie beschreibt etwas, das sie nicht wissen dürfte.
-
-Sie reagiert körperlich auf Gebet oder religiöse Symbole.
-
-Was würdet ihr zuerst denken?
-
-Täuschung?
-
-Krankheit?
-
-Trauma?
-
-Suggestion?
-
-Oder genau das, wofür dieses Ritual geschrieben wurde?
-
-Die Stärke des Exorzismus liegt als Erzählstoff nicht darin, dass wir diese Frage für den Zuschauer beantworten.
-
-Sondern darin, dass die Institution selbst Regeln geschaffen hat, um sie überhaupt stellen zu dürfen.
-
-## S6 — Ein Ritual spricht zurück
-
-Im klassischen Exorzismus ist Sprache nicht nur Gebet.
-
-Sie ist Handlung.
-
-Der Priester bittet nicht bloß um Schutz.
-
-Er befiehlt.
-
-Er spricht im Namen einer höheren Autorität.
-
-Er fordert das Böse auf, zu weichen.
-
-Das ist eine völlig andere Logik als moderne Therapie oder Medizin.
-
-Nicht Diagnose und Behandlung.
-
-Sondern Konfrontation und Vertreibung.
-
-Gerade deshalb ist das alte Rituale Romanum visuell so stark.
-
-Lateinische Zeilen auf vergilbtem Papier.
-
-Rubriken.
-
-Kreuzzeichen.
-
-Formeln, die dafür geschrieben wurden, laut ausgesprochen zu werden.
-
-Ein Buch, das seine ganze Bedeutung erst bekommt, wenn jemand die Worte in einem Raum tatsächlich sagt.
-
-## S7 — Zwischen Körper und Bedeutung
-
-Viele Zustände, die früher religiös gedeutet wurden, können heute medizinisch, neurologisch oder psychologisch beschrieben werden.
-
-Epileptische Anfälle.
-
-Dissoziative Zustände.
-
-Psychosen.
-
-Traumafolgen.
-
-Aber das moderne Ritual verschwindet deshalb nicht.
-
-Stattdessen zieht die Kirche eine institutionelle Grenze: Medizin soll Krankheiten behandeln; der Exorzismus ist für jene Fälle vorgesehen, die nach ihrer eigenen Prüfung nicht darin aufgehen.
-
-Das erzeugt einen Raum, der weder rein medizinisch noch rein symbolisch ist.
-
-Für den Gläubigen kann das Ritual real auf eine spirituelle Ursache zielen.
-
-Für einen Außenstehenden kann es gleichzeitig eine hochstrukturierte religiöse Handlung sein, die Erwartung, Angst, Autorität und Bedeutung bündelt.
-
-Beide Perspektiven können denselben Raum sehen.
-
-Und völlig verschiedene Dinge darin erkennen.
-
-## S8 — Warum Rituale überleben
-
-Vielleicht überlebt der Exorzismus deshalb so hartnäckig, weil er auf eine uralte menschliche Erfahrung antwortet:
-
-Das Gefühl, dass etwas Fremdes in einen Menschen eingedrungen ist.
-
-Dass Stimme, Körper oder Wille nicht mehr ganz demjenigen gehören, der sie besitzt.
-
-Kulturen haben dafür unterschiedliche Namen gefunden.
-
-Geister.
-
-Dämonen.
-
-Besessenheit.
-
-Krankheit.
-
-Dissoziation.
-
-Das Ritual übersetzt diese Erfahrung in eine klare Dramaturgie.
-
-Es gibt einen Namen für die Bedrohung.
-
-Eine Autorität.
-
-Eine Grenze.
-
-Worte, die gesprochen werden müssen.
-
-Und einen Moment, an dem etwas den Raum verlassen soll.
-
-Vielleicht ist das einer der Gründe, warum Exorzismus gleichzeitig religiös, psychologisch und filmisch so mächtig bleibt.
-
-Er gibt dem Unsichtbaren eine Handlung.
+Handlung.
 
 ## S9 — Die letzte Tür
 
 Unsere Vatikan-Serie begann mit einer Kugel in einer Krone.
 
-Dann gingen wir in ein Archiv unter Rom.
+Dann folgten ein überlebender Brief, eine falsche Urkunde und ein Buch voller verbotener Bücher.
 
-Wir sahen ein Dokument, das Macht erschaffen konnte, obwohl seine Herkunft falsch war.
-
-Wir öffneten ein Buch, das andere Bücher verbot.
-
-Und jetzt enden wir bei einem Ritual, das für etwas geschrieben wurde, das keine Kamera zuverlässig zeigen kann.
+Jetzt enden wir bei zwei Menschen, die auf dasselbe Geschehen schauen und nicht einmal darin übereinstimmen, was für eine Art von Wirklichkeit sie sehen.
 
 Vielleicht verbindet genau das alle fünf Folgen.
 
-Nicht ein einzelnes großes Geheimnis.
+Institutionen geben Unsicherheit eine Form.
 
-Sondern die Frage, wie Institutionen mit Dingen umgehen, die größer sind als ein einzelner Mensch.
+Ein Umschlag gibt einer Vision einen Körper.
 
-Prophezeiung.
+Ein Archiv gibt Erinnerung einen Ort.
 
-Erinnerung.
+Eine Urkunde gibt einem Anspruch Autorität.
 
-Autorität.
+Ein Index gibt verbotenem Wissen eine Liste.
 
-Gefährliches Wissen.
+Und ein Ritual gibt einer unsichtbaren Behauptung ein Verfahren.
 
-Das Unsichtbare.
-
-Der Vatikan hat über Jahrhunderte versucht, all diesen Dingen Formen zu geben.
-
-Umschläge.
-
-Archive.
-
-Urkunden.
-
-Listen.
-
-Rituale.
-
-Und manchmal wird die Form selbst mächtiger als das, was sie enthalten soll.
-
-Denn ein versiegelter Umschlag erzeugt Geheimnis.
-
-Ein Archiv erzeugt Erinnerung.
-
-Ein Dokument erzeugt Anspruch.
-
-Eine Liste erzeugt verbotenes Wissen.
-
-Und ein Ritual erzeugt einen Raum, in dem Menschen bereit sind, mit etwas zu sprechen, das sie nicht sehen können.
-
-Die letzte Frage dieser Serie lautet deshalb nicht:
-
-Gibt es hinter den Mauern des Vatikans das eine große Geheimnis?
+Die letzte Frage ist deshalb nicht, ob wir das Unsichtbare beweisen können.
 
 Sondern:
 
-Wie viele Wirklichkeiten entstehen dadurch, dass Menschen ihnen eine Form geben?
+Was geschieht, wenn Menschen Regeln dafür bauen, wie man darüber entscheiden soll?
 
 ## Endcard
 
 **Serienfinale:** *Vatican Files — Secrets, Power and the Unseen*  
-**Offene Frage:** Wenn ein Ritual über Jahrhunderte bestehen bleibt — sagt das mehr über das Unsichtbare aus oder über das menschliche Bedürfnis, ihm eine Form zu geben?
+**Offene Frage:** Wenn zwei Menschen denselben Fall sehen und der eine Krankheit oder Täuschung erkennt, der andere aber spirituelle Präsenz — welche Art von Beweis könnte beide überzeugen?
