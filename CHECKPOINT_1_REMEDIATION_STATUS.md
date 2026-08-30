@@ -13,6 +13,20 @@ Branch: `integration/checkpoint-1-remediation`
 - EP15 rewritten with a concrete Valla text-forensics reveal (`satrapa`) and corrected framing: roughly eleven centuries after Constantine; Constantine-era Christianity described as transition to toleration/imperial support rather than an absolute end of persecution; Donation not treated as sole basis of papal power.
 - EP16 structurally rebuilt from the 1948→1966 anomaly. Galileo is now book→Index-entry, not process-file repetition; Descartes is book→`donec corrigantur`, not portrait reuse.
 - EP17 structurally rebuilt around the contested Surey Demoniack print dispute (1696 accusation / 1698 defence), with Canon 1172 and the 1999 rite used as the modern decision framework. Medical categories are explicitly kept separate and may not be used as generic possession texture.
+- Added `07_ENGLISH_PRODUCTION/PINEAL_SERIES_FINAL_STORY_LOCK.md`: final EP09–EP12 anti-lecture, retention and macro-outro rules. Each episode now has a single dramatic engine, evidence rhythm and explicit production handoff.
+- Added `03_EPISODEN/TYPE_B/VATIKAN_SERIE_FINAL_STORY_LOCK.md`: final EP13–EP17 hero-object, pacing and primary-document rules. The series is locked as five investigations rather than five topic lectures.
+
+## Final editorial lock
+
+EP06–EP08 are the production-quality reference, not an episode-content template.
+
+For EP09–EP17:
+- story voice carries question, action, contradiction and consequence;
+- viewer cards carry dense explanatory structure;
+- primary documents are shown full before locator/crop/highlight;
+- no uninterrupted textbook/institutional explanation should survive when it can be converted into an experiment, person, object, document or consequence;
+- AI reconstruction fills action gaps only and never impersonates primary evidence;
+- macro-outros must make the next episode feel like the logical consequence of the current discovery.
 
 ## Pre-acquisition CSV gate
 
@@ -36,6 +50,18 @@ The normalizer is intentionally narrow. It repairs mechanically identifiable com
 - EP15: exact Valla manuscript/edition page used for the on-screen `satrapa` reveal must be page-mapped and rights-cleared.
 - EP16: rights-clean 1948 Index title/relevant pages are mandatory.
 - EP17: exact 1614 wording/page must be verified before quoting historical caution rules as text; Surey 1696/1698 originals must be page-mapped.
+
+### Production-package gates
+
+After heroasset/source lock, build episode-specific outputs in this order:
+1. final clean voice script / pronunciation notes for actually spoken terms;
+2. viewer/evidence cards;
+3. `VISUAL_CUE_SHEET_V5` tied to voice beats and asset IDs;
+4. NanoBanana prompt batches only for missing reconstruction/action states;
+5. three Shorts/derivative hooks;
+6. acquisition, provenance, rights, SHA-256/pHash and visual QA.
+
+Do not create fake precision by timing cue sheets against a voice draft or by generating reconstruction art before the real heroassets are locked.
 
 ## Rule
 
