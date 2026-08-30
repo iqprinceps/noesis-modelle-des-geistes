@@ -1,64 +1,72 @@
 # EP16 — Heroasset Lock — Index 1948 → 1966
 
-Status: 1948 BIBLIOGRAPHY LOCKED / FREE FULL-SCAN MASTER STILL OPEN
+Status: CLAIM LOCKED / EXACT 1948 FREE SCAN NOT ESTABLISHED / PRODUCTION PATH GREEN
 Verification date: 2026-08-30
 
 ## Dramatic requirement
 
-The episode's opening contrast is physical:
-
-- a large 1948 *Index librorum prohibitorum*;
-- the short 1966 act that removed the Index's canonical legal force.
-
-Do not replace the 1948 book with a generic medieval forbidden-books image.
+Opening contrast:
+- the final 1948 *Index librorum prohibitorum* as a massive administrative object;
+- the short 1966 act by which the Index lost canonical legal force.
 
 ## HA16-01 — 1948 Index
 
-### Bibliographic lock
+Bibliographic records confirm:
+*Index librorum prohibitorum*, Typis Polyglottis Vaticanis, 1948.
 
-Open bibliographic records confirm the edition:
+Open records:
+- https://openlibrary.org/books/OL21480517M/Index_librorum_prohibitorum
+- https://books.google.com/books/about/Index_librorum_prohibitorum.html?id=1i5KAAAAMAAJ
 
-*Index librorum prohibitorum*, typis polyglottis Vaticanis, 1948.
+Extended search did not establish a full scan of this exact edition with a sufficiently explicit commercial reuse basis. Public accessibility or a library viewer alone is not enough.
 
-Useful open records:
-- Open Library: https://openlibrary.org/books/OL21480517M/Index_librorum_prohibitorum
-- Google Books bibliographic record: https://books.google.com/books/about/Index_librorum_prohibitorum.html?id=1i5KAAAAMAAJ
+**Decision:** exact 1948 viewer/scans remain `REFERENCE_ONLY` until a GREEN source appears. No permission request required.
 
-Search results also identify this as the final/1948 edition in multiple catalogues.
+## HA16-02 — Original 1948 bibliographic object — GREEN
 
-### Rights-safe production decision
+Create a NOESIS object/card using independently verifiable bibliographic facts:
+- title;
+- year 1948;
+- Vatican Polyglot Press / Typis Polyglottis Vaticanis;
+- final-edition context only when supported by the cited bibliography;
+- page/physical count only after an authoritative record is locked.
 
-As of this verification pass, no clearly reusable open full-scan master of the exact 1948 edition has been established strongly enough to mark GREEN.
+Design it as an abstract administrative volume, not a fake photograph. First appearance must say `BIBLIOGRAPHIC RECONSTRUCTION` or equivalent.
 
-Therefore:
-- do **not** scrape a modern library viewer or random PDF;
-- do **not** make the episode wait for Vatican permission;
-- continue searching public-domain/open-library holdings for an exact scan;
-- if none is found, create an original NOESIS **bibliographic object card** using facts that can be restated (title, 1948, Vatican Polyglot Press, physical/page-count data after authoritative verification) and use a rights-safe older Index volume as historical visual texture, clearly labelled with its actual year.
+## HA16-03 — Historical Index pages — GREEN candidate pool
 
-The card must never pretend to be a photograph of the 1948 edition.
+For page-turning/typographic texture use a much older public-domain *Index Librorum Prohibitorum* scan from a repository that explicitly exposes PD/open reuse metadata. The actual edition/year must be visible in the asset manifest and must never be called the 1948 edition.
 
-**Status:** `AMBER / EXACT_FREE_SCAN_OPEN`.
+Purpose:
+- show how titles/names appear as entries;
+- provide physical book/page texture;
+- support the print→entry transformation visually.
 
-## HA16-02 — Older Index volume, historical texture
+## HA16-04 — 1966 notification
 
-Wikimedia Commons and Internet Archive contain multiple much older editions of the *Index Librorum Prohibitorum* whose underlying works are public domain. Select a scan with explicit Commons/IA reuse metadata and show the year on screen.
+Use the Holy See/Vatican text as authoritative claim source. Do not screenshot a modern protected webpage merely because it is public.
 
-**Use:** explain what an Index physically looks like; page-turning, typography, entries. Not a substitute for claiming that the pictured book is the 1948 edition.
+Create an original NOESIS citation/document card containing only the necessary factual/date information and a short quotation only if legally and editorially justified. Otherwise paraphrase.
 
-## HA16-03 — 1966 notification
+Narrative precision: the Index lost canonical legal force; do not say that every listed book was thereby endorsed or declared harmless.
 
-The legal/canonical event can be sourced from Holy See/Vatican documentation for claim verification. If the exact modern page image is not rights-safe, reproduce the **facts and citation** in an original NOESIS document card rather than screenshotting the protected Vatican webpage.
+## Visual grammar
 
-The key distinction for voice/graphics is that the Index lost its canonical legal force in 1966; do not oversimplify this into 'the Church declared every listed book acceptable'.
+1. abstract 1948 bibliographic volume fills frame;
+2. hard cut to real PD historical Index typography;
+3. book/title transforms into an entry;
+4. Galileo/Descartes examples use rights-safe historical editions/documents;
+5. return to 1948 object;
+6. 1966 original citation card collapses the legal force of the object.
 
-## Picture-lock decision
+## Final status
 
-EP16 does not need a rights request.
+| Asset | Route | Status |
+|---|---|---|
+| 1948 edition facts | bibliographic records | VERIFIED |
+| Exact 1948 scan/photo | no commercial-friendly open master established | REFERENCE_ONLY |
+| 1948 physical volume visual | NOESIS bibliographic reconstruction | GREEN |
+| Historical Index page texture | older PD/open scan | GREEN after exact file lock |
+| 1966 legal event | authoritative source + NOESIS card | GREEN |
 
-Preferred hierarchy:
-1. exact 1948 open scan -> use as heroasset;
-2. exact 1948 cover/title page under a documented reuse basis + original NOESIS scale/card treatment;
-3. if unavailable, original 1948 bibliographic object card + clearly dated PD older Index pages for physical texture.
-
-This preserves the 1948→1966 dramatic anomaly without creating a licensing dependency or visually misidentifying an older edition.
+EP16 is not blocked by a licence request. An exact GREEN 1948 scan remains an upgrade, not a dependency.
