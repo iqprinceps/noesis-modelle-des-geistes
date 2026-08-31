@@ -57,6 +57,9 @@ appears only when it adds evidence, not as permanent furniture.
 
 - Use idiomatic international English.
 - Avoid literal German syntax and stacked rhetorical antitheses.
+- Prefer direct statements over scripted denial-and-reversal patterns such as
+  `This is not X; it is Y`. Use negation only when the absent or disproven fact
+  itself matters to the viewer.
 - Write dates and numbers so the selected voice reads them naturally.
 - Maintain a pronunciation sheet for every proper name.
 - Review all generated takes before alignment. Automatic dubbing is not the
@@ -119,3 +122,6 @@ abstract interpretation instead of inventing archive evidence.
 - episode-specific end-card allowance based on the final platform need
 - enough materially different thumbnail concepts to make a real choice, each
   checked at mobile size
+- all still-image camera motion passes the project-wide technical smooth-motion
+  gate in `VISUAL_RETENTION_STANDARD.md`; a clean contact sheet alone cannot
+  approve motion cadence

@@ -98,6 +98,34 @@ and temporarily overwhelming. It must not resemble generic meditation stock,
 fantasy game art, or a literal reenactment presented as proof. The transition
 into and out of `INNER / HYPOTHESIS` must be visually legible.
 
+## Technical smooth-motion gate
+
+Creative motion remains episode-specific. Camera judder is a delivery defect,
+not a creative choice. Every still-image push, zoom, pan, or compound move must
+use the shared supersampled/subpixel motion path in `tools/smooth_still_motion.py`
+or an independently demonstrated equivalent. A render script may not introduce
+its own delivery-resolution `zoompan` implementation merely for convenience.
+
+Before a picture master can pass:
+
+- moving-still segments are rendered at the delivery frame rate from a
+  supersampled or true subpixel path with continuous easing;
+- every still in a JSON visual EDL explicitly declares `motion`, `motion_mode`,
+  or `motion_amplitude`, so QA can distinguish deliberate locked frames from
+  moving frames instead of guessing from compressed pixels;
+- documents, diagrams, cards, eye instructions, and other registration-sensitive
+  frames remain locked unless motion itself communicates new information;
+- the rendered segments are checked with `tools/qa_smooth_still_motion.py` and
+  any cadence failure is inspected at full speed, not waived from a contact sheet;
+- the final concatenated master is constant-frame-rate and contains no accidental
+  duplicate/drop cadence at segment boundaries;
+- a new episode may reuse the shared engine, but it may not assume that an older
+  episode's successful QA automatically covers a new renderer or new segments.
+
+This gate is intentionally technical. It does not prescribe how many shots move
+or impose a visual style; it prevents the recurring pixel-rounding judder that is
+visible during otherwise slow camera motion.
+
 ## Episode-selected QA
 
 - hook contact sheet when it materially helps judge the opening;

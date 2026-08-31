@@ -18,6 +18,48 @@ DEFAULT_MOTION_MODES = {
 }
 
 
+def load_edl(path: Path) -> tuple[list[dict], str]:
+    """Load the legacy CSV cue sheet or a production JSON visual EDL."""
+    if path.suffix.casefold() == ".json":
+        payload = json.loads(path.read_text(encoding="utf-8-sig"))
+        shots = payload.get("shots")
+        if not isinstance(shots, list):
+            raise ValueError(f"JSON EDL has no shots array: {path}")
+        rows: list[dict] = []
+        for index, shot in enumerate(shots, 1):
+            motion_declared = any(
+                key in shot for key in ("motion", "motion_mode", "motion_amplitude")
+            )
+            motion_value = shot.get("motion")
+            motion_mode = str(shot.get("motion_mode", "")).casefold()
+            motion_amplitude = float(shot.get("motion_amplitude", 0.0) or 0.0)
+            moving = (
+                motion_value is True
+                or motion_amplitude > 0.0
+                or any(
+                    token in motion_mode
+                    for token in ("push", "pan", "zoom", "move", "motion")
+                )
+            )
+            rows.append({
+                "selected_file_path": shot.get("asset_abs") or shot.get("asset") or "",
+                "semantic_mode": shot.get("kind", ""),
+                "visual_state_id": shot.get("shot_id", f"V{index:03d}"),
+                "segment_name": f"{shot.get('shot_id', f'V{index:03d}')}.mp4",
+                "shot_number": index,
+                "motion_declared": motion_declared,
+                "moving": moving,
+            })
+        return rows, "json"
+
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        rows = list(csv.DictReader(handle))
+    for index, row in enumerate(rows, 1):
+        row["segment_name"] = f"{index:03d}_{row['visual_state_id']}.mp4"
+        row["shot_number"] = index
+    return rows, "csv"
+
+
 def frame_differences(path: Path) -> np.ndarray:
     capture = cv2.VideoCapture(str(path))
     values: list[float] = []
@@ -71,22 +113,39 @@ def main() -> int:
     parser.add_argument("--output", required=True, type=Path)
     args = parser.parse_args()
 
-    with args.edl.open(encoding="utf-8-sig", newline="") as handle:
-        rows = list(csv.DictReader(handle))
+    rows, edl_format = load_edl(args.edl)
 
     findings: list[dict] = []
     failures: list[str] = []
+    if edl_format == "json":
+        undeclared = [
+            row["visual_state_id"] for row in rows
+            if Path(row["selected_file_path"]).suffix.casefold()
+            not in {".mp4", ".mov", ".mkv", ".webm"}
+            and not row.get("motion_declared", False)
+        ]
+        if undeclared:
+            failures.append(
+                "JSON EDL must declare motion, motion_mode, or motion_amplitude "
+                f"for every still; missing on {len(undeclared)} shot(s): "
+                + ", ".join(undeclared)
+            )
     for index, row in enumerate(rows, 1):
         source = Path(row["selected_file_path"])
-        if source.suffix.casefold() == ".mp4" or row.get("semantic_mode") not in DEFAULT_MOTION_MODES:
+        mode = row.get("semantic_mode", "")
+        if source.suffix.casefold() in {".mp4", ".mov", ".mkv", ".webm"}:
             continue
-        segment = args.segments / f"{index:03d}_{row['visual_state_id']}.mp4"
+        if edl_format == "csv" and mode not in DEFAULT_MOTION_MODES:
+            continue
+        if edl_format == "json" and not row.get("moving", False):
+            continue
+        segment = args.segments / row["segment_name"]
         if not segment.is_file():
             failures.append(f"missing segment: {segment.name}")
             continue
         result = analyse(segment)
         result.update({
-            "shot": index,
+            "shot": row.get("shot_number", index),
             "state": row["visual_state_id"],
             "segment": segment.name,
         })
