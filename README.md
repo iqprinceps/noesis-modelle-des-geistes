@@ -34,6 +34,14 @@ Die vollständige Ablagelogik steht in
 Binäre Rohassets, Stimmen, Render, Thumbnails und Original-PDFs werden lokal
 verwaltet und sind bewusst nicht Teil des Git-Repositories.
 
+## Vertex AI
+
+Das getrennte zweite Produktionsprofil fuer Nano Banana Pro und Veo ist in
+[`02_GUIDES/VERTEX_AI_SECONDARY_PROFILE.md`](02_GUIDES/VERTEX_AI_SECONDARY_PROFILE.md)
+dokumentiert. Generatoren werden ueber
+`tools/run_with_vertex_secondary.ps1` gestartet; Zugangsdaten bleiben
+ausserhalb des Repositories.
+
 ## Starke englische Referenzen
 
 | Episode | Kanonischer Sprechertext | Wofür sie als Referenz dient |
