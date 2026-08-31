@@ -126,6 +126,26 @@ This gate is intentionally technical. It does not prescribe how many shots move
 or impose a visual style; it prevents the recurring pixel-rounding judder that is
 visible during otherwise slow camera motion.
 
+## Render-economy preflight gate
+
+Do not discover ordinary layout, crop, text-safe-area, face/hand, or document
+problems after an expensive full-length master render. Before the delivery encode:
+
+- render every unique procedural state and a representative frame from every
+  still/video state as a cheap proxy or source-resolution frame;
+- inspect a full contact sheet plus denser sheets for the hook, documents, cards,
+  generated faces/hands, and previously weak retention windows;
+- check viewer-facing text at mobile size and verify that highlights preserve the
+  complete relevant sentence or paragraph;
+- run smooth-motion QA on the final moving-still derivatives before they enter the
+  master;
+- prefer cached, segment-based assembly so an isolated correction invalidates only
+  the affected segment and downstream concat, not every frame in the episode.
+
+A monolithic full-frame renderer remains allowed when it is genuinely the best
+implementation, but its complete proxy/contact-sheet preflight must pass first.
+Successful encoding alone never justifies a second avoidable full render.
+
 ## Episode-selected QA
 
 - hook contact sheet when it materially helps judge the opening;
