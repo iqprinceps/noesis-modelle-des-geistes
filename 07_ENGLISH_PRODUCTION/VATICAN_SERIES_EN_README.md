@@ -9,7 +9,7 @@ scripts, and the German scripts must not enter the English voice pipeline.
 
 | Episode | English title | Canonical voice script | Words | At 140 to 125 WPM |
 |---|---|---|---:|---|
-| EP13 | The Bullet in the Crown | `EP13_VATICAN_01/01_SCRIPT/VOICE_SCRIPT_EN.txt` | 1,272 | 9:05 to 10:11 |
+| EP13 | The Bullet in the Crown | `EP13_VATICAN_01/01_SCRIPT/VOICE_SCRIPT_EN.txt` | 1,328 | 9:29 to 10:37 |
 | EP14 | The Letter That Failed | `EP14_VATICAN_02/01_SCRIPT/VOICE_SCRIPT_EN.txt` | 1,194 | 8:32 to 9:33 |
 | EP15 | One Word | `EP15_VATICAN_03/01_SCRIPT/VOICE_SCRIPT_EN.txt` | 1,302 | 9:18 to 10:25 |
 | EP16 | Five Hundred and Eight Pages | `EP16_VATICAN_04/01_SCRIPT/VOICE_SCRIPT_EN.txt` | 1,288 | 9:12 to 10:18 |
