@@ -7,11 +7,42 @@ This document supersedes `03_EPISODEN/TYPE_B/VATIKAN_SERIE_REVIEW_CHECKPOINT_1.m
 and the retention sections of `VATIKAN_SERIE_FINAL_STORY_LOCK.md` for editorial
 purposes. Those files remain valid as a record of the source-lock and rights work.
 
-## There is no reference bar
+## The only real data the channel has
 
-No NOESIS episode has audience data. At the time of writing, EP05_EN is
-scheduled and still private, and `00_GLOBAL/VIEWER_RETENTION_REVIEW.md` states
-plainly that its scores are editorial predictions rather than performance data.
+Checked against the YouTube Data and Analytics APIs on 2026-09-03. The repo
+publication records were stale: EP05_EN went public on 2026-09-01, not on the
+scheduled 09-05, and its first Short followed on 09-02. Neither has enough
+watch time yet to report.
+
+The usable measurement is EP01_EN Kozyrev Mirrors, public since 2026-08-27:
+183 views, average view duration 2:09 on a 7:15 runtime, 29.8 percent average
+view percentage. Its audience-retention curve is the first evidence this
+channel has ever had.
+
+| Time | Audience still watching |
+|---|---:|
+| 0:21 | 67.5% |
+| 0:43 | 56.2% |
+| 1:05 | 57.5% |
+| 1:27 | 47.5% |
+| 1:48 | 40.0% |
+| 2:32 | 30.0% |
+| 7:15 | 8.8% |
+
+**Half the audience is gone by 1:27.** The two steep drops fall at 0:43, minus
+11 points, and at 1:27, minus 10 points.
+
+Mapped onto the EP01 script, both land on the same move. At 0:43 the episode
+leaves its contradiction and starts describing the apparatus: cylinder,
+clockwise spiral, counterclockwise spiral. At 1:27 it starts a biography:
+`Nikolai Alexandrovich Kozyrev was a Soviet astronomer and astrophysicist.`
+
+`00_GLOBAL/RETENTION_QA.md` already carries the rule that was broken:
+`An episode-specific contradiction opens before biography or explanation.`
+
+This single curve is worth more than every editorial prediction in the repo,
+and it is still one video with 183 views. It is treated as a warning about a
+specific failure mode, not as a target curve.
 
 Earlier English episodes are therefore prior attempts, not standards. Their
 measurements in `RETENTION_QA.md` are described there as historical records and
@@ -146,9 +177,11 @@ A rite gave an invisible claim a procedure.
 Runtime follows the material. Eight minutes is a monetisation threshold, not an
 editorial target, and no episode may reach it with filler.
 
-Measured evidence from produced German masters: EP01A ran 1,314 words in 9:42 and
-EP02_V2 ran 1,222 words in 9:46, giving a real delivered rate of 125 to 135 words
-per minute including pauses, beds and end screen.
+Delivered rates differ by language. The German masters run 125 to 135 words per
+minute: EP01A 1,314 words in 9:42, EP02_V2 1,222 words in 9:46. The English
+narrator is faster. EP01_EN delivers 1,070 words in 7:15, which is 148 words per
+minute including pauses, beds and end screen. English runtimes are therefore
+calculated at 148.
 
 The German Vatican drafts stood at 872 to 962 spoken words, which projects to
 roughly 6:45. The checkpoint rewrite had over-corrected by about 36 percent and
@@ -156,13 +189,16 @@ left the series three minutes under the channel's own produced baseline.
 
 Current English scripts:
 
-| Episode | Words | At 140 | At 135 | At 125 |
-|---|---:|---:|---:|---:|
-| EP13 | 1,328 | 9:29 | 9:50 | 10:37 |
-| EP14 | 1,194 | 8:32 | 8:51 | 9:33 |
-| EP15 | 1,302 | 9:18 | 9:39 | 10:25 |
-| EP16 | 1,288 | 9:12 | 9:32 | 10:18 |
-| EP17 | 1,374 | 9:49 | 10:11 | 11:00 |
+| Episode | Words | At 148 WPM | Margin over 8:00 |
+|---|---:|---:|---:|
+| EP13 | 1,331 | 9:00 | +147 |
+| EP14 | 1,194 | 8:04 | +10 |
+| EP15 | 1,302 | 8:48 | +118 |
+| EP16 | 1,288 | 8:42 | +104 |
+| EP17 | 1,374 | 9:17 | +190 |
+
+EP14 clears the eight-minute threshold by ten words. Any trim in the edit puts
+it under, so it carries no cutting room at all.
 
 Final duration comes from the approved voice master and forced alignment.
 
