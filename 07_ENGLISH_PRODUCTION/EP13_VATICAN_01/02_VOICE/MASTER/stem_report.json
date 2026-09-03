@@ -1,0 +1,84 @@
+{
+  "profile": "EP05_A",
+  "voice": "George",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.61,
+    "similarity_boost": 0.82,
+    "style": 0.06,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "duration": 488.374,
+  "loudness": {
+    "input_i": "-18.28",
+    "input_tp": "-1.99",
+    "input_lra": "2.20",
+    "input_thresh": "-28.69",
+    "output_i": "-18.06",
+    "output_tp": "-2.00",
+    "output_lra": "2.20",
+    "output_thresh": "-28.47",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "sha256": "e63c5436a876d667e80eebf4eadfeda8e8b1ec5c0d0f8c41691f3767d4de7c6c",
+  "stems": [
+    {
+      "id": "EP13_EN_TAKE_01",
+      "start": 0.0,
+      "end": 61.765,
+      "duration": 61.765,
+      "sha256": "ca6d1f75e27fc764920bed7c9242176f4c154f32945c72a4c334e81808ae3960"
+    },
+    {
+      "id": "EP13_EN_TAKE_02",
+      "start": 62.105,
+      "end": 129.814,
+      "duration": 67.709,
+      "sha256": "e281b8d67c4a7e055da5ebd6f2da88dccb3c3d935b5732c764c3553c95a691f1"
+    },
+    {
+      "id": "EP13_EN_TAKE_03",
+      "start": 130.154,
+      "end": 198.003,
+      "duration": 67.849,
+      "sha256": "8185c994141b9270366e934f47be01a842aa2abbee40e81a604292dace9dd843"
+    },
+    {
+      "id": "EP13_EN_TAKE_04",
+      "start": 198.343,
+      "end": 270.418,
+      "duration": 72.075,
+      "sha256": "a7c03e9136b54ad33c16347f42d26e4cea4c82de8cdc7e468ebf6bf615c4c5b1"
+    },
+    {
+      "id": "EP13_EN_TAKE_05",
+      "start": 270.758,
+      "end": 342.879,
+      "duration": 72.121,
+      "sha256": "b68df5f48cca7411a5004946b6748a08283c666fd1bb6d9333a78ad7e823d97c"
+    },
+    {
+      "id": "EP13_EN_TAKE_06",
+      "start": 343.219,
+      "end": 413.994,
+      "duration": 70.774,
+      "sha256": "8948ed613a7f4ec618c593ba61b7a79540a90c463011d77f7a1794af3e4a6bb4"
+    },
+    {
+      "id": "EP13_EN_TAKE_07",
+      "start": 414.334,
+      "end": 483.39,
+      "duration": 69.056,
+      "sha256": "a2fc8e33da09f7775b1714e911555499d4e1142d0dd3571f63a2c3cc6a9488cc"
+    },
+    {
+      "id": "EP13_EN_TAKE_08",
+      "start": 483.73,
+      "end": 488.374,
+      "duration": 4.644,
+      "sha256": "17d829c5ce558e696c8d54e0c76901e48bc21f02bfb87c144b0b2110f4ac89be"
+    }
+  ]
+}

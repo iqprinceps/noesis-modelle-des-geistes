@@ -1,0 +1,170 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_EN_TAKE_01.mp3",
+    "sha256": "7a85261f1d80e00ab852664d8fd4a048c9d19464cc3c4c9179949039675e39b8",
+    "bytes": 989353,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "dg0H6IM0BcQXjJpgVifN",
+    "text_sha256": "0908e712502ccfd61f5a75a372b167f95957cb39d7b941c82677df55149756ad",
+    "characters": 972,
+    "stem_id": "EP13_EN_TAKE_01"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_EN_TAKE_02.mp3",
+    "sha256": "d42afaffab3897f2a20319eb11a8113d4d8462a5fa60f2f0c7c3b9727bed0314",
+    "bytes": 1084230,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "LD7Qk4hjOGarLk4IUZvi",
+    "text_sha256": "78b572395b3992d9f0e361dca931fd5c973ebff135475cf972f71899a25b2148",
+    "characters": 1023,
+    "stem_id": "EP13_EN_TAKE_02"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_EN_TAKE_03.mp3",
+    "sha256": "a3bbe04a98f501b822027facb75425eddc788f209668cda74131a0254a35245d",
+    "bytes": 1086737,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "6Q8tHYSgYHdsquRq4gPx",
+    "text_sha256": "d09c11450e11d3dff25dcdfa5a1e4ba28f6e7d536a4b34b1712fb4ef45ebb4b6",
+    "characters": 1025,
+    "stem_id": "EP13_EN_TAKE_03"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_EN_TAKE_04.mp3",
+    "sha256": "c960d4799bafc9fd439441ae3bd0e4fd0d784897357864e6ccf36c18b36c9481",
+    "bytes": 1154447,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "CSzCQLxMWYjRO4HJY9n7",
+    "text_sha256": "460f4fc5b98af09758402123fc6c61f0f259c3ea1731f939f21e821383e5364c",
+    "characters": 1093,
+    "stem_id": "EP13_EN_TAKE_04"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_EN_TAKE_05.mp3",
+    "sha256": "5eb438d30694044ccf3cdd92b750426db8b0c76486fa49b20396659e62d09aa5",
+    "bytes": 1154865,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "0npW76RPpfIHimAJmAkP",
+    "text_sha256": "ee357bdad725edab1afc52b566cbbe51c5910e2f33c2716d4244712a397eccd5",
+    "characters": 1099,
+    "stem_id": "EP13_EN_TAKE_05"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_EN_TAKE_06.mp3",
+    "sha256": "485ecc0faad58d52edbcb14cdffb10ce183849c40a4dfe510b93fb09c35a79a9",
+    "bytes": 1133549,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "KsCnVRTYfWk2oZR1dAOI",
+    "text_sha256": "b0365b18891ee47eca00448bff8de1421eaa38c5801afef6bd01c1a525e1488e",
+    "characters": 1107,
+    "stem_id": "EP13_EN_TAKE_06"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_EN_TAKE_07.mp3",
+    "sha256": "19b880731e6f3928a4e5f8356384fe0db0b02ebecb6b31436e55dcacf255b799",
+    "bytes": 1105964,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "2g4BgRJtNJ5us3luuu9W",
+    "text_sha256": "57161245d14e91ec4ee98e09a64045a7d31aee83bb78f5ec4c8cd6d370f84f0b",
+    "characters": 1105,
+    "stem_id": "EP13_EN_TAKE_07"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_EN_TAKE_08.mp3",
+    "sha256": "3a278e86d691012d42acd74c354379322aa7baaa7de622ff2f095220b460ba05",
+    "bytes": 75276,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "cHxyzNNVHgUdgGpee1Fo",
+    "text_sha256": "bc45e3e6ecb5fd2d39cefc36dfd8843cf03e0af34a05db8aace23fbc094d36d3",
+    "characters": 67,
+    "stem_id": "EP13_EN_TAKE_08"
+  }
+]
