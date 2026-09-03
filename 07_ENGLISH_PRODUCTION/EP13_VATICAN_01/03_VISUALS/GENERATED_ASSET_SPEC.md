@@ -33,8 +33,8 @@ static holds at 3 to 6 seconds and reviews anything past 8, and the timeline may
 not return to a state it has already used. So the episode needs roughly ninety
 distinct visual states, not a dozen.
 
-Current stock: 48 acquired originals, 24 generated stills, 5 clips. That is 77
-states, about 7.1 seconds each. The card set still to be built closes the rest.
+Current stock: 48 acquired originals, 24 generated stills, 7 clips, 9 cards.
+That is 88 states, about 6.2 seconds each, which lands inside the band.
 
 ## Approved stills
 
@@ -75,15 +75,35 @@ in the source text and a still cannot carry it.
 | `EP13_CLIP01_FLAMES_FAIL.mp4` | V01 | flames spread as filaments, then cool to an ember | 7.2 |
 | `EP13_CLIP03_WRITING.mp4` | H05 | the pencil advances, illegible marks grow behind it | 11.4 |
 | `EP13_CLIP04_SEALING.mp4` | H07 | the seal presses, holds, lifts away, leaving blank wax | 12.6 |
-| `EP13_CLIP05_EMBER.mp4` | V07 | the ember brightens, dims and goes out | 6.4 |
 | `EP13_CLIP06_THE_CLIMB.mp4` | V09 | the line of figures climbs; the rock stays fixed | 6.8 |
+| `EP13_CLIP08_SETTING_THE_METAL.mp4` | H15 | tweezers seat the grey metal in the gold and withdraw | 23.7 |
+| `EP13_CLIP09_PUTTING_IT_AWAY.mp4` | H10 | the envelope goes into the box, the lid closes over it | 7.4 |
+| `EP13_CLIP10_THE_WAY.mp4` | V04 | a gust travels down the road, lifting the cloths | 5.6 |
 
 Camera drift is the mean edge-pixel deviation between the first and last frame.
 Under about 6 is a locked camera, over 15 is a camera move. All five hold.
 
-`CLIP05_EMBER` is the most useful of the set beyond its own beat: it starts and
-ends on nothing, so it works as the transition into and out of the vision act
-without repeating any other state.
+`CLIP09_PUTTING_IT_AWAY` is the strongest of the set. It performs the line the
+script only asserts: he did not publish it. Hands lower the envelope, press it
+flat, and the lid comes over and closes.
+
+`CLIP08` exceeds the drift threshold at 23.7 and is kept as a documented
+exception. At macro scale on a jeweller's bench the movement reads as the
+operator's own hand rather than as a camera move, and it does not destroy the
+frame the way the rejected street dolly did.
+
+### What went wrong in the middle round, and the rule it produced
+
+Two clips were scrapped after the first attempt at motion. `CLIP05_EMBER` measured
+0.6 to 1.2 frame-to-frame: a brightness change on a static image, not a clip.
+`CLIP04_SEALING` jiggled for four seconds and then jump-cut, with the envelope
+teleporting to a new position.
+
+The cause was in the prompt. Long camera-lock sentences and inline prohibition
+lists suppressed the action along with the camera. Prohibitions belong in
+`negativePrompt`. The prompt gets one short camera sentence and then a three-beat
+physical action written with verbs, so something visibly starts, happens and
+finishes. Every clip in the table above was rebuilt or built that way.
 
 ## Rejected, and why
 
@@ -123,11 +143,42 @@ prompt, and the spread is described as filaments rather than volume.
 - V06 is distant silhouette. No impact, no blood, no violence detail.
 - No vignette, no letterboxing, no tilt-shift, no legible generated text anywhere.
 
+## Cards
+
+Nine, built by `tools/build_ep13_cards.py`. None of them is a drawn primitive.
+Each begins as a photographed material surface generated for this episode in
+Register A, blank and with deliberate empty space, and the typography is
+composited onto it at full resolution. That keeps the cards inside the episode's
+own material world rather than importing a template, and it satisfies the card
+lock's rule against cheap full-screen SVG standing in for imagery.
+
+Type is Georgia, which the channel already uses for card titles. Ink never sits
+at pure black. The ember is the only colour allowed, and on dark wood it is
+lifted to a brighter amber because the deep ember is unreadable there.
+
+| Card | Substrate | Says |
+|---|---|---|
+| `CARD01_1944` | laid paper | 3 January 1944, she writes the third part out |
+| `CARD02_1957` | blank envelope on wood | 1957, the envelope reaches Rome |
+| `CARD03_TWO_POPES` | aged paper | 1959 and 1965, neither publishes it |
+| `CARD04_1981` | dark wood | 18 July 1981, two envelopes are brought to him |
+| `CARD05_2000` | warm ivory paper | 26 June 2000, the manuscript is published |
+| `CARD06_CONTAINS` | pale field | what the page contains, four items |
+| `CARD07_NEVER_SAYS` | pale field | what it never says, each struck through |
+| `CARD08_DECISION` | dark wood, mirrored | `WORLD or MYSELF` |
+| `CARD09_CREDIT` | dark wood, rotated | crown photograph, CC BY 3.0 |
+
+`CARD06` and `CARD07` are a deliberate progressive pair on the same substrate,
+which the standard permits for contiguous states. Everywhere else each card has
+its own surface, because three cards on one sheet would be the near-identical
+repeat the standard forbids. That is why seven substrates were generated for
+nine cards rather than one.
+
+Every card was checked at a 246 px viewport and four failed the first build: text
+running off the paper onto the wood, an envelope covering its own headline, and
+ember labels invisible against dark wood on two cards. All four were rebuilt.
+
 ## What still needs building
 
-These are cards and object states, not generated imagery:
-
-1. the evidence card family for the dates and locators;
-2. the subtraction card for `what the page never says`;
-3. the `WORLD or MYSELF` decision card and its end-card repeat;
-4. the attribution card for the crown photograph, CC BY 3.0.
+Voice, forced alignment, then the cue sheet that binds every state above to a
+spoken beat. No further imagery.
