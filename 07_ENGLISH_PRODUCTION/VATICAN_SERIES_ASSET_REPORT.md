@@ -6,17 +6,28 @@ still has to be resolved.
 
 ## Coverage
 
-| Episode | Title | Commons assets | HD capable | On disk |
-|---|---|---:|---:|---:|
-| EP13 | The Bullet in the Crown | 31 | 9 | 68 MB |
-| EP14 | The Letter That Failed | 36 | 20 | 205 MB |
-| EP15 | One Word | 37 | 25 | 254 MB |
-| EP16 | Five Hundred and Eight Pages | 29 | 12 | 257 MB |
-| EP17 | The Ritual Against the Unseen | 14 | 5 | 89 MB |
+| Episode | Title | Base pool | Expansion | Total | HD capable | On disk |
+|---|---|---:|---:|---:|---:|---:|
+| EP13 | The Bullet in the Crown | 31 | 16 | 47 | 25 | 118 MB |
+| EP14 | The Letter That Failed | 36 | 35 | 71 | 55 | 349 MB |
+| EP15 | One Word | 37 | 13 | 50 | 38 | 377 MB |
+| EP16 | Five Hundred and Eight Pages | 29 | 19 | 48 | 31 | 336 MB |
+| EP17 | The Ritual Against the Unseen | 14 | 23 | 37 | 27 | 307 MB |
+| | **Total** | **147** | **106** | **253** | **176** | **1.5 GB** |
 
-HD capable means at least 1920 by 1080 native. Everything below that is
-usable as an inset, a card element or a framed detail, and should not be
-pushed to full frame.
+The base pool is everything the German research had already identified. The
+expansion is a second acquisition pass run on 2026-09-03 against the categories
+the base pool was missing: portraits, places and pictures rather than documents
+and notes. It was searched by subject, filtered to 1920x1080 native or better
+with a reusable licence, then curated by hand against each episode's subject.
+
+Before the expansion, three episodes had zero paintings or drawings and EP16 had
+no locations at all. EP17 had fourteen assets in total and most of them were
+unusable.
+
+HD capable means at least 1920 by 1080 native. Everything below that is usable
+as an inset, a card element or a framed detail, and should not be pushed to full
+frame.
 
 ## Licences across the acquired pool
 
@@ -70,6 +81,50 @@ evidence before the investigator does, which is what the hunt beat needed.
 Campagnola that John Paul II was riding in on 13 May 1981 is on Commons
 under CC0 in its museum display, at 3210x2582. Object rather than newsreel,
 which suits the series grammar better than footage would have.
+
+## What the expansion added
+
+**EP14 got its cast.** Clement VII by Sebastiano del Piombo at 7351x8895 is the
+pope who refused, at a size that holds a full-screen slow push. Henry VIII in
+four Holbein and Joos van Cleve versions, Catherine of Aragon by Juan de
+Flandes, Thomas Wolsey from the Rijksmuseum, Anne Boleyn. Plus real seal
+matrices and wax impressions up to 7200x7198, which is what the episode needs to
+make eighty-one seals physically comprehensible when the letter itself cannot be
+shown.
+
+**EP17 got its place.** Whalley Abbey, where Richard Dugdale worked as a
+gardener, in eight views: the abbey, both gatehouses, the village, a cottage,
+the corn mill. Plus the Speed and Hondius map of Lancashire from 1610 at
+6456x4971, which is the county in the right century rather than a modern
+substitute. Seventeenth-century church interiors and bishop portraits give the
+institutional beats a period face.
+
+**EP15 got the object and the man.** The Colossus of Constantine at 4802x7427
+CC0, Donation of Constantine frescoes at 6624x4416, the School of Raphael
+Donation of Rome, San Giovanni in Laterano interiors, Constantine nummi, and a
+Rijksmuseum engraved portrait of Lorenzo Valla at 3780x5914 CC0.
+
+**EP16 got the trade.** Seven Rijksmuseum CC0 bookseller portraits, a travelling
+bookseller engraving, and a bookseller in his shop with a customer. The episode
+needed a human being and the book trade supplies one who is neither Galileo nor
+Descartes. Two Galileo Dialogo title pages and the Council of Trent complete the
+document side.
+
+**EP13 got Fatima itself.** The basilica, the Capelinha, the sanctuary
+esplanade, pilgrims walking on their knees, the first sculpture of Our Lady of
+Fatima, and a better frame of the Fiat Campagnola at 4878x3797, which supersedes
+the 3210x2582 one for the attack beat.
+
+## Sources that did not deliver
+
+The Metropolitan Museum API returned Mesopotamian cylinder seals, Egyptian
+funerary cones and a Tang dynasty horse painting for queries about medieval
+seals and printing, then began refusing requests. Its keyword search is not
+precise enough for this material and Commons already holds better seal matrices.
+
+Targeted searches for early printing presses returned Venetian Doge processions
+and Guernsey chapels. EP16 already carries the 1568 Jost Amman printer woodcut
+from the base pool, so the gap is covered.
 
 ## Open gaps
 
