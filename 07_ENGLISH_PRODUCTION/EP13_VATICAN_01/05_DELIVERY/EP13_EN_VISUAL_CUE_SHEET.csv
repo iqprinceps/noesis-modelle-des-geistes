@@ -1,0 +1,135 @@
+beat,state,canonical,in,out,hold,text
+1,EP13-C18,EP13-C18,0.1,5.38,5.28,"Inside a crown of gold and pearls, in a shrine in Portugal, there is a bullet."
+2,EP13-C13,EP13-C13,5.42,6.58,1.16,It was fired at a pope.
+3,EP13-C13,EP13-C13,7.12,7.81,0.69,He survived.
+4,H24_HAND_ON_ENVELOPE,H24_HAND_ON_ENVELOPE,8.34,11.93,3.59,"And two months later, still recovering from surgery, he asked for an envelope that had been sealed for thirty-"
+4,H01_ENVELOPE_SEALED,H01_ENVELOPE_SEALED,11.93,15.52,3.59,"And two months later, still recovering from surgery, he asked for an envelope that had been sealed for thirty-"
+5,CLIP09_PUTTING_IT_AWAY,H10_BOX_RETURNED,15.56,22.74,7.18,"Two popes before him had opened that envelope, read what was inside, and closed it again without telling anyon"
+6,EP13-C01,EP13-C01,22.76,28.59,5.83,"The shooting happened on the thirteenth of May, 1981, in Saint Peter's Square."
+7,H30_FIELD_1917,H30_FIELD_1917,28.7,33.54,4.84,"Sixty-four years earlier, on the thirteenth of May, 1917, three children herding sheep near a Portuguese villa"
+7,EP13-C07,EP13-C07,33.54,38.38,4.84,"Sixty-four years earlier, on the thirteenth of May, 1917, three children herding sheep near a Portuguese villa"
+8,EP13-C26,EP13-C26,38.42,42.1,3.68,One of those children later wrote down part of what she saw.
+9,H18_LOCKED_DOOR,H18_LOCKED_DOOR,42.14,44.89,2.75,That is the text inside the envelope.
+10,V14_DOORWAY_LIGHT,V14_DOORWAY_LIGHT,44.94,49.96,5.02,"So this story asks two questions, and the second one is stranger than the first."
+11,V13_PAGE_DISSOLVING,V13_PAGE_DISSOLVING,50.0,51.36,1.36,What did he read?
+12,H28_GOLD_UNDER_GLASS,H28_GOLD_UNDER_GLASS,51.38,56.51,5.13,And how does a bullet fired in Rome end up set inside a crown in Portugal?
+13,H08_ENVELOPE_CARRIED,H08_ENVELOPE_CARRIED,56.6,59.94,3.34,"So follow the envelope, because the envelope can be traced."
+14,CLIP03_WRITING,H05_WRITING_HAND_1944,59.95,62.76,2.81,It begins with a girl and a pencil.
+15,EP13-C14,EP13-C14,62.92,66.93,4.01,"The reported apparitions at Fatima ran through the summer of 1917. The children spoke about prayer, about war,"
+15,EP13-C10,EP13-C10,66.93,70.93,4.0,"The reported apparitions at Fatima ran through the summer of 1917. The children spoke about prayer, about war,"
+15,EP13-C11,EP13-C11,70.93,74.94,4.01,"The reported apparitions at Fatima ran through the summer of 1917. The children spoke about prayer, about war,"
+16,CARD01_1944,CARD01_1944,74.98,78.74,3.76,"Twenty-seven years later, on the third of January, 1944, one of them sat down and wrote the last part out."
+16,H02_SHEET_TWENTYFIVE_LINES,H02_SHEET_TWENTYFIVE_LINES,78.74,82.5,3.76,"Twenty-seven years later, on the third of January, 1944, one of them sat down and wrote the last part out."
+17,EP13-C27,EP13-C27,82.58,85.76,3.18,Lucia dos Santos was the only one of the three still alive.
+18,H06_FOLDING_SHEET,H06_FOLDING_SHEET,85.8,89.98,4.18,"And the moment she put the pencil down, the story changed shape."
+19,CLIP04_SEALING,H07_SEALING_WAX,90.02,93.14,3.12,A reported vision became an object.
+20,H19_PAPERS_ON_DESK_NIGHT,H19_PAPERS_ON_DESK_NIGHT,93.24,96.83,3.59,"Paper. Ink. A sealed envelope that can be carried, stored, guarded, and handed to one person at a time."
+20,H36_KEY_RING,H36_KEY_RING,96.83,100.42,3.59,"Paper. Ink. A sealed envelope that can be carried, stored, guarded, and handed to one person at a time."
+21,CARD02_1957,CARD02_1957,100.5,105.64,5.14,In 1957 the envelope was brought to Rome and placed in the archive of the Holy Office.
+22,H04_ARCHIVE_STORE,H04_ARCHIVE_STORE,105.7,110.58,4.88,"Hold that situation in your mind for a second, because it is a strange one."
+23,H35_SAFE_DOOR,H35_SAFE_DOOR,110.62,111.32,0.7,A document exists.
+24,H26_INTERVIEW_CHAIRS,H26_INTERVIEW_CHAIRS,111.38,114.45,3.07,Its author is alive and can be asked about it.
+25,H37_CORRIDOR_DOORS,H37_CORRIDOR_DOORS,114.5,117.36,2.86,The men permitted to read it are known by name.
+26,H16_NEWSPAPER_STACK,H16_NEWSPAPER_STACK,117.42,121.54,4.12,And everyone else is told only that it is there.
+27,EP13-C12,EP13-C12,121.56,122.78,1.22,"In 1959, John the Twenty-Third read it."
+27,H09_READING_ALONE,H09_READING_ALONE,122.78,124.0,1.22,"In 1959, John the Twenty-Third read it."
+28,H11_DESK_AFTER_READING,H11_DESK_AFTER_READING,124.06,126.2,2.14,He did not publish it.
+29,EP13-C04,EP13-C04,126.26,128.42,2.16,"Six years later, Paul the Sixth read it."
+30,CARD03_TWO_POPES,CARD03_TWO_POPES,128.46,131.12,2.66,He sent it back to the archive.
+31,CARD03_TWO_POPES,CARD03_TWO_POPES,131.26,137.56,6.3,"Each time a pope opened that envelope, the silence afterwards became a decision instead of an accident."
+32,H17_EMPTY_PEWS,H17_EMPTY_PEWS,137.6,141.3,3.7,And every decision made the empty space around it larger.
+33,EP13-C05,EP13-C05,141.38,145.1,3.72,"People filled that space with wars, with a coming crisis in the Church, with the end of the world, with the de"
+33,EP13-C21,EP13-C21,145.1,148.82,3.72,"People filled that space with wars, with a coming crisis in the Church, with the end of the world, with the de"
+34,H40_DUST_IN_LIGHT,H40_DUST_IN_LIGHT,148.9,154.04,5.14,Every one of those ideas grew out of a single fact: the page stayed closed.
+35,H38_EMPTY_CHAIR_LAMP,H38_EMPTY_CHAIR_LAMP,154.1,157.22,3.12,What would you have assumed was inside?
+36,EP13-C02,EP13-C02,157.28,160.58,3.3,"Then came the thirteenth of May, 1981."
+37,H12_SQUARE_CROWD_1981,H12_SQUARE_CROWD_1981,160.66,165.66,5.0,Five nineteen in the afternoon. Saint Peter's Square is crowded.
+38,EP13-X02,EP13-X02,165.7,170.72,5.02,John Paul II is moving slowly through the crowd in an open car.
+39,H20_CROWD_TURNING,H20_CROWD_TURNING,171.27,172.05,0.78,Mehmet Ali Agca fires.
+40,H21_EMPTY_SQUARE_AFTER,H21_EMPTY_SQUARE_AFTER,172.4,174.81,2.41,"The pope is hit, driven out of the square, and taken into surgery."
+40,H13_CORRIDOR_1981,H13_CORRIDOR_1981,174.81,177.22,2.41,"The pope is hit, driven out of the square, and taken into surgery."
+41,H22_SURGICAL_LIGHT,H22_SURGICAL_LIGHT,177.26,177.46,0.2,He survives.
+42,H23_WINDOW_AFTERNOON,H23_WINDOW_AFTERNOON,177.48,181.5,4.02,"And while he is recovering, he does something nobody asked him to do."
+43,H03_HOSPITAL_ROOM_1981,H03_HOSPITAL_ROOM_1981,181.56,183.48,1.92,He asks for the envelope.
+44,CARD04_1981,CARD04_1981,183.58,186.91,3.33,"On the eighteenth of July, 1981, the Portuguese original and an Italian translation are brought to him."
+44,H14_TWO_ENVELOPES,H14_TWO_ENVELOPES,186.91,190.24,3.33,"On the eighteenth of July, 1981, the Portuguese original and an Italian translation are brought to him."
+45,H47_HANDS_HANDING_OVER,H47_HANDS_HANDING_OVER,190.26,192.32,2.06,Put yourself in that room.
+46,H44_MIRROR_ROOM,H44_MIRROR_ROOM,192.44,194.36,1.92,You are recovering from gunshot wounds.
+47,EP13-C03,EP13-C03,194.4,199.34,4.94,You were shot on the anniversary of the day this entire story began.
+48,H42_PRINTED_COLUMN,H42_PRINTED_COLUMN,199.4,205.87,6.47,On the table beside you is a text written thirty-seven years ago by a woman who is still alive. Sealed. Carrie
+48,H46_SHELF_OF_BOXES,H46_SHELF_OF_BOXES,205.87,212.34,6.47,On the table beside you is a text written thirty-seven years ago by a woman who is still alive. Sealed. Carrie
+49,V17_LIGHT_THROUGH_PAPER,V17_LIGHT_THROUGH_PAPER,212.4,214.34,1.94,You are about to open it.
+50,V15_TWO_FIGURES_APART,V15_TWO_FIGURES_APART,214.4,216.32,1.92,Are you looking for the world in there?
+51,V19_OPEN_FIELD_WAITING,V19_OPEN_FIELD_WAITING,216.36,220.28,3.92,Or are you looking for yourself?
+52,CARD08_DECISION,CARD08_DECISION,220.4,222.82,2.42,Leave one word below: WORLD or MYSELF.
+53,CARD08_DECISION,CARD08_DECISION,222.84,227.58,4.74,"Hold on to your answer, because it decides how you read the next part."
+54,CARD05_2000,CARD05_2000,227.62,234.36,6.74,"The Vatican published the manuscript in the year 2000, as a photographic facsimile with a translation and a co"
+55,H27_ARCHIVE_LEDGER,H27_ARCHIVE_LEDGER,234.44,236.4,1.96,So we can read exactly what he read.
+56,H45_OBJECT_LINE,H45_OBJECT_LINE,236.44,242.82,6.38,Read it the way he had to. From a hospital bed. Two months after somebody shot you.
+57,CLIP01_FLAMES_FAIL,V01_ANGEL_SWORD,242.9,247.17,4.27,The vision opens with an angel holding a flaming sword. The flames look as though they will set the world on f
+57,V12_SWORD_ALONE,V12_SWORD_ALONE,247.17,251.44,4.27,The vision opens with an angel holding a flaming sword. The flames look as though they will set the world on f
+58,V02_FIGURE_IN_WHITE,V02_FIGURE_IN_WHITE,251.46,254.34,2.88,Then the children see a bishop dressed in white.
+59,V07_EMBER_ALONE,V07_EMBER_ALONE,254.4,258.26,3.86,They write that they had the impression this was the Holy Father.
+60,V03_RUINED_CITY,V03_RUINED_CITY,258.32,261.98,3.66,"He walks through a large city, half of it in ruins."
+61,CLIP10_THE_WAY,V04_THE_WAY,262.02,264.46,2.44,He passes bodies on the way.
+62,CLIP06_THE_CLIMB,V09_THE_CLIMB,264.5,268.33,3.83,"He climbs a steep mountain with other bishops, priests and lay people, and at the top there is a large cross."
+62,V05_MOUNTAIN_CROSS,V05_MOUNTAIN_CROSS,268.33,272.16,3.83,"He climbs a steep mountain with other bishops, priests and lay people, and at the top there is a large cross."
+63,V06_THE_FALL,V06_THE_FALL,272.2,277.66,5.46,"There, at the top, a group of soldiers fires at him with bullets and arrows."
+64,V06_THE_FALL,V06_THE_FALL,277.7,278.14,0.44,He falls.
+65,V08_EMPTY_SUMMIT,V08_EMPTY_SUMMIT,278.18,280.24,2.06,The others are killed with him.
+66,CARD06_CONTAINS,CARD06_CONTAINS,280.3,283.22,2.92,Now notice what the page never says.
+67,CARD07_NEVER_SAYS,CARD07_NEVER_SAYS,283.24,284.48,1.24,It gives no name.
+68,CARD07_NEVER_SAYS,CARD07_NEVER_SAYS,284.52,285.86,1.34,It gives no date.
+69,CARD07_NEVER_SAYS,CARD07_NEVER_SAYS,285.9,289.85,3.95,"There is no square, no car, no crowd, no ambulance."
+70,V18_EMBER_GOING_OUT,V18_EMBER_GOING_OUT,289.86,292.48,2.62,And the bishop in white does not survive.
+71,H29_CANDLE_WALL,H29_CANDLE_WALL,292.54,295.72,3.18,The man reading it in July 1981 did.
+72,V11_THREE_EMBERS,V11_THREE_EMBERS,295.76,299.01,3.25,"So what would you do with that page, if you were him?"
+73,H41_THREE_CHAIRS_ANGLES,H41_THREE_CHAIRS_ANGLES,299.1,306.22,7.12,Which is where this stops being a story about a prophecy and becomes a story about reading.
+74,EP13-C31,EP13-C31,306.3,311.19,4.89,"In 2000, Cardinal Angelo Sodano announced the publication at Fatima and described the pope's own conviction: t"
+74,H25_PRESS_MICROPHONES,H25_PRESS_MICROPHONES,311.19,316.08,4.89,"In 2000, Cardinal Angelo Sodano announced the publication at Fatima and described the pope's own conviction: t"
+75,EP13-C09,EP13-C09,316.16,321.75,5.59,"Before the release, Sister Lucia was interviewed again. According to the Vatican's record of that conversation"
+75,EP13-C16,EP13-C16,321.75,327.34,5.59,"Before the release, Sister Lucia was interviewed again. According to the Vatican's record of that conversation"
+76,EP13-C30,EP13-C30,327.4,332.14,4.74,"The Vatican's own commentary read the scene broadly, as an image of the persecutions of the twentieth century,"
+76,EP13-X11,EP13-X11,332.14,336.88,4.74,"The Vatican's own commentary read the scene broadly, as an image of the persecutions of the twentieth century,"
+77,V10_MARTYRS_LINE,V10_MARTYRS_LINE,336.92,340.92,4.0,So one page carried three readings at the same time.
+78,V10_MARTYRS_LINE,V10_MARTYRS_LINE,340.98,343.44,2.46,A century of martyrs.
+79,EP13-C19,EP13-C19,343.5,344.82,1.32,One afternoon in Rome.
+80,EP13-C25,EP13-C25,344.88,348.33,3.45,And one man's understanding of why he was still alive.
+81,EP13-C22,EP13-C22,349.0,349.92,0.92,Which brings your answer back.
+82,H39_CALENDAR_PAGES,H39_CALENDAR_PAGES,349.96,353.17,3.21,When do we agree that a prophecy has been fulfilled?
+83,H39_CALENDAR_PAGES,H39_CALENDAR_PAGES,353.22,355.58,2.36,When it names an event in advance?
+84,EP13-C23,EP13-C23,355.64,361.51,5.87,Or when a person survives something and recognises their own experience inside an older image?
+85,EP13-C24,EP13-C24,361.54,366.12,4.58,The second kind is how most people actually use the texts they believe in.
+86,EP13-X10,EP13-X10,366.16,369.14,2.98,Which leaves the other question from the start of this episode.
+87,EP13-X08,EP13-X08,369.16,372.44,3.28,How does a bullet get into a crown?
+88,EP13-X03,EP13-X03,372.74,376.74,4.0,"One year after the shooting, John Paul II travelled to Fatima."
+89,EP13-X09,EP13-X09,376.78,380.31,3.53,By then his survival had become part of this story for him.
+90,EP13-X07,EP13-X07,380.36,384.74,4.38,One of the projectiles from the attack was given to the shrine.
+91,CLIP08_SETTING_THE_METAL,H15_SETTING_THE_METAL,384.8,388.03,3.23,In 1989 it was set into the precious crown of the statue of Our Lady of the Rosary of Fatima.
+91,EP13-X01,EP13-X01,388.03,391.26,3.23,In 1989 it was set into the precious crown of the statue of Our Lady of the Rosary of Fatima.
+92,EP13-X06,EP13-X06,391.32,392.1,0.78,It is still there.
+93,EP13-C06,EP13-C06,392.2,397.04,4.84,And that is the image this whole episode has been walking toward.
+94,V21_CROWN_SHAPE_DISSOLVE,V21_CROWN_SHAPE_DISSOLVE,397.4,402.32,4.92,"Metal from an assassination attempt, resting among gold and pearls and precious stones."
+95,EP13-X16,EP13-X16,402.66,407.72,5.06,"An object made for violence, absorbed into an object made for devotion."
+96,EP13-X04,EP13-X04,408.2,411.64,3.44,"The thirteenth of May, 1981, now has a physical address."
+97,H51_FIVE_FORMS_ROW,H51_FIVE_FORMS_ROW,411.7,416.24,4.54,Look at what actually happened across those eighty-three years.
+98,H48_PAGE_BECOMES_OBJECT,H48_PAGE_BECOMES_OBJECT,416.34,418.98,2.64,A reported vision became a handwritten page.
+99,H52_ENVELOPE_ALONE_WIDE,H52_ENVELOPE_ALONE_WIDE,419.67,421.44,1.77,The page became a sealed object.
+100,H49_BOX_ON_SHELF_ALONE,H49_BOX_ON_SHELF_ALONE,421.54,426.17,4.63,The object entered an archive and gained power over people who were never allowed to read it.
+101,H50_THREE_READERS_TABLE,H50_THREE_READERS_TABLE,426.56,431.36,4.8,"And when it was finally opened, it gave three different readers three different truths."
+102,H56_EMPTY_SHELVES_GAPS,H56_EMPTY_SHELVES_GAPS,431.46,435.17,3.71,That is the pattern this series follows.
+103,EP13-X05,EP13-X05,435.24,438.61,3.37,"An institution takes something uncertain, and gives it a form."
+104,EP13-X15,EP13-X15,438.61,440.08,1.47,"Here, the form was an envelope."
+105,EP13-X13,EP13-X13,440.84,443.17,2.33,The next form is much larger.
+106,H53_WIDE_PARCHMENT_EDGE,H53_WIDE_PARCHMENT_EDGE,443.22,447.53,4.31,"In July 1530, eighty-three of the most powerful men in England signed a single sheet of parchment and hung eig"
+106,H32_SEALS_ON_CORD,H32_SEALS_ON_CORD,447.53,451.84,4.31,"In July 1530, eighty-three of the most powerful men in England signed a single sheet of parchment and hung eig"
+107,H54_SEAL_SINGLE_MACRO,H54_SEAL_SINGLE_MACRO,451.9,456.96,5.06,They were trying to force a pope to end their king's marriage.
+108,H54_SEAL_SINGLE_MACRO,H54_SEAL_SINGLE_MACRO,457.04,457.76,0.72,He refused.
+109,H31_PARCHMENT_COLUMNS,H31_PARCHMENT_COLUMNS,457.8,462.04,4.24,"Within four years England broke with Rome, and the marriage ended without him."
+110,H57_SCALE_PAN_EMPTY,H57_SCALE_PAN_EMPTY,462.06,465.85,3.79,The letter failed at everything it was written to do.
+111,H33_CRATES_MOUNTAIN_ROAD,H33_CRATES_MOUNTAIN_ROAD,465.86,470.22,4.36,"It is still in Rome, seals attached, almost five hundred years later."
+112,H55_CART_WHEEL_MUD,H55_CART_WHEEL_MUD,470.3,475.03,4.73,Other parts of that same archive were carried over the Alps by Napoleon and never came back. Some of it was so
+112,H34_WASTE_PAPER_WEIGHED,H34_WASTE_PAPER_WEIGHED,475.03,479.76,4.73,Other parts of that same archive were carried over the Alps by Napoleon and never came back. Some of it was so
+113,V20_FIVE_EMBERS_LINE,V20_FIVE_EMBERS_LINE,479.84,483.02,3.18,"Next time: why that letter survived, and what did not."
+114,CARD09_CREDIT,CARD09_CREDIT,483.84,486.98,3.14,Subscribe if you want to follow this file.
+115,CARD10_DECISION_END,CARD10_DECISION_END,487.06,488.05,0.99,And before you go: WORLD or MYSELF. Which one were you looking for?

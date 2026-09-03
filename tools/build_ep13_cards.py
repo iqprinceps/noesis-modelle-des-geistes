@@ -233,6 +233,22 @@ def card09_credit():
     return base, lay, "EP13_CARD09_CREDIT.png"
 
 
+@card
+def card10_decision_end():
+    base = substrate("EP13_SUB07_PAPER_WARM.png").transpose(Image.FLIP_LEFT_RIGHT)
+    lay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(lay)
+    x, y = 340, 400
+    tracked(d, (x, y), "BEFORE YOU GO", f(SERIF_B, 54), INK_SOFT, track=18)
+    d.text((x - 6, y + 128), "Which one were", font=f(SERIF, 168), fill=INK)
+    d.text((x - 6, y + 320), "you looking for?", font=f(SERIF, 168), fill=INK)
+    ink_rule(d, x, y + 566, x + 900, INK_SOFT, weight=4, seed=71)
+    w1 = tracked(d, (x, y + 616), "WORLD", f(SERIF_B, 108), INK, track=12)
+    d.text((x + w1 + 60, y + 636), "or", font=f(SERIF_I, 68), fill=INK_SOFT)
+    tracked(d, (x + w1 + 175, y + 616), "MYSELF", f(SERIF_B, 108), EMBER, track=12)
+    return base, lay, "EP13_CARD10_DECISION_END.png"
+
+
 def mobile_check(img: Image.Image, name: str, outdir: pathlib.Path) -> None:
     small = img.resize((246, int(246 * H / W)), Image.LANCZOS)
     small.resize((984, int(984 * H / W)), Image.NEAREST).save(
