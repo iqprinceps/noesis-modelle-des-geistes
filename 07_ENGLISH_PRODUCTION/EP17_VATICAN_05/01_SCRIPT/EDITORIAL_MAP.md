@@ -67,19 +67,60 @@ that any sign constitutes a diagnostic test.
   with restraint and without horror grammar;
 - closing return to all five series objects in their own materials.
 
-## Source lock required before voice
+## The Dugdale woodcut
 
-**Hard gate.** The cold open narrates the Surey case, and the case details are
-the least locked material in the package.
+Acquisition on 2026-09-03 found the thing this episode was missing.
 
-1. the young man's name, the year, the location and the nature of the fits,
-   verified against the Taylor 1697 and Jollie 1698 scans rather than secondary
-   summaries, with anything unverified removed from the narration;
-2. the duration and character of the ministers' intervention, attributed to
-   whichever of the two books asserts it;
+Taylor 1697 carries a woodcut of the young man, printed at the front of the
+book, captioned in three words: `The Surey Impostor.` A crouching figure in a
+hooded robe. Wellcome scan `b30321566`, canvas 9, 3488 by 4975, Public Domain
+Mark 1.0. Downloaded and hashed in `02_SOURCES/WELLCOME_HEROASSET_MANIFEST.csv`.
+
+It is not a neutral likeness. It was commissioned and captioned by the side that
+called him a fraud, and it is the only surviving portrait of him. For an episode
+about two incompatible accounts of one person, a partisan portrait is better
+evidence than a neutral one would have been, and the script now says so.
+
+The same volume carries a flyleaf note in a later hand, dated September 1894,
+which records the case in one sentence and reaches its own verdict: `either a
+lunatic or an impostor; the latter undoubtedly.` Two hundred years after the
+dispute, a third reader picks the same binary the episode asks the viewer to
+pick, and rules out the third option without argument. Available as a beat if
+S9 needs one more turn; not currently in the script.
+
+## Source lock
+
+Case identity resolved. Wellcome's catalogue subject heading for both volumes is
+`Dugdale, Richard, active 1697`, and Jollie's own title page names `Richard
+Dugdale's case and cure`. The name, the occupation and the woodcut are now in
+the cold open.
+
+Still required before voice:
+
+1. the nature and duration of the fits and of the ministers' intervention, read
+   from the Taylor and Jollie scans rather than from secondary summaries, and
+   attributed to whichever volume asserts each detail;
+2. the dating. The script says `at the end of the seventeenth century` and
+   avoids a year for the events themselves, which the two 1697 and 1698
+   imprints support without further work. Do not add a year for the fits until
+   it is read out of the scans;
 3. 1614 printed p. 198 opening instruction, compared against the selected scan;
    the script paraphrases and no Latin appears in quotation marks until matched;
 4. Canon 1172 wording;
 5. the 1999 presentation wording in the chosen language edition, for both the
    permission requirement and the illness examination;
-6. pronunciation sheet: Rituale Romanum, Jollie, Surey, ordinary.
+6. pronunciation sheet: Rituale Romanum, Dugdale, Jollie, Zachary Taylor, Surey,
+   ordinary.
+
+## Commons pool warning
+
+The eleven Commons files inherited from the German research are the weakest pool
+in the series and most of them work against this episode. They include Ars
+Goetia demon sigils and Dictionnaire Infernal plates of Beelzebub and Buer.
+Those are nineteenth-century occult illustration, and this episode is about an
+institution making decisions under uncertainty. Using them would deliver exactly
+the horror grammar the editorial guard forbids.
+
+The two Wellcome volumes and the Dugdale woodcut are worth more than the whole
+Commons pool here. Treat the demonology plates as rejected unless a specific
+beat argues for one, and record that argument.

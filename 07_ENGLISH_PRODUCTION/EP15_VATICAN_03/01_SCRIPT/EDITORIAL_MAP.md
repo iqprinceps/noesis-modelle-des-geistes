@@ -54,12 +54,42 @@ explained, which is the strongest available form of in-story participation.
 - Valla manuscripts, marginalia and the early printed edition as the forensic layer;
 - the three layers must remain visually separable at all times.
 
-## Source lock required before voice
+## The satrap pages are located
 
-1. printed p. 87 of the 1922 Coleman edition matched to the scan image, with
-   viewer pagination kept separate from printed pagination;
-2. Valla's actual formulation about satraps before any quotation marks appear;
-3. Paleae locators D.96 c.13 and c.14;
-4. the modern comparison used for the anachronism, checked so that it clarifies
+Acquired 2026-09-03. The Coleman 1922 edition is downloaded in full as PDF plus
+OCR text, from the University of Michigan scan at the Internet Archive, item
+`aga5892.0001.001.umich.edu`. Public domain in the United States; record the
+exploitation-territory check at picture lock rather than relying on the year.
+Hashes in `02_SOURCES/COMMONS_ASSET_MANIFEST.csv` and the file header.
+
+The edition prints the Latin and Coleman's English on facing pages, which gives
+the episode two distinct assets instead of one:
+
+**Printed pp. 12 and 13. The forgery's own words.** The Donation text reads
+`Utile iudicavimus una cum omnibus satrapis nostris, et universo senatu
+optimatibusque meis`, with the facing translation `We, together with all our
+satraps, and the whole senate and my nobles`. This is the page for the viewer
+hunt. The anachronism is visible in the document itself, in Latin, with an
+English rendering beside it, before Valla is mentioned.
+
+**Printed pp. 86 and 87. Valla's attack.** `Quis umquam satrapes in consiliis
+Romanorum nominari audivit?` Who ever heard of satraps being named in the
+councils of the Romans. This is the reveal page.
+
+Show pp. 12 and 13 first, run the CONSUL, SENATE, SATRAP decision on the
+document's own sentence, then cut to pp. 86 and 87 for the answer. The episode
+gains a real forensic gesture: the viewer reads the evidence before the
+investigator does.
+
+Coleman's front matter also lists `satraps (as a Roman official)` among the
+distinctive vocabulary markers, which supports the argument without narration.
+
+## Source lock still required before voice
+
+1. match printed pp. 12, 13, 86 and 87 to the scan page images; keep PDF viewer
+   pagination separate from printed pagination in the cue sheet;
+2. Paleae locators D.96 c.13 and c.14;
+3. the modern comparison used for the anachronism, checked so that it clarifies
    the error without asserting anything about a living government;
-5. pronunciation sheet: Valla, Sylvester, Gratian, Paleae, Eusebius of Nicomedia.
+4. pronunciation sheet: Valla, Sylvester, Gratian, Paleae, Eusebius of Nicomedia,
+   satrapa.
