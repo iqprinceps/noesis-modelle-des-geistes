@@ -49,10 +49,18 @@ payoff.
 - vision sequence as an escalating reconstruction that never imitates the manuscript;
 - return to Fatima in gold and daylight; crown wide, then in to the projectile.
 
-## Source lock required before voice
+## Source lock
 
-1. exact provenance wording for the projectile handover and 1989 setting;
-2. the 2000 facsimile passage used for the vision sequence, phrase by phrase;
-3. Sodano's 2000 formulation and the Vatican record of the Lucia conversation;
-4. pronunciation sheet: Fatima, Lucia dos Santos, Francisco and Jacinta Marto,
-   Agca, Sodano.
+**Completed 2026-09-03.** See `02_SOURCES/SOURCE_LOCK.md` for the claim-to-source
+table and the two script corrections it produced, and
+`01_SCRIPT/PRONUNCIATION_SHEET.md` for the voice sheet.
+
+Fifteen claims checked live against the Vatican document and the Shrine. Fourteen
+locked. One is not:
+
+**C15, the projectile provenance, is held at secondary corroboration.** The
+Shrine confirms the crown contains the bullet, with no date and no donor. The
+1989 setting and the 1984 handover to the Bishop of Leiria-Fatima are stable
+across secondary reporting and absent from both primary sources. The script keeps
+the conservative form and never states where the projectile was recovered. Resolve
+before picture lock, not before voice.
