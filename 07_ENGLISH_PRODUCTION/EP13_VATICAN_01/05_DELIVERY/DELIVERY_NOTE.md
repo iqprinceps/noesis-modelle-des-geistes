@@ -1,6 +1,7 @@
 # EP13_EN — Delivery Note
 
-Rendered 2026-09-03 with `tools/render_ep13_en.py`.
+Rendered 2026-09-03 with `tools/render_ep13_en.py`, re-rendered 2026-09-04 after
+the pre-publication rights audit replaced eight stills.
 
 ## What this file is
 
@@ -12,7 +13,7 @@ the channel's delivery loudness.
 | Duration | 8:08.4 (488.37 s) |
 | Video | H.264, 1920x1080, 30 fps, 5.0 Mbps |
 | Audio | AAC 192 kbps, 48 kHz mono |
-| Size | 307 MB |
+| Size | 301 MiB |
 | Loudness | −14.3 LUFS integrated, −1.1 dBTP, LRA 2.1 |
 
 This matches the channel's existing masters, which sit at −14.0 LUFS and −1.0
@@ -31,7 +32,7 @@ the waiting passages, `pressure` for the attack and the handoff, and `vision`,
 which is the only section that opens above the bass register.
 
 SFX are placed from the cue sheet, so each one lands on the state it belongs to
-rather than on a grid: 24 events, among them the pencil, the wax press, the box
+rather than on a grid: 25 events, among them the pencil, the wax press, the box
 lid closing, keys, the crowd turning, the clinical room tone, metal seals, the
 scale weights and the cart. Both beds are sidechained under the narration, the
 score at 62 percent depth and the effects at 45.
@@ -113,11 +114,51 @@ writing in 1944, doctors in a corridor and a man alone in a pew.
 Reference images were supplied for period accuracy only, with the prompt stating
 explicitly that no face from a reference may be reproduced.
 
+## Eight stills replaced after the rights audit
+
+The pre-publication licence pass found eight CC BY-SA photographs in the finished
+cut. Every still is cropped and moved by the Ken Burns pass, which makes the film
+Adapted Material rather than a collection of unmodified works, and ShareAlike
+would then oblige the whole film to carry a licence YouTube cannot express.
+
+Two of the eight also carried a photographer's watermark burned into the frame,
+and one was a broadly smiling cardinal portrait sitting under the line "Which
+brings your answer back", which was wrong for the beat on its own merits.
+
+| Beat | Was | Now |
+|---|---|---|
+| moving slowly through the crowd in an open car | museum photograph of the jeep | reconstruction, the vehicle in a 1981 crowd |
+| which brings your answer back | smiling cardinal portrait | a lit crucifix in a dark chapel |
+| how does a bullet get into a crown | colonnade to the tower | the basilica tower |
+| set into the precious crown | watermarked mosaic | the crowned statue, cropped to the crown |
+| it is still there | chapel under canopy | the same chapel, CC0, already acquired |
+| absorbed into an object made for devotion | watermarked relief | the apparition relief |
+| here, the form was an envelope | statue in a niche | the handwritten sheet |
+| the next form is much larger | flat plaza | the sanctuary esplanade |
+
+Five replacements are new acquisitions recorded in
+`02_SOURCES/COMMONS_SHAREALIKE_REPLACEMENT_MANIFEST.csv`, one is a reconstruction
+from round 7, one is a CC0 file already in the acquired pool, and one is a
+generated sheet that was acquired but unused.
+
+The crowned statue was cropped to the crown and head. The line names the crown,
+and the uncropped frame sat pillarboxed with the object small.
+
+After the swap the cut contains no ShareAlike material, no unlisted material and
+no non-contiguous repeats. Licences now: 22 public domain, 8 CC BY 2.0, 6 CC0,
+1 CC BY 3.0.
+
+While remixing, one dead SFX cue was found and fixed. Four keys in the effects
+map still pointed at states the people pass had replaced. Three of those had a
+working duplicate on the new state; the clinical corridor did not, so that sound
+had been silent. The corridor tone is restored and the new crowd shot was given
+the crowd bed, which is why the count is now 25 rather than 23.
+
 ## Still open before publication
 
-1. thumbnail;
-3. an aloud review of the narration, which is a judgement only the channel owner
+1. an aloud review of the narration, which is a judgement only the channel owner
    can make;
-4. `C15` in the source lock: the 1989 setting of the projectile into the crown is
-   corroborated only by secondary sources;
-5. upload metadata, description and tags.
+2. `C15` in the source lock: the 1989 setting of the projectile into the crown is
+   corroborated only by secondary sources, and a second search on 2026-09-04
+   found the sources also disagree about when the projectile was handed over. It
+   is disclosed in the published description.

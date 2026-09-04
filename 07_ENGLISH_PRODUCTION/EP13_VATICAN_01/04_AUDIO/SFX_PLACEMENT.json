@@ -46,17 +46,22 @@
  },
  {
   "at": 160.66,
-  "state": "H12_SQUARE_CROWD_1981",
+  "state": "P03_CROWD_FACES_1981",
+  "sfx": "crowd"
+ },
+ {
+  "at": 165.7,
+  "state": "P15_OPEN_CAR_IN_CROWD",
   "sfx": "crowd"
  },
  {
   "at": 171.27,
-  "state": "H20_CROWD_TURNING",
+  "state": "P04_CROWD_ALARM_FACES",
   "sfx": "crowdturn"
  },
  {
   "at": 174.81,
-  "state": "H13_CORRIDOR_1981",
+  "state": "P13_DOCTORS_CORRIDOR",
   "sfx": "roomclinic"
  },
  {
@@ -71,7 +76,7 @@
  },
  {
   "at": 292.54,
-  "state": "H29_CANDLE_WALL",
+  "state": "P07_PILGRIMS_CANDLES",
   "sfx": "flame"
  },
  {

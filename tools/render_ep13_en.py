@@ -78,7 +78,8 @@ def resolve(state: str) -> pathlib.Path | None:
                 if f.suffix.lower() in IMAGE_EXT | VIDEO_EXT:
                     _index[f.stem.upper()] = f
         # originals carry manifest ids rather than filenames
-        for name in ("COMMONS_ASSET_MANIFEST.csv", "COMMONS_EXPANSION_MANIFEST.csv"):
+        for name in ("COMMONS_ASSET_MANIFEST.csv", "COMMONS_EXPANSION_MANIFEST.csv",
+                     "COMMONS_SHAREALIKE_REPLACEMENT_MANIFEST.csv"):
             p = EP / "02_SOURCES" / name
             if not p.is_file():
                 continue

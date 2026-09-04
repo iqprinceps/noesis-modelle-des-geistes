@@ -59,13 +59,38 @@ place: one of the projectiles from the attack was given to the shrine, and in
 1989 it was set into the crown. It does not state where the projectile was
 recovered, who carried it, or that it is the bullet that struck him.
 
+**Second search, 2026-09-04, before the upload package.** Option 1 was attempted
+again and failed. The Shrine's own pages return 404 on the crown, and no Holy See
+text carries the setting. What the search did add is detail and a contradiction,
+both worth recording:
+
+- the secondary accounts describe the projectile as crimped into a void at the
+  junction of the eight arches, beneath the sky-blue orb, a void left from the
+  crown's 1942 manufacture;
+- **the handover date is not stable.** Part of the reporting places the offering
+  at Fatima on 13 May 1982, during the Pope's pilgrimage one year after the
+  attack; the rest gives 1984 to the Bishop of Leiria-Fatima. The sources
+  disagree with each other.
+
+The first point can be verified independently, and is: the dull grey cone visible
+in `EP13_HA01` sits exactly at the junction of the arches under the orb. That is
+an observation from a licensed photograph rather than a claim taken on trust, and
+it is the reason the thumbnail rings that spot.
+
+The second point makes the provenance chain weaker than it looked, not stronger.
+It also confirms the existing decision to keep the handover undated in the script.
+
 Two hardening options, in order of preference:
 
-1. obtain a Shrine or Holy See statement carrying the 1989 setting, then
-   optionally add the 1984 handover to the Bishop of Leiria-Fatima, which is a
-   strong human beat currently left out;
+1. obtain a Shrine or Holy See statement carrying the 1989 setting. Do **not**
+   add the handover as a human beat until the sources agree on its year;
 2. if no primary source is found, replace `In 1989 it was set into` with a form
    that does not date the setting.
+
+**Status at delivery.** The rendered master carries `In 1989`. It is the one
+claim in the episode resting on secondary sources alone, it is disclosed in the
+published description, and changing it costs one line of narration, one segment
+re-render and a remix.
 
 Do not add the jeep. The recovery location is the specific point on which the
 sources are least consistent, and the episode does not need it.

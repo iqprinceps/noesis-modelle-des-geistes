@@ -44,7 +44,7 @@ beat,state,canonical,in,out,hold,text
 35,H38_EMPTY_CHAIR_LAMP,H38_EMPTY_CHAIR_LAMP,154.1,157.22,3.12,What would you have assumed was inside?
 36,EP13-C02,EP13-C02,157.28,160.58,3.3,"Then came the thirteenth of May, 1981."
 37,P03_CROWD_FACES_1981,P03_CROWD_FACES_1981,160.66,165.66,5.0,Five nineteen in the afternoon. Saint Peter's Square is crowded.
-38,EP13-X02,EP13-X02,165.7,170.72,5.02,John Paul II is moving slowly through the crowd in an open car.
+38,P15_OPEN_CAR_IN_CROWD,P15_OPEN_CAR_IN_CROWD,165.7,170.72,5.02,John Paul II is moving slowly through the crowd in an open car.
 39,P04_CROWD_ALARM_FACES,P04_CROWD_ALARM_FACES,171.27,172.05,0.78,Mehmet Ali Agca fires.
 40,H21_EMPTY_SQUARE_AFTER,H21_EMPTY_SQUARE_AFTER,172.4,174.81,2.41,"The pope is hit, driven out of the square, and taken into surgery."
 40,P13_DOCTORS_CORRIDOR,P13_DOCTORS_CORRIDOR,174.81,177.22,2.41,"The pope is hit, driven out of the square, and taken into surgery."
@@ -95,22 +95,22 @@ beat,state,canonical,in,out,hold,text
 78,V10_MARTYRS_LINE,V10_MARTYRS_LINE,340.98,343.44,2.46,A century of martyrs.
 79,EP13-C19,EP13-C19,343.5,344.82,1.32,One afternoon in Rome.
 80,EP13-C25,EP13-C25,344.88,348.33,3.45,And one man's understanding of why he was still alive.
-81,EP13-C22,EP13-C22,349.0,349.92,0.92,Which brings your answer back.
+81,EP13-Y04,EP13-Y04,349.0,349.92,0.92,Which brings your answer back.
 82,H39_CALENDAR_PAGES,H39_CALENDAR_PAGES,349.96,353.17,3.21,When do we agree that a prophecy has been fulfilled?
 83,H39_CALENDAR_PAGES,H39_CALENDAR_PAGES,353.22,355.58,2.36,When it names an event in advance?
 84,EP13-C23,EP13-C23,355.64,361.51,5.87,Or when a person survives something and recognises their own experience inside an older image?
 85,EP13-C24,EP13-C24,361.54,366.12,4.58,The second kind is how most people actually use the texts they believe in.
 86,EP13-X10,EP13-X10,366.16,369.14,2.98,Which leaves the other question from the start of this episode.
-87,EP13-X08,EP13-X08,369.16,372.44,3.28,How does a bullet get into a crown?
+87,EP13-Y01,EP13-Y01,369.16,372.44,3.28,How does a bullet get into a crown?
 88,EP13-X03,EP13-X03,372.74,376.74,4.0,"One year after the shooting, John Paul II travelled to Fatima."
 89,EP13-X09,EP13-X09,376.78,380.31,3.53,By then his survival had become part of this story for him.
 90,EP13-X07,EP13-X07,380.36,384.74,4.38,One of the projectiles from the attack was given to the shrine.
 91,CLIP08_SETTING_THE_METAL,H15_SETTING_THE_METAL,384.8,388.03,3.23,In 1989 it was set into the precious crown of the statue of Our Lady of the Rosary of Fatima.
-91,EP13-X01,EP13-X01,388.03,391.26,3.23,In 1989 it was set into the precious crown of the statue of Our Lady of the Rosary of Fatima.
-92,EP13-X06,EP13-X06,391.32,392.1,0.78,It is still there.
+91,EP13-Y03,EP13-Y03,388.03,391.26,3.23,In 1989 it was set into the precious crown of the statue of Our Lady of the Rosary of Fatima.
+92,EP13-X14,EP13-X14,391.32,392.1,0.78,It is still there.
 93,EP13-C06,EP13-C06,392.2,397.04,4.84,And that is the image this whole episode has been walking toward.
 94,V21_CROWN_SHAPE_DISSOLVE,V21_CROWN_SHAPE_DISSOLVE,397.4,402.32,4.92,"Metal from an assassination attempt, resting among gold and pearls and precious stones."
-95,EP13-X16,EP13-X16,402.66,407.72,5.06,"An object made for violence, absorbed into an object made for devotion."
+95,EP13-Y05,EP13-Y05,402.66,407.72,5.06,"An object made for violence, absorbed into an object made for devotion."
 96,EP13-X04,EP13-X04,408.2,411.64,3.44,"The thirteenth of May, 1981, now has a physical address."
 97,H51_FIVE_FORMS_ROW,H51_FIVE_FORMS_ROW,411.7,416.24,4.54,Look at what actually happened across those eighty-three years.
 98,H48_PAGE_BECOMES_OBJECT,H48_PAGE_BECOMES_OBJECT,416.34,418.98,2.64,A reported vision became a handwritten page.
@@ -119,8 +119,8 @@ beat,state,canonical,in,out,hold,text
 101,H50_THREE_READERS_TABLE,H50_THREE_READERS_TABLE,426.56,431.36,4.8,"And when it was finally opened, it gave three different readers three different truths."
 102,H56_EMPTY_SHELVES_GAPS,H56_EMPTY_SHELVES_GAPS,431.46,435.17,3.71,That is the pattern this series follows.
 103,EP13-X05,EP13-X05,435.24,438.61,3.37,"An institution takes something uncertain, and gives it a form."
-104,EP13-X15,EP13-X15,438.61,440.08,1.47,"Here, the form was an envelope."
-105,EP13-X13,EP13-X13,440.84,443.17,2.33,The next form is much larger.
+104,H02_SHEET_TWENTYFIVE_LINES,H02_SHEET_TWENTYFIVE_LINES,438.61,440.08,1.47,"Here, the form was an envelope."
+105,EP13-Y02,EP13-Y02,440.84,443.17,2.33,The next form is much larger.
 106,H53_WIDE_PARCHMENT_EDGE,H53_WIDE_PARCHMENT_EDGE,443.22,447.53,4.31,"In July 1530, eighty-three of the most powerful men in England signed a single sheet of parchment and hung eig"
 106,H32_SEALS_ON_CORD,H32_SEALS_ON_CORD,447.53,451.84,4.31,"In July 1530, eighty-three of the most powerful men in England signed a single sheet of parchment and hung eig"
 107,H54_SEAL_SINGLE_MACRO,H54_SEAL_SINGLE_MACRO,451.9,456.96,5.06,They were trying to force a pope to end their king's marriage.

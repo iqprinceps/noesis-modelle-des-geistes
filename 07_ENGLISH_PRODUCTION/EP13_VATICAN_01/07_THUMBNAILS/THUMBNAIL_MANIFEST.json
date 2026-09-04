@@ -1,0 +1,27 @@
+{
+  "variants": [
+    {
+      "file": "EP13_EN_THUMB_A_OBJECT.jpg",
+      "concept": "the ringed object, named, no question asked",
+      "size": "1920x1080",
+      "bytes": 465669,
+      "sha256": "74b64384225847f61450563e5ff1f0415ceff2965dd6b96b67a7b068ac18010f"
+    },
+    {
+      "file": "EP13_EN_THUMB_B_QUESTION.jpg",
+      "concept": "ringed object plus the question, strongest promise",
+      "size": "1920x1080",
+      "bytes": 466540,
+      "sha256": "9afc447429d594324354880a05b23dd36178b44b061691c39bf3cde89d858f7c"
+    },
+    {
+      "file": "EP13_EN_THUMB_C_SEALED.jpg",
+      "concept": "the sealed document angle",
+      "size": "1920x1080",
+      "bytes": 692292,
+      "sha256": "b890c6f8f7da44f1cd3adbd7dcc4db5fe6885ce5787489a798fe84f5482efe6c"
+    }
+  ],
+  "base_asset": "EP13_HA01 crown, Centro Televisivo Vaticano, CC BY 3.0",
+  "note": "1920x1080 rather than 4K: the only rights-clear photograph of the crown is 1174x768, so a larger canvas would be empty upscale."
+}

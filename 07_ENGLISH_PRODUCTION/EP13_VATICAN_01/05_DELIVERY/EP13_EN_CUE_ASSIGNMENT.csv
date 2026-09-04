@@ -36,7 +36,7 @@ beat,start,dur,states,text
 35,154.1,3.12,H38_EMPTY_CHAIR_LAMP,What would you have assumed was inside?
 36,157.28,3.3,EP13-C02,"Then came the thirteenth of May, 1981."
 37,160.66,5.0,P03_CROWD_FACES_1981,Five nineteen in the afternoon. Saint Peter's Square is crowded.
-38,165.7,5.02,EP13-X02,John Paul II is moving slowly through the crowd in an open car.
+38,165.7,5.02,P15_OPEN_CAR_IN_CROWD,John Paul II is moving slowly through the crowd in an open car.
 39,171.27,0.78,P04_CROWD_ALARM_FACES,Mehmet Ali Agca fires.
 40,172.4,4.82,H21_EMPTY_SQUARE_AFTER|P13_DOCTORS_CORRIDOR,"The pope is hit, driven out of the square, and taken into surgery."
 41,177.26,0.2,H22_SURGICAL_LIGHT,He survives.
@@ -79,21 +79,21 @@ beat,start,dur,states,text
 78,340.98,2.46,V10_MARTYRS_LINE,A century of martyrs.
 79,343.5,1.32,EP13-C19,One afternoon in Rome.
 80,344.88,3.45,EP13-C25,And one man's understanding of why he was still alive.
-81,349.0,0.92,EP13-C22,Which brings your answer back.
+81,349.0,0.92,EP13-Y04,Which brings your answer back.
 82,349.96,3.21,H39_CALENDAR_PAGES,When do we agree that a prophecy has been fulfilled?
 83,353.22,2.36,H39_CALENDAR_PAGES,When it names an event in advance?
 84,355.64,5.87,EP13-C23,Or when a person survives something and recognises their own experience inside an older image?
 85,361.54,4.58,EP13-C24,The second kind is how most people actually use the texts they believe in.
 86,366.16,2.98,EP13-X10,Which leaves the other question from the start of this episode.
-87,369.16,3.28,EP13-X08,How does a bullet get into a crown?
+87,369.16,3.28,EP13-Y01,How does a bullet get into a crown?
 88,372.74,4.0,EP13-X03,"One year after the shooting, John Paul II travelled to Fatima."
 89,376.78,3.53,EP13-X09,By then his survival had become part of this story for him.
 90,380.36,4.38,EP13-X07,One of the projectiles from the attack was given to the shrine.
-91,384.8,6.46,CLIP08_SETTING_THE_METAL|EP13-X01,In 1989 it was set into the precious crown of the statue of Our Lady of the Rosary of Fatima.
-92,391.32,0.78,EP13-X06,It is still there.
+91,384.8,6.46,CLIP08_SETTING_THE_METAL|EP13-Y03,In 1989 it was set into the precious crown of the statue of Our Lady of the Rosary of Fatima.
+92,391.32,0.78,EP13-X14,It is still there.
 93,392.2,4.84,EP13-C06,And that is the image this whole episode has been walking toward.
 94,397.4,4.92,V21_CROWN_SHAPE_DISSOLVE,"Metal from an assassination attempt, resting among gold and pearls and precious stones."
-95,402.66,5.06,EP13-X16,"An object made for violence, absorbed into an object made for devotion."
+95,402.66,5.06,EP13-Y05,"An object made for violence, absorbed into an object made for devotion."
 96,408.2,3.44,EP13-X04,"The thirteenth of May, 1981, now has a physical address."
 97,411.7,4.54,H51_FIVE_FORMS_ROW,Look at what actually happened across those eighty-three years.
 98,416.34,2.64,H48_PAGE_BECOMES_OBJECT,A reported vision became a handwritten page.
@@ -102,8 +102,8 @@ beat,start,dur,states,text
 101,426.56,4.8,H50_THREE_READERS_TABLE,"And when it was finally opened, it gave three different readers three different truths."
 102,431.46,3.71,H56_EMPTY_SHELVES_GAPS,That is the pattern this series follows.
 103,435.24,3.37,EP13-X05,"An institution takes something uncertain, and gives it a form."
-104,438.61,1.47,EP13-X15,"Here, the form was an envelope."
-105,440.84,2.33,EP13-X13,The next form is much larger.
+104,438.61,1.47,H02_SHEET_TWENTYFIVE_LINES,"Here, the form was an envelope."
+105,440.84,2.33,EP13-Y02,The next form is much larger.
 106,443.22,8.62,H53_WIDE_PARCHMENT_EDGE|H32_SEALS_ON_CORD,"In July 1530, eighty-three of the most powerful men in England signed a single sheet of parchment and hung eighty-one seals from it in metal cases."
 107,451.9,5.06,H54_SEAL_SINGLE_MACRO,They were trying to force a pope to end their king's marriage.
 108,457.04,0.72,H54_SEAL_SINGLE_MACRO,He refused.
