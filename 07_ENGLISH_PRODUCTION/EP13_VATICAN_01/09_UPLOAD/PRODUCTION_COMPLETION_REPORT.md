@@ -16,7 +16,7 @@ end. Everything that can be checked mechanically has been.
 | Script | 1,342 words, 8:08 at delivery pace |
 | Sources | 15 claims live-checked; 14 locked, 1 secondary only |
 | Originals acquired | 253 candidates, 37 in the cut |
-| Reconstructions | 7 generation rounds, 71 stills and 7 clips in the cut |
+| Reconstructions | 9 generation rounds, 71 stills and 7 clips in the cut |
 | Cards | 10, composited on generated material substrates |
 | Voice | ElevenLabs, blind-transcribed back with Scribe for content QA |
 | Timing | forced alignment; every state bound to a word range |
@@ -55,6 +55,14 @@ audit, after the master had already been rendered and mixed. Ken Burns makes the
 film Adapted Material, so ShareAlike would have applied to the whole film. All
 eight were replaced and the film was re-rendered. Two of them also carried a
 photographer's watermark, which had been sitting in the master unnoticed.
+
+**The vision act was seven empty frames.** Thirteen percent of the film was a
+pale field with an ember dot on it, because the vision register's rendering
+instructions were read as a description of the content. All seventeen vision
+states were rebuilt with depth, texture and human bodies. Two of them had to be
+generated three times: the model kept returning the man in white as a
+long-haired, bearded figure kneeling at a cross, which reads as Christ and
+destroys the reveal.
 
 **A sound effect had been silent since the people pass.** Four cues pointed at
 states that no longer existed. Three had working duplicates; the clinical

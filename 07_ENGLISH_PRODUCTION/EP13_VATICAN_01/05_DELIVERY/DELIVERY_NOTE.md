@@ -154,6 +154,56 @@ working duplicate on the new state; the clinical corridor did not, so that sound
 had been silent. The corridor tone is restored and the new crowd shot was given
 the crowd bed, which is why the count is now 25 rather than 23.
 
+## The vision act was rebuilt
+
+Seventeen states carry the reported vision, about sixty-three seconds. Seven of
+them were a pale field with a small ember on it and nothing else: V02, V07, V11,
+V15, V18, V19, V20. That is thirteen percent of the film spent on frames with no
+subject in them.
+
+The cause was the same one that emptied the rooms earlier. `REGISTER_B` says
+near-monochrome bone-white, one ember accent, figures small and distant with no
+readable face, no horizon and no ground plane. Those are instructions for how to
+render substance. Read as a description of the content itself they produce an
+empty frame, and that is how they were read. The vision text is not abstract: an
+angel with a burning sword, a city half in ruins, bodies on the road, a steep
+mountain, a great cross, soldiers who fire, a man in white who falls and does not
+get up. It is a sequence of scenes.
+
+`REGISTER_B2` replaces it. It keeps the register otherworldly and cool, and adds
+what was missing: full tonal range instead of blown-out white, real texture and
+atmosphere, bodies with weight, and faces on the unnamed people around the man in
+white. It states the failure test directly, that a frame which could be described
+as a pale background with a small mark on it is wrong.
+
+All seventeen were rebuilt rather than only the seven, because a register that
+changes halfway through is worse than a weak one applied consistently.
+
+Three of them changed more than their tone.
+
+**V03** was an aerial ruined city, and the new V15 is one too. Its own line is
+"He walks through a large city, half of it in ruins. He passes bodies on the
+way", which is a street at his shoulder, so it became that. **V05, V06 and V08**
+are the mountain sequence and had nobody climbing it, although the text says he
+climbs with other bishops, priests and lay people and that they are killed with
+him. Those people are in the frames now.
+
+Nine states were renamed, because the old names described content that no longer
+exists: `V18_EMBER_GOING_OUT` is now `V18_THE_MAN_DOES_NOT_RISE`,
+`V19_OPEN_FIELD_WAITING` is `V19_LOOKING_FOR_YOURSELF`, and so on.
+
+**One generation had to be rejected and redone twice.** V06 came back as a man
+with long dark hair and a beard, kneeling in a white robe at a wooden cross,
+which reads unmistakably as a depiction of Christ. The source says a bishop
+dressed in white whom the children thought was the Holy Father, and the reveal of
+this episode turns on that. The identity constraint now names the failure
+explicitly: short grey cropped hair, no beard, no long hair, no halo, no bare
+feet, no outstretched arms, and if the frame could be mistaken for a devotional
+image of Christ it is wrong. V18 was regenerated for the same reason.
+
+Faces of the man in white were checked at full resolution in V02, V06 and V18
+after the rebuild. None is readable.
+
 ## Still open before publication
 
 1. an aloud review of the narration, which is a judgement only the channel owner
