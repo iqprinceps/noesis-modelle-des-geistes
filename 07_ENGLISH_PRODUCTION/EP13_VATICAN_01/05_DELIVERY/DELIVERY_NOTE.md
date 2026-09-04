@@ -204,6 +204,112 @@ image of Christ it is wrong. V18 was regenerated for the same reason.
 Faces of the man in white were checked at full resolution in V02, V06 and V18
 after the rebuild. None is readable.
 
+## The camera moves were juddering, and why
+
+The moves stuttered. Measured on raw frames of a six second shot in the delivered
+master, **26 of 179 frames did not change at all**: the picture sat still for
+several frames and then hopped, and the frames that did move varied by a factor
+of six. The step sequence begins
+`1.125, 0, 0, 0, 0, 0, 0, 0, 0, 0.15, 0.482, 0, 0, 0.915`.
+
+Two arithmetic causes, both mine.
+
+**The smoothstep ramp reaches zero velocity at both ends.** A ramp that eases to
+a stop has to hold the picture still while it does. That alone guarantees frozen
+frames at the head and tail of every move.
+
+**Three percent was below the pixel grid.** zoompan positions its crop on whole
+pixels of the working image, so at a 3840 px working width one step is half an
+output pixel. Three percent across 1920 px over six seconds is 0.29 output pixels
+per frame. The move was smaller than the grid it had to land on, so it could not
+be smooth at any supersampling rate: all four temporal sub-positions rounded to
+the same pixel and tmix averaged four identical frames.
+
+**The fix is a linear ramp with the amplitude scaled to the shot length**, which
+is constant camera speed rather than constant camera distance. 0.0083 zoom per
+second, clamped to 1.5 and 9 percent. Measured across every duration in the film
+and every pan direction:
+
+| Shot length | zoom | frozen frames |
+|---|---:|---:|
+| 1.0 s | 1.5 % | 0 / 29 |
+| 2.0 s | 1.7 % | 0 / 59 |
+| 3.8 s | 3.2 % | 0 / 113 |
+| 6.0 s | 5.0 % | 0 / 179 |
+| 9.1 s | 7.6 % | 0 / 272 |
+| pan left, down, zoom out | | 0 |
+
+Mean frame-to-frame change stays flat at about 0.68 from one second to nine,
+which is what constant velocity means. Irregularity, as the coefficient of
+variation of that change, falls from 0.57 to 0.29.
+
+**Two dead ends, recorded so they are not tried again.** A 7680 px working width
+only halves the problem and is unaffordable across 125 segments. The `perspective`
+filter with true floating point corners would remove quantisation entirely, but it
+did not animate usefully even with `eval=frame`.
+
+**One correction to my own method.** The first measurement used phase correlation,
+which measures translation. A centred zoom has none, so it was measuring noise and
+its numbers were meaningless. The usable measurement is the mean absolute
+difference between adjacent raw frames.
+
+## The shared cadence gate
+
+`tools/qa_smooth_still_motion.py` is required by the visual standard and had not
+been run on this episode. It is now part of delivery, and its report is kept at
+`08_QA/EP13_EN_SMOOTH_MOTION_QA.json`.
+
+**Final result: PASS, 102 moving stills checked, no failures.**
+
+Getting there took three passes, and two of them corrected me rather than the
+film.
+
+**Supersampling four to eight.** With the linear ramp in place the gate reported
+no frozen frames anywhere and ten of 108 stills marginally over the jerk and
+95th-percentile thresholds. Doubling the temporal samples cleared three of them
+and made one slightly worse, which is the signal that supersampling was not the
+remaining cause. It stays at eight because it is better, not because it fixed
+this.
+
+**Encoder noise, not motion.** The gate measures encoded segments, so on
+high-frequency images x264's frame-to-frame quantisation choices register as
+irregular motion. On `H54_SEAL_SINGLE_MACRO` the 95th percentile over the median
+runs 2.58 at crf 17, 2.42 at crf 14 and 2.31 at crf 12, passing only at 12, while
+the motion itself never changes. That state is now encoded at crf 12. The tell
+was in the gate's own output all along: `low=0.0`, meaning not one frozen frame
+in the shots that were "failing".
+
+**Five stills are locked, and that is the right reading of them.** On the Duerer
+engraving the metric would not move at crf 17, 14 or 12: fine line work and old
+photographic grain shimmer when they are moved a fraction of a pixel per frame,
+and no encoder setting touches that. The standard already asks for
+registration-sensitive frames to hold still. So the engraving, the 1917
+photograph of the three children, the newspaper stack, the calendar pages and the
+archival photograph of the first sculpture no longer move. Each is an image the
+viewer wants to look at rather than travel across.
+
+**Shots under 0.35 s hold still**, as a rule rather than an exception.
+`H22_SURGICAL_LIGHT` runs 0.22 s, which is seven frames, and the gate needs nine
+to judge cadence. Nobody perceives a camera move in seven frames, so there is no
+reason to attempt one.
+
+That leaves 102 moving stills, 10 cards, 5 locked stills, 1 short lock and 7
+native clips.
+
+## Measured on the delivered master
+
+Ten moving shots sampled across the film: **3 frozen frames out of 1301**, none
+of them consecutive. Before the fix, a single six second shot carried 26 frozen
+frames out of 179.
+
+## Repeated images
+
+None. 125 segments resolve to 125 distinct state ids and 125 distinct files, so no
+asset appears twice. Checked further for images that merely look alike, comparing
+a frequency signature and a coarse colour layout for all 7,750 pairs: the highest
+similarity in the film is 0.52, between two cards that share the same typographic
+design by intent. Nothing approaches a perceptual duplicate.
+
 ## Still open before publication
 
 1. an aloud review of the narration, which is a judgement only the channel owner

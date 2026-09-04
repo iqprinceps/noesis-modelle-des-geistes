@@ -37,6 +37,9 @@ end. Everything that can be checked mechanically has been.
 | Attribution present for every CC BY file | yes, in the description |
 | Named figures synthesised | none |
 | Thumbnail legibility at 25 and 18.75 percent | pass |
+| Shared cadence gate, 102 moving stills | pass |
+| Frozen frames in the delivered master | 3 of 1301 sampled |
+| Repeated or near-duplicate images | none; highest pair similarity 0.52 |
 | Title length against mobile truncation | 58 characters |
 
 ## Things that were wrong and were fixed
@@ -63,6 +66,15 @@ states were rebuilt with depth, texture and human bodies. Two of them had to be
 generated three times: the model kept returning the man in white as a
 long-haired, bearded figure kneeling at a cross, which reads as Christ and
 destroys the reveal.
+
+**The camera moves juddered.** Two arithmetic causes. A smoothstep ramp reaches
+zero velocity at both ends, so it has to hold the picture still while it eases,
+and a fixed 3 percent zoom advances 0.29 output pixels per frame, which is below
+the pixel grid zoompan lands on. Measured: 26 of 179 frames on a six second shot
+did not change at all. A linear ramp with the amplitude scaled to the shot length
+brings that to zero, and the delivered master now measures 3 frozen frames in
+1301. The shared cadence gate, which the standard requires and which had never
+been run on this episode, now passes.
 
 **A sound effect had been silent since the people pass.** Four cues pointed at
 states that no longer existed. Three had working duplicates; the clinical
