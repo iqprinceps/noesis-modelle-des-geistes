@@ -204,103 +204,75 @@ image of Christ it is wrong. V18 was regenerated for the same reason.
 Faces of the man in white were checked at full resolution in V02, V06 and V18
 after the rebuild. None is readable.
 
-## The camera moves were juddering, and why
+## The camera moves were juddering
 
-The moves stuttered. Measured on raw frames of a six second shot in the delivered
-master, **26 of 179 frames did not change at all**: the picture sat still for
-several frames and then hopped, and the frames that did move varied by a factor
-of six. The step sequence begins
-`1.125, 0, 0, 0, 0, 0, 0, 0, 0, 0.15, 0.482, 0, 0, 0.915`.
+They juddered because this renderer carried its own zoompan implementation. The
+visual standard forbids that in as many words, and requires the shared engine in
+`tools/smooth_still_motion.py`, which is what EP07 uses and what the channel owner
+named as the reference for motion that does not judder. Writing a private motion
+path was the original mistake, and every repair before this one was applied to a
+construction that should not have existed.
 
-Two arithmetic causes, both mine.
+`render_ep13_en.py` now imports `eased_zoompan_filter` and does no camera
+arithmetic of its own. The engine supersamples to 7680x4320 rather than
+3840x2160, so its position quantum is a quarter of an output pixel instead of a
+half.
 
-**The smoothstep ramp reaches zero velocity at both ends.** A ramp that eases to
-a stop has to hold the picture still while it does. That alone guarantees frozen
-frames at the head and tail of every move.
+**A measurement mistake made this take three passes.** The first metric counted
+frames that did not change at all, which said the fix had worked while the moves
+still visibly stuttered. It was the wrong question. A one pixel hop every second
+frame passes that test. The right measurement tracks an off-centre patch of the
+picture and reports how evenly it advances, and by that measure the private path
+was moving 0.31 px per frame with a standard deviation of 0.34, swinging between
+0.05 and 1.21 px. The variation was larger than the motion.
 
-**Three percent was below the pixel grid.** zoompan positions its crop on whole
-pixels of the working image, so at a 3840 px working width one step is half an
-output pixel. Three percent across 1920 px over six seconds is 0.29 output pixels
-per frame. The move was smaller than the grid it had to land on, so it could not
-be smooth at any supersampling rate: all four temporal sub-positions rounded to
-the same pixel and tmix averaged four identical frames.
+| | private path | shared engine |
+|---|---|---|
+| supersample | 3840x2160 | 7680x4320 |
+| position quantum | half an output pixel | a quarter |
+| step irregularity, sd over mean | 1.10 | 0.63 |
+| step range | 0.05 to 1.21 px | 0.011 to 0.288 px |
 
-**The fix is a linear ramp with the amplitude scaled to the shot length**, which
-is constant camera speed rather than constant camera distance. 0.0083 zoom per
-second, clamped to 1.5 and 9 percent. Measured across every duration in the film
-and every pan direction:
+**Amplitude, and why the middle is the worst place to be.** With the engine, the
+per-frame step becomes more even as the amplitude grows: sd over mean is 1.16 at
+zoom 0.017, 0.94 at 0.023, 0.71 at 0.043 and 0.58 at 0.070. EP07 uses 0.017 and
+reads as clean anyway, because at 0.087 px per frame the move is too small for
+its unevenness to be visible at all.
 
-| Shot length | zoom | frozen frames |
-|---|---:|---:|
-| 1.0 s | 1.5 % | 0 / 29 |
-| 2.0 s | 1.7 % | 0 / 59 |
-| 3.8 s | 3.2 % | 0 / 113 |
-| 6.0 s | 5.0 % | 0 / 179 |
-| 9.1 s | 7.6 % | 0 / 272 |
-| pan left, down, zoom out | | 0 |
+So there are two safe places and a bad one between them: subliminal, or fast
+enough that the steps are as even as this pipeline gets. EP13 sat in the middle
+at 0.043, visible enough to notice and uneven enough to stutter. It now uses
+EP07's range, 0.010 to 0.023 scaled by shot length, median 0.014.
 
-Mean frame-to-frame change stays flat at about 0.68 from one second to nine,
-which is what constant velocity means. Irregularity, as the coefficient of
-variation of that change, falls from 0.57 to 0.29.
+**Sources that are not 16:9** are composited to a 16:9 plate first, with the
+blurred darkened background this channel uses, and the engine then sees an
+ordinary 16:9 image. The engine letterboxes to black on its own, so this keeps
+the look without modifying shared code.
 
-**Two dead ends, recorded so they are not tried again.** A 7680 px working width
-only halves the problem and is unaffordable across 125 segments. The `perspective`
-filter with true floating point corners would remove quantisation entirely, but it
-did not animate usefully even with `eval=frame`.
-
-**One correction to my own method.** The first measurement used phase correlation,
-which measures translation. A centred zoom has none, so it was measuring noise and
-its numbers were meaningless. The usable measurement is the mean absolute
-difference between adjacent raw frames.
-
-## The shared cadence gate
-
-`tools/qa_smooth_still_motion.py` is required by the visual standard and had not
-been run on this episode. It is now part of delivery, and its report is kept at
-`08_QA/EP13_EN_SMOOTH_MOTION_QA.json`.
-
-**Final result: PASS, 102 moving stills checked, no failures.**
-
-Getting there took three passes, and two of them corrected me rather than the
-film.
-
-**Supersampling four to eight.** With the linear ramp in place the gate reported
-no frozen frames anywhere and ten of 108 stills marginally over the jerk and
-95th-percentile thresholds. Doubling the temporal samples cleared three of them
-and made one slightly worse, which is the signal that supersampling was not the
-remaining cause. It stays at eight because it is better, not because it fixed
-this.
-
-**Encoder noise, not motion.** The gate measures encoded segments, so on
-high-frequency images x264's frame-to-frame quantisation choices register as
-irregular motion. On `H54_SEAL_SINGLE_MACRO` the 95th percentile over the median
-runs 2.58 at crf 17, 2.42 at crf 14 and 2.31 at crf 12, passing only at 12, while
-the motion itself never changes. That state is now encoded at crf 12. The tell
-was in the gate's own output all along: `low=0.0`, meaning not one frozen frame
-in the shots that were "failing".
-
-**Five stills are locked, and that is the right reading of them.** On the Duerer
-engraving the metric would not move at crf 17, 14 or 12: fine line work and old
-photographic grain shimmer when they are moved a fraction of a pixel per frame,
-and no encoder setting touches that. The standard already asks for
-registration-sensitive frames to hold still. So the engraving, the 1917
+**Five stills are locked** and hold still: the Duerer engraving, the 1917
 photograph of the three children, the newspaper stack, the calendar pages and the
-archival photograph of the first sculpture no longer move. Each is an image the
-viewer wants to look at rather than travel across.
-
-**Shots under 0.35 s hold still**, as a rule rather than an exception.
-`H22_SURGICAL_LIGHT` runs 0.22 s, which is seven frames, and the gate needs nine
-to judge cadence. Nobody perceives a camera move in seven frames, so there is no
-reason to attempt one.
+archival photograph of the first sculpture. Fine line work and old photographic
+grain shimmer when moved a fraction of a pixel per frame, no encoder setting
+touches that, and the standard already asks registration-sensitive frames to hold
+still. Shots under 0.35 s hold still as a rule: nobody sees a camera move in seven
+frames.
 
 That leaves 102 moving stills, 10 cards, 5 locked stills, 1 short lock and 7
-native clips.
+native clips. `tools/qa_smooth_still_motion.py`, which the standard requires and
+which had never been run on this episode, passes with no failures. Its report is
+kept at `08_QA/EP13_EN_SMOOTH_MOTION_QA.json`.
 
-## Measured on the delivered master
+## Render progress is visible
 
-Ten moving shots sampled across the film: **3 frozen frames out of 1301**, none
-of them consecutive. Before the fix, a single six second shot carried 26 frozen
-frames out of 179.
+`python tools/render_ep13_en.py status` reports finished and outstanding
+segments, throughput and an estimate, and is safe to run while a render is in
+progress: the cache is written after every segment rather than at the end.
+
+## Picture runs 0.07 s short of the voice
+
+Frame counts are exact integers, so the picture lands at 488.30 s against a
+488.37 s voice master. The last audible syllable is at 488.07 s, which leaves
+0.23 s of tail. Nothing is clipped.
 
 ## Repeated images
 

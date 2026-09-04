@@ -1,6 +1,14 @@
 #!/usr/bin/env python3
 """EP13_EN local renderer.
 
+Motion comes from tools/smooth_still_motion.py, the shared engine the visual
+standard requires and the one EP07 uses. This script previously carried its own
+zoompan implementation, which the standard forbids in as many words, and it
+juddered: measured on the delivered master, the per-frame step of a moving still
+averaged 0.31 px with a standard deviation of 0.34, swinging between 0.05 and
+1.21 px. The engine supersamples to 7680x4320 rather than 3840x2160, so its
+position quantum is a quarter of an output pixel instead of a half.
+
 Reads the cue sheet built from the forced alignment, resolves each state to a
 local file, renders one cached segment per state, then concatenates and muxes the
 voice master.
@@ -18,11 +26,15 @@ episode is carried by objects that should be looked at rather than swept.
 from __future__ import annotations
 
 import argparse
+import concurrent.futures
 import csv
 import json
 import pathlib
 import subprocess
 import sys
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from smooth_still_motion import ENGINE_VERSION, eased_zoompan_filter  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 EP = ROOT / "07_ENGLISH_PRODUCTION" / "EP13_VATICAN_01"
@@ -37,58 +49,41 @@ SEGS = WORK / "segments"
 OUTFILE = WORK / "EP13_EN_PICTURE.mp4"
 FINAL = EP / "05_DELIVERY" / "EP13_EN_FINAL.mp4"
 
-FPS, SUB = 30, 8
+FPS = 30
+WORKERS = 3   # 7680x4320 buffers are large and only ~5 GB of RAM is free here
 
-# Camera speed, not camera distance.
+# Amplitude, matched to EP07, which is the channel reference for motion that does
+# not judder. Measured with the shared engine on one still, the evenness of the
+# per-frame step improves as the amplitude grows: 1.16 at zoom 0.017, 0.94 at
+# 0.023, 0.71 at 0.043, 0.58 at 0.070. EP07 nevertheless reads as clean at 0.017,
+# because at 0.087 px per frame the move is too small for its unevenness to be
+# seen at all.
 #
-# The old profile used a fixed 3 percent zoom on a smoothstep ramp. Measured on
-# raw frames, that froze 26 of 179 frames on a six second shot: smoothstep starts
-# and ends at zero velocity, and a 3 percent move is only about 0.3 output pixels
-# per frame, which is below the pixel grid zoompan has to land on. The picture sat
-# still for several frames and then hopped. That is the judder.
-#
-# A linear ramp with the amplitude scaled to the shot length fixes both halves.
-# Measured across 1.0 s to 9.1 s and across every pan direction, it produces zero
-# frozen frames, and the mean frame-to-frame change stays flat at about 0.68,
-# which is what constant velocity means. Irregularity, as the coefficient of
-# variation of that change, falls from 0.57 to 0.29.
-ZOOM_PER_SECOND = 0.05 / 6.0
-ZOOM_MIN, ZOOM_MAX = 0.015, 0.090
+# So there are two safe places and a bad one between them. Small enough that the
+# motion is subliminal, or fast enough that the steps are as even as this pipeline
+# gets. EP13 sat in the middle at 0.043: visible enough to notice, uneven enough
+# to stutter. It now uses EP07's range, 0.010 to 0.023 scaled by shot length.
+ZOOM_PER_SECOND = 0.017 / 4.5
+ZOOM_MIN, ZOOM_MAX = 0.010, 0.023
 FADE, BG = 0.16, "#0B0A0C"
-# SUB=8 rather than 4: at 4, ten of the 108 moving stills still failed the shared
-# cadence gate in tools/qa_smooth_still_motion.py, marginally, on jerk and on the
-# 95th percentile of adjacent-frame difference. Doubling the temporal samples that
-# tmix averages carried them across. It costs render time and nothing else.
-CAMERA_PROFILE = "linear-constant-velocity-v3-sub8"
 
-# Locked frames. The standard already asks for registration-sensitive images to
-# hold still, and these four are exactly that. They are also the ones the cadence
-# gate could not pass at any encoder quality, because fine line work and old
-# photographic grain shimmer when they are moved a fraction of a pixel at a time.
-# Holding them still removes the artefact at its source and is the better reading
-# of each image anyway.
+# Locked frames. The standard asks registration-sensitive images to hold still,
+# and fine line work or old photographic grain shimmers when moved a fraction of
+# a pixel per frame. Each of these is an image to look at, not travel across.
 LOCKED_STATES = {
     "EP13-C05",             # Duerer engraving, pure high-contrast line work
     "EP13-C07",             # the 1917 photograph of the three children
     "H16_NEWSPAPER_STACK",  # newsprint, a document
     "H39_CALENDAR_PAGES",   # printed pages, a document
-    "EP13-X07",             # archival portrait-format photograph, pillarboxed
+    "EP13-X07",             # archival portrait-format photograph
 }
 
-# Segment quality. The cadence gate measures encoded segments, so on
-# high-frequency images x264's frame-to-frame quantisation decisions register as
-# irregular motion. Measured on H54_SEAL_SINGLE_MACRO: crf 17 gives p95/median
-# 2.58 and fails, crf 14 gives 2.42 and fails, crf 12 gives 2.31 and passes, with
-# the motion itself unchanged. These two states carry fine texture and keep their
-# move, so they are encoded finer.
-# A move needs long enough to be seen. Below about a third of a second the eye
-# reads a cut, not a camera, and the shared cadence gate cannot judge it either:
-# it needs nine frames and a 0.22 s shot has seven. Those shots hold still.
+# Below about a third of a second the eye reads a cut, not a camera.
 MIN_MOVE_SECONDS = 0.35
 
-CRF_DEFAULT = 17
-CRF_FINE = 12
-FINE_STATES = {"H54_SEAL_SINGLE_MACRO"}
+CRF = 17
+COMPOSED = WORK / "composed"   # 16:9 blurred-background plates, see compose()
+
 IMAGE_EXT = {".png", ".jpg", ".jpeg", ".tif", ".tiff", ".webp"}
 VIDEO_EXT = {".mp4", ".mov", ".mkv", ".webm"}
 
@@ -150,36 +145,57 @@ def contain_needed(path) -> bool:
     return abs((w / h) - (16 / 9)) > 0.06
 
 
-def base_filter(path, scale="1920:1080"):
-    sigma = round(28 * int(scale.split(":")[0]) / 1920, 1)
-    if contain_needed(path):
-        return (f"split=2[fg][bg];[bg]scale={scale}:force_original_aspect_ratio=increase,"
-                f"crop={scale},gblur=sigma={sigma},eq=brightness=-0.24[back];"
-                f"[fg]scale={scale}:force_original_aspect_ratio=decrease[front];"
-                f"[back][front]overlay=(W-w)/2:(H-h)/2")
-    return f"scale={scale}:force_original_aspect_ratio=increase,crop={scale}"
+def compose(src: pathlib.Path) -> pathlib.Path:
+    """Return a 16:9 plate for a source that is not already 16:9.
+
+    The shared motion engine letterboxes to black. This channel fills the sides
+    with a blurred, darkened copy of the picture instead, so the plate is built
+    once here and the engine then sees an ordinary 16:9 image.
+    """
+    if not contain_needed(src):
+        return src
+    COMPOSED.mkdir(parents=True, exist_ok=True)
+    out = COMPOSED / (src.stem + ".png")
+    if out.is_file() and out.stat().st_mtime_ns >= src.stat().st_mtime_ns:
+        return out
+    vf = ("split=2[fg][bg];"
+          "[bg]scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160,"
+          "gblur=sigma=56,eq=brightness=-0.24[back];"
+          "[fg]scale=3840:2160:force_original_aspect_ratio=decrease:flags=lanczos[front];"
+          "[back][front]overlay=(W-w)/2:(H-h)/2")
+    run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-vf", vf,
+         "-frames:v", "1", str(out)], True, timeout=300)
+    return out
 
 
-def camera_filter(path, i, dur_s, static, first, last):
+def fades(dur_s, first, last):
     fi = f",fade=t=in:st=0:d={FADE:.3f}:color={BG}" if first else ""
     fo = f",fade=t=out:st={max(0, dur_s - FADE):.3f}:d={FADE:.3f}:color={BG}" if last else ""
-    if static:
-        return base_filter(path) + f",fps={FPS},format=yuv420p" + fi + fo
-    frames = max(2, round(dur_s * FPS * SUB))
+    return fi + fo
+
+
+def locked_filter(dur_s, first, last):
+    """A held frame: fit to 1920x1080 and do not move it."""
+    return (f"scale=1920:1080:force_original_aspect_ratio=decrease:flags=lanczos,"
+            f"pad=1920:1080:(ow-iw)/2:(oh-ih)/2:color=black,fps={FPS},"
+            f"trim=duration={dur_s:.6f},setpts=PTS-STARTPTS,format=yuv420p"
+            + fades(dur_s, first, last))
+
+
+def moving_filter(i, dur_s, first, last):
+    """The shared engine. Direction rotates; amplitude tracks the shot length."""
     amount = min(ZOOM_MAX, max(ZOOM_MIN, ZOOM_PER_SECOND * dur_s))
-    modes = ["in", "left", "in", "up", "out", "right", "in", "down"]
-    mode = modes[i % len(modes)]
-    z0, z1 = (1, 1 + amount) if mode != "out" else (1 + amount, 1)
-    q = f"(on/{frames})"   # linear: any easing that reaches zero velocity freezes frames
-    z = f"({z0:.5f}+({z1 - z0:.5f})*{q})"
-    x = (f"(iw-iw/zoom)*(0.70*(1-{q}))" if mode == "left" else
-         f"(iw-iw/zoom)*(0.70*{q})" if mode == "right" else "(iw-iw/zoom)/2")
-    y = (f"(ih-ih/zoom)*(0.70*(1-{q}))" if mode == "up" else
-         f"(ih-ih/zoom)*(0.70*{q})" if mode == "down" else "(ih-ih/zoom)/2")
-    weights = " ".join(["1"] * SUB)
-    return (base_filter(path, "3840:2160") +
-            f",zoompan=z='{z}':x='{x}':y='{y}':d=1:s=1920x1080:fps={FPS * SUB},"
-            f"tmix=frames={SUB}:weights='{weights}',framestep={SUB},fps={FPS},format=yuv420p" + fi + fo)
+    biases = [(0.5, 0.5), (0.2, 0.5), (0.5, 0.5), (0.5, 0.2),
+              (0.5, 0.5), (0.8, 0.5), (0.5, 0.5), (0.5, 0.8)]
+    x_bias, y_bias = biases[i % len(biases)]
+    return eased_zoompan_filter(duration=dur_s, fps=FPS, width=1920, height=1080,
+                                x_bias=x_bias, y_bias=y_bias, zoom_amount=amount,
+                                background="black") + fades(dur_s, first, last)
+
+
+def clip_filter(path, dur_s, first, last):
+    return (f"scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,"
+            f"fps={FPS},format=yuv420p" + fades(dur_s, first, last))
 
 
 def load_shots():
@@ -230,6 +246,37 @@ def cmd_doctor():
     return ok and not unresolved
 
 
+def render_one(job):
+    i, s, total = job
+    out = SEGS / f"{i + 1:03d}_{s['state'][:44]}.mp4"
+    src = resolve(s["state"])
+    first, last = i == 0, i == total - 1
+    if src.suffix.lower() in VIDEO_EXT:
+        vf = clip_filter(src, s["dur"], first, last)
+        args = ["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-i", str(src),
+                "-t", f"{s['dur']:.3f}", "-an", "-vf", vf]
+    else:
+        plate = compose(src)
+        locked = ("CARD" in s["state"].upper() or s["state"] in LOCKED_STATES
+                  or s["dur"] < MIN_MOVE_SECONDS)
+        vf = (locked_filter(s["dur"], first, last) if locked
+              else moving_filter(i, s["dur"], first, last))
+        args = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(plate),
+                "-t", f"{s['dur']:.3f}", "-vf", vf]
+    args += ["-c:v", "libx264", "-preset", "medium", "-crf", str(CRF),
+             "-pix_fmt", "yuv420p", "-frames:v", str(max(1, round(s["dur"] * FPS))),
+             str(out)]
+    run(args, True, timeout=3600)
+    return i, s, out
+
+
+def fingerprint(i, s, total):
+    src = resolve(s["state"])
+    return {"src": str(src), "mtime": src.stat().st_mtime_ns, "dur": s["dur"],
+            "first": i == 0, "last": i == total - 1, "crf": CRF,
+            "engine": ENGINE_VERSION, "path": "smooth_still_motion"}
+
+
 def cmd_render(only=None):
     shots = load_shots()
     missing = [s for s in shots if resolve(s["state"]) is None]
@@ -238,35 +285,83 @@ def cmd_render(only=None):
     SEGS.mkdir(parents=True, exist_ok=True)
     cache_path = WORK / "segment_cache.json"
     cache = json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.is_file() else {}
+    total = len(shots)
+    todo = []
     for i, s in enumerate(shots):
-        out = SEGS / f"{i + 1:03d}_{s['state'][:44]}.mp4"
-        src = resolve(s["state"])
-        is_clip = src.suffix.lower() in VIDEO_EXT
-        is_card = ("CARD" in s["state"].upper() or s["state"] in LOCKED_STATES
-                   or s["dur"] < MIN_MOVE_SECONDS)
-        fp = {"src": str(src), "mtime": src.stat().st_mtime_ns, "dur": s["dur"],
-              "first": i == 0, "last": i == len(shots) - 1, "camera": CAMERA_PROFILE,
-              "crf": CRF_FINE if s["state"] in FINE_STATES else CRF_DEFAULT}
         if only and only not in s["state"]:
             continue
-        if out.is_file() and cache.get(out.name) == fp:
+        out = SEGS / f"{i + 1:03d}_{s['state'][:44]}.mp4"
+        if out.is_file() and cache.get(out.name) == fingerprint(i, s, total):
             continue
-        vf = camera_filter(src, i, s["dur"], static=is_card, first=i == 0, last=i == len(shots) - 1)
-        crf = str(CRF_FINE if s["state"] in FINE_STATES else CRF_DEFAULT)
-        if is_clip:
-            args = ["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-i", str(src),
-                    "-t", f"{s['dur']:.3f}", "-an", "-vf",
-                    base_filter(src) + f",fps={FPS},format=yuv420p", "-c:v", "libx264",
-                    "-preset", "medium", "-crf", crf, str(out)]
-        else:
-            args = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(src),
-                    "-t", f"{s['dur']:.3f}", "-vf", vf, "-c:v", "libx264",
-                    "-preset", "medium", "-crf", crf, "-pix_fmt", "yuv420p", str(out)]
-        run(args, True, timeout=900)
-        cache[out.name] = fp
-        print(f"  {i + 1:3d}/{len(shots)}  {s['dur']:5.2f}s  {s['state'][:52]}", flush=True)
+        todo.append((i, s, total))
+    print(f"  {len(todo)} of {total} segments to render on {WORKERS} workers", flush=True)
+    done = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for i, s, out in pool.map(render_one, todo):
+            cache[out.name] = fingerprint(i, s, total)
+            done += 1
+            print(f"  {done:3d}/{len(todo)}  {s['dur']:5.2f}s  {s['state'][:52]}", flush=True)
+            cache_path.write_text(json.dumps(cache, indent=1), encoding="utf-8")
     cache_path.write_text(json.dumps(cache, indent=1), encoding="utf-8")
     print(f"segments in {SEGS}")
+
+
+def cmd_status():
+    """How far along the render is. Safe to run while one is in progress."""
+    import datetime
+    shots = load_shots()
+    total = len(shots)
+    cache_path = WORK / "segment_cache.json"
+    cache = json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.is_file() else {}
+    done, stale, missing, newest = [], [], [], 0.0
+    for i, s in enumerate(shots):
+        name = f"{i + 1:03d}_{s['state'][:44]}.mp4"
+        f = SEGS / name
+        if not f.is_file():
+            missing.append((i + 1, s))
+        elif cache.get(name) == fingerprint(i, s, total):
+            done.append((i + 1, s))
+            newest = max(newest, f.stat().st_mtime)
+        else:
+            stale.append((i + 1, s))
+
+    open_ = stale + missing
+    pct = 100.0 * len(done) / total
+    bar = "#" * int(pct / 2.5) + "." * (40 - int(pct / 2.5))
+    print("")
+    print("EP13_EN  segment render")
+    print(f"  [{bar}] {pct:5.1f}%")
+    print(f"  fertig      {len(done):3d} / {total}")
+    print(f"  offen       {len(open_):3d}   ({len(missing)} fehlen, {len(stale)} veraltet)")
+    if newest:
+        age = (datetime.datetime.now().timestamp() - newest) / 60
+        print(f"  zuletzt     vor {age:.1f} min geschrieben")
+        if open_ and age < 10 and len(done) > 3:
+            first = min(f.stat().st_mtime for f in SEGS.glob("*.mp4")
+                        if datetime.datetime.now().timestamp() - f.stat().st_mtime < 36000)
+            rate = (newest - first) / max(1, len(done) - 1)
+            eta = len(open_) * rate / 60
+            print(f"  Tempo       {rate:.0f}s pro Segment  ->  noch ca. {eta:.0f} min")
+    secs_done = sum(s["dur"] for _, s in done)
+    print(f"  Material    {secs_done / 60:.1f} von {sum(s['dur'] for s in shots) / 60:.1f} min")
+    if open_:
+        print("")
+        print("  noch offen:")
+        for n, s in open_[:15]:
+            print(f"    {n:3d}  {s['dur']:5.2f}s  {s['state'][:48]}")
+        if len(open_) > 15:
+            print(f"    ... und {len(open_) - 15} weitere")
+    else:
+        print("")
+        print("  alle Segmente aktuell.")
+    for label, path in (("Bild", OUTFILE), ("Master", FINAL)):
+        if path.is_file():
+            age = (datetime.datetime.now().timestamp() - path.stat().st_mtime) / 60
+            print(f"  {label:10s} {duration(path):7.2f}s  {path.stat().st_size / 1048576:6.0f} MiB"
+                  f"  vor {age:.0f} min")
+        else:
+            print(f"  {label:10s} noch nicht gebaut")
+    return not open_
 
 
 def cmd_final():
@@ -287,9 +382,11 @@ def cmd_final():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("command", choices=["doctor", "render", "final", "all"])
+    ap.add_argument("command", choices=["doctor", "render", "final", "all", "status"])
     ap.add_argument("--only", default=None)
     a = ap.parse_args()
+    if a.command == "status":
+        sys.exit(0 if cmd_status() else 1)
     if a.command == "doctor":
         sys.exit(0 if cmd_doctor() else 1)
     if a.command in ("render", "all"):
