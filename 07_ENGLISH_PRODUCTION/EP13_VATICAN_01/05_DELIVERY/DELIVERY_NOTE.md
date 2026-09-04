@@ -4,9 +4,8 @@ Rendered 2026-09-03 with `tools/render_ep13_en.py`.
 
 ## What this file is
 
-`EP13_EN_FINAL.mp4` is a **picture master with narration**. It is not the final
-audio mix: there is no music bed and no SFX. Per the render orchestrator, score
-and effects belong to the episode audio workflow, which has not run yet.
+`EP13_EN_FINAL.mp4` is the full cut: picture, narration, score and SFX, mixed to
+the channel's delivery loudness.
 
 | | |
 |---|---|
@@ -14,11 +13,32 @@ and effects belong to the episode audio workflow, which has not run yet.
 | Video | H.264, 1920x1080, 30 fps, 5.0 Mbps |
 | Audio | AAC 192 kbps, 48 kHz mono |
 | Size | 307 MB |
-| Loudness | −18.3 LUFS integrated, −2.0 dBTP, LRA 2.2 |
+| Loudness | −14.3 LUFS integrated, −1.1 dBTP, LRA 2.1 |
 
-Loudness matches the pipeline that produced the published EP05 master. It sits
-below YouTube's −14 LUFS target on purpose; the music mix is where that is
-closed. Do not normalise this file on its own.
+This matches the channel's existing masters, which sit at −14.0 LUFS and −1.0
+dBTP. Do not normalise the file again.
+
+## Score and SFX
+
+Both are project-owned deterministic synthesis built by `tools/build_ep13_audio.py`,
+following the channel's existing audio approach: no third-party recordings and no
+library stingers.
+
+The score is sectional rather than a single drone, which the standard requires.
+Eleven sections follow the act turns and use five textures: `object` for the
+crown and the cold open, `paper` where the episode handles documents, `held` for
+the waiting passages, `pressure` for the attack and the handoff, and `vision`,
+which is the only section that opens above the bass register.
+
+SFX are placed from the cue sheet, so each one lands on the state it belongs to
+rather than on a grid: 24 events, among them the pencil, the wax press, the box
+lid closing, keys, the crowd turning, the clinical room tone, metal seals, the
+scale weights and the cart. Both beds are sidechained under the narration, the
+score at 62 percent depth and the effects at 45.
+
+Gain is measured and corrected across up to four passes with the true peak
+checked each time, because limiting costs loudness and a single loudnorm pass
+lands about a decibel short.
 
 ## How it was built
 
@@ -66,10 +86,36 @@ It was replaced with the calendar-pages state, which serves that beat better tha
 a map: the question there is when a prophecy counts as fulfilled, which is about
 time rather than geography.
 
+## People in the reconstructions
+
+An earlier version of this episode had almost no human beings in it. The
+constraints that produced that are real but narrow: the bishop in white must stay
+unidentifiable because the reveal depends on it, and no likeness of John Paul II,
+Lucia, John XXIII, Paul VI, Sodano or Agca may be synthesised. Those were
+generalised into a blanket ban, written as "no face" eighteen times and "no
+person" twelve times across 54 prompts, and the result was an episode of empty
+rooms.
+
+The line that actually applies, and now does:
+
+| | |
+|---|---|
+| named historical figure | their real photograph only, never generated |
+| the bishop in white | stays unidentifiable |
+| everyone else | ordinary people with visible faces |
+
+Fourteen states were rebuilt with people: the nurse at the bedside, the archivist
+lifting a box, two crowds with readable faces, a congregation waiting, two men
+talking, pilgrims at the candles, shepherd children, a clerk in a corridor, the
+1981 press with period-correct SLR bodies, the handover of the envelope, a woman
+writing in 1944, doctors in a corridor and a man alone in a pew.
+
+Reference images were supplied for period accuracy only, with the prompt stating
+explicitly that no face from a reference may be reproduced.
+
 ## Still open before publication
 
-1. music and SFX pass, then a final mix at the channel's delivery loudness;
-2. thumbnail;
+1. thumbnail;
 3. an aloud review of the narration, which is a judgement only the channel owner
    can make;
 4. `C15` in the source lock: the 1989 setting of the projectile into the crown is

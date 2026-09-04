@@ -1,0 +1,122 @@
+[
+ {
+  "at": 11.93,
+  "state": "H01_ENVELOPE_SEALED",
+  "sfx": "paper"
+ },
+ {
+  "at": 15.56,
+  "state": "CLIP09_PUTTING_IT_AWAY",
+  "sfx": "lid"
+ },
+ {
+  "at": 42.14,
+  "state": "H18_LOCKED_DOOR",
+  "sfx": "metaldoor"
+ },
+ {
+  "at": 59.95,
+  "state": "CLIP03_WRITING",
+  "sfx": "pencil"
+ },
+ {
+  "at": 85.8,
+  "state": "H06_FOLDING_SHEET",
+  "sfx": "paper"
+ },
+ {
+  "at": 90.02,
+  "state": "CLIP04_SEALING",
+  "sfx": "wax"
+ },
+ {
+  "at": 96.83,
+  "state": "H36_KEY_RING",
+  "sfx": "keys"
+ },
+ {
+  "at": 110.62,
+  "state": "H35_SAFE_DOOR",
+  "sfx": "metaldoor"
+ },
+ {
+  "at": 117.42,
+  "state": "H16_NEWSPAPER_STACK",
+  "sfx": "paper"
+ },
+ {
+  "at": 160.66,
+  "state": "H12_SQUARE_CROWD_1981",
+  "sfx": "crowd"
+ },
+ {
+  "at": 171.27,
+  "state": "H20_CROWD_TURNING",
+  "sfx": "crowdturn"
+ },
+ {
+  "at": 174.81,
+  "state": "H13_CORRIDOR_1981",
+  "sfx": "roomclinic"
+ },
+ {
+  "at": 177.26,
+  "state": "H22_SURGICAL_LIGHT",
+  "sfx": "roomclinic"
+ },
+ {
+  "at": 234.44,
+  "state": "H27_ARCHIVE_LEDGER",
+  "sfx": "paper"
+ },
+ {
+  "at": 292.54,
+  "state": "H29_CANDLE_WALL",
+  "sfx": "flame"
+ },
+ {
+  "at": 349.96,
+  "state": "H39_CALENDAR_PAGES",
+  "sfx": "paper"
+ },
+ {
+  "at": 384.8,
+  "state": "CLIP08_SETTING_THE_METAL",
+  "sfx": "setmetal"
+ },
+ {
+  "at": 443.22,
+  "state": "H53_WIDE_PARCHMENT_EDGE",
+  "sfx": "metalclink"
+ },
+ {
+  "at": 447.53,
+  "state": "H32_SEALS_ON_CORD",
+  "sfx": "metalclink"
+ },
+ {
+  "at": 451.9,
+  "state": "H54_SEAL_SINGLE_MACRO",
+  "sfx": "metalclink"
+ },
+ {
+  "at": 462.06,
+  "state": "H57_SCALE_PAN_EMPTY",
+  "sfx": "weights"
+ },
+ {
+  "at": 465.86,
+  "state": "H33_CRATES_MOUNTAIN_ROAD",
+  "sfx": "cart"
+ },
+ {
+  "at": 470.3,
+  "state": "H55_CART_WHEEL_MUD",
+  "sfx": "cart"
+ },
+ {
+  "at": 475.03,
+  "state": "H34_WASTE_PAPER_WEIGHED",
+  "sfx": "weights"
+ }
+]
