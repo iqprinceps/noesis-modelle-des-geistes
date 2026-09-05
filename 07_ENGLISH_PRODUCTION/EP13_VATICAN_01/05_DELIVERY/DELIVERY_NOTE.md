@@ -274,6 +274,48 @@ Frame counts are exact integers, so the picture lands at 488.30 s against a
 488.37 s voice master. The last audible syllable is at 488.07 s, which leaves
 0.23 s of tail. Nothing is clipped.
 
+## Four faults found on viewing, and fixed
+
+**A clip was looping.** `CLIP09_PUTTING_IT_AWAY` is a 6 s clip on a 7.2 s shot,
+and the renderer filled the gap with `-stream_loop -1`, so the action restarted
+and the first 1.2 s played a second time. That is now impossible: a clip shorter
+than its shot is slowed to fit, up to 1.35x, and beyond that holds its last
+frame. A clip is a performance and never begins again inside one shot.
+
+**The box in that clip opened from both sides**, which no box does. Regenerated
+with one lid hinged along its far edge: the sheet goes in, the lid swings down,
+the hands settle on it.
+
+**The seal was pressed on its edge** like a coin being stood up. A seal matrix is
+pressed face down, flat and parallel to the paper. Third attempt at this shot, so
+the geometry is now stated before anything about mood, and it is correct.
+
+**Eight document states were blank.** Three empty white sheets on a table,
+envelopes with no writing on them, a page and an envelope with nothing on either.
+Blank paper does not read as a document, it reads as a placeholder, and this
+episode is about a document. The cause was an over-correction: an earlier pass
+was rejected for parchment carrying readable pseudo-names, so the prompts started
+asking for no text at all. The actual requirement is narrower, that nothing
+resolves into readable words.
+
+All eight were rebuilt with ink on them. Two had to be done twice: the first
+attempt put a large, sharp, level address across the envelope, which always
+resolves into pseudo-words, and one of them wrote out the English label from the
+prompt. They were redone with the writing small, steeply foreshortened and
+falling out of focus, with the wax seal as the sharp element.
+
+## An end screen hold was missing
+
+The film ended 1.3 s after the closing line, which left YouTube nowhere to put
+its subscribe badge and next-video thumbnail. There is now a 20 s held card after
+the narration: `CARD11_END_SCREEN`, dark wood with everything written in the left
+third and the right half deliberately bare for those elements. The score returns
+to the texture of the cold open and fades out over the last seven seconds. No
+narration runs under it.
+
+Runtime is 8:28.3, from 8:08.4.
+
+
 ## Repeated images
 
 None. 125 segments resolve to 125 distinct state ids and 125 distinct files, so no

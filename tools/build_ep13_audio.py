@@ -39,6 +39,12 @@ MIXWAV = AUDIO / "EP13_EN_FINAL_MIX.wav"
 FINAL = EP / "05_DELIVERY" / "EP13_EN_FINAL.mp4"
 
 SR = 48000
+
+# The film holds on an end screen card after the last line so YouTube has room
+# for its subscribe badge and next-video thumbnail. The score carries that hold
+# and fades out under it; there is no narration in it.
+OUTRO_SECONDS = 20.0
+OUTRO_FADE = 7.0
 SEED = 130513
 rng = np.random.default_rng(SEED)
 
@@ -181,18 +187,27 @@ def bed(character, n, t0):
     return out
 
 
-def build_music(total):
+def build_music(total, voice_end=None):
     n = int(total * SR)
     music = np.zeros(n)
-    bounds = [(s[1], (SECTIONS[i + 1][1] if i + 1 < len(SECTIONS) else total), s[2])
-              for i, s in enumerate(SECTIONS)]
+    sections = list(SECTIONS)
+    if voice_end is not None and total > voice_end + 1.0:
+        # the end screen returns to the texture the cold open used, which closes
+        # the film on the object it started with
+        sections.append(("outro", voice_end, "object"))
+    bounds = [(s[1], (sections[i + 1][1] if i + 1 < len(sections) else total), s[2])
+              for i, s in enumerate(sections)]
     xf = int(2.5 * SR)
     for start, end, char in bounds:
         a, b = int(start * SR), min(n, int(end * SR) + xf)
         seg = bed(char, b - a, start) * env(b - a, 2.5, 2.5)
         music[a:b] += seg
     m = np.max(np.abs(music)) or 1.0
-    return music / m * 0.5
+    music = music / m * 0.5
+    k = int(OUTRO_FADE * SR)
+    if n > k:
+        music[n - k:] *= np.linspace(1.0, 0.0, k) ** 1.6
+    return music
 
 
 # ------------------------------------------------------------------ sfx -----
@@ -329,11 +344,13 @@ def main():
     ap.add_argument("command", choices=["stems", "mix", "all"])
     a = ap.parse_args()
     voice = read_wav(VOICE)
-    total = len(voice) / SR
-    print(f"voice {total:.2f}s")
+    voice_end = len(voice) / SR
+    total = voice_end + OUTRO_SECONDS
+    voice = np.pad(voice, (0, int(OUTRO_SECONDS * SR)))
+    print(f"voice {voice_end:.2f}s + {OUTRO_SECONDS:.0f}s end screen = {total:.2f}s")
 
     if a.command in ("stems", "all"):
-        music = build_music(total)
+        music = build_music(total, voice_end)
         sfxt, placed = build_sfx(total)
         write_wav(STEMS / "EP13_MX_SCORE.wav", music)
         write_wav(STEMS / "EP13_SFX_BED.wav", sfxt)

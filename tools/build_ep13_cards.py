@@ -249,6 +249,31 @@ def card10_decision_end():
     return base, lay, "EP13_CARD10_DECISION_END.png"
 
 
+@card
+def card11_end_screen():
+    """The end screen hold.
+
+    YouTube places its end screen elements over the last seconds of the film, so
+    the right of the frame is deliberately left as bare wood: the subscribe badge
+    and the next-video thumbnail go there. Everything written sits in the left
+    third, and nothing important comes near the lower right corner.
+    """
+    base = substrate("EP13_SUB03_DARK_WOOD.png")
+    lay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(lay)
+    x, y = 250, 330
+    tracked(d, (x, y), "VATICAN FILES", f(SERIF_B, 52), EMBER_LIT, track=22)
+    d.text((x - 4, y + 116), "Next: eighty-one", font=f(SERIF, 132), fill=CREAM)
+    d.text((x - 4, y + 268), "seals, and a pope", font=f(SERIF, 132), fill=CREAM)
+    d.text((x - 4, y + 420), "who said no.", font=f(SERIF, 132), fill=CREAM)
+    ink_rule(d, x, y + 620, x + 940, CREAM_SOFT, weight=4, jitter=1.6, seed=113)
+    w1 = tracked(d, (x, y + 672), "WORLD", f(SERIF_B, 84), CREAM, track=12)
+    d.text((x + w1 + 48, y + 688), "or", font=f(SERIF_I, 56), fill=CREAM_SOFT)
+    tracked(d, (x + w1 + 140, y + 672), "MYSELF", f(SERIF_B, 84), EMBER_LIT, track=12)
+    d.text((x - 2, y + 800), "Leave one word below.", font=f(SERIF_I, 62), fill=CREAM_SOFT)
+    return base, lay, "EP13_CARD11_END_SCREEN.png"
+
+
 def mobile_check(img: Image.Image, name: str, outdir: pathlib.Path) -> None:
     small = img.resize((246, int(246 * H / W)), Image.LANCZOS)
     small.resize((984, int(984 * H / W)), Image.NEAREST).save(

@@ -76,10 +76,18 @@ LOCKED_STATES = {
     "H16_NEWSPAPER_STACK",  # newsprint, a document
     "H39_CALENDAR_PAGES",   # printed pages, a document
     "EP13-X07",             # archival portrait-format photograph
+    "H50_THREE_READERS_TABLE",  # three sheets of dense hand, a document to read
 }
 
 # Below about a third of a second the eye reads a cut, not a camera.
 MIN_MOVE_SECONDS = 0.35
+
+# A held end screen after the narration. YouTube places its subscribe badge and
+# next-video thumbnail over the last seconds of a film and needs somewhere to put
+# them; the episode previously ended 1.3 s after the closing line, which left no
+# room at all. The card keeps its right half bare for exactly that.
+OUTRO_SECONDS = 20.0
+OUTRO_STATE = "CARD11_END_SCREEN"
 
 CRF = 17
 COMPOSED = WORK / "composed"   # 16:9 blurred-background plates, see compose()
@@ -194,8 +202,24 @@ def moving_filter(i, dur_s, first, last):
 
 
 def clip_filter(path, dur_s, first, last):
-    return (f"scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,"
-            f"fps={FPS},format=yuv420p" + fades(dur_s, first, last))
+    """Fit a clip to its shot without ever replaying it.
+
+    A clip shorter than its shot used to be looped, so CLIP09 played its first
+    1.2 seconds a second time and the action visibly restarted. A clip is a
+    performance: it may be slowed a little to fill the gap, and past that it
+    holds on its last frame, but it never begins again.
+    """
+    src = float(probe(path, "format=duration"))
+    fit = ""
+    if dur_s > src * 1.02:
+        ratio = dur_s / src
+        if ratio <= 1.35:
+            fit = f",setpts={ratio:.6f}*PTS"          # slow slightly to fit
+        else:
+            fit = (f",setpts={1.35:.6f}*PTS,"          # slow to the limit, then hold
+                   f"tpad=stop_mode=clone:stop_duration={dur_s - src * 1.35:.3f}")
+    return (f"scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080"
+            f"{fit},fps={FPS},format=yuv420p" + fades(dur_s, first, last))
 
 
 def load_shots():
@@ -219,8 +243,12 @@ def load_shots():
         shots[k]["end"] = shots[k + 1]["start"]
         shots[k]["dur"] = round(shots[k]["end"] - shots[k]["start"], 3)
     if VOICE.is_file():
-        shots[-1]["end"] = duration(VOICE)
-        shots[-1]["dur"] = round(shots[-1]["end"] - shots[-1]["start"], 3)
+        end = duration(VOICE)
+        shots[-1]["end"] = end
+        shots[-1]["dur"] = round(end - shots[-1]["start"], 3)
+        shots.append({"state": OUTRO_STATE, "start": end, "end": end + OUTRO_SECONDS,
+                      "dur": OUTRO_SECONDS, "beat": "outro",
+                      "text": "end screen hold, no narration"})
     return shots
 
 
@@ -253,8 +281,8 @@ def render_one(job):
     first, last = i == 0, i == total - 1
     if src.suffix.lower() in VIDEO_EXT:
         vf = clip_filter(src, s["dur"], first, last)
-        args = ["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-i", str(src),
-                "-t", f"{s['dur']:.3f}", "-an", "-vf", vf]
+        args = ["ffmpeg", "-y", "-loglevel", "error", "-i", str(src),
+                "-an", "-vf", vf]
     else:
         plate = compose(src)
         locked = ("CARD" in s["state"].upper() or s["state"] in LOCKED_STATES

@@ -6,7 +6,7 @@
     "central_p95_over_median_max": 2.5,
     "central_low_motion_ratio": "diagnostic_only_for_dark_or_low_texture_images"
   },
-  "shots_checked": 102,
+  "shots_checked": 101,
   "failures": [],
   "shots": [
     {
@@ -34,9 +34,9 @@
     {
       "status": "PASS",
       "frames_checked": 108,
-      "central_median_adjacent_difference": 0.409271,
-      "central_jerk_over_median": 0.1318,
-      "central_p95_over_median": 1.2413,
+      "central_median_adjacent_difference": 0.366962,
+      "central_jerk_over_median": 0.2503,
+      "central_p95_over_median": 1.59,
       "central_low_motion_ratio": 0.0,
       "shot": 3,
       "state": "H24_HAND_ON_ENVELOPE",
@@ -45,9 +45,9 @@
     {
       "status": "PASS",
       "frames_checked": 109,
-      "central_median_adjacent_difference": 0.430451,
-      "central_jerk_over_median": 0.0836,
-      "central_p95_over_median": 1.186,
+      "central_median_adjacent_difference": 0.277378,
+      "central_jerk_over_median": 0.3569,
+      "central_p95_over_median": 1.8425,
       "central_low_motion_ratio": 0.0,
       "shot": 4,
       "state": "H01_ENVELOPE_SEALED",
@@ -133,9 +133,9 @@
     {
       "status": "PASS",
       "frames_checked": 100,
-      "central_median_adjacent_difference": 0.322995,
-      "central_jerk_over_median": 0.1422,
-      "central_p95_over_median": 1.1965,
+      "central_median_adjacent_difference": 0.316493,
+      "central_jerk_over_median": 0.3589,
+      "central_p95_over_median": 1.5309,
       "central_low_motion_ratio": 0.0,
       "shot": 14,
       "state": "H08_ENVELOPE_CARRIED",
@@ -210,9 +210,9 @@
     {
       "status": "PASS",
       "frames_checked": 108,
-      "central_median_adjacent_difference": 0.267153,
-      "central_jerk_over_median": 0.187,
-      "central_p95_over_median": 1.3937,
+      "central_median_adjacent_difference": 0.372405,
+      "central_jerk_over_median": 0.2867,
+      "central_p95_over_median": 1.6955,
       "central_low_motion_ratio": 0.0,
       "shot": 24,
       "state": "H19_PAPERS_ON_DESK_NIGHT",
@@ -452,9 +452,9 @@
     {
       "status": "PASS",
       "frames_checked": 100,
-      "central_median_adjacent_difference": 0.58717,
-      "central_jerk_over_median": 0.1212,
-      "central_p95_over_median": 1.1616,
+      "central_median_adjacent_difference": 0.39592,
+      "central_jerk_over_median": 0.233,
+      "central_p95_over_median": 1.5396,
       "central_low_motion_ratio": 0.0,
       "shot": 52,
       "state": "H14_TWO_ENVELOPES",
@@ -947,9 +947,9 @@
     {
       "status": "PASS",
       "frames_checked": 100,
-      "central_median_adjacent_difference": 0.436632,
-      "central_jerk_over_median": 0.1117,
-      "central_p95_over_median": 1.2117,
+      "central_median_adjacent_difference": 0.449427,
+      "central_jerk_over_median": 0.2977,
+      "central_p95_over_median": 1.7237,
       "central_low_motion_ratio": 0.0,
       "shot": 107,
       "state": "H48_PAGE_BECOMES_OBJECT",
@@ -958,9 +958,9 @@
     {
       "status": "PASS",
       "frames_checked": 56,
-      "central_median_adjacent_difference": 0.468993,
-      "central_jerk_over_median": 0.1292,
-      "central_p95_over_median": 1.2074,
+      "central_median_adjacent_difference": 0.432049,
+      "central_jerk_over_median": 0.1548,
+      "central_p95_over_median": 1.2325,
       "central_low_motion_ratio": 0.0,
       "shot": 108,
       "state": "H52_ENVELOPE_ALONE_WIDE",
@@ -976,17 +976,6 @@
       "shot": 109,
       "state": "H49_BOX_ON_SHELF_ALONE",
       "segment": "109_H49_BOX_ON_SHELF_ALONE.mp4"
-    },
-    {
-      "status": "PASS",
-      "frames_checked": 147,
-      "central_median_adjacent_difference": 0.589913,
-      "central_jerk_over_median": 0.1506,
-      "central_p95_over_median": 1.3084,
-      "central_low_motion_ratio": 0.0,
-      "shot": 110,
-      "state": "H50_THREE_READERS_TABLE",
-      "segment": "110_H50_THREE_READERS_TABLE.mp4"
     },
     {
       "status": "PASS",
