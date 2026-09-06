@@ -65,7 +65,9 @@ JOBS = [
     {
         "output": "EP14_CLIP04_CART_PASSES.mp4",
         "start": ("ep14", "H21_CONVOY_ROAD.png"),
-        "person": "dont_allow",
+        # dont_allow tripped the people filter on a start frame that already has a
+        # carter walking beside the horse; the clip needs him to stay there.
+        "person": "allow_adult",
         "prompt": (
             "Static locked camera at the roadside on a grey day, framing an empty stretch of "
             "muddy rutted road with bare fields behind. Over six seconds a heavy horse-drawn "

@@ -77,9 +77,15 @@ def main():
             ext = hit["url"].rsplit(".", 1)[-1].lower()
             ext = ext if ext in ("jpg", "jpeg", "png", "tif", "tiff") else "jpg"
             out = DEST / f"{stem}.{ext}"
+            # Very large plates are refused by the rate limiter and are far beyond
+            # what a 1920-wide delivery can use, so ask for a 3000 px rendering
+            # instead of the master file.
+            url = hit["url"]
+            if hit["w"] * hit["h"] > 20_000_000 and hit.get("thumb"):
+                url = re.sub(r"/\d+px-", "/3000px-", hit["thumb"])
             if not out.is_file() or out.stat().st_size < 20000:
                 print(f"  GET   {hit['w']}x{hit['h']}  {hit['title'][5:64]}")
-                if not fetch(hit["url"], out):
+                if not fetch(url, out):
                     print("        failed")
                     continue
                 time.sleep(6)
