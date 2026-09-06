@@ -1,0 +1,135 @@
+beat,state,canonical,in,out,hold,text
+1,EP13-C18,EP13-C18,0.1,6.18,6.08,"In einer Krone aus Gold und Perlen, in einem Heiligtum in Portugal, steckt eine Kugel."
+2,EP13-C13,EP13-C13,6.3,8.7,2.4,Sie wurde auf einen Papst abgefeuert.
+3,EP13-C13,EP13-C13,8.74,9.42,0.68,Er überlebte.
+4,H24_HAND_ON_ENVELOPE,H24_HAND_ON_ENVELOPE,10.16,14.76,4.6,"Und zwei Monate später, noch nicht genesen von der Operation, ließ er sich einen Umschlag bringen, der seit si"
+4,H01_ENVELOPE_SEALED,H01_ENVELOPE_SEALED,14.76,19.36,4.6,"Und zwei Monate später, noch nicht genesen von der Operation, ließ er sich einen Umschlag bringen, der seit si"
+5,CLIP09_PUTTING_IT_AWAY,H10_BOX_RETURNED,19.46,28.6,9.14,"Zwei Päpste vor ihm hatten diesen Umschlag geöffnet, gelesen, was darin stand, und ihn wieder verschlossen, oh"
+6,EP13-C01,EP13-C01,28.66,33.34,4.68,Die Schüsse fielen am dreizehnten Mai 1981 auf dem Petersplatz.
+7,P08_SHEPHERD_CHILDREN_DISTANT,P08_SHEPHERD_CHILDREN_DISTANT,34.06,39.36,5.3,"Vierundsechzig Jahre zuvor, am dreizehnten Mai 1917, sagten drei Hirtenkinder bei einem portugiesischen Dorf, "
+7,EP13-C07,EP13-C07,39.36,44.66,5.3,"Vierundsechzig Jahre zuvor, am dreizehnten Mai 1917, sagten drei Hirtenkinder bei einem portugiesischen Dorf, "
+8,EP13-C26,EP13-C26,45.42,49.72,4.3,"Eines dieser Kinder schrieb später einen Teil dessen auf, was sie gesehen hatte."
+9,H18_LOCKED_DOOR,H18_LOCKED_DOOR,50.62,52.28,1.66,Das ist der Text in dem Umschlag.
+10,V14_DOORWAY_LIGHT,V14_DOORWAY_LIGHT,52.94,57.72,4.78,"Diese Geschichte stellt also zwei Fragen, und die zweite ist die seltsamere."
+11,V13_PAGE_DISSOLVING,V13_PAGE_DISSOLVING,57.78,58.69,0.91,Was hat er gelesen?
+12,H28_GOLD_UNDER_GLASS,H28_GOLD_UNDER_GLASS,59.46,64.06,4.6,"Und wie kommt eine Kugel, die in Rom abgefeuert wurde, in eine Krone in Portugal?"
+13,H08_ENVELOPE_CARRIED,H08_ENVELOPE_CARRIED,65.02,68.2,3.18,"Folgen wir dem Umschlag, denn der Umschlag lässt sich verfolgen."
+14,CLIP03_WRITING,H05_WRITING_HAND_1944,68.74,71.18,2.44,Er beginnt mit einem Mädchen und einem Bleistift.
+15,EP13-C14,EP13-C14,72.18,76.17,3.99,"Die berichteten Erscheinungen von Fatima zogen sich durch den Sommer 1917. Die Kinder sprachen von Gebet, von "
+15,EP13-C10,EP13-C10,76.17,80.17,4.0,"Die berichteten Erscheinungen von Fatima zogen sich durch den Sommer 1917. Die Kinder sprachen von Gebet, von "
+15,EP13-C11,EP13-C11,80.17,84.16,3.99,"Die berichteten Erscheinungen von Fatima zogen sich durch den Sommer 1917. Die Kinder sprachen von Gebet, von "
+16,CARD01_1944,CARD01_1944,85.1,89.59,4.49,"Siebenundzwanzig Jahre später, am dritten Januar 1944, setzte sich eines von ihnen hin und schrieb den letzten"
+16,P12_WOMAN_WRITING_ROOM,P12_WOMAN_WRITING_ROOM,89.59,94.08,4.49,"Siebenundzwanzig Jahre später, am dritten Januar 1944, setzte sich eines von ihnen hin und schrieb den letzten"
+17,EP13-C27,EP13-C27,94.14,98.2,4.06,"Lucia dos Santos war die Einzige der drei, die noch lebte."
+18,H06_FOLDING_SHEET,H06_FOLDING_SHEET,98.24,103.26,5.02,"Und in dem Moment, in dem sie den Bleistift weglegte, änderte die Geschichte ihre Gestalt."
+19,CLIP04_SEALING,H07_SEALING_WAX,104.02,106.74,2.72,Aus einer berichteten Vision wurde ein Gegenstand.
+20,H19_PAPERS_ON_DESK_NIGHT,H19_PAPERS_ON_DESK_NIGHT,107.62,111.76,4.14,"Papier. Tinte. Ein versiegelter Umschlag, den man tragen, lagern, bewachen und einem Einzelnen in die Hand geb"
+20,H36_KEY_RING,H36_KEY_RING,111.76,115.9,4.14,"Papier. Tinte. Ein versiegelter Umschlag, den man tragen, lagern, bewachen und einem Einzelnen in die Hand geb"
+21,CARD02_1957,CARD02_1957,116.76,122.68,5.92,1957 wurde der Umschlag nach Rom gebracht und im Archiv des Heiligen Offiziums verwahrt.
+22,P02_ARCHIVIST_AT_WORK,P02_ARCHIVIST_AT_WORK,123.42,127.68,4.26,"Halten Sie diese Lage einen Moment fest, denn sie ist merkwürdig."
+23,H35_SAFE_DOOR,H35_SAFE_DOOR,127.74,129.06,1.32,Ein Dokument existiert.
+24,P06_TWO_MEN_TALKING,P06_TWO_MEN_TALKING,129.6,132.46,2.86,Seine Verfasserin lebt und kann danach gefragt werden.
+25,P09_CLERK_CARRYING_BOX,P09_CLERK_CARRYING_BOX,133.14,136.1,2.96,"Die Männer, die es lesen dürfen, sind namentlich bekannt."
+26,H16_NEWSPAPER_STACK,H16_NEWSPAPER_STACK,136.78,139.7,2.92,"Und allen anderen wird nur gesagt, dass es da ist."
+27,EP13-C12,EP13-C12,140.5,142.57,2.07,1959 las Johannes der Dreiundzwanzigste es.
+27,H09_READING_ALONE,H09_READING_ALONE,142.57,144.64,2.07,1959 las Johannes der Dreiundzwanzigste es.
+28,H11_DESK_AFTER_READING,H11_DESK_AFTER_READING,145.4,146.66,1.26,Er veröffentlichte es nicht.
+29,EP13-C04,EP13-C04,147.36,149.76,2.4,Sechs Jahre später las Paul der Sechste es.
+30,CARD03_TWO_POPES,CARD03_TWO_POPES,150.84,152.46,1.62,Er schickte es zurück ins Archiv.
+31,CARD03_TWO_POPES,CARD03_TWO_POPES,153.14,158.54,5.4,"Jedes Mal, wenn ein Papst diesen Umschlag öffnete, war das Schweigen danach eine Entscheidung."
+32,P05_CONGREGATION_WAITING,P05_CONGREGATION_WAITING,158.91,162.22,3.31,Und jede Entscheidung machte den leeren Raum darum herum größer.
+33,EP13-C05,EP13-C05,162.9,166.84,3.94,"Die Menschen füllten diesen Raum mit Kriegen, mit einer kommenden Krise der Kirche, mit dem Weltuntergang, mit"
+33,EP13-C21,EP13-C21,166.84,170.78,3.94,"Die Menschen füllten diesen Raum mit Kriegen, mit einer kommenden Krise der Kirche, mit dem Weltuntergang, mit"
+34,P14_MAN_ALONE_PEW,P14_MAN_ALONE_PEW,171.44,176.7,5.26,Jede dieser Vorstellungen wuchs aus einer einzigen Tatsache: Die Seite blieb geschlossen.
+35,H38_EMPTY_CHAIR_LAMP,H38_EMPTY_CHAIR_LAMP,177.62,179.02,1.4,Was hätten Sie darin vermutet?
+36,EP13-C02,EP13-C02,179.82,182.78,2.96,Dann kam der dreizehnte Mai 1981.
+37,P03_CROWD_FACES_1981,P03_CROWD_FACES_1981,183.4,187.5,4.1,Siebzehn Uhr neunzehn. Der Petersplatz ist voll.
+38,P15_OPEN_CAR_IN_CROWD,P15_OPEN_CAR_IN_CROWD,187.58,191.66,4.08,Johannes Paul der Zweite fährt langsam in einem offenen Wagen durch die Menge.
+39,P04_CROWD_ALARM_FACES,P04_CROWD_ALARM_FACES,192.54,194.09,1.55,Mehmet Ali Agca schießt.
+40,H21_EMPTY_SQUARE_AFTER,H21_EMPTY_SQUARE_AFTER,194.48,196.14,1.66,"Der Papst wird getroffen, vom Platz gefahren und operiert."
+40,P13_DOCTORS_CORRIDOR,P13_DOCTORS_CORRIDOR,196.14,197.8,1.66,"Der Papst wird getroffen, vom Platz gefahren und operiert."
+41,H22_SURGICAL_LIGHT,H22_SURGICAL_LIGHT,198.4,199.04,0.64,Er überlebt.
+42,H23_WINDOW_AFTERNOON,H23_WINDOW_AFTERNOON,199.88,204.56,4.68,"Und während er sich erholt, tut er etwas, worum ihn niemand gebeten hat."
+43,P01_NURSE_BEDSIDE_1981,P01_NURSE_BEDSIDE_1981,204.6,206.76,2.16,Er lässt sich den Umschlag bringen.
+44,CARD04_1981,CARD04_1981,206.8,210.38,3.58,Am achtzehnten Juli 1981 bringt man ihm das portugiesische Original und eine italienische Übersetzung.
+44,H14_TWO_ENVELOPES,H14_TWO_ENVELOPES,210.38,213.96,3.58,Am achtzehnten Juli 1981 bringt man ihm das portugiesische Original und eine italienische Übersetzung.
+45,P11_HANDOVER_TWO_MEN,P11_HANDOVER_TWO_MEN,214.76,216.44,1.68,Versetzen Sie sich in dieses Zimmer.
+46,H44_MIRROR_ROOM,H44_MIRROR_ROOM,217.32,218.96,1.64,Sie erholen sich von Schusswunden.
+47,EP13-C03,EP13-C03,219.72,225.44,5.72,"Angeschossen wurden Sie am Jahrestag des Tages, an dem diese ganze Geschichte begann."
+48,H42_PRINTED_COLUMN,H42_PRINTED_COLUMN,225.54,232.38,6.84,"Auf dem Tisch neben Ihnen liegt ein Text, den eine Frau vor siebenunddreißig Jahren geschrieben hat und die no"
+48,H46_SHELF_OF_BOXES,H46_SHELF_OF_BOXES,232.38,239.22,6.84,"Auf dem Tisch neben Ihnen liegt ein Text, den eine Frau vor siebenunddreißig Jahren geschrieben hat und die no"
+49,V17_LIGHT_THROUGH_PAPER,V17_LIGHT_THROUGH_PAPER,240.1,241.14,1.04,Gleich öffnen Sie ihn.
+50,V15_LOOKING_FOR_THE_WORLD,V15_LOOKING_FOR_THE_WORLD,241.84,242.98,1.14,Suchen Sie darin die Welt?
+51,V19_LOOKING_FOR_YOURSELF,V19_LOOKING_FOR_YOURSELF,243.7,244.96,1.26,Oder suchen Sie sich selbst?
+52,CARD08_DECISION,CARD08_DECISION,245.7,248.86,3.16,Schreiben Sie ein Wort in die Kommentare: WELT oder ICH.
+53,CARD08_DECISION,CARD08_DECISION,249.54,253.52,3.98,"Merken Sie sich Ihre Antwort, denn sie entscheidet, wie Sie den nächsten Teil lesen."
+54,CARD05_2000,CARD05_2000,254.4,262.32,7.92,"Im Jahr 2000 veröffentlichte der Vatikan das Manuskript als fotografisches Faksimile, mit Übersetzung und Komm"
+55,H27_ARCHIVE_LEDGER,H27_ARCHIVE_LEDGER,263.12,265.64,2.52,"Wir können also genau das lesen, was er gelesen hat."
+56,H45_OBJECT_LINE,H45_OBJECT_LINE,266.36,273.28,6.92,"Lesen Sie es so, wie er es lesen musste. Aus einem Krankenbett. Zwei Monate, nachdem jemand auf Sie geschossen"
+57,CLIP01_FLAMES_FAIL,V01_ANGEL_SWORD,273.98,277.9,3.92,"Die Vision beginnt mit einem Engel, der ein Flammenschwert hält. Die Flammen sehen aus, als würden sie die Wel"
+57,V12_SWORD_ALONE,V12_SWORD_ALONE,277.9,281.82,3.92,"Die Vision beginnt mit einem Engel, der ein Flammenschwert hält. Die Flammen sehen aus, als würden sie die Wel"
+58,V02_FIGURE_IN_WHITE,V02_FIGURE_IN_WHITE,282.62,284.84,2.22,Dann sehen die Kinder einen Bischof in Weiß.
+59,V07_THE_IMPRESSION,V07_THE_IMPRESSION,285.44,289.88,4.44,"Sie schreiben, sie hätten den Eindruck gehabt, es sei der Heilige Vater."
+60,V03_RUINED_STREET,V03_RUINED_STREET,289.92,293.4,3.48,"Er geht durch eine große Stadt, halb in Trümmern."
+61,CLIP10_THE_WAY,V04_THE_WAY,293.46,295.22,1.76,Unterwegs kommt er an Toten vorbei.
+62,CLIP06_THE_CLIMB,V09_THE_CLIMB,296.1,299.45,3.35,"Er steigt einen steilen Berg hinauf, mit anderen Bischöfen, Priestern und Laien, und oben steht ein großes Kre"
+62,V05_THE_CLIMB,V05_THE_CLIMB,299.45,302.8,3.35,"Er steigt einen steilen Berg hinauf, mit anderen Bischöfen, Priestern und Laien, und oben steht ein großes Kre"
+63,V06_THE_FALL,V06_THE_FALL,303.6,307.58,3.98,"Dort oben schießt eine Gruppe Soldaten auf ihn, mit Kugeln und Pfeilen."
+64,V06_THE_FALL,V06_THE_FALL,308.18,308.96,0.78,Er fällt.
+65,V08_EMPTY_SUMMIT,V08_EMPTY_SUMMIT,309.24,310.94,1.7,Die anderen werden mit ihm getötet.
+66,CARD06_CONTAINS,CARD06_CONTAINS,311.88,314.96,3.08,"Achten Sie jetzt darauf, was auf dieser Seite nirgends steht."
+67,CARD07_NEVER_SAYS,CARD07_NEVER_SAYS,315.84,317.54,1.7,Sie nennt keinen Namen.
+68,CARD07_NEVER_SAYS,CARD07_NEVER_SAYS,317.62,318.78,1.16,Sie nennt kein Datum.
+69,CARD07_NEVER_SAYS,CARD07_NEVER_SAYS,319.48,323.52,4.04,"Kein Platz, kein Wagen, keine Menge, kein Krankenwagen."
+70,V18_THE_MAN_DOES_NOT_RISE,V18_THE_MAN_DOES_NOT_RISE,324.24,326.04,1.8,Und der Bischof in Weiß überlebt nicht.
+71,P07_PILGRIMS_CANDLES,P07_PILGRIMS_CANDLES,326.84,331.42,4.58,"Der Mann, der das im Juli 1981 liest, hat überlebt."
+72,V11_THE_PAGE_IN_YOUR_HANDS,V11_THE_PAGE_IN_YOUR_HANDS,331.54,334.54,3.0,"Was würden Sie mit dieser Seite tun, wenn Sie er wären?"
+73,H41_THREE_CHAIRS_ANGLES,H41_THREE_CHAIRS_ANGLES,335.32,341.62,6.3,"An dieser Stelle hört das auf, eine Geschichte über eine Prophezeiung zu sein, und wird eine Geschichte über d"
+74,EP13-C31,EP13-C31,342.38,348.19,5.81,Im Jahr 2000 kündigte Kardinal Angelo Sodano die Veröffentlichung in Fatima an und beschrieb die Überzeugung d
+74,P10_PRESS_1981,P10_PRESS_1981,348.19,354.0,5.81,Im Jahr 2000 kündigte Kardinal Angelo Sodano die Veröffentlichung in Fatima an und beschrieb die Überzeugung d
+75,EP13-C09,EP13-C09,354.72,361.07,6.35,Vor der Veröffentlichung wurde Schwester Lucia noch einmal befragt. Nach dem vatikanischen Protokoll dieses Ge
+75,EP13-C16,EP13-C16,361.07,367.42,6.35,Vor der Veröffentlichung wurde Schwester Lucia noch einmal befragt. Nach dem vatikanischen Protokoll dieses Ge
+76,EP13-C30,EP13-C30,368.66,373.93,5.27,"Der Kommentar des Vatikans las die Szene weit, als Bild für die Verfolgungen des zwanzigsten Jahrhunderts, und"
+76,EP13-X11,EP13-X11,373.93,379.2,5.27,"Der Kommentar des Vatikans las die Szene weit, als Bild für die Verfolgungen des zwanzigsten Jahrhunderts, und"
+77,V10_MARTYRS_LINE,V10_MARTYRS_LINE,380.06,382.9,2.84,Eine Seite trug also drei Lesarten gleichzeitig.
+78,V10_MARTYRS_LINE,V10_MARTYRS_LINE,383.66,385.14,1.48,Ein Jahrhundert der Märtyrer.
+79,EP13-C19,EP13-C19,385.9,387.18,1.28,Ein Nachmittag in Rom.
+80,EP13-C25,EP13-C25,387.92,391.4,3.48,"Und die Antwort eines Mannes auf die Frage, warum er noch lebte."
+81,EP13-Y04,EP13-Y04,392.28,394.04,1.76,Damit kommt Ihre Antwort zurück.
+82,H39_CALENDAR_PAGES,H39_CALENDAR_PAGES,394.78,398.18,3.4,"Wann sind wir uns einig, dass eine Prophezeiung eingetroffen ist?"
+83,H39_CALENDAR_PAGES,H39_CALENDAR_PAGES,398.89,400.85,1.96,Wenn sie ein Ereignis vorher benennt?
+84,EP13-C23,EP13-C23,401.7,407.06,5.36,Oder wenn ein Mensch etwas überlebt und seine eigene Erfahrung in einem älteren Bild wiedererkennt?
+85,EP13-C24,EP13-C24,408.0,412.1,4.1,"Auf die zweite Art benutzen die meisten Menschen die Texte, an die sie glauben."
+86,EP13-X10,EP13-X10,412.98,415.48,2.5,Bleibt die andere Frage vom Anfang dieser Folge.
+87,EP13-Y01,EP13-Y01,416.33,418.18,1.85,Wie kommt eine Kugel in eine Krone?
+88,EP13-X03,EP13-X03,419.0,423.62,4.62,Ein Jahr nach den Schüssen reiste Johannes Paul der Zweite nach Fatima.
+89,EP13-X09,EP13-X09,423.72,426.58,2.86,Sein Überleben war für ihn da bereits Teil dieser Geschichte.
+90,EP13-X07,EP13-X07,427.48,431.0,3.52,Eines der Projektile aus dem Attentat kam an das Heiligtum.
+91,CLIP08_SETTING_THE_METAL,H15_SETTING_THE_METAL,431.66,435.96,4.3,1989 wurde es in die kostbare Krone der Statue Unserer Lieben Frau vom Rosenkranz von Fatima eingesetzt.
+91,EP13-Y03,EP13-Y03,435.96,440.26,4.3,1989 wurde es in die kostbare Krone der Statue Unserer Lieben Frau vom Rosenkranz von Fatima eingesetzt.
+92,EP13-X14,EP13-X14,440.6,441.86,1.26,Dort steckt es bis heute.
+93,EP13-C06,EP13-C06,442.56,445.14,2.58,Und auf dieses Bild läuft diese ganze Folge zu.
+94,V21_CROWN_SHAPE_DISSOLVE,V21_CROWN_SHAPE_DISSOLVE,446.18,451.16,4.98,"Metall aus einem Attentat, eingebettet zwischen Gold, Perlen und Edelsteinen."
+95,EP13-Y05,EP13-Y05,451.92,458.78,6.86,"Ein Gegenstand, der für Gewalt gemacht wurde, aufgenommen in einen Gegenstand, der für Verehrung gemacht wurde"
+96,EP13-X04,EP13-X04,458.84,462.98,4.14,Der dreizehnte Mai 1981 hat jetzt eine Adresse.
+97,H51_FIVE_FORMS_ROW,H51_FIVE_FORMS_ROW,463.66,468.1,4.44,"Sehen Sie, was in diesen dreiundachtzig Jahren tatsächlich geschehen ist."
+98,H48_PAGE_BECOMES_OBJECT,H48_PAGE_BECOMES_OBJECT,468.2,472.26,4.06,Aus einer berichteten Vision wurde eine handgeschriebene Seite.
+99,H52_ENVELOPE_ALONE_WIDE,H52_ENVELOPE_ALONE_WIDE,472.34,474.94,2.6,Aus der Seite wurde ein versiegelter Gegenstand.
+100,H49_BOX_ON_SHELF_ALONE,H49_BOX_ON_SHELF_ALONE,475.7,481.34,5.64,"Der Gegenstand kam in ein Archiv und gewann Macht über Menschen, die ihn nie lesen durften."
+101,H50_THREE_READERS_TABLE,H50_THREE_READERS_TABLE,481.4,485.84,4.44,"Und als er endlich geöffnet wurde, gab er drei Lesern drei verschiedene Wahrheiten."
+102,H56_EMPTY_SHELVES_GAPS,H56_EMPTY_SHELVES_GAPS,486.82,489.32,2.5,"Das ist das Muster, dem diese Serie folgt."
+103,EP13-X05,EP13-X05,490.02,493.96,3.94,Eine Institution nimmt etwas Ungewisses und gibt ihm eine Form.
+104,H02_SHEET_TWENTYFIVE_LINES,H02_SHEET_TWENTYFIVE_LINES,494.62,496.24,1.62,Hier war die Form ein Umschlag.
+105,EP13-Y02,EP13-Y02,496.92,499.14,2.22,Die nächste Form ist sehr viel größer.
+106,H53_WIDE_PARCHMENT_EDGE,H53_WIDE_PARCHMENT_EDGE,500.0,505.24,5.24,Im Juli 1530 unterschrieben dreiundachtzig der mächtigsten Männer Englands ein einziges Blatt Pergament und hä
+106,H32_SEALS_ON_CORD,H32_SEALS_ON_CORD,505.24,510.48,5.24,Im Juli 1530 unterschrieben dreiundachtzig der mächtigsten Männer Englands ein einziges Blatt Pergament und hä
+107,H54_SEAL_SINGLE_MACRO,H54_SEAL_SINGLE_MACRO,511.14,514.91,3.77,"Sie wollten einen Papst zwingen, die Ehe ihres Königs zu beenden."
+108,H54_SEAL_SINGLE_MACRO,H54_SEAL_SINGLE_MACRO,515.58,516.42,0.84,Er weigerte sich.
+109,H31_PARCHMENT_COLUMNS,H31_PARCHMENT_COLUMNS,517.04,521.78,4.74,"Innerhalb von vier Jahren brach England mit Rom, und die Ehe endete ohne ihn."
+110,H57_SCALE_PAN_EMPTY,H57_SCALE_PAN_EMPTY,523.0,525.7,2.7,"Der Brief scheiterte an allem, wofür er geschrieben wurde."
+111,H33_CRATES_MOUNTAIN_ROAD,H33_CRATES_MOUNTAIN_ROAD,526.34,531.12,4.78,"Er liegt noch immer in Rom, die Siegel daran, fast fünfhundert Jahre später."
+112,H55_CART_WHEEL_MUD,H55_CART_WHEEL_MUD,531.88,536.75,4.87,"Andere Teile desselben Archivs ließ Napoleon über die Alpen schaffen, und sie kamen nie zurück. Ein Teil davon"
+112,H34_WASTE_PAPER_WEIGHED,H34_WASTE_PAPER_WEIGHED,536.75,541.62,4.87,"Andere Teile desselben Archivs ließ Napoleon über die Alpen schaffen, und sie kamen nie zurück. Ein Teil davon"
+113,V20_WHAT_SURVIVED,V20_WHAT_SURVIVED,542.28,546.04,3.76,"Nächstes Mal: warum dieser Brief überlebt hat, und was nicht."
+114,CARD09_CREDIT,CARD09_CREDIT,546.78,549.24,2.46,"Abonnieren Sie, wenn Sie dieser Akte folgen wollen."
+115,CARD10_DECISION_END,CARD10_DECISION_END,549.9,554.52,4.62,Und bevor Sie gehen: WELT oder ICH. Wonach haben Sie gesucht?

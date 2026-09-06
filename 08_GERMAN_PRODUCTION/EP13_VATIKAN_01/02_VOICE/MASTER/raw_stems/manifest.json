@@ -1,0 +1,170 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_DE_TAKE_01.mp3",
+    "sha256": "0837f0e71c6ca0228db44049846055c3d904e1d9f6b5931470d4737de9578c6c",
+    "bytes": 1149013,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "kf8ngMvY8RV16JdNVi7C",
+    "text_sha256": "0fac8ed3dc3a748e7ae5ac80e0346e48d4c00ba8b42ba0b15995c85f89492acd",
+    "characters": 1066,
+    "stem_id": "EP13_DE_TAKE_01"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_DE_TAKE_02.mp3",
+    "sha256": "47a1bd824ebe34eb3d48a0fddd9b27f5a2adffbe95a887041074a93ee5f723dc",
+    "bytes": 1254757,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "4DxmvRVZgR6sLN2SvCay",
+    "text_sha256": "38a68ce370ca1e7491cf3771d806a0e90824446893e90383f6a51cb098c5fdab",
+    "characters": 1111,
+    "stem_id": "EP13_DE_TAKE_02"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_DE_TAKE_03.mp3",
+    "sha256": "3034d89b750a59b9990639397cd9775622eca82455fc267305925cf214478828",
+    "bytes": 1189973,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "Fi5XP52qhcL8gImtD07b",
+    "text_sha256": "e9f6af6b48eafc8f72d2a530874c2485a60ea1c2b6fc798104bc5c658fc13aab",
+    "characters": 1092,
+    "stem_id": "EP13_DE_TAKE_03"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_DE_TAKE_04.mp3",
+    "sha256": "4a17b6e725e19870a117d2305fe9718666dc95c76a4158f6764486d6eeb1063b",
+    "bytes": 1125190,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "ulTeSs0eEaSLETR465Vz",
+    "text_sha256": "bc7063fa6dac3d1f4466b34653af233556c61618c7f4bd4d4c4ed953f9ec4e6e",
+    "characters": 1091,
+    "stem_id": "EP13_DE_TAKE_04"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_DE_TAKE_05.mp3",
+    "sha256": "6efc6bb817b94c1db4696ac486705071a45f2861847cdd76bb948e6bb5a68e58",
+    "bytes": 1156537,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "4OE1So4horUs5YmNW3vp",
+    "text_sha256": "1ee242ef661d493b2a815358c58731b2e54fbcd540f4296e34ff9d06add05eca",
+    "characters": 1052,
+    "stem_id": "EP13_DE_TAKE_05"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_DE_TAKE_06.mp3",
+    "sha256": "0e4b77d1b30803eb0e079522ea18a2e00abce4c36c42fd7fb6312c0fc7448ded",
+    "bytes": 1236785,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "uyZvvdYlH581YXOhN80g",
+    "text_sha256": "08846a7ca306455f54104b01b34372eeb634f21032ac6942d50aa58fabf390b9",
+    "characters": 1116,
+    "stem_id": "EP13_DE_TAKE_06"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_DE_TAKE_07.mp3",
+    "sha256": "d8d0a40b1198efae6045b82de4c2983cfc686a9f845975ec6ebca71dd6ef25ac",
+    "bytes": 1224246,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "tAfiLUmVC1sokLDKRaLn",
+    "text_sha256": "348351275d2fc3ec431822f42cc753bfd68fb023a0657eca22f0cb168d5592da",
+    "characters": 1116,
+    "stem_id": "EP13_DE_TAKE_07"
+  },
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01\\02_VOICE\\MASTER\\raw_stems\\EP13_DE_TAKE_08.mp3",
+    "sha256": "49dec43edaee2c2c4d3357fe778f0b96d677a9ed606ddd3fb76c50c556fb8be4",
+    "bytes": 515387,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "zocGJzTzMvNSs6QhJvwH",
+    "text_sha256": "9273273af5b637deb5853ec850052f15b71810e7418b7e17ddc46478a6e67832",
+    "characters": 471,
+    "stem_id": "EP13_DE_TAKE_08"
+  }
+]

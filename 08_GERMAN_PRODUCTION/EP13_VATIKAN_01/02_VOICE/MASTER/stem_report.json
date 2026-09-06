@@ -1,0 +1,84 @@
+{
+  "profile": "EP05_A",
+  "voice": "George",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.61,
+    "similarity_boost": 0.82,
+    "style": 0.06,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "duration": 555.061,
+  "loudness": {
+    "input_i": "-18.41",
+    "input_tp": "-1.99",
+    "input_lra": "2.40",
+    "input_thresh": "-28.86",
+    "output_i": "-18.07",
+    "output_tp": "-2.00",
+    "output_lra": "2.40",
+    "output_thresh": "-28.52",
+    "normalization_type": "dynamic",
+    "target_offset": "0.07"
+  },
+  "sha256": "541275bccb3f8949bcb41b9b96a5cb73f286d1996d7a378ff5f45fc639be104c",
+  "stems": [
+    {
+      "id": "EP13_DE_TAKE_01",
+      "start": 0.0,
+      "end": 71.75,
+      "duration": 71.75,
+      "sha256": "a31e159a3260fa1457444eaeb190ec3d9153e8909d312e4f6170c82addb73046"
+    },
+    {
+      "id": "EP13_DE_TAKE_02",
+      "start": 72.09,
+      "end": 150.434,
+      "duration": 78.344,
+      "sha256": "e9094b5eb2e57a28aaab71197f4ac009abf8c6f9043d12e0f82ce1cf765b8119"
+    },
+    {
+      "id": "EP13_DE_TAKE_03",
+      "start": 150.774,
+      "end": 225.078,
+      "duration": 74.304,
+      "sha256": "d27e477fc601ab5f53e7475bf9a05ade450d0938032362c1157e8ea94c9ae6e1"
+    },
+    {
+      "id": "EP13_DE_TAKE_04",
+      "start": 225.418,
+      "end": 295.681,
+      "duration": 70.264,
+      "sha256": "beb3a677330f6def2eeff14281d30d6568e0b1c65f883a1c60b62f74ca9f51ff"
+    },
+    {
+      "id": "EP13_DE_TAKE_05",
+      "start": 296.021,
+      "end": 368.235,
+      "duration": 72.214,
+      "sha256": "c1fac2edcc18a4ffeae605e081e250fc4a9bb499d80c4a3c2f8d4ba7bb0dba6b"
+    },
+    {
+      "id": "EP13_DE_TAKE_06",
+      "start": 368.575,
+      "end": 445.805,
+      "duration": 77.23,
+      "sha256": "1efdd0beb854333847628613680920d3af0e3f83afe50e641171eee03d2f092e"
+    },
+    {
+      "id": "EP13_DE_TAKE_07",
+      "start": 446.145,
+      "end": 522.585,
+      "duration": 76.44,
+      "sha256": "eeef80b8e1dea6d477db4963d2812bdb9488053c67be4533c51635329f94cf28"
+    },
+    {
+      "id": "EP13_DE_TAKE_08",
+      "start": 522.925,
+      "end": 555.061,
+      "duration": 32.136,
+      "sha256": "40c0172f9510ea1c1f7289c008eaf6ed19a6652de5e36830b49d779befe5a3fe"
+    }
+  ]
+}
