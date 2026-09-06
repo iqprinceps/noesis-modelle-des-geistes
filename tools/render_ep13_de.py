@@ -81,6 +81,8 @@ LOCKED_STATES = {
     "H39_CALENDAR_PAGES",   # printed pages, a document
     "EP13-X07",             # archival portrait-format photograph
     "H50_THREE_READERS_TABLE",  # three sheets of dense hand, a document to read
+    "H54_SEAL_SINGLE_MACRO",    # engraved seal; the German hold is longer, so the
+                                # move gets slower still and the engraving shimmers
 }
 
 # Below about a third of a second the eye reads a cut, not a camera.

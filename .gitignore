@@ -158,3 +158,41 @@ KONTAKTBOGEN*.png
 
 # Nosesis_Channel (extern)
 Nosesis_Channel/
+
+# 08_GERMAN_PRODUCTION: same rule as the English tree. Scripts, prompts,
+# metadata, cue sheets and QA are tracked; rendered media is not. This was
+# missed when the German tree was created, and about 150 MB of narration WAVs
+# reached the repository before the delivery master was refused for size.
+08_GERMAN_PRODUCTION/**/*.mp4
+08_GERMAN_PRODUCTION/**/*.mov
+08_GERMAN_PRODUCTION/**/*.m4v
+08_GERMAN_PRODUCTION/**/*.mkv
+08_GERMAN_PRODUCTION/**/*.avi
+08_GERMAN_PRODUCTION/**/*.webm
+08_GERMAN_PRODUCTION/**/*.wav
+08_GERMAN_PRODUCTION/**/*.aac
+08_GERMAN_PRODUCTION/**/*.mp3
+08_GERMAN_PRODUCTION/**/*.m4a
+08_GERMAN_PRODUCTION/**/*.flac
+08_GERMAN_PRODUCTION/**/*.ogg
+08_GERMAN_PRODUCTION/**/*.opus
+08_GERMAN_PRODUCTION/**/*.png
+08_GERMAN_PRODUCTION/**/*.jpg
+08_GERMAN_PRODUCTION/**/*.jpeg
+08_GERMAN_PRODUCTION/**/*.webp
+08_GERMAN_PRODUCTION/**/*.gif
+08_GERMAN_PRODUCTION/**/*.tif
+08_GERMAN_PRODUCTION/**/*.tiff
+08_GERMAN_PRODUCTION/**/*.svg
+08_GERMAN_PRODUCTION/**/*.djvu
+08_GERMAN_PRODUCTION/**/*.pdf
+08_GERMAN_PRODUCTION/**/*.zip
+08_GERMAN_PRODUCTION/**/*.7z
+08_GERMAN_PRODUCTION/**/*.rar
+08_GERMAN_PRODUCTION/**/*.geojson
+08_GERMAN_PRODUCTION/**/*.pyc
+08_GERMAN_PRODUCTION/**/.render_signature
+08_GERMAN_PRODUCTION/**/.ok
+08_GERMAN_PRODUCTION/**/.gitkeep
+08_GERMAN_PRODUCTION/**/segment_cache.json
+08_GERMAN_PRODUCTION/**/*concat*.txt

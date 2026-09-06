@@ -1,0 +1,127 @@
+[
+ {
+  "at": 14.76,
+  "state": "H01_ENVELOPE_SEALED",
+  "sfx": "paper"
+ },
+ {
+  "at": 19.46,
+  "state": "CLIP09_PUTTING_IT_AWAY",
+  "sfx": "lid"
+ },
+ {
+  "at": 50.62,
+  "state": "H18_LOCKED_DOOR",
+  "sfx": "metaldoor"
+ },
+ {
+  "at": 68.74,
+  "state": "CLIP03_WRITING",
+  "sfx": "pencil"
+ },
+ {
+  "at": 98.24,
+  "state": "H06_FOLDING_SHEET",
+  "sfx": "paper"
+ },
+ {
+  "at": 104.02,
+  "state": "CLIP04_SEALING",
+  "sfx": "wax"
+ },
+ {
+  "at": 111.76,
+  "state": "H36_KEY_RING",
+  "sfx": "keys"
+ },
+ {
+  "at": 127.74,
+  "state": "H35_SAFE_DOOR",
+  "sfx": "metaldoor"
+ },
+ {
+  "at": 136.78,
+  "state": "H16_NEWSPAPER_STACK",
+  "sfx": "paper"
+ },
+ {
+  "at": 183.4,
+  "state": "P03_CROWD_FACES_1981",
+  "sfx": "crowd"
+ },
+ {
+  "at": 187.58,
+  "state": "P15_OPEN_CAR_IN_CROWD",
+  "sfx": "crowd"
+ },
+ {
+  "at": 192.54,
+  "state": "P04_CROWD_ALARM_FACES",
+  "sfx": "crowdturn"
+ },
+ {
+  "at": 196.14,
+  "state": "P13_DOCTORS_CORRIDOR",
+  "sfx": "roomclinic"
+ },
+ {
+  "at": 198.4,
+  "state": "H22_SURGICAL_LIGHT",
+  "sfx": "roomclinic"
+ },
+ {
+  "at": 263.12,
+  "state": "H27_ARCHIVE_LEDGER",
+  "sfx": "paper"
+ },
+ {
+  "at": 326.84,
+  "state": "P07_PILGRIMS_CANDLES",
+  "sfx": "flame"
+ },
+ {
+  "at": 394.78,
+  "state": "H39_CALENDAR_PAGES",
+  "sfx": "paper"
+ },
+ {
+  "at": 431.66,
+  "state": "CLIP08_SETTING_THE_METAL",
+  "sfx": "setmetal"
+ },
+ {
+  "at": 500.0,
+  "state": "H53_WIDE_PARCHMENT_EDGE",
+  "sfx": "metalclink"
+ },
+ {
+  "at": 505.24,
+  "state": "H32_SEALS_ON_CORD",
+  "sfx": "metalclink"
+ },
+ {
+  "at": 511.14,
+  "state": "H54_SEAL_SINGLE_MACRO",
+  "sfx": "metalclink"
+ },
+ {
+  "at": 523.0,
+  "state": "H57_SCALE_PAN_EMPTY",
+  "sfx": "weights"
+ },
+ {
+  "at": 526.34,
+  "state": "H33_CRATES_MOUNTAIN_ROAD",
+  "sfx": "cart"
+ },
+ {
+  "at": 531.88,
+  "state": "H55_CART_WHEEL_MUD",
+  "sfx": "cart"
+ },
+ {
+  "at": 536.75,
+  "state": "H34_WASTE_PAPER_WEIGHED",
+  "sfx": "weights"
+ }
+]

@@ -387,10 +387,22 @@ def main():
 
         # Limiting costs loudness, so the gain is corrected over a couple of passes
         # and the true peak is checked each time rather than assumed.
+        # Same loop as the English cut, with more passes. German takes 555 s for
+        # the same content, so it starts further from the target and four passes
+        # stopped short of it. Ten reach it. An earlier attempt to keep the "best"
+        # intermediate result made this worse, because the first pass that merely
+        # satisfied the true-peak limit was kept and the loop stopped climbing.
         gain = -14.0 - float(measure(MIXWAV)["input_i"])
-        for _ in range(4):
+        for _ in range(10):
+            # alimiter works on samples and cannot see inter-sample peaks, so on
+            # this mix it reported -0.9 dBTP while still claiming to be limiting.
+            # Running it at 192 kHz and coming back down catches them, which buys
+            # enough headroom to reach the target loudness instead of stalling a
+            # decibel short of it.
             chain = (f"volume={gain:.2f}dB,"
-                     f"alimiter=limit=0.79:attack=4:release=70:level=disabled")
+                     f"aresample=192000:resampler=soxr:precision=28,"
+                     f"alimiter=limit=0.80:attack=4:release=70:level=disabled,"
+                     f"aresample=48000:resampler=soxr:precision=28")
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(MIXWAV),
                             "-af", chain, "-ar", "48000", "-ac", "1",
                             "-c:a", "pcm_s24le", str(tmp)], check=True)
