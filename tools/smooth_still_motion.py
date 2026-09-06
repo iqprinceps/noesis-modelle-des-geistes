@@ -11,7 +11,7 @@ temporal averaging before returning to the episode frame rate.
 from __future__ import annotations
 
 
-ENGINE_VERSION = 1
+ENGINE_VERSION = 2
 SUPERSAMPLE_WIDTH = 7680
 SUPERSAMPLE_HEIGHT = 4320
 TEMPORAL_SUBFRAMES = 4
@@ -27,6 +27,7 @@ def eased_zoompan_filter(
     y_bias: float = 0.5,
     zoom_amount: float = 0.025,
     background: str = "black",
+    supersample: tuple[int, int] | None = None,
 ) -> str:
     """Return a smooth, duration-exact FFmpeg filter for one still image."""
 
@@ -39,6 +40,11 @@ def eased_zoompan_filter(
     y_bias = min(0.9, max(0.1, float(y_bias)))
     zoom_amount = min(0.08, max(0.002, float(zoom_amount)))
 
+    # The supersample has to share the delivery aspect, or zoompan crops a 16:9
+    # window and squeezes it into a vertical output. Callers delivering 9:16 pass
+    # their own; everything already using this engine keeps the 7680x4320 default.
+    ss_w, ss_h = supersample or (SUPERSAMPLE_WIDTH, SUPERSAMPLE_HEIGHT)
+
     output_frames = max(2, round(duration * fps))
     sub_fps = fps * TEMPORAL_SUBFRAMES
     sub_frames = max(2, output_frames * TEMPORAL_SUBFRAMES)
@@ -46,9 +52,9 @@ def eased_zoompan_filter(
     weights = " ".join("1" for _ in range(TEMPORAL_SUBFRAMES))
 
     return (
-        f"scale={SUPERSAMPLE_WIDTH}:{SUPERSAMPLE_HEIGHT}:"
+        f"scale={ss_w}:{ss_h}:"
         "force_original_aspect_ratio=decrease:flags=lanczos,"
-        f"pad={SUPERSAMPLE_WIDTH}:{SUPERSAMPLE_HEIGHT}:"
+        f"pad={ss_w}:{ss_h}:"
         f"(ow-iw)/2:(oh-ih)/2:color={background},"
         "loop=loop=-1:size=1:start=0,"
         f"fps={sub_fps},"

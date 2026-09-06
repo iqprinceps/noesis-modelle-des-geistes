@@ -1,0 +1,23 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01_SHORTS\\S01_BULLET_IN_CROWN\\02_VOICE\\raw\\EP13_S01_EN_TAKE_01.mp3",
+    "sha256": "2f39421198522859bee343c2ab43d473e7f3795e0d00b7f1eb2392ff5fdf90d5",
+    "bytes": 781209,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "Yw0Td3ohkLEfaajO09qR",
+    "text_sha256": "e8646c2a14553c3baa3bc53de0dcf5f0787ce1e90140a52f84c47969e59736aa",
+    "characters": 770,
+    "stem_id": "EP13_S01_EN_TAKE_01"
+  }
+]

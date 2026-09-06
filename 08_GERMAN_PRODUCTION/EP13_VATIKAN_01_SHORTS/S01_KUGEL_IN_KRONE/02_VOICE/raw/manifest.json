@@ -1,0 +1,23 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\08_GERMAN_PRODUCTION\\EP13_VATIKAN_01_SHORTS\\S01_KUGEL_IN_KRONE\\02_VOICE\\raw\\EP13_S01_DE_TAKE_01.mp3",
+    "sha256": "3e55058942ec8e78f5b3067f66bb3ea5410820d85b71a4ef332fe3fb41d31d29",
+    "bytes": 895730,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "czvAFs8mxmiSwOg6KUY1",
+    "text_sha256": "85d4cc8b122be3b23030cb8e9f5482eb240971517599973296fa9ab74eabbe0f",
+    "characters": 834,
+    "stem_id": "EP13_S01_DE_TAKE_01"
+  }
+]

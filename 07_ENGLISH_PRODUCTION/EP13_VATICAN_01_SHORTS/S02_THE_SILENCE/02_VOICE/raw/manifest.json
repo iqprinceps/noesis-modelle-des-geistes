@@ -1,0 +1,23 @@
+[
+  {
+    "file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01_SHORTS\\S02_THE_SILENCE\\02_VOICE\\raw\\EP13_S02_EN_TAKE_01.mp3",
+    "sha256": "b14a2acff2c8b5c6525ed51bfc698c424336e60222a978e24e348cae86f6c074",
+    "bytes": 773686,
+    "voice_name": "George - Warm, Captivating Storyteller",
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "model_id": "eleven_multilingual_v2",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.61,
+      "similarity_boost": 0.82,
+      "style": 0.06,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    },
+    "seed": 260827,
+    "request_id": "LLxjz7yiyIdcbyKqqf5Z",
+    "text_sha256": "f69f97fae98280a8ebebf818a5b670dff244a6e1ced9a9a8703f9c78f4ce81e6",
+    "characters": 733,
+    "stem_id": "EP13_S02_EN_TAKE_01"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "episode": "EP13_S02_EN",
+  "voice": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.61,
+    "similarity_boost": 0.82,
+    "style": 0.06,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "seed": 260827,
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01_SHORTS\\S02_THE_SILENCE\\02_VOICE\\raw",
+  "stems": [
+    {
+      "id": "EP13_S02_EN_TAKE_01",
+      "text_file": "C:\\Users\\iQPrinceps\\Documents\\Codex\\Youtube Modelle des Geistes\\07_ENGLISH_PRODUCTION\\EP13_VATICAN_01_SHORTS\\S02_THE_SILENCE\\02_VOICE\\EP13_S02_EN_TAKE_01.txt"
+    }
+  ]
+}

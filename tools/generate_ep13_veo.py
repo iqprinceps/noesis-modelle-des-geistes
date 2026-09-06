@@ -23,6 +23,9 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SRC = ROOT / "tmp" / "imagegen" / "ep13_vertex_raw"
 OUT = ROOT / "tmp" / "video" / "ep13_veo"
 MODEL = "veo-3.1-generate-001"
+# Delivery aspect. The episode is 16:9; the teaser shorts set this to "9:16"
+# before calling main(), so vertical clips are generated rather than cropped.
+ASPECT = "16:9"
 LOCATION = "global"
 
 NEGATIVE = (
@@ -139,7 +142,7 @@ def main() -> None:
             "instances": [{"prompt": job["prompt"],
                            "image": {"bytesBase64Encoded": base64.b64encode(start.read_bytes()).decode("ascii"),
                                      "mimeType": "image/png"}}],
-            "parameters": {"aspectRatio": "16:9", "durationSeconds": 6, "enhancePrompt": True,
+            "parameters": {"aspectRatio": ASPECT, "durationSeconds": 6, "enhancePrompt": True,
                            "generateAudio": False, "negativePrompt": NEGATIVE,
                            "personGeneration": job["person"], "resolution": "1080p",
                            "sampleCount": 1},
